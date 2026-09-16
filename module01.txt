@@ -1,0 +1,2437 @@
+Module 01 
+Question Number. 1. A car travels 24 miles in 45 minutes. What is its average speed?  
+Option A. 32 mph.  
+Option B. 36 mph.  
+Option C. 18 mph.  
+Correct Answer is. 32 mph.  
+Explanation. 45 minutes = 3/4 hour. Speed = distance / time = 24/3/4 = 24 * 4/3 = 32.  
+Question Number. 2. Evaluate. Yes  
+Option A. 4 ½.  
+Option B. 3 ½.  
+Option C. 4.  
+Correct Answer is. 3 ½.  
+Explanation.  
+Question Number. 3. 15.4/2 - 2*(6.2 - 15.6).  
+Option A. 11.1.  
+Option B. 26.5.  
+Option C. -11.1.  
+Correct Answer is. 26.5.  
+Explanation. 7.7-2(-9.4)7.7-(-18.8)7.7 + 18.8= 26.5.  
+Question Number. 4. A cuboid has dimensions of 4 cm, 6 cm and 12 cm. What is its volume?.  
+Option A. 0.028 m3 .  
+Option B. 2.88 m3 .  
+Option C. 0.000288 m3 .  
+Correct Answer is. 2.88 m3 .  
+Explanation. 4 * 6 * 12 = 288, then convert the cm to metres (divide 288 by 100, 3 times).  
+Question Number. 5. What is a scalene triange?.  
+Option A. 2 sides unequal.  
+Option B. All 3 sides unequal.  
+Option C. 2 sides equal.  
+Correct Answer is. All 3 sides unequal.  
+Explanation.  
+Question Number. 6. Work out the following sum: 4 {2 (5-1) -3} + 8.  
+Option A. 28  
+Option B. 37.  
+Option C. 54.  
+Correct Answer is. 28  
+Explanation. Start at the inner brackets first, and then work outwards.  
+Question Number. 7. A rectangle is 11cm x 120cm. What is its area in m2 ?.  
+Option A. 0.132.  
+Option B. 1320.  
+Option C. 13.2.  
+Correct Answer is. 0.132.  
+Explanation. 100cm in 1m, so divide 1320 by 100 twice (since it is area).  
+Question Number. 8. The surface area of a cone whose height is 10 cm and diameter is 8 cm is.  
+Option A. 40π cm2 .  
+Option B. 120π cm2 .  
+Option C. 80π cm2.  
+Correct Answer is. 40π cm2 .  
+Explanation. Surface area of a cone = π * r * l = π x 8/2 * 10 = 40π.  
+Question Number. 9. 4 3/8 – 2 1/4 + 1/8 =.  
+Option A. 2.25  
+Option B. 2.5.  
+Option C. 2 1/8  
+Correct Answer is. 2 1/4  
+Explanation. Work out the whole numbers separate to the fractions.Remember that 1/4 is 2/8.  
+Question Number. 10. 11/16 + 5/8 =.  
+Option A. 55/128.  
+Option B. 21/16.  
+Option C. 10/11.  
+Correct Answer is. 21/16.  
+Explanation. 5/8 = 10/16. 11/16 + 10/16 = 21/16.  
+Question Number. 11. 3/4 multiplied by 0.82 is equal to.  
+Option A. 1.23.  
+Option B. 0.615.  
+Option C. 2.46.  
+Correct Answer is. 0.615.  
+Explanation. 3/4 = 0.75. Approximate, 0.8 * 0.75 must be less than 0.75.  
+Question Number. 12. 7/6 can be expressed as.  
+Option A. 1.166.  
+Option B. 2.6.  
+Option C. 1.6.  
+Correct Answer is. 1.166.  
+Explanation. 6/6 would be 1. So 7/6 is just slightly bigger than 1.  
+Question Number. 13. The ratio of 6:5 can be expressed as.  
+Option A. 24:20.  
+Option B. 20:25.  
+Option C. 10:16.  
+Correct Answer is. 24:20.  
+Explanation. 6:5, multiply each by 4.  
+Question Number. 14. 143 can be expressed as.  
+Option A. 14 * 14 * 14.  
+Option B. 14 x3 .  
+Option C. 14 + 14 + 14.  
+Correct Answer is. 14 * 14 * 14.  
+Explanation. Power' means the number 'times' itself.  
+Question Number. 15. 0.0000413 can be written as.  
+Option A. 0.413 x 10-7. 
+Option B. 413 x 10-7. 
+Option C. 4.13 x 10-7. 
+Correct Answer is. 413 x 10-7. 
+Explanation. 10-7 means move the decimal place 7 places to the left. Try it on each answer and see 
+what comes out.  
+Question Number. 16. 5/8 + 3/4 =.  
+Option A. 11/4.  
+Option B. 8/8.  
+Option C. 11/8.  
+Correct Answer is. 11/8.  
+Explanation. 5/8 + 3/4 = 5/8 + 6/8 (LCD = 8) = 11/8.  
+Question Number. 17. The Lowest Common Denominator for the problem below is 1/6 + 1/5 + 
+1/17 + 1/2.  
+Option A. 510.  
+Option B. 1020.  
+Option C. 17.  
+Correct Answer is. 510.  
+Explanation. The LCD is the lowest of the answers which all the denominators can be divided 
+into.  
+Question Number. 18. The formula for calculating the area of a right angled triangle is.  
+Option A. ½ height + base.  
+Option B. ½ (base * height).  
+Option C. ½ base / height.  
+Correct Answer is. ½ (base * height).  
+Explanation. Area of 'any' triangle is 1/2 base x height. Can also be written 1/2 (base * height).  
+Question Number. 19. The area of a circle whose circumference is given as 12cm is 
+approximately.  
+Option A. 3.8 sq.cm.  
+Option B. 11.3 sq.cm.  
+Option C. 38 sq cm.  
+Correct Answer is. 11.3 sq.cm.  
+Explanation. Area = Circumference squared / 4π = 144 / (4 * 3.14) =.  
+Question Number. 20. Area of a right circular cone of base radius r, and height l, is.  
+Option A. 2/3 (π * r * l).  
+Option B. (π * r * l) + 2π * r * r.  
+Option C. π * r * l.  
+Correct Answer is. π * r * l.  
+Explanation. Area of a cone is π * r * l.  
+Question Number. 21. Determine (+ 3)-(-4).  
+Option A. -1.  
+Option B. -7.  
+Option C. +7.  
+Correct Answer is. +7.  
+Explanation. A minus number, when subtracted, becomes a plus (a minus and a minus makes a 
+plus).  
+Question Number. 22. To convert imperial gallons to litres, multiply by.  
+Option A. 4.5.  
+Option B. 5.4.  
+Option C. 4.7.  
+Correct Answer is. 4.5.  
+Explanation. There are 4.54 litres in 1 British (Imperial) gallon.  
+Question Number. 23. Express 9/20 as a percentage.  
+Option A. 45%.  
+Option B. 40%.  
+Option C. 47%.  
+Correct Answer is. 45%.  
+Explanation. Multiply the top and bottom to make the denominator into 100 (*5 in this case). 
+Then the numerator is the percentage.  
+Question Number. 24. To find the area of a circle, multiply.  
+Option A. twice the radius by π.  
+Option B. the square of the circumference by the radius.  
+Option C. the square of the radius by π.  
+Correct Answer is. the square of the radius by π.  
+Explanation. Area = π x radius2. 
+Question Number. 25. How many centimetres is in an inch?.  
+Option A. 25.4.  
+Option B. 2.54.  
+Option C. 0.254.  
+Correct Answer is. 2.54.  
+Explanation. 1 inch = 2.54 cm.  
+Question Number. 26. Find the lowest common multiple of 6; 7; 8.  
+Option A. 84.  
+Option B. 336.  
+Option C. 168.  
+Correct Answer is. 168.  
+Explanation. The LCM is the lowest number that all 3 can be divided into.  
+Question Number. 27. What torque loading would you apply to a nut if the force is 50 lbs, exerted 
+2 feet from its axis?.  
+Option A. 600 lbs.ft.  
+Option B. 100 lbs.ft.  
+Option C. 251 lbs.ft.  
+Correct Answer is. 100 lbs.ft.  
+Explanation. Torque = force x distance.  
+Question Number. 28. The formula for calculating the torque loading on a nut or bolt is.  
+Option A. Force used x lever length of the spanner.  
+Option B. Lever length of the spanner / Threads per inch.  
+Option C. Force used x diameter of the bolt.  
+Correct Answer is. Force used x lever length of the spanner.  
+Explanation. Torque = force x distance.  
+Question Number. 29. How is the area of a circle calculated? (r=radius, d=diameter).  
+Option A. 2 x 3.142 x r.  
+Option B. d2 x 3.142.  
+Option C. r2 x 3.142.  
+Correct Answer is. r2 x 3.142.  
+Explanation. Area = πr2 .  
+Question Number. 30. Determine the following : 9/4 + 5/12 + 5 1/8.  
+Option A. 2 25/24.  
+Option B. 4 1/12.  
+Option C. 7 19/24.  
+Correct Answer is. 4 1/24.  
+Explanation. 54/24 + 10/24 + 5 3/24 = 7 19/24  
+Question Number. 31. The specific torque loading for a bolt is 50 lbs.ins but an extension of 2 is 
+needed to reach the bolt in addition to the 8 torque wrench. What will the actual reading?.  
+Option A. 60 lb.ins.  
+Option B. 54 lb.ins.  
+Option C. 40 lb.ins.  
+Correct Answer is. 40 lb.ins.  
+Explanation. New torque reading = desired torque x L/(x + L). 50 x 8/10 = 40 lb.ins.  
+Question Number. 32. Express the fraction 7/8 as a decimal.  
+Option A. 0.785.  
+Option B. 0.878.  
+Option C. 0.875.  
+Correct Answer is. 0.875.  
+Explanation. Use long division.  
+Question Number. 33. Determine 0.75 x 0.003.  
+Option A. 0.225.  
+Option B. 0.00225.  
+Option C. 0.0225.  
+Correct Answer is. 0.00225.  
+Explanation. Easiest way is to multiply by 0.001 (0.75 x 0.001 = 0.00075) then multiply by 3. (75 x 
+3 = 225, so 0.00075 x 3 = 0.00225).  
+Question Number. 34. Convert 162 knots to MPH.  
+Option A. 186 mph.  
+Option B. 176 mph.  
+Option C. 196 mph.  
+Correct Answer is. 186 mph.  
+Explanation. 1 knots = 1.15 mph, 162 x 1.15 = 186 mph.  
+Question Number. 35. To convert inches to millimetres, it is necessary to.  
+Option A. divide by 25.4.  
+Option B. multiply by 25.4.  
+Option C. multiply by 2.54.  
+Correct Answer is. multiply by 25.4.  
+Explanation. There are 25.4 mm in 1 inch.  
+Question Number. 36. 3/4 x 82 =.  
+Option A. 123.  
+Option B. 61.5.  
+Option C. 81.5.  
+Correct Answer is. 61.5.  
+Explanation. Estimate 3/4 of 82.  
+Question Number. 37. A circular patch is held together by seven equally spaced rivets. What is 
+their angular spacing?.  
+Option A. 51.50°.  
+Option B. 52°.  
+Option C. 51.43°.  
+Correct Answer is. 51.43°.  
+Explanation. 360/7 = 51.43 degrees.  
+Question Number. 38. Add together; 3/4, 5/16, 7/8 and 0.375.  
+Option A. 2 5/16.  
+Option B. 2 1/8.  
+Option C. 2 1/4.  
+Correct Answer is. 2 5/16.  
+Explanation. 0.375 = 3/8. 3/4 + 5/16 + 7/8 + 3/8 (LCD = 16) 12/16 + 5/16 + 14/16 + 6/16 = 37/16 = 2 
+5/16.  
+Question Number. 39. To convert pounds of fuel into kilograms, it is necessary to.  
+Option A. divide by 0.4536.  
+Option B. multiply by 4536.  
+Option C. multiply by 0.4536.  
+Correct Answer is. multiply by 0.4536.  
+Explanation. 2.2 lb = 1 kg. 1lb = 0.4536 kg.  
+Question Number. 40. If resin to hardener is used in the ratio of 1000:45, how much hardener is 
+used with 60 grams of resin?.  
+Option A. 145 grams.  
+Option B. 47 grams.  
+Option C. 2.7 grams.  
+Correct Answer is. 2.7 grams.  
+Explanation. Ratio of hardener to resin is 45:1000, or 0.45:10. For 60 gms of resin, use 0.45 * 6 
+hardener = 2.7 gms.  
+Question Number. 41. Determine the following 11/16 + 5/8.  
+Option A. 11/10.  
+Option B. 1 55/128.  
+Option C. 1 5/16.  
+Correct Answer is. 1 5/16.  
+Explanation. 11/16 + 5/8 (LCD = 16) 11/16 + 10/16 = 21/16 = 1 5/16.  
+Question Number. 42. 6 mm is equal to.  
+Option A. 0.625 inches.  
+Option B. 0.236 inches.  
+Option C. 0.375 inches.  
+Correct Answer is. 0.236 inches.  
+Explanation. 6mm = 0.6cm. So, 0.6/2.54 = 0.236 
+Question Number. 43. Weight is equal to.  
+Option A. volume x gravity.  
+Option B. mass x acceleration.  
+Option C. mass x gravity.  
+Correct Answer is. mass x gravity.  
+Explanation. Weight = mass x gravity.  
+Question Number. 44. 8 + 4[5 x 2 (5-9/3)] =.  
+Option A. 88.  
+Option B. 12.  
+Option C. 48.  
+Correct Answer is. 88.  
+Explanation. Work from the inner brackets - outwards.  
+Question Number. 45. To convert gallons to litres.  
+Option A. multiply by 4.55.  
+Option B. multiply by 0.00455.  
+Option C. multiply by 0.568.  
+Correct Answer is. multiply by 4.55.  
+Explanation. 1 gallon = 4.55 litres.  
+Question Number. 46. A cylinder has a diameter of 20 cm and a length of 20 cm, what is its 
+volume?.  
+Option A. 1240 cm3 .  
+Option B. 6200 cm3 
+Option C. 400 cm3 .  
+Correct Answer is. 6200 cm3 .  
+Explanation. Volume of a cylinder = π x r2 x length of cylinder = π x 100 x 20 = 3.1 x 100 x 20 = 
+6200.  
+Question Number. 47. 31/8 – 11/5 =.  
+Option A. 23/40.  
+Option B. 13/40.  
+Option C. 67/40.  
+Correct Answer is. 67/40.  
+Explanation. 155/40 - 88/40 = 67/40 
+Question Number. 48. What is the formula for calculating the curved area of a cone?.  
+Option A. π x radius2 x height.  
+Option B. π x radius x height.  
+Option C. 2/3 x π x radius x height.  
+Correct Answer is. π x radius x height.  
+Explanation. π x radius x height.  
+Question Number. 49. Determine 10 ( 23) + 10 ( 25).  
+Option A. 520.  
+Option B. 320  
+Option C. 480.  
+Correct Answer is. 480.  
+Explanation. Work out the contents of the brackets in this:- (10 x 23) + (10 x 25).  
+Question Number. 50. One radian is equal to.  
+Option A. 90°.  
+Option B. 75°.  
+Option C. 57.5°.  
+Correct Answer is. 57.5°.  
+Explanation. There are 2π radians in one complete circle (360°). So one radian is 360/6.28 = 
+57.5°.  
+Question Number. 51. The surface area of a cylinder of diameter 10 cm and height 10 cm, is.  
+Option A. 80π.  
+Option B. 50π.  
+Option C. 100π.  
+Correct Answer is. 100π.  
+Explanation. Area = circumference x height = π x d x h = 10 x 10 x π.  
+Question Number. 52. A parallelogram has a base 120cm and height 11 cm. What is the area?.  
+Option A. 0.0132 m2 .  
+Option B. 1.32 m2 .  
+Option C. 1.32 m2 .  
+Correct Answer is. 0.132 m2.  
+Explanation. Area of a parallelogram = base x height = 1.2 m * 0.11 m = 0.1322.  
+Question Number. 53. The area of this shape is calculated by.  
+Option A. Perimeter squared.  
+Option B. ½ Base * Height.  
+Option C. Base * Height.  
+Correct Answer is. Base * Height.  
+Explanation. It does not matter which way around the base and the height go when they are 
+multiplied together.  
+Question Number. 54. The area of the shape is calculated by. 
+Option A. ½ height * base.  
+Option B. ½ base * ½ height.  
+Option C. ½ base * ½ height.  
+Correct Answer is. ½ height * base.  
+Explanation. Nil  
+Question Number. 55. The area of the curved surface area of a cone is (where r = radius; h = 
+vertical height and l = slant height).  
+Option A. πrh.  
+Option B. πr2 h.  
+Option C. 1/3πr2 h.  
+Correct Answer is. πrh.  
+Explanation.  
+Question Number. 56. What is the volume of a cuboid?.  
+Option A. height * length * width.  
+Option B. height * ½ base * height.  
+Option C. height * ½ base * length.  
+Correct Answer is. height * length * width.  
+Explanation.  
+Question Number. 57. (4-6)-(9/-3) + (-3) =.  
+Option A. -2.  
+Option B. 4.5.  
+Option C. 4.  
+Correct Answer is. -2.  
+Explanation. 4-6-(-3)-3 4-6 + 3-3 = -2.  
+Question Number. 58. An aircraft travels 2150 nautical miles in 2 hours 30 minutes. What is the 
+average speed of the aircraft?.  
+Option A. 550 knots.  
+Option B. 600 knots.  
+Option C. 860 knots.  
+Correct Answer is. 860 knots.  
+Explanation. Knots = nautical miles per hour. 2150 / 2.5 = 860 knots.  
+Question Number. 59. What is the surface area of a cylinder whose diameter is 20cm and height 
+of 15 cm?.  
+Option A. 300π.  
+Option B. 942π.  
+Option C. 350π.  
+Correct Answer is. 300π.  
+Explanation. Surface area = π * diameter * height = π * 20 * 15 = 300π.  
+Question Number. 60. Four percent of 0.01 is.  
+Option A. 0.0004.  
+Option B. 0.004.  
+Option C. 0.04.  
+Correct Answer is. 0.0004.  
+Explanation. 4% means 4/100. So 4/100 of 0.01 = 0.04/100 = 0.0004.  
+Question Number. 61. (6 + 2)2 * 2 (2 * 45) =.  
+Option A. 218.  
+Option B. 38.  
+Option C. 128.  
+Correct Answer is. 38.  
+Explanation. (6 + 2)2 = 64. *2 = 128. 2*45 = 90. 128-90 = 38.  
+Question Number. 62. 17 degrees 49 minutes and 10 seconds added to 22 degrees 22 minutes and 
+59 seconds, equals.  
+Option A. 40 degrees 11 minutes and 69 seconds.  
+Option B. 40 degrees 12 minutes and 9 seconds.  
+Option C. 39 degrees 11 minutes and 9 seconds.  
+Correct Answer is. 40 degrees 12 minutes and 9 seconds.  
+Explanation. Add them both together in 3 columns (degrees, minutes, seconds). When each 
+addition goes over 59, add 1 to the next column.  
+Question Number. 63. The diameter of a cylinder is 200 cm and the height is 20 cm, what is the 
+volume?.  
+Option A. 628000 cm3 .  
+Option B. 62800 cm3 .  
+Option C. 8000 cm3 .  
+Correct Answer is. 628000 cm3 .  
+Explanation. Volume = π * radius-squared (base area) * height. 3.14 * 100 * 100 * 20 = 628,000.  
+Question Number. 64. The comparison of the power input to the power output of an inverter is 
+expressed as a.  
+Option A. ratio.  
+Option B. gain.  
+Option C. loss.  
+Correct Answer is. ratio.  
+Explanation. A 'ratio' is a comparison of any two values.  
+Question Number. 65. The ratio of 6:4 can also be expressed as.  
+Option A. 64%.  
+Option B. 66%.  
+Option C. 150%.  
+Correct Answer is. 150%.  
+Explanation. 6:4 means 6/4 = 3/2 = 150%.  
+Question Number. 66. 200 kilovolts can be expressed as.  
+Option A. 2 * 103 volts.  
+Option B. 2 * 105 volts.  
+Option C. 2 * 10-4 volts.  
+Correct Answer is. 2 * 105 volts.  
+Explanation. 200 kV = 200 * 1000 = 200,000 = 2 * 10 to the power of 5 (i.e. 2 with 5 zeros).  
+Question Number. 67. What is the surface area of a cone if the base is 8cm diameter and the 
+height is 10cm?.  
+Option A. 40π.  
+Option B. 80π.  
+Option C. 120π.  
+Correct Answer is. 40π.  
+Explanation. Surface area of a cone = π * r * l = π * 8/2 * 10 = 40π.  
+Question Number. 68. What is the area of a rectangle when its height is 11cm and the width 
+120cm?.  
+Option A. 0.132 m2 .  
+Option B. 1.32 m2 .  
+Option C. 1320 m2 .  
+Correct Answer is. 0.132 m2 .  
+Explanation. Area of a rectangle = 11 * 120 cm = 1320 square cm. To convert to square metres 
+divide by 10,000 (since there are 100 cm in each of the sides i.e. 100 * 100).  
+Question Number. 69. 4 3/8 – 2 ¼ + 1/5 =.  
+Option A. 2 1/4.  
+Option B. 2 13/40.  
+Option C. 3 3/10.  
+Correct Answer is. 2 13/40.  
+Explanation. Work out the whole numbers and the fractions separately. 4-2 = 2. 3/8-1/4 + 1/5 
+= 15/40-10/40 + 8/40 (LCD = 40) = 13/40. Now recombine the wholw numbers and the fractions, 
+so 2 + 13/40 = 2 13/40.  
+Question Number. 70. 4*(4 *(4 – 1) –1) –1 =.  
+Option A. 31.  
+Option B. 15.  
+Option C. 43.  
+Correct Answer is. 43.  
+Explanation. Rule 1: Work the innermost brackets first. Rule 2: After calculating the contents of 
+a bracket, use the multiplier (or divider) before the adder or subtractor.  
+Question Number. 71. Which number is the lowest common factor of 36, 66 and 126?.  
+Option A. 23.  
+Option B. 12.  
+Option C. 6.  
+Correct Answer is. 6.  
+Explanation. The common factor is the number which can be divided into all 3 without the 
+answer being a fraction.  
+Question Number. 72. What is 3% of 0.001?.  
+Option A. 0.00003.  
+Option B. 0.003.  
+Option C. 0.3.  
+Correct Answer is. 0.00003.  
+Explanation. 3% of 0.001 means 3/100 * 0.001 = 0.003/100 = 0.00003.  
+Question Number. 73. 11/16 divided by 5/8 is.  
+Option A. 55/128.  
+Option B. 11/10.  
+Option C. 10/11.  
+Correct Answer is. 11/10.  
+Explanation. 11/16 divided by 5/8 is the same as 11/16 * 8/5 = 11/2 * 1/5 (after cross cancelling) = 
+11/10.  
+Question Number. 74. An aircraft uses 1680 gallons of fuel, the left tank uses 45%, the right tank 
+uses 32.5%, how much was used by the centre tank?.  
+Option A. 210 gallons.  
+Option B. 21 gallons.  
+Option C. 378 gallons.  
+Correct Answer is. 378 gallons.  
+Explanation. 100%-(45% + 32.5%) = 22.5%. 22.5% is just less than 1/4. Now estimate 1/4 of 1680 - do not calculate.  
+Question Number. 75. What is the fraction 1/7 in decimal?.  
+Option A. 0.14295.  
+Option B. 0.14286.  
+Option C. 1.429.  
+Correct Answer is. 0.14286.  
+Explanation. Use the long division technique.  
+Question Number. 76. The supplement of 13 degrees is.  
+Option A. 243.  
+Option B. 76.  
+Option C. 167.  
+Correct Answer is. 167.  
+Explanation. Supplementary angles add up to 180 degrees. Complementary angles add up to 90 
+degrees.  
+Question Number. 77. What is the area of a ring with an outer diameter of 90 inches and an inner 
+diameter of 80 inches?.  
+Option A. 325π.  
+Option B. 435π.  
+Option C. 425π.  
+Correct Answer is. 425π.  
+Explanation. Radii are 45 and 40. (452-402) = 2025-1600 = 425. Area = πr2 .  
+Question Number. 78. What is the area of the shape shown, in centimeters?.  
+Option A. 1000.  
+Option B. 1225.  
+Option C. 1130.  
+Correct Answer is. 1225.  
+Explanation. 12 * 3 = 36, 20 * 5 = 100, (28-8) * 3 = 60. 36 + 100 + 60 = 196. There are approx. 2.5 
+cm in 1 inch, so multiply 196 by 2.5 twice (because it is area).  
+Question Number. 79. What is the area of a rectangle with base 160cm and height 12cm?.  
+Option A. 0.0192 m2 .  
+Option B. 0.192 m2 .  
+Option C. 0.00192 m2 .  
+Correct Answer is. 0.192 m2 .  
+Explanation. Area = base * height. To convert to metres divide by 100 twice (because it is area).  
+Question Number. 80. Calculate the area of the shape shown:.  
+Option A. 6.75π.  
+Option B. 6.75π.  
+Option C. 17.5π.  
+Correct Answer is. 6.75π.  
+Explanation. R1 = 1.5, R2 = 3. Area = π *(R22-R12) = π * (9-2.25) = π * 6.75.  
+Question Number. 81. An aircraft flies 1350nm in 2 hrs 15 minutes. What is the average speed?.  
+Option A. 850kts.  
+Option B. 600kts.  
+Option C. 650kts.  
+Correct Answer is. 600kts.  
+Explanation. 1 knot = 1 nm/hour. 1350/2.25 = 600 kts.  
+Question Number. 82. What is the supplement of 13 degrees 13 minutes 13 seconds?.  
+Option A. 167 degrees 46 minutes 47 seconds.  
+Option B. 266 degrees 87 minutes 87 seconds.  
+Option C. 166 degree 46 minutes 47 seconds.  
+Correct Answer is. 166 degree 46 minutes 47 seconds.  
+Explanation. Supplementary angles add up to 180 degrees. Subtract 13 degrees from 180 degrees 
+you get 167 degrees. But it is slightly more han 13 degrees, so answer must be slightly less than 
+167 degrees - hardly any calculation required!.  
+Question Number. 83. Determine 15.4/2-2(6.2-15.6).  
+Option A. 11.1.  
+Option B. 4.5.  
+Option C. 26.5.  
+Correct Answer is. 26.5.  
+Explanation. Start with brackets. Write down step by step. Remember that a minus number 
+subtracted becomes a plus.  
+Question Number. 84. Calculate the area of the shape shown.  
+Option A. 12 sq.ins.  
+Option B. 16 sq.ins.  
+Option C. 14 sq.ins.  
+Correct Answer is. 14 sq.ins.  
+Explanation. 4 * 1 = 4 for top bit, 4 * 1 = 4 for bottom bit, 3 * 2 for centre bit. Add all 3 areas 
+together =.  
+Question Number. 85. A mound of soil is piled up into a cone of base diameter 1.8m and height 
+0.6 m. What is the volume of soil?.  
+Option A. 0.5 m3 .  
+Option B. 1.0 m3 .  
+Option C. 1.5 m3 .  
+Correct Answer is. 0.5 m3 .  
+Explanation. Volume of a cone = 1/3 * base area * height. Base are = πr2 = 3 * 0.9 * 0.9 = 2.4. 1/3 * 
+2.4 * 0.6 = 0.5.  
+Question Number. 86. What is the area of the shape below?.  
+Option A. 220 square inches.  
+Option B. 196 square inches.  
+Option C. 200 square inches.  
+Correct Answer is. 196 square inches.  
+Explanation. (12 * 3) + (20 * 5) + ((28-3-5) * 3) = 196.  
+Question Number. 87. What is 1 radian in degrees?.  
+Option A. 57°.  
+Option B. 270°.  
+Option C. 66°.  
+Correct Answer is. 57°.  
+Explanation. 2π radians is 360°. So 1 radian = 360/6.3 = 57°.  
+Question Number. 88. (52 x 53 )2 is.  
+Option A. 57 .  
+Option B. 512. 
+Option C. 510. 
+Correct Answer is. 510. 
+Explanation. Add the powers when the bases are multiplied. Multiply the powers when a power is 
+raised a further power. So 2 + 3 = 5. 5 * 2 = 10.  
+Question Number. 89. What is 30% of 0.01?.  
+Option A. 0.03.  
+Option B. 0.003.  
+Option C. 0.0003.  
+Correct Answer is. 0.003.  
+Explanation. 30/100 * 0.01 = 3/10 * 0.01.  
+Question Number. 90. Evaluate 15.4/2-2(4.6-15.7).  
+Option A. 26.5.  
+Option B. 29.9.  
+Option C. -14.5.  
+Correct Answer is. 29.9.  
+Explanation. 7.7-2(-11.1), 7.7 + 22.2, 29.9.  
+Question Number. 91. How many radians are in 360°?.  
+Option A. 2π.  
+Option B. 6π.  
+Option C. 4π.  
+Correct Answer is. 2π.  
+Explanation. 360° = 2π radians.  
+Question Number. 92. What is the area (including the ends) of a cylinder diameter 10 cm and 10 
+cm in height?.  
+Option A. 50π.  
+Option B. 150π.  
+Option C. 100π.  
+Correct Answer is. 150π.  
+Explanation. π * dia. x height + 2 * π * radius-squared. 100π + 50π = 150π (assuming they want 
+the areas of the ends included).  
+Question Number. 93. What is the highest factor of 153?.  
+Option A. 6.  
+Option B. 3.  
+Option C. 9.  
+Correct Answer is. 9.  
+Explanation. The 'factor' is the number which will divide into it (without making a fraction).  
+Question Number. 94. Convert into decimal the fraction 5/8 of 60.  
+Option A. 40.  
+Option B. 37.5.  
+Option C. 37.  
+Correct Answer is. 37.5.  
+Explanation. 5/8 * 60 = 5/2 * 15 = 75/2 = 37.5.  
+Question Number. 95. An aeroplane has 1800 gallons of fuel on board. 35% in the left wing 
+42.5% in the right wing how much fuel is in the centre tank?.  
+Option A. 405 gallons.  
+Option B. 545 gallons.  
+Option C. 183 gallons.  
+Correct Answer is. 405 gallons.  
+Explanation. 100-77.5 = 22.5. 22.5/100 * 1800 = 22.5 * 18 = 405.  
+Question Number. 96. In the common fraction 2/5, the number 5 is known as.  
+Option A. the quotient.  
+Option B. the numerator.  
+Option C. the denominator.  
+Correct Answer is. the denominator.  
+Explanation. The number underneath is the denominator. The number on top is the numerator.  
+Question Number. 97. If 42% = 15,000, what is 100%?.  
+Option A. 21,300.  
+Option B. 35,714.  
+Option C. 6,300.  
+Correct Answer is. 35,714.  
+Explanation. Must be just over double 15000.  
+Question Number. 98. What is 12.75 * 26.1 to two significant figures?.  
+Option A. 332.775.  
+Option B. 332.78.  
+Option C. 330.  
+Correct Answer is. 330.  
+Explanation. No calculation required. Just pick the answer with the 2 most significant bits, all the 
+rest are zeros.  
+Question Number. 99. The fraction 17/11 is classed as.  
+Option A. a mixed fraction.  
+Option B. an improper fraction.  
+Option C. a proper fraction.  
+Correct Answer is. an improper fraction.  
+Explanation. Improper fraction is one where the numerator is bigger than the denominator.  
+Question Number. 100. To convert 1 inch to centimetres.  
+Option A. divide by 2.54.  
+Option B. multiply by 2.54.  
+Option C. divide by 25.4.  
+Correct Answer is. multiply by 2.54.  
+Explanation. There are 2.54 cm in one inch.  
+Question Number. 101. 0.000006 volts can be written as.  
+Option A. 60 nanovolts.  
+Option B. 6 microvolts.  
+Option C. 6 millivolts.  
+Correct Answer is. 6 microvolts.  
+Explanation. Move decimal place 6 places to right to get it to 6.0. 6 decimal places is 'micro'.  
+Question Number. 102. The median of the values 20, 28, 17, 34, 40, 11, 34, 26 is.  
+Option A. 34.0.  
+Option B. 27.0.  
+Option C. 26.25.  
+Correct Answer is. 27.0.  
+Explanation. Median means 'in the middle'. Put them in order lowest to highest. Find the middle 
+number, or middle two numbers. 26 and 28 in this case. The median is half way between these to 
+numbers.  
+Question Number. 103. The mode of the following 28, 17, 34, 28, 34, 35, 28, 40 is.  
+Option A. 28.0.  
+Option B. 30.5.  
+Option C. 31.0.  
+Correct Answer is. 28.0.  
+Explanation. Mode means 'the one which occurs most often'. In this case = 28.  
+Question Number. 104. 0.004 amperes can be written as.  
+Option A. 0.4mA.  
+Option B. 4kA.  
+Option C. 4mA.  
+Correct Answer is. 4mA.  
+Explanation. Move the decimal places 3 places to make it 4.0 Three decimal places is 'milliAmps' 
+(mA).  
+Question Number. 105. A sphere with a radius of 2 cm has a surface area of.  
+Option A. 16π cm2 .  
+Option B. 64π cm2 .  
+Option C. 8π cm2 .  
+Correct Answer is. 16π cm2 .  
+Explanation. Area of a sphere is 4 π r2 4*π*2*2 = 16π.  
+Question Number. 106. The sum of an odd and an even number is.  
+Option A. sometimes odd, sometimes even.  
+Option B. always odd.  
+Option C. always even.  
+Correct Answer is. always odd.  
+Explanation. Odd + odd = even. Even + even = even. Odd + even = odd.  
+Question Number. 107. A copper pipe has a radius of 7/32 inch. What is this in decimal?.  
+Option A. 0.28125.  
+Option B. 0.15625.  
+Option C. 0.21875.  
+Correct Answer is. 0.21875.  
+Explanation. Quickest way is to remember that 1/32 = 0.03125, and multiply it by 7.  
+Question Number. 108. Millibar is the unit of.  
+Option A. temperature.  
+Option B. pressure.  
+Option C. density.  
+Correct Answer is. pressure.  
+Explanation. Millibars is pressure.  
+Question Number. 109. A ball rolls down a hill initially at 60 ft/s. It slows down at a rate of 5 
+ft/s2 for 7 seconds. What will its final speed be?.  
+Option A. 15 ft/s.  
+Option B. 35 ft/s.  
+Option C. 25 ft/s.  
+Correct Answer is. 25 ft/s.  
+Explanation. 5 ft/s2 for 7 seconds = 35 ft/s deceleration. 60-35 = 25 ft/s final velocity.  
+Question Number. 110. A dial gauge is calibrated to an accuracy of 0.001 inch, when using the 
+dial gauge, you should.  
+Option A. round off the answer to calibrated value.  
+Option B. read the true value to 4 decimal places.  
+Option C. read five significant figures.  
+Correct Answer is. round off the answer to calibrated value.  
+Explanation. Round the reading to the accuracy it can read (3 decimals in this case).  
+Question Number. 111. In a flight control system, the control cable is allowed an elongation of 3% 
+due to wear. The length from the manufacturer is 78cm, what is its maximum used length?.  
+Option A. 80.34 cm.  
+Option B. 78.34 cm.  
+Option C. 2.34 cm.  
+Correct Answer is. 80.34 cm.  
+Explanation. 3/100 * 78 = 2.34 78 + 2.34 = 80.34.  
+Question Number. 112. You have made 20% profit. Your balance is now £900. What was your 
+pre-profit balance?.  
+Option A. £700.  
+Option B. £800.  
+Option C. £750.  
+Correct Answer is. £750.  
+Explanation. + 20/100 = 900, 100/100 + 20/100 = 900, 120/100 = 900, transpose for.  
+Question Number. 113. One of the square roots of a positive number is positive. What is the other 
+one?.  
+Option A. positive or negative.  
+Option B. negative.  
+Option C. positive.  
+Correct Answer is. negative.  
+Explanation. Example - Square root of 4 is either 2 (since 2*2=+4), or -2 (since-2*-2=+4).  
+Question Number. 114. A cylinder has a radius of 20cm and a length of 40cm. What is its volume? 
+(Take π as 3.1).  
+Option A. 49600cm3 .  
+Option B. 50270cm3 .  
+Option C. 800cm3 .  
+Correct Answer is. 49600cm3 .  
+Explanation. Base Area = π * r2 = 3.1 * 20 * 20 = 49600.  
+Question Number. 115. Can you take the cube root of a negative number?.  
+Option A. No.  
+Option B. Yes.  
+Option C. Only certain numbers.  
+Correct Answer is. Yes.  
+Explanation. You can take the cube root, but not the square root.  
+Question Number. 116. The process of removing roots from the denominator of fractions is called 
+what?.  
+Option A. Rationalizing the denominator.  
+Option B. Squaring the denominator.  
+Option C. Derooting the denominator.  
+Correct Answer is. Rationalizing the denominator.  
+Explanation. Nil 
+http://www.wtamu.edu/academic/anns/mps/math/mathlab/int_algebra/int_alg_tut41_rationalize.
+htm. 
+Question Number. 117. Find the curved surface area of a cylinder diameter 20cm and length 
+10cm.  
+Option A. 1256 cm2 .  
+Option B. 2512 cm2 .  
+Option C. 400 cm2 .  
+Correct Answer is. 1256 cm2 .  
+Explanation. Area = π * d * h = 3.14 * 20 * 10 = 628. Multiply by 2 (because there is inside and 
+outside) = 1256.  
+Question Number. 118. The conversion factor of litres to pints is.  
+Option A. 2.2.  
+Option B. 1.76.  
+Option C. 0.57.  
+Correct Answer is. 1.76.  
+Explanation. Nil http://www.thetipsbank.com/convert.htm. 
+Question Number. 119. The volume of a pyramid is ____ times b times h.  
+Option A. 1/4.  
+Option B. 1/3.  
+Option C. 1/2.  
+Correct Answer is. 1/3.  
+Explanation. Nil http://www.aaaknow.com/geo79_x6.htm. 
+Question Number. 120. What is the square root of 0.0289?.  
+Option A. 0.17.  
+Option B. 1.017.  
+Option C. 1.7.  
+Correct Answer is. 0.17.  
+Explanation. Only a number less than 1 can give an even smaller number when squared.  
+Question Number. 121. A car travelling at 72 km/hour is travelling at what speed?.  
+Option A. 30m/s.  
+Option B. 20m/s.  
+Option C. 10m/s.  
+Correct Answer is. 20m/s.  
+Explanation. 72 * 1000/3600 = 20.  
+Question Number. 122. If you bought a TV set worth £30 after getting 15% discount. How much 
+discount did you get?.  
+Option A. £15.  
+Option B. £5.  
+Option C. £35.  
+Correct Answer is. £5.  
+Explanation. Approximate (10% of 30 + add half again) - Not strictly the correct method (as this 
+finds 15% of final price, not the original price) but answers are far apart enough to permit.  
+Question Number. 123. If you bought a second hand car worth £4500 after getting 15% discount. 
+How much did the car cost originally?.  
+Option A. £3800.  
+Option B. £5300.  
+Option C. £6000.  
+Correct Answer is. £5300.  
+Explanation. x-(x 15/100) = 4500 x-0.15x = 4500 0.85x = 4500 x = 4500/0.85 = 5300 (approx).  
+Question Number. 124. 31 * 91 * 23 * 52 =.  
+Option A. 3,373.  
+Option B. 33,739.  
+Option C. 3,373,916.  
+Correct Answer is. 3,373,916.  
+Explanation. Round off to 30, 90, 20 and 50, 3 * 9 * 2 * 5 = 270, 10 * 10 * 10 * 10 = 10,000, 270 * 
+10,000 = 2,700,000 Now choose the answer based on order of magnitude.  
+Question Number. 125. 1/5 + 2.5-6 =.  
+Option A. 3.3.  
+Option B. 2.0.  
+Option C. -3.3.  
+Correct Answer is. -3.3.  
+Explanation. 1/5 = 0.2 0.2+2.5 = 2.7, 2.7-6 = -3.3.  
+Question Number. 126. Express 173942 in standard form.  
+Option A. 17.3942 * 104.  
+Option B. 173.942 * 103.  
+Option C. 1.73942 * 105.  
+Correct Answer is. 1.73942 * 105.  
+Explanation. Standard form has the mantissa between 1 and 10.  
+Question Number. 127. The sum of an odd number + an odd number is a.  
+Option A. either odd or even.  
+Option B. odd number.  
+Option C. even number.  
+Correct Answer is. even number.  
+Explanation. NIL.  
+Question Number. 128. Express 750 milligrams in grams.  
+Option A. 0.0000075.  
+Option B. 0.075.  
+Option C. 0.75.  
+Correct Answer is. 0.75.  
+Explanation. 'milli' is divide by 1000.  
+Question Number. 129. There is 1800 pounds of fuel in an aircraft, 25% in the left tank and 45% 
+in the right. How much fuel is in the centre tank?.  
+Option A. 810 pounds.  
+Option B. 450 pounds.  
+Option C. 540 pounds.  
+Correct Answer is. 540 pounds.  
+Explanation. 30% * 1800 = 540.  
+Question Number. 130. What is the supplement of an angle of 37°?.  
+Option A. 8°.  
+Option B. 53°.  
+Option C. 143°.  
+Correct Answer is. 143°.  
+Explanation. 180-37 = 143°.  
+Question Number. 131. To what power must 10 be raised to equal 100,000?.  
+Option A. 6.  
+Option B. 4.  
+Option C. 5.  
+Correct Answer is. 5.  
+Explanation. An easy way to tell the power of 10 to which a number has been raised is to count 
+the number of places the decimal point would have to be moved to leave a number between 1 and 
+10. Remember the decimal point though not written will be after the unit, in this case the last 0.  
+Question Number. 132. Find the square root of 1600.  
+Option A. 80.  
+Option B. 40.  
+Option C. 800.  
+Correct Answer is. 40.  
+Explanation. 1600 = 16 * 100 √1600 = √16x√100 = 4x10 = 40.  
+Question Number. 133. What is the ratio of 5 feet to 30 inches?.  
+Option A. 2 : 1.  
+Option B. 5 : 3.  
+Option C. 1 : 6.  
+Correct Answer is. 2 : 1.  
+Explanation. In any ratio caculation the units must be the same. 5 feet is equal to 60 inches. Ratio 
+of 60 : 30 or 60/30 is 2 : 1.  
+Question Number. 134. Evaluate 5[ 3 + 6(7-4)-2].  
+Option A. 31.  
+Option B. 395.  
+Option C. 95.  
+Correct Answer is. 95.  
+Explanation. First work out the inner brackets: 7-4=3, then multiply by 6: 6*3=18, Next the outer 
+brackets : 3+18-2=19, Finally multiply by 5: 5*19=95.  
+Question Number. 135. Find the value of 3[ 5-2( 4-7)].  
+Option A. 9.  
+Option B. -3.  
+Option C. 33.  
+Correct Answer is. 33.  
+Explanation. First work out the inner brackets: 4-7=-3, then multiply by -2: -2x-3 = 6, Remember 
+that -x-=+, Next the outer brackets: 5+6=11, finally multiply by the 3: 3*11=33.  
+Question Number. 136. What is the cube root of -64?.  
+Option A. 4.  
+Option B. -8.  
+Option C. -4.  
+Correct Answer is. -4.  
+Explanation. The cube root of a number is the number which when multiplied by itself 3 times 
+gives the number. In this example -4x-4x-4=-64 hence the answer is -4.  
+Question Number. 137. What is the cube root of 82 .  
+Option A. 2.  
+Option B. 4.  
+Option C. 8.  
+Correct Answer is. 4.  
+Explanation. 82 = 64, cube root of 64 is 4 as 4x4x4=64.  
+Question Number. 138. An engine of 96 horsepower is running at 75% power. What horsepower 
+is being developed?.  
+Option A. 72.  
+Option B. 168.  
+Option C. 62.  
+Correct Answer is. 72.  
+Explanation. 75% = 75/100 =3/4, 3/4x96=3x24=72.  
+Question Number. 139. A blueprint shows a hole of 0.3751 to be drilled. What fraction size drill 
+bit is most nearly equal?.  
+Option A. 5/16.  
+Option B. 3/8.  
+Option C. 3/16.  
+Correct Answer is. 3/8.  
+Explanation. 3/16 = 0.1875, 5/16 = 0.3125, 3/8 = 0.375, 3/8 drill is the nearest.  
+Question Number. 140. 120 out of 125 bolts produced are of an acceptable tolerance. What 
+percentage of the bolts are not acceptable?.  
+Option A. 5%.  
+Option B. 4%.  
+Option C. 25%.  
+Correct Answer is. 4%.  
+Explanation. Acceptable bolts 120/125 = 24/25, as a percentage this is 24/25 * 100 = 96%, 
+Unacceptable bolts are 100%-96% = 4%.  
+Question Number. 141. Evaluate 1/4 + 3/8-1/2.  
+Option A. 1/8.  
+Option B. 1/14.  
+Option C. 1/2.  
+Correct Answer is. 1/8.  
+Explanation. Change all the fractions to a common denominator ¼ becomes 2/8, 3/8 remains 
+same, ½ becomes 4/8. Now solve them by adding top Numerators SO answer is 1/8.  
+Question Number. 142. 3 3/4 + 4 2/3 =.  
+Option A. 8 5/12.  
+Option B. 7 5/12.  
+Option C. 7 5/7.  
+Correct Answer is. 8 5/12.  
+Explanation. add the whole numbers: 3+4 = 7, add the fraction 3/4 + 2/3 = 9/12 + 8/12 = 17/12 = 1 
+5/12, add on the 7: 8 5/12.  
+Question Number. 143. An aircraft travels 1400 nautical miles in 1 hour 45 minutes. What is the 
+average speed of the aircraft?.  
+Option A. 750 knots.  
+Option B. 2450 knots.  
+Option C. 800 knots.  
+Correct Answer is. 800 knots.  
+Explanation. Average speed is found by dividing total distance by total time. 1400 / 1 3/4. This is 
+done by dividing 1400 by 7/4 = 1400 * 4/7 = 200 * 4 = 800.  
+Question Number. 144. Evaluate 0.8 * 0.004.  
+Option A. 0.32.  
+Option B. 0.0032.  
+Option C. 0.032.  
+Correct Answer is. 0.0032.  
+Explanation. Count the digits to the right of the decimal points in both numbers (4), multiply the 
+numbers without the points 8x4 = 32, put the decimal point so there are the same number (4) as 
+in the question adding 0's as appropriate (0.0032).  
+Question Number. 145. Convert 10 inches to millimetres.  
+Option A. 2540 mm.  
+Option B. 254 mm.  
+Option C. 25.4 mm.  
+Correct Answer is. 254 mm.  
+Explanation. 1 inch = 2.54 cm =25.4 mm, 10 inches = 10 x 25.4 =254 mm.  
+Question Number. 146. What number is the highest common factor of 24, 84, 120?.  
+Option A. 8.  
+Option B. 12.  
+Option C. 24.  
+Correct Answer is. 12.  
+Explanation. 24=2*2*2*3, 84=2*2*3*7 HCF will be 2*2*3=12, 120=2*2*2*3*5.  
+Question Number. 147. 0.0000314 can be written as.  
+Option A. 3.14 x 10-5.  
+Option B. 3.14 x 105.  
+Option C. 3.14 x 10-4.  
+Correct Answer is. 3.14 x 10-5.  
+Explanation. The negative power indicates a reciprocal. 10-5 = 1/10,000, The easy way to do this 
+problem is to count the number of places you need to move the decimal point to leave you with a 
+number between 1 and 10. In this case it is 5.  
+Question Number. 148. What is the Lowest Common Multiple of 5; 12; 20.  
+Option A. 60.  
+Option B. 120.  
+Option C. 5.  
+Correct Answer is. 60.  
+Explanation. The lowest common multiple is the lowest number each number will divide into 
+exactly. In this case the required number is 60.  
+Question Number. 149. Evaluate 1/4{(4-6)-(2-8)}.  
+Option A. 3/4.  
+Option B. -2.  
+Option C. 1.  
+Correct Answer is. 1.  
+Explanation. First work out the the two inner brackets: (4-6)=-2 and (2-8)=-6, then -(-6) = +6 
+followed by -2 +6 = 4 and finally 1/4 x 4 = 1.  
+Question Number. 150. What is the average of the following numbers? 5, 13, 23, 12, 17.  
+Option A. 14.  
+Option B. 15.  
+Option C. 23.  
+Correct Answer is. 14.  
+Explanation. The average(mean) of a set of numbers is the sum divided by the number of 
+numbers. 5+13+23+12+17 = 70; 70 divided by 5 = 14.  
+Question Number. 151. What is the volume of a rectangular tank 5m by 4 m by 150cm?.  
+Option A. 3000 cu.m.  
+Option B. 30 sq.m.  
+Option C. 30 cu.m.  
+Correct Answer is. 30 cu.m.  
+Explanation. Volume of a cuboid is Length * Width * Height For this problem the dimensions are 
+5m * 4m * 1.5m = 30cu. m.  
+Question Number. 152. What is the depth of a rectangular tank whose volume is 40 cu. m. and 
+has a base 5m by 10m?.  
+Option A. 8m.  
+Option B. 80cm.  
+Option C. 0.08m.  
+Correct Answer is. 80cm.  
+Explanation. V = L * W * H , The height will be found by dividing volume by length x width This 
+will give an answer of 0.8m or 80cm.  
+Question Number. 153. Convert 20 imperial gallons to litres.  
+Option A. 909.2 litres.  
+Option B. 9.092 litres.  
+Option C. 90.92 litres.  
+Correct Answer is. 90.92 litres.  
+Explanation. 1 gallon = 4.546 litres, 20 gallons = 20 x 4.546 = 90.92 litres.  
+Question Number. 154. To find the area of a circle use the formula.  
+Option A. 2πd.  
+Option B. πr2 .  
+Option C. 2πr.  
+Correct Answer is. πr2 .  
+Explanation. 2πr or πd is the formula to find the area of a circle.  
+Question Number. 155. What is the circumference of the top of a cylindrical tank whose radius is 
+3 metres?.  
+Option A. 3π metres.  
+Option B. 6π metres.  
+Option C. 9π metres.  
+Correct Answer is. 6π metres.  
+Explanation. Circumference = 2πR.  
+Question Number. 156. 67.5 cu.m.  
+Option A. 67.5 cu.m.  
+Option B. 675,000 cu.cm.  
+Option C. 6.75 cu.m.  
+Correct Answer is. 6.75 cu.m.  
+Explanation. volume of a cylinder = π*r2 * h = 3 x (0.75)2 xh, vol = 1.7x4 = 6.75 cu.m., Remember 
+all units must be the same so 150cm is changed to 1.5 m.  
+Question Number. 157. What is the surface area of a cylindrical pipe of length 150 cm and 
+diameter 5cm?.  
+Option A. 1500π sq.cm.  
+Option B. 750π sq.cm.  
+Option C. 3750π sq.cm.  
+Correct Answer is. 750π sq.cm.  
+Explanation. Surface Area of a cylinder = πd x L= π x 5 x 150 = 750π sq.cm.  
+Question Number. 158. Find the value of 5/8 of 4/5.  
+Option A. 1/2.  
+Option B. 3/4.  
+Option C. 25/32.  
+Correct Answer is. 1/2.  
+Explanation. 5/8 of 4/5 is the same as 5/8 x 4/5 by cancelling top and bottom of the fractions, 5's 
+cancel leaving 4/8 =1/2.  
+Question Number. 159. What is the square root of 4 raised to the fifth power?.  
+Option A. 32.  
+Option B. 128.  
+Option C. 64.  
+Correct Answer is. 32.  
+Explanation. The square root of 4 is 2 two raised to the 5th power is 2*2*2*2*2 = 32.  
+Question Number. 160. -3[8-3(5+√9)-( 7-9)].  
+Option A. 60.  
+Option B. -42.  
+Option C. 42.  
+Correct Answer is. 42.  
+Explanation. Work out the inside brackets first: 5 + √9 = 5 + 3 = 8, then -3 * 8 = -24, next 7-9 = -2, 
+then 8-24 -(-2) = -14, finally -3 * -14 = 42.  
+Question Number. 161. Which of the fractions is equivalent to 0.075?.  
+Option A. 1/40.  
+Option B. 3/4.  
+Option C. 3/40.  
+Correct Answer is. 3/40.  
+Explanation. 3/4 = 0.75, 1/40 = 0.025, 3/40 = 0.075.  
+Question Number. 162. Express 3/8 as a percentage.  
+Option A. 3.75%.  
+Option B. 0.375%.  
+Option C. 37.5%.  
+Correct Answer is. 37.5%.  
+Explanation. T change a fraction to a percentage first find the equivalent decimal in this case it is 
+0.375., Then multiply by 100 to give 37.5%.  
+Question Number. 163. An aeroplane flies 1000 miles and uses 80 gallons of fuel. How much fuel 
+will it use on a 2500 mile flight?.  
+Option A. 240 gallons.  
+Option B. 250 gallons.  
+Option C. 200 gallons.  
+Correct Answer is. 200 gallons.  
+Explanation. If an airplane uses 80 gallons to fly 1000 miles the fuel consumption is 1000 divided 
+by 80 = 12.5 miles per gallon., The fuel used for a 2500 mile flight will be 2500 / 12.5 = 200 
+gallons.  
+Question Number. 164. A pinion gear with 16 teeth is driving a spur gear with 48 teeth at 120 
+RPM. Find the speed of the pinion gear.  
+Option A. 40 RPM.  
+Option B. 360 RPM.  
+Option C. 144 RPM.  
+Correct Answer is. 360 RPM.  
+Explanation. The speed ratio is the reciprocal of the gear ratio.The spur gear with 48 teeth is 
+driven by a pinion gear of of 16 teeth. This gives a gear ratio of 48:16 = 3:1. This means the spur 
+gear will turn at 1/3 of the speed of the pinion gear, and the pinion gear will turn at 3 times the 
+speed of the spur gear. If the spur gear turns at a speed of 120 RPM the pinion turns at a speed of 
+360 RPM.  
+Question Number. 165. What is the piston displacement of a master cylinder with a 4cm diameter 
+bore and a piston stroke of 10 cm?.  
+Option A. 8π cu.cm.  
+Option B. 40π cu.cm.  
+Option C. 160π cu.cm.  
+Correct Answer is. 40π cu.cm.  
+Explanation. The piston displacement of a master cylinder is found by multiplying the area of the 
+piston head by its stroke. The area of the piston is πR2 = πx22 = 4π, Therefore the piston 
+displacement will be 40π cu.cm.  
+Question Number. 166. The curved surface area of a right cone is.  
+Option A. 11/3 πRL.  
+Option B. πRL.  
+Option C. πR2 H.  
+Correct Answer is. πRL.  
+Explanation. Nil http://www.tpub.com/content/doe/h1014v2/css/h1014v2_33.htm. 
+Question Number. 167. How many millimetres in an inch?.  
+Option A. 2.54.  
+Option B. 25.4.  
+Option C. 2540.  
+Correct Answer is. 25.4.  
+Explanation. Nil  
+Question Number. 168. Find the the area of a circular ring Whose outer diameter is 10 cm and 
+inner diameter is 6 diameter?.  
+Option A. 64π sq. cm.  
+Option B. 16π sq. cm.  
+Option C. 4Π sq. cm.  
+Correct Answer is. 16π sq. cm.  
+Explanation. Area of a ring is π (R2-r2) A = π(52-32).  
+Question Number. 169. Find the area of the triangle shown.  
+Option A. 9 cm2 .  
+Option B. 12 cm2 .  
+Option C. 6 cm2 .  
+Correct Answer is. 6 cm2 .  
+Explanation. A = 1/2bh where b = base, and h = height. In this case A = 1/2 * 3 4 = 6 cm2 .  
+Question Number. 170. What is the area of the shape shown, in square cm?.  
+Option A. 5900.  
+Option B. 590.  
+Option C. 5.9.  
+Correct Answer is. 5.9.  
+Explanation. Divide the shape into three rectangles. , (10 * 30) + (20 * 7) + (10 * 15) = 
+300+140+150 = 590 mm2 , 1 cm2 = 10x10 = 100mm2 , so the answer is 590/100 = 5.9 cm2 .  
+Question Number. 171. What is the area of the trapezium shown?.  
+Option A. Area cannot be calculated from information given.  
+Option B. 27 cm2 .  
+Option C. 24 cm2 .  
+Correct Answer is. 24 cm2 .  
+Explanation. Area of a trapezium (called trapezoid in US) is A = 1/2(a+b)h. a and b are the two 
+parallel sides., h is the perpendicular distance between them. A = 1/2(5+7)4 = 6*4 = 24 cm2.  
+Question Number. 172. What is the depth of water in the tank shown if the volume of water is 
+4000 litres?.  
+Option A. 80 cm.  
+Option B. 5 m.  
+Option C. 50 cm.  
+Correct Answer is. 50 cm.  
+Explanation. 1 litre = 1000 cm3 , 4000 litres = 4,000,000 cm3 , Volume of water is 4m x 2m x depth, 
+Change to cm 400 * 200 * depth = 4,000,000, Therefore, depth = 4,000,000/(400*200) = 400/8 = 50 
+cm.  
+Question Number. 173. What is the area of the sector shown? Take π=3.14.  
+Option A. 50 cm.  
+Option B. 52 &frac13; cm.  
+Option C. 10.5 cm.  
+Correct Answer is. 52 &frac13; cm.  
+Explanation. Area of a circle = πr2 , = 3.14 * 102 , = 314cm2 , Area of sector = 60/360 * 314 = 314/6 
+= 52 &frac13; cm2 .  
+Question Number. 174. What is the volume of metal used in the pipe shown?.  
+Option A. 4500π cm2 .  
+Option B. 45π cm2 .  
+Option C. 18000π cm2 .  
+Correct Answer is. 4500π cm2 .  
+Explanation. Work out the volume of the metal by subtracting the volume of the hole from the 
+outside volume of the pipe., πR2 h-πr2 h = πh(R2 -r2 ), = πx500x(52 -42 ).  
+Question Number. 175. 24/0 (twenty four divided by nothing) is.  
+Option A. nothing.  
+Option B. infinity.  
+Option C. twenty four.  
+Correct Answer is. infinity.  
+Explanation. 24/0 = infinity.  
+Question Number. 176. If 20% of 120 is 24, what is 24% of 20?.  
+Option A. 4.8.  
+Option B. 28.  
+Option C. 18.  
+Correct Answer is. 4.8.  
+Explanation. 10% of 20 = 2, therefore 20% of 20 = 4, 4% of 10 = 0.4, therefore 4% of 20 = 0.8., 4 
++ 0.8 = 4.8.  
+Question Number. 177. A shop keeper sold his car for £120. If this is 80% of the buying price, 
+how much loss did he make?.  
+Option A. £50.  
+Option B. £150.  
+Option C. £30.  
+Correct Answer is. £30.  
+Explanation. Buying price * 80/100 = 120, Buying price * 80 = 120 * 100, Buying price = 12000/80 
+= 150, 150-120 = £30.  
+Question Number. 178. 3 + 4-5(4-2) =.  
+Option A. 13.  
+Option B. 4.  
+Option C. -3.  
+Correct Answer is. -3.  
+Explanation. 3 + 4-5(4-2) = 7-5(2), 7–10 = -3.  
+1.2a Algebra.  
+Question Number. 1. Solve the following equation: 5x = 3x + 2.  
+Option A. 3.  
+Option B. 5.  
+Option C. 1.  
+Correct Answer is. 1.  
+Explanation. 5x-3x = 2, 2x = 2, x = 1. 
+Question Number. 2. Simplify the following (w + z)(x - y)(y - w) / (y - x)(w - y)(w + z).  
+Option A. -1.  
+Option B. 0.  
+Option C. +1.  
+Correct Answer is. +1.  
+Explanation. First cancel the (w+z) because they are the same. Then multiply out the top and 
+bottom lines (remember the smiley face) and cancel what you can (everything cancels - leaving 
+you with just 1/1=1). 
+Question Number. 3. Given 43-x = 21, find the value of x.  
+Option A. 43-21.  
+Option B. 43/21.  
+Option C. 43+21.  
+Correct Answer is. 43-21.  
+Explanation. 43 = 21 + x 43-21 = x. 
+Question Number. 4. Make L the subject of the formula 2pfL = x.  
+Option A. L = 2pf.  
+Option B. L = 2pf / x.  
+Option C. L = x / 2pf.  
+Correct Answer is. L = x / 2pf.  
+Explanation. Divide the x by 2pf. 
+Question Number. 5. Given that A = X+BY, what is Y equal to?.  
+Option A. A-X add B.  
+Option B. A-X divided by B.  
+Option C. A-X minus B.  
+Correct Answer is. A-X divided by B.  
+Explanation. Basic transposition. 
+Question Number. 6. If y/x = 4 and y = 5 then x =.  
+Option A. 20.  
+Option B. 4/5.  
+Option C. 1 ¼.  
+Correct Answer is. 1¼.  
+Explanation. 5/x = 4, x = 5/4 = 1 1/4. 
+Question Number. 7. (x - 3)(x + 5)=.  
+Option A. x2 +2x.  
+Option B. x2 +2x-15.  
+Option C. x2 -15.  
+Correct Answer is. x2 +2x-15.  
+Explanation. Multiply x by x and +5, then multiply -3 by x and +5. Then gather together all like 
+terms. 
+Question Number. 8. 21=43- , is equal to.  
+Option A. 21-43.  
+Option B. 43+21.  
+Option C. 43-21.  
+Correct Answer is. 43-21.  
+Explanation. 21=43- , 21+ = 43, = 43-21. 
+Question Number. 9. Evaluate. 2X2 Z2 (3X-Z2 ) =. 
+Option A. 6X2 z2 +3x-z2 .  
+Option B. 6x2 z2 -2x2 z2 .  
+Option C. 6x3 z2 -2x2 z4 .  
+Correct Answer is. 6x3 z2 -2x2 z4 .  
+Explanation. Multiply out the brackets and add the indices where necessary. 
+Question Number. 10. (a * b)(a * b) =.  
+Option A. a2 + 2ab + b2 .  
+Option B. a2 b2.  
+Option C. a2 + b2.  
+Correct Answer is. a2 b2 .  
+Explanation. Do a x (a-b) (i.e. expand that bracket), then do b x (a-b) (i.e. expand that bracket 
+too). Then gather together like terms. You will find that ab and -ab cancel. 
+Question Number. 11. If y/x = 4 and x = 5 then y =.  
+Option A. 1 ¼.  
+Option B. 20.  
+Option C. 4/5.  
+Correct Answer is. 20.  
+Explanation. y/5 = 4. y = 5x4 = 20. 
+Question Number. 12. Determine x.  
+Option A. 9.029.  
+Option B. 9.570.  
+Option C. 8.971.  
+Correct Answer is. 9.029.  
+Explanation. Root of 81 is 9, so it must be 9.xxx (which rules out b). (Since the content of the 
+brackets comes to a negative number, it is positive when it is squared). 
+Question Number. 13. Find L in the following expression.  
+Option A. Q2 C / R2 .  
+Option B. Q2 C2 / R.  
+Option C. Q2 R2 C.  
+Correct Answer is. Q2 R2 C.  
+Explanation. QxR to remove the R from RHS. Square both sides to remove the root from RHS. 
+Multiply LHS by C to remove the C from RHS and you are left with L. 
+Question Number. 14. The heat of a resistor is given by the equation h = I2 RT. Find the current 
+I.  
+Option A. . 
+Option B. . 
+Option C. . 
+Correct Answer is. .  
+Explanation. h/RT Square root ALL. 
+Question Number. 15. Factorise the following : x2 -x-6=0.  
+Option A. (x-2)(x+3).  
+Option B. (x-2)(x-3).  
+Option C. (x+2)(x-3).  
+Correct Answer is. (x+2)(x-3).  
+Explanation. Choose 2 numbers where the sum = -1 (the coefficient of x) and the product 
+(multiple) is -6 (the constant). Alternatively, multiply out the answers a, b, c until you get the 
+question. 
+Question Number. 16. Factorise the following : 4x2 -6x-28 = 0.  
+Option A. (4x-14) (x+2).  
+Option B. (2x+7) (x-2).  
+Option C. (2x2 +7) (x + 2).  
+Correct Answer is. (4x-14) (x + 2).  
+Explanation. Expand each answer in turn until you get the question. Remember the smiley face. 
+Question Number. 17. Solve for x in the equation: 3(x + 2) = 30 + 2(x-4).  
+Option A. 8.  
+Option B. 16.  
+Option C. 15.  
+Correct Answer is. 16.  
+Explanation. Multiply out the bracket first. 3x + 6 = 30 + 2x-8. Then take all 'x' terms to left, and 
+all 'non-x' terms to right. 3x-2x = 30-8-6 etc. 
+Question Number. 18. 2x = 4(x-3), Evaluate x.  
+Option A. 6.  
+Option B. 0.5.  
+Option C. 2.  
+Correct Answer is. 6.  
+Explanation. Expand the bracket 2x = 4x-12, Take 4x to LHS 2x-4x = -12, -2x = -12, x = -12/-2 = 6. 
+Question Number. 19. 12x/2y + 14 = 50, When y = 2, solve for x.  
+Option A. 11.6.  
+Option B. 14.  
+Option C. 12.  
+Correct Answer is. 12.  
+Explanation. 12x/(2x2) = 50-14. 12x = 36 x 4. 12x = 144. x = 144/12 = 12. 
+Question Number. 20. 27y = 3 so y is equal to:.  
+Option A. 1/9.  
+Option B. 1/3.  
+Option C. 9/1.  
+Correct Answer is. 1/9.  
+Explanation. 3/27 = 1/9. 
+Question Number. 21. Determine x in the following: (2x-1)(3x+2) = 0.  
+Option A. 1.5, 1.  
+Option B. 0.5, 3.  
+Option C. -0.67, 0.5.  
+Correct Answer is. -0.67, 0.5.  
+Explanation. Two values of x, either 2x-1 = 0 (2x = 1, x = 1/2) or 3x + 2 = 0 (3x = -2, x=-2/3). 
+Question Number. 22. (x + y + z)(x + y + z) =.  
+Option A. 2(x + y + z).  
+Option B. 2x + 2y +2z.  
+Option C. (x + y + z)2 .  
+Correct Answer is. (x + y + z)2 .  
+Explanation. NIL. 
+Question Number. 23. If x in an equation equals Ly + 7cb, define the formula for finding the 
+subject y.  
+Option A. x-7cb/L.  
+Option B. x-7cb/L.  
+Option C. x-L/7cb.  
+Correct Answer is. x-7cb/L.  
+Explanation. Subtract the 7cb (x-7cb) then divide all by L. 
+Question Number. 24. 64y = 64 what does y =.  
+Option A. 1.  
+Option B. 0.  
+Option C. 0.5.  
+Correct Answer is. 1.  
+Explanation. Anything to the power of 1 is itself.  
+Question Number. 25. Simplify 3a-2b +6a-3b-2a.  
+Option A. 7a-5b.  
+Option B. 7a +5b.  
+Option C. 7a +b.  
+Correct Answer is. 7a-5b.  
+Explanation. Collect together like terms: 3a +6a-2a-2b-3b = 7a-5b.  
+Question Number. 26. Simplify 3x-2xy-3y +5xy-2x +2y.  
+Option A. x + 3xy-y.  
+Option B. 5x + 3xy-y.  
+Option C. x-3xy + y.  
+Correct Answer is. x + 3xy-y.  
+Explanation. Collect together like terms: 3x-2x +5xy-2xy +2y-3y = x +3xy-y.  
+Question Number. 27. Simplify 5(x-2y) + 3(2y-x).  
+Option A. 4x +4y.  
+Option B. 2x +4y.  
+Option C. 2x-4y.  
+Correct Answer is. 2x-4y.  
+Explanation. Remove the brackets first: 5x-10y +6y-3x Collect like terms: 5x-3x +6y-10y = 2x-4y.  
+Question Number. 28. simplify (a+b)(a-c)(b-c) divided by (b+a)(c-a)(c-b).  
+Option A. -1.  
+Option B. (a+b)(a-c)(b-c).  
+Option C. 1.  
+Correct Answer is. 1.  
+Explanation. Because this is a series of multiplications on both top and bottom we can do the 
+following: (a+b)/(b+a) = 1 (a-c)/(c-a) =(a-c)/-(a-c) = -1 (b-c)/-(b-c) = -1 hence the result is 1x-1x-1 
+=1.  
+Question Number. 29. Make P the subject of the formula I =PRT/100.  
+Option A. P = IRT/100.  
+Option B. P = 100I/RT.  
+Option C. P = 100RT/I.  
+Correct Answer is. P = 100I/RT.  
+Explanation. Multiply both sides by 100 then divide both sides by RT to get P =100I/RT.  
+Question Number. 30. Make u the subject of the formula v2 = u2 + 2as.  
+Option A. u = v-2as.  
+Option B. u = √(v2 -2as).  
+Option C. u = √(v2 +2as).  
+Correct Answer is. u = √(v2 -2as).  
+Explanation. u = √(v2 -2as).  
+Question Number. 31. Remove the brackets and simplify: (x-y)(x-y).  
+Option A. x2 -2xy-y2 .  
+Option B. x2 +y2 .  
+Option C. x2 -2xy+y2 .  
+Correct Answer is. x2 -2xy+y2 .  
+Explanation. Multiply both the x and the -y in the first bracket by both the x and -y in the second 
+bracket. X2-xy-yx + y2 x2 -2xy + y2 ( remember -x- = + and yx is the same as xy).  
+Question Number. 32. Evaluate (3X2 -6xy) / (x-2y).  
+Option A. cannot be simplified further.  
+Option B. 3x-3y.  
+Option C. 3x.  
+Correct Answer is. 3x.  
+Explanation. 3x2 -6xy=3x(x-2y) Dividing by x-2y leaves 3x.  
+Question Number. 33. Evaluate (3a + 2b)(2a-3b).  
+Option A. 6a2 -5ab-6b2 .  
+Option B. 6a-5ab-6b.  
+Option C. 6a2 + 5ab-6b2 .  
+Correct Answer is. 6a2 -5ab-6b2 .  
+Explanation. Multiply 3a(2a-3b) =6a2 -9ab then multiply 2b(2a-3b) = 4ab-6b2 collect like terms to 
+give 6a2-5ab-6b2 .  
+1.2b Algebra.  
+Question Number. 1. Solve the following equations for x: 4x+8y=64 2x-8y=86.  
+Option A. 125.  
+Option B. 25.  
+Option C. 5.  
+Correct Answer is. 25.  
+Explanation. Add like terms to eliminate y term. Thus 6x = 150, x = 25. 
+Question Number. 2. 11001+11001 =.  
+Option A. 502.  
+Option B. 5010.  
+Option C. 508.  
+Correct Answer is. 5010.  
+Explanation. NIL. 
+Question Number. 3. 100000 in binary is what number in decimal?.  
+Option A. 32.  
+Option B. 16.  
+Option C. 64.  
+Correct Answer is. 32.  
+Explanation. From the right (lsb) binary goes - ones, twos, fours, eights, sixteens, thirtytwos, 
+sixtyfours etc. 
+Question Number. 4. D in hexidecimal is what number in decimal?.  
+Option A. 17.  
+Option B. 13.  
+Option C. 8.  
+Correct Answer is. 13.  
+Explanation. In hexidecimal, 10 is A, 11 is B, 12 is C, 13 is D, 14 is E and 15 is F. 
+Question Number. 5. 101012 +110012 =.  
+Option A. 4610. 
+Option B. 468 .  
+Option C. 462 .  
+Correct Answer is. 4610. 
+Explanation. Add the two binary numbers then convert the result to decimal. Note: answer 'a' 
+cannot be a binary number so is wrong by default. 
+Question Number. 6. What is 738 in binary coded decimal?.  
+Option A. 1011110010.  
+Option B. 111100010.  
+Option C. 11100111000.  
+Correct Answer is. 11100111000.  
+Explanation. Binary Coded Decimal is not the same as binary. 
+Question Number. 7. (A+B)4 is (A+B)2 .  
+Option A. (A+B)6 .  
+Option B. (A+B)2 .  
+Option C. A+B.  
+Correct Answer is. (A+B)2 .  
+Explanation. Subtract the indices. 
+Question Number. 8. log 9-log 3=.  
+Option A. log 6.  
+Option B. log 3.  
+Option C. log 9.  
+Correct Answer is. log 3.  
+Explanation. log 9 = log (3x3) = 2 log 3. 2 log 3-log 3 = log 3. 
+Question Number. 9. What is y in the formula shown? a=(X+B)/y.  
+Option A. (a + X) / B.  
+Option B. (X - B) /a.  
+Option C. (X +B)/ a.  
+Correct Answer is. (X +B)/ a.  
+Explanation. The A and y can be swapped in this situation. 
+Question Number. 10. 67 divided by 127 is equal to.  
+Option A. 1/2.  
+Option B. 1/20.  
+Option C. 1/128.  
+Correct Answer is. 1/128.  
+Explanation. Cannot subtract the indices when the base is different. 127 =27 x67 . Now cancel the 
+67 top and bottom. 1/27 = 1/(2x2x2x2x2x2x2) = 1/128. 
+Question Number. 11. If 2x-8y=14 and 4x+8y=16; then x=.  
+Option A. -1/2.  
+Option B. 5.  
+Option C. 3.  
+Correct Answer is. 5.  
+Explanation. Add the x terms, add the y terms and add the numbers on the right of the equal 
+sign. The y terms cancel so you are then left with a formula that can be solved for x. 
+Question Number. 12. 2x-3 = 4; x =.  
+Option A. 7.  
+Option B. -3.  
+Option C. 3.50.  
+Correct Answer is. 3.50.  
+Explanation. 2x-3=4, 2x=4+3, 2x=7, x=7/2=3.5. 
+Question Number. 13. V = (a+b) r2 Find a.  
+Option A. V – r2 – b.  
+Option B. (V – b)/ r2 
+Option C. V / r2 – b.  
+Correct Answer is. V / r2 – b.  
+Explanation. Basic transposition. 
+Question Number. 14. Make m the subject of the formula in y=mx+c.  
+Option A. y-x/c.  
+Option B. y-c/x.  
+Option C. y+c/x.  
+Correct Answer is. y-c/x.  
+Explanation. Basic transposition. 
+Question Number. 15. Make x the subject of the formula in y = mx+c.  
+Option A. (y-c)/m.  
+Option B. y-c/m.  
+Option C. y-m/c.  
+Correct Answer is. (y-c)/m.  
+Explanation. Basic transposition. 
+Question Number. 16. Make c the subject of the formula in y = mx+c.  
+Option A. y-mx.  
+Option B. mx-y.  
+Option C. y+mx.  
+Correct Answer is. y-mx.  
+Explanation. Basic transposition. 
+Question Number. 17. Octal is to the base of.  
+Option A. 2.  
+Option B. 16.  
+Option C. 8.  
+Correct Answer is. 8.  
+Explanation. Octal is base 8 numbering system.  
+Question Number. 18. 101110 in binary is.  
+Option A. 46 base 8.  
+Option B. 46 base 2.  
+Option C. 46 base 10.  
+Correct Answer is. 4610. 
+Explanation. In binary, each term means 32, 16, 8, 4, 2, 1. Write down 101110 underneath and 
+add up the numbers above the 1's.  
+Question Number. 19. What is octal 13 in base 10?.  
+Option A. 11.  
+Option B. 5.  
+Option C. 4.  
+Correct Answer is. 11.  
+Explanation. Octal numbering is 64, 8, 1 etc. So 13 is 1 x 8's, and 3 x 1's = 11.  
+Question Number. 20. What type of equation is this? ax2 +bx+c = 0.  
+Option A. Quadratic equation.  
+Option B. Polynomic equation.  
+Option C. Gradient of the line.  
+Correct Answer is. Quadratic equation.  
+Explanation. Quadratic.  
+Question Number. 21. What is (X2 x X3 )3 ?.  
+Option A. X36. 
+Option B. X 15. 
+Option C. X 10. 
+Correct Answer is. X  15. 
+Explanation. X2 * X3 = X5 X5 raised to the power 3 is X15. 
+Question Number. 22. Hexadecimal is base.  
+Option A. 16.  
+Option B. 8.  
+Option C. 2.  
+Correct Answer is. 16.  
+Explanation. Hexadecimal is base 16.  
+Question Number. 23. y=mx+c can also be written.  
+Option A. x=y-c/m.  
+Option B. x=y/m+c.  
+Option C. x=y/m-c.  
+Correct Answer is. x=y-c/m.  
+Explanation. Basic transposition.  
+Question Number. 24. (x+y)2 ÷ (x + y)8 has a base and exponent of.  
+Option A. (x+y)10. 
+Option B. (x+y)-6. 
+Option C. (x+y)1/4. 
+Correct Answer is. (x+y)-6 .  
+Explanation. If the bases are the same, keep it the same, but subtract the indices (exponents) if 
+dividing.(Add the indices if multiplying).  
+Question Number. 25. Rewrite the following with a positive index: z pwr-2 and x pwr-3.  
+Option A. (ZX2 )2 ; and (X)3 
+Option B. 1/z2 and 1/x3 .  
+Option C. Z/22; and 1/X  
+Correct Answer is. 1/Z2 and 1/X3 .  
+Explanation. Invert the variable (e.g. 1/z and write the power with the opposite sign).  
+Question Number. 26. 100112 =.  
+Option A. 292 .  
+Option B. 1910. 
+Option C. 3510. 
+Correct Answer is. 1910. 
+Explanation. (1 * 16) + (0 * 8) + (0 * 4) + (1 * 2) + (1 * 1) = 19.  
+Question Number. 27. y = 2x + 4, When x = -1, y =.  
+Option A. 4.  
+Option B. 2.  
+Option C. 0.5.  
+Correct Answer is. 2.  
+Explanation. y=2(-1)+4=-2+4 =+2.  
+Question Number. 28. What is 0111000012 in Octal?.  
+Option A. 341.  
+Option B. 324.  
+Option C. 452.  
+Correct Answer is. 341.  
+Explanation. A binary number ending in 1 must be an odd number when converted to any base.  
+Question Number. 29. BCD format of numbering system has a base of.  
+Option A. 8.  
+Option B. 2.  
+Option C. 10.  
+Correct Answer is. 2.  
+Explanation. BCD is base 2.  
+Question Number. 30. The characteristic of Log 0.698 is.  
+Option A. 1.  
+Option B. -1.  
+Option C. -2.  
+Correct Answer is. -1.  
+Explanation. The characteristic of a logarithm is the integral part of the logarithm. The mantissa 
+is the decimal part. So, for example Log8(29345) = 4.94694 the characteristic is 4 and the 
+mantissa 0.94694. The log definition y=bx, logb(y)=x. So 0.698 = 10powerx. x must be -1.*** (i.e 
+minus one-point-something).  
+Question Number. 31. Log 59,000 is equal to.  
+Option A. 0.77452.  
+Option B. 4.7745.  
+Option C. 5.77452.  
+Correct Answer is. 4.7745.  
+Explanation. Log 10=1, Log 100 = 2, Log 1000=3. Log 59,000 = Log 59+Log 1000 = something 
+between 1 and 2, + 3.  
+Question Number. 32. If 2x2 + kx-8 = 0 has two equal real roots, then.  
+Option A. k is an imaginary number.  
+Option B. k=±8.  
+Option C. k=-8.  
+Correct Answer is. k is an imaginary number.  
+Explanation. Because of the +/- part of the quadratic solution formula, it is not possible for the 
+equation to have two equal roots. k is therefore an imaginary number.  
+Question Number. 33. Given the log of A exceeds that of B by 4, find the correct statement about 
+A and B.  
+Option A. A is 4000 times the value of B.  
+Option B. A is 10,000 times the value of B.  
+Option C. A is 1000 times the value of B.  
+Correct Answer is. A is 10,000 times the value of B.  
+Explanation. log 10=1, log 100=2, log 1000=3, log 10000=4, log 100,000=5.  
+Question Number. 34. What is 11110001 base2 in Octal?.  
+Option A. 72.  
+Option B. 684.  
+Option C. 361.  
+Correct Answer is. 361.  
+Explanation. Divide into blocks of 3 (from right to left), and convert each block into DECIMAL - 
+you have just converted to OCTAL. (Note: 'c' is automatically out, since you cannot have '7' in 
+octal).  
+Question Number. 35. If x2 -3=6, then x=.  
+Option A. ±3.  
+Option B. 18.  
+Option C. ± 2.  
+Correct Answer is. ±3.  
+Explanation. x2 =6 +3, x2 =9, x=+/-3.  
+Question Number. 36. Given that s=0, solve the equation s=ut+½at2 for the two possible values 
+of t.  
+Option A. t=0, t=2u/a.  
+Option B. t=0, t=a/2u.  
+Option C. t=0, t=-2u/a.  
+Correct Answer is. t=0, t=-2u/a.  
+Explanation. s=ut+½at2 Make s=0, 0=ut+½at2 Divide all terms by u, 0 = t + a/2ut2 Factorise, 
+0=t(1+a/2ut) So either t=0, or -2u/a=0 (so everything in the brackets=0).  
+Question Number. 37. What is Log 9-Log 3 + Log 4.  
+Option A. Log 12.  
+Option B. Log 10.  
+Option C. Log 16.  
+Correct Answer is. Log 12.  
+Explanation. Log 9 = 2Log3, therefore 2Log3-Log3 + Log 4 = Log3 + Log4 = Log(3 x 4) = Log12.  
+Question Number. 38. What is log 0.1?.  
+Option A. -0.1.  
+Option B. 0.  
+Option C. -1.  
+Correct Answer is. -1.  
+Explanation. Log of 0.1 is always -1, (log 0.01 = -2, log 0.001 = -3 etc).  
+Question Number. 39. What is log 1?.  
+Option A. 10.  
+Option B. 1.  
+Option C. 0.  
+Correct Answer is. 0.  
+Explanation. Log of 1 is always 0.  
+Question Number. 40. What is the log of 20000.2?.  
+Option A. 0.47892.  
+Option B. 4.7892.  
+Option C. 47.892.  
+Correct Answer is. 4.7892.  
+Explanation. Log of a 5-figure number (not including the decimal) is always 4 point something.  
+Question Number. 41. A quadratic equation has the real roots x=6 and x=9. Determine the 
+equation which is satisfied by these roots.  
+Option A. x2 -54x+15=0.  
+Option B. x2 -15x+54=0.  
+Option C. x2 +15x-15=0.  
+Correct Answer is. X2 -15x+54=0.  
+Explanation. Change the sign of each root -6, -9. Coefficient of x is the addition, the constant is 
+the multiplication. http://www.themathpage.com/alg/quadratic-equations.htm.  
+Question Number. 42. What is 101112 -10012 ?.  
+Option A. 1100 2 .  
+Option B. 1110 2 .  
+Option C. 1010 2 .  
+Correct Answer is. 11102 .  
+Explanation. NIL.  
+Question Number. 43. What is the characteristic of 5.74?.  
+Option A. 1.  
+Option B. -1.  
+Option C. 0.  
+Correct Answer is. 0.  
+Explanation. If you find the Log of 5.74, it will be 0.--- The '0' is the characteristic.  
+Question Number. 44. What is log63?.  
+Option A. 6log3.  
+Option B. log18.  
+Option C. 3log6.  
+Correct Answer is. 3log6.  
+Explanation. 3log6.  
+Question Number. 45. Solve for x: 5x-7=3.  
+Option A. x=-4/5.  
+Option B. x=-2.  
+Option C. x=2.  
+Correct Answer is. x=2.  
+Explanation. 5x-7 = 3add 7 to both sides to give 5x = 10 divide both sides by 5 to give x = 2.  
+Question Number. 46. Octal is the word given to what base?.  
+Option A. 8.  
+Option B. 2.  
+Option C. 16.  
+Correct Answer is. 8.  
+Explanation. NIL.  
+Question Number. 47. Which of the following is a quadratic equation?.  
+Option A. 3x2 +2x+1=0.  
+Option B. 3x+2y+4=0.  
+Option C. 3x3 +3x-2 = 0.  
+Correct Answer is. 3x2 +2x+1=0.  
+Explanation. A quadratic equation has only one unknown and the highest power is two.  
+Question Number. 48. What is log 1000?.  
+Option A. 2.0787.  
+Option B. 1.0787.  
+Option C. 3.0787.  
+Correct Answer is. 3.0787.  
+Explanation. Log 10 = 1 Log 100 = 2 Log 1000 = 3 Log 10000 = 4 etc.  
+Question Number. 49. What is log AB?.  
+Option A. log (A+B).  
+Option B. log A+log B.  
+Option C. Log A-Log B.  
+Correct Answer is. log A+log B.  
+Explanation. External website. 
+Question Number. 50. What is LogA/B?.  
+Option A. log A+Log B.  
+Option B. log A-Log B.  
+Option C. Log (A-B).  
+Correct Answer is. log A-Log B.  
+Explanation. External website. 
+Question Number. 51. log 100+2 =.  
+Option A. 4.  
+Option B. Log 200.  
+Option C. Log 200.  
+Correct Answer is. 4.  
+Explanation. log 100=2, 2+2 = 4. 
+Question Number. 52. Log 100/2 =.  
+Option A. Log 200.  
+Option B. Log 98.  
+Option C. 1.  
+Correct Answer is. 1.  
+Explanation. log 100=2, 2/2 = 1. 
+Question Number. 53. Log 100+cos60.  
+Option A. 0.25.  
+Option B. 25.  
+Option C. 2.5.  
+Correct Answer is. 2.5.  
+Explanation. Log 100=2, cos60=0.5, 2+0.5=2.5. 
+1.3a Geometry.  
+Question Number. 1. What is the external angle indicated on the figure below?.  
+Option A. 60.  
+Option B. 120.  
+Option C. 30.  
+Correct Answer is. 120.  
+Explanation. NIL.  
+Question Number. 2. If a wheel of radius R revolves 1/2 a turn, how many radians does it turn 
+through?.  
+Option A. 2π radians.  
+Option B. 2R2 radians.  
+Option C. π radians.  
+Correct Answer is. π radians.  
+Explanation. There are 2π radians in one complete turn (i.e. 360 degrees).  
+Question Number. 3. If there are two similar angles in a right triangle, these angles are.  
+Option A. supplementary.  
+Option B. subordinate.  
+Option C. complementary.  
+Correct Answer is. complementary.  
+Explanation. Complementary angles add up to 90 degrees. Supplementary angles add up to 180 
+degrees. A right (angled) triangle already has one 90 degree angles so the other 2 must add up to 
+90.  
+Question Number. 4. An equilateral triangle has.  
+Option A. no equal sides.  
+Option B. 2 equal sides.  
+Option C. 3 equal sides.  
+Correct Answer is. 3 equal sides.  
+Explanation. Triangle definitions.  
+Question Number. 5. The three angles of a triangle summed together equal.  
+Option A. 90o .  
+Option B. 180o .  
+Option C. 360o .  
+Correct Answer is. 180o .  
+Explanation. The sum of the angles of a triangle ar 180 degrees.  
+Question Number. 6. The circumference of a circle is found by.  
+Option A. multiplying the diameter by 3.142.  
+Option B. multiplying the radius by 3.142.  
+Option C. dividing the diameter by 3.142.  
+Correct Answer is. multiplying the diameter by 3.142.  
+Explanation. Circumference = π x diameter.  
+Question Number. 7. Calculate the height of an obtuse triangle whose base is X cm and the area is 
+Y square cm.  
+Option A. Y x 2/X.  
+Option B. Y + X/2.  
+Option C. Y * 2 * X.  
+Correct Answer is. Y * 2/X.  
+Explanation. Y = 1/(Y+2) 2X * h, h = Y * 2/X.  
+Question Number. 8. A right-angled triangle has sides of 3 inches and 4 inches, what will the third 
+side be?.  
+Option A. 5 inches.  
+Option B. 5.5 inches.  
+Option C. 6 inches.  
+Correct Answer is. 5 inches.  
+Explanation. 3,4,5 triangle.  
+Question Number. 9. To work out the circumference of a circle use.  
+Option A. D * 0.3142.  
+Option B. D * 3.142.  
+Option C. D-3.142.  
+Correct Answer is. D * 3.142.  
+Explanation. Circumference = 3.14 * diameter.  
+Question Number. 10. An equilateral triangle has.  
+Option A. two equal side.  
+Option B. no equal sides.  
+Option C. three equal sides.  
+Correct Answer is. three equal sides.  
+Explanation. Triangle definition.  
+Question Number. 11. A quadrilateral with only two parallel sides is a.  
+Option A. Trapezium.  
+Option B. Trapezoid.  
+Option C. Rhombus.  
+Correct Answer is. Trapezoid.  
+Explanation. Shape definitions.  
+Question Number. 12. A triangle with equal angles is called.  
+Option A. right angled.  
+Option B. equilateral.  
+Option C. isosceles.  
+Correct Answer is. equilateral.  
+Explanation. Triangle definitions.  
+Question Number. 13. Two gears are in mesh, one is larger than the other, the smaller gear 
+rotates.  
+Option A. at a faster speed.  
+Option B. at a lower speed.  
+Option C. at the same speed.  
+Correct Answer is. at a faster speed.  
+Explanation. The smallest gear rotates the fastest.  
+Question Number. 14. The name given to this shape.  
+Option A. Trapezoid.  
+Option B. Parallelogram.  
+Option C. Rhombus.  
+Correct Answer is. Parallelogram.  
+Explanation. Shape definition.  
+Question Number. 15. A triangle with equal sides is.  
+Option A. isosceles.  
+Option B. equilateral.  
+Option C. acute.  
+Correct Answer is. equilateral.  
+Explanation. NIL.  
+Question Number. 16. Two gears are in mesh, one has twice the number of teeth as the other.  
+Option A. the two gears rotate at the same speed.  
+Option B. the gear with fewer teeth rotates faster than the other.  
+Option C. the gear with fewer teeth rotates slower than the other.  
+Correct Answer is. the gear with fewer teeth rotates faster than the other.  
+Explanation. The smaller gear rotates at twice the speed of the larger gear.  
+Question Number. 17. Locus points plotted equidistant from a central points represent.  
+Option A. circumference.  
+Option B. diameter.  
+Option C. radius.  
+Correct Answer is. circumference.  
+Explanation. Locus is the line scribed by points moving equidistant from a point - in this case it 
+will scribe the circumference of a circle.  
+Question Number. 18. A circle contains.  
+Option A. 2πr radians.  
+Option B. 2π radians.  
+Option C. 4π radians.  
+Correct Answer is. 2π radians.  
+Explanation. There are 2π radians in 360°.  
+Question Number. 19. An oblique pyramid is one which has its axis.  
+Option A. perpendicular to its base.  
+Option B. not perpendicular to its base.  
+Option C. parallel to its base.  
+Correct Answer is. not perpendicular to its base.  
+Explanation. Nil.  
+Question Number. 20. An input gear has 20 teeth and the output gear has 120 teeth. If the input 
+gear rotates 360°, the output gear will rotate.  
+Option A. 60°.  
+Option B. 45°.  
+Option C. 90°.  
+Correct Answer is. 60°.  
+Explanation. Ratio 1:6. The big gear will rotate 1/6 of the small gear. 360/6 = 60°.  
+Question Number. 21. A line from the centre of a circle is called.  
+Option A. diameter.  
+Option B. its segment.  
+Option C. radius.  
+Correct Answer is. radius.  
+Explanation. NIL.  
+Question Number. 22. Give the name of the triangle, which has two sides equal in length and two 
+equal angles.  
+Option A. Equilateral.  
+Option B. Isosceles.  
+Option C. Obtuse.  
+Correct Answer is. Isosceles.  
+Explanation. NIL.  
+Question Number. 23. In an equilateral triangle, all of the angles are equal, to.  
+Option A. π divided by 3.  
+Option B. π divided by 4.  
+Option C. π divided by 2.  
+Correct Answer is. π divided by 3.  
+Explanation. Since 360° = 2π radians, 180° = π radians. The angles of an equilatrial triangle are 
+each 180/3 (60°) or π/3.  
+Question Number. 24. What is an obtuse angle?.  
+Option A. One greater than 180o .  
+Option B. One less than 90o .  
+Option C. One greater than 90°, but less than 180o .  
+Correct Answer is. One greater than 90°, but less than 180.  
+Explanation. NIL.  
+Question Number. 25. A congruent triangle has.  
+Option A. same shape and size.  
+Option B. same size different shape.  
+Option C. same shape different size.  
+Correct Answer is. same shape and size.  
+Explanation. Congruent triangles have the same sides AND the same angles.  
+Question Number. 26. Which shape has no parallel sides?.  
+Option A. Trapezoid.  
+Option B. Kite.  
+Option C. Rhombus.  
+Correct Answer is. Kite.  
+Explanation. NIL.  
+Question Number. 27. The properties of a scalene triangle are.  
+Option A. acute angle.  
+Option B. all sides different lengths.  
+Option C. all sides are equal.  
+Correct Answer is. all sides different lengths.  
+Explanation. A Scalene triangle has all different sides.  
+Question Number. 28. What is the height of an oblique pyramid?.  
+Option A. The height is angled to the base.  
+Option B. The height is perpendicular to the base.  
+Option C. The height is parallel to the sides.  
+Correct Answer is. The height is perpendicular to the base.  
+Explanation. Height is always measured perpendicular (90 degrees) to the base.  
+Question Number. 29. What is the value of in the diagram shown?.  
+Option A. 30°.  
+Option B. 35°.  
+Option C. 40°.  
+Correct Answer is. 35°.  
+Explanation. x + 3x + 4x + 80 = 360, 8x +80 = 360, 8x = 360-80, x = 280/8 = 35.  
+Question Number. 30. How many degrees are there in the smaller of the segments, where AB is 
+one sixth of AC?.  
+Option A. 15°.  
+Option B. 14.5°.  
+Option C. 10°.  
+Correct Answer is. 15°.  
+Explanation. 90/6 = 15 degrees.  
+Question Number. 31. In a parallelogram, if all the sides are of equal length and 1 angle is 90°, it 
+is a.  
+Option A. rhomboid.  
+Option B. quadrilateral.  
+Option C. square.  
+Correct Answer is. square.  
+Explanation. A square.  
+Question Number. 32. In a rhombus.  
+Option A. all sides are different length with no angles 90°.  
+Option B. all sides are equal length with no angles 90°.  
+Option C. adjacent sides are different lengths with no angles 90°.  
+Correct Answer is. all sides are equal length with no angles 90°.  
+Explanation. A rhombus is a square on the tilt.  
+Question Number. 33. An isosceles triangle has the following properties:.  
+Option A. Two sides parallel.  
+Option B. Three sides the same length.  
+Option C. Two sides the same length.  
+Correct Answer is. Two sides the same length.  
+Explanation. An isoscelese triangle has 2 sides and 2 angles the same.  
+Question Number. 34. In an oblique triangle the axis is.  
+Option A. perpendicular to the base.  
+Option B. at a slant to the base.  
+Option C. parallel to the base.  
+Correct Answer is. at a slant to the base.  
+Explanation. An oblique triangle is on the slant.  
+Question Number. 35. How far does a wheel of 7m radius travel in one revolution?.  
+Option A. 14.  
+Option B. 22m.  
+Option C. 44m.  
+Correct Answer is. 44m.  
+Explanation. C = 2πR = 2 * 3.14 * 7 = 44 (approx.).  
+Question Number. 36. For a scalene triangle which is true?.  
+Option A. 2 sides are equal.  
+Option B. No 2 sides are equal.  
+Option C. One angle is acute.  
+Correct Answer is. No 2 sides are equal.  
+Explanation. A scalene triangle has no sides equal.  
+Question Number. 37. A line to create a segment from the centre of a circle is a.  
+Option A. radius.  
+Option B. diameter.  
+Option C. chord.  
+Correct Answer is. diameter.  
+Explanation. A chord does not go through the centre of the circle. A radius does not produce a 
+segment.  
+Question Number. 38. A shape with 4 equal sides and one 90° angle is a.  
+Option A. parallelogram.  
+Option B. rhombus.  
+Option C. square.  
+Correct Answer is. square.  
+Explanation. Neither a parallelogram (a pushed-over rectangle) nor a rhombus (a pushed-over 
+square) has any 90° angles. A square has (at least) one 90° angle.  
+Question Number. 39. In a right angled triangle the longest side is 20cm long, the shortest side is 
+12cm. What length is the last side?.  
+Option A. 13.6cm.  
+Option B. 18cm.  
+Option C. 16cm.  
+Correct Answer is. 16cm.  
+Explanation. 12-16-20 triangle is a 3-4-5 triangle.  
+Question Number. 40. The sum of the internal angles of a triangle is.  
+Option A. 180°.  
+Option B. 2π radians.  
+Option C. 360°.  
+Correct Answer is. 180°.  
+Explanation. Internal angles of a triangle add up to 180 degrees (note: 360 degrees and 2π 
+radians are the same thing).  
+Question Number. 41. A triangle has angles 67° and 48°. The third angle is.  
+Option A. 115°.  
+Option B. 75°.  
+Option C. 65°.  
+Correct Answer is. 65°.  
+Explanation. 67+ 48 = 115. 180-115 = 65°.  
+Question Number. 42. The sum of the angles of a polygon with 'n' sides is.  
+Option A. 180 x (n-2).  
+Option B. (n/4) x 180.  
+Option C. 60 x n.  
+Correct Answer is. 180 x (n-2).  
+Explanation. 180(n-2).  
+Question Number. 43. Suppose the earth to be a real sphere with the radius R. The arc distance 
+from HK (N23) to the North pole is:.  
+Option A. 0.9R.  
+Option B. 2.2R.  
+Option C. 1.2R.  
+Correct Answer is. 1.2R.  
+Explanation. Circumference = 2πR (take π = 3). Proportion of quoted arc of circumference is 
+67/360. 67/360 x (2 x 3 x R) = 1.1R (approx, slightly more if you take π = 3.14)).  
+Question Number. 44. One radian is.  
+Option A. the angle subtended at the centre of a circle when the arc-length formed between two 
+radial lines is equal to pi.  
+Option B. the angle subtended at the centre of a circle when the arc-length formed between two 
+radial lines is equal in length to the radius.  
+Option C. 66.67°.  
+Correct Answer is. the angle subtended at the centre of a circle when the arc-length formed 
+between two radial lines is equal in length to the radius.  
+Explanation. NIL.  
+Question Number. 45. How many degrees in π radians ?.  
+Option A. 180.  
+Option B. 360.  
+Option C. 90.  
+Correct Answer is. 180.  
+Explanation. 2π radians = 360 degrees.  
+Question Number. 46. The sum of the external angles of any polygon is.  
+Option A. 180 degrees.  
+Option B. 540 degrees.  
+Option C. 360 degrees.  
+Correct Answer is. 360 degrees.  
+Explanation. External website.  
+Question Number. 47. Which of the 2 angles are called supplementary?.  
+Option A. 60 degrees and 120 degrees.  
+Option B. 40 degrees and 40 degrees.  
+Option C. 30 degrees and 60 degrees.  
+Correct Answer is. 60 degrees and 120 degrees.  
+Explanation. Add up to 180 degrees.  
+Question Number. 48. An acute angle is.  
+Option A. less than 90 degrees.  
+Option B. less than 180 degrees.  
+Option C. more than 90 degrees.  
+Correct Answer is. less than 90 degrees.  
+Explanation. NIL. http://math.about.com/library/bldefacuteangle.htm. 
+Question Number. 49. A straight line which goes from one point on the circumference to another 
+is called.  
+Option A. an arc.  
+Option B. a tangent.  
+Option C. a chord.  
+Correct Answer is. a chord.  
+Explanation. NIL. http://en.wikipedia.org/wiki/Chord_%28geometry%29. 
+Question Number. 50. What is the name given to a quadrilateral with two pairs of adjacent sides 
+equal and the diagonals intersect at right angles? Note not all the sides are equal?.  
+Option A. kite.  
+Option B. parallelogram.  
+Option C. rhombus.  
+Correct Answer is. kite.  
+Explanation. Draw the figure to check.  
+Question Number. 51. Find the size of the other two angles of an isoscelese triangle with one angle 
+of 100°.  
+Option A. 40°, 40°.  
+Option B. 30°, 30°.  
+Option C. 100°, 20°.  
+Correct Answer is. 40°, 40°.  
+Explanation. Isoscelese triangle has 2 angles equal. If one angle is 100° the other two add up to 
+80°. These must be the equal angles so each will be 40°.  
+Question Number. 52. A triangle always has.  
+Option A. exactly one right angle.  
+Option B. at least two acute angles.  
+Option C. exactly two acute angle.  
+Correct Answer is. at least two acute angles.  
+Explanation. NIL. http://mathforum.org/library/drmath/view/55061.html. 
+Question Number. 53. The locus of a point which stays the same distance from a given point is.  
+Option A. a circle.  
+Option B. a parallel line.  
+Option C. an ellipse.  
+Correct Answer is. a circle.  
+Explanation. A locus is the path a point travels following a given rule. In this case imagine the 
+path of the end of a piece of string fixed at the other end and kept taught.  
+1.3b Geometry.  
+Question Number. 1. In the following equation what is the y-intercept? 4y = 2x + 8.  
+Option A. 2.  
+Option B. 4.  
+Option C. 8.  
+Correct Answer is. 2.  
+Explanation. First get rid of the 4 from RHS (divide all by 4) y = 0.5x + 2. Intercept with y-axis is 
+when x = 0. So put x = 0 and what is left? (remember that 0.5 x 0 = 0). 
+Question Number. 2. How many times does the x-axis get crossed when y = x2 -3.  
+Option A. 3.  
+Option B. 1.  
+Option C. 2.  
+Correct Answer is. 1.  
+Explanation. y = x2 (a quadratic) is a shape like a 'U-curve' where the bottom of the 'U' sits on the 
+(0,0) point. The -3 means the 'U' is shifted down the y-axis 3 places. 
+Question Number. 3. On a graph what is the intercept of y when 4y = x + 8.  
+Option A. 4.  
+Option B. 8.  
+Option C. 2.  
+Correct Answer is. 2.  
+Explanation. Use y = mx + c The 'c' is the y-intercept. 4y = x + 8 must be converted to y = 1/4x + 
+8/4". 
+Question Number. 4. What is the equation of the line shown?.  
+Option A. y = 2x + 2.  
+Option B. y = -2-x.  
+Option C. y = x-2.  
+Correct Answer is. y = -2-x.  
+Explanation. Slope (gradient) is 2/2 and is negative (i.e. -1). y-intercept is -2. Equation of the line 
+(y = mx + c) is y = -1x -2 or y = -2-x. 
+Question Number. 5. The graph points (9, 3) and (3, 1) what is the slope?.  
+Option A. 9/5.  
+Option B. 1/3.  
+Option C. 3/1.  
+Correct Answer is. 1/3.  
+Explanation. Slope = change in Y / change in = (3-1)/(9-3) = 2/6 = 1/3. 
+Question Number. 6. A straight line graph has the equation 3y = 12x–3 What is the gradient?.  
+Option A. 1/4.  
+Option B. 4/1.  
+Option C. 3/4.  
+Correct Answer is. 4/1.  
+Explanation. The coefficient of x is the gradient, but only when the equation is in the form y = mx 
++ c. So y = 12/3x -3/3 12/3 = 4/1. 
+Question Number. 7. For an equation 2y = 5x + 3 what is the gradient?.  
+Option A. 3/5x.  
+Option B. 5/2.  
+Option C. 5x+3/2.  
+Correct Answer is. 5/2.  
+Explanation. y = mx + c Gradient is the 'm' (but the coefficient of y must be 1. If it is not, divide 
+all terms by the coefficient of y). 
+Question Number. 8. Using cosine to find the angle of a triangle, which statement is true?.  
+Option A. Opposite/Hyp.  
+Option B. Opposite/Adjacent.  
+Option C. Adjacent/Hyp.  
+Correct Answer is. Adjacent/Hyp.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 9. What type of equation is y = x2 + 9x + 14?.  
+Option A. Quadratic.  
+Option B. Circular.  
+Option C. Exponential.  
+Correct Answer is. Quadratic.  
+Explanation. Quadratic has x2 as its highest order. 
+Question Number. 10. 2y = 5x + 3 What is the gradient?.  
+Option A. 2/5.  
+Option B. 5/2 + 3.  
+Option C. 5/2.  
+Correct Answer is. 5/2.  
+Explanation. Gradient is the m when the formula is in the form y = mx + c. 
+Question Number. 11. What is the slope between the points (3,1) and (9,3)?.  
+Option A. 1/3.  
+Option B. 3/1.  
+Option C. 2.  
+Correct Answer is. 1/3.  
+Explanation. (Y2-Y1)/(-), 3-1 = 2, 9-3 = 6. 2/6 = 1/3. 
+Question Number. 12. What is commonly referred to as the law of a straight line?.  
+Option A. y = x2 plus 180.  
+Option B. The line must pass through the 180 degree datum.  
+Option C. y = mx + c.  
+Correct Answer is. y = mx + c.  
+Explanation. NIL. 
+Question Number. 13. The y intercept of 4y = 4x + 8 is.  
+Option A. 4.  
+Option B. 8.  
+Option C. 2.  
+Correct Answer is. 2.  
+Explanation. Must be in form y = Mx + C, C is y-intercept. y = x + 2 in this case. 
+Question Number. 14. A straight line passes through the two points (1,4) and (6,1). What is the 
+gradient of the line?.  
+Option A. 3/5.  
+Option B. -3/5.  
+Option C. 2/5.  
+Correct Answer is. -3/5.  
+Explanation. The gradient is found by dividing the difference between the y coordinates by the 
+difference between the x coordinates. In this case it will be 4-1/1-6 = 3/-5 =-3/5. 
+Question Number. 15. What is the equation of a straight line with gradient m and intercept on the 
+y axis c?.  
+Option A. y = mx + c.  
+Option B. x = y + mc.  
+Option C. y = cx + m.  
+Correct Answer is. y = mx + c.  
+Explanation. NIL.  
+Question Number. 16. What is the gadient of the straight line whose equation is 2y + 3x = 6?.  
+Option A. 3.  
+Option B. 3/2.  
+Option C. -3/2.  
+Correct Answer is. -3/2.  
+Explanation. First put into the form y = mx + c, i.e. y = -3x/2 +3 m = gradient hence gradient is 
+3/2.  
+Question Number. 17. Two lines with equations y = 3x-6 and y = 3x + 4 ?.  
+Option A. meet when y = 3.  
+Option B. are at right angles.  
+Option C. are parallel.  
+Correct Answer is. are parallel.  
+Explanation. They both have the same gradient i.e. 3 and hence are parallel.  
+Question Number. 18. What is the equation of a straight line that passes through the two points 
+(0,0) and (3,2).  
+Option A. y = 3x + 2.  
+Option B. y = 2x + 3.  
+Option C. y =2x/3.  
+Correct Answer is. y =2x/3.  
+Explanation. Gradient of the line is (2-0)/(3-0) = 2/3 this is the difference in the y values divided 
+by the difference in the x values; m =2/3, The intercept on the y axis is 0, that is when x = 0 ; c = 0, 
+The gradient of a straight line is of the form y = mx + c so we get y = 2x/3 +0 = 2x/3.  
+Question Number. 19. The line with equation x = 3 is.  
+Option A. at 45° to both axes.  
+Option B. parallel to the x axis.  
+Option C. parallel to the y axis.  
+Correct Answer is. parallel to the y axis.  
+Explanation. If x = 3 then the line will pass through all points where x=3 i.e. (3,0); (3,1);(3,2) that 
+is a line parallel to the y axis.  
+Question Number. 20. What is the equation of the graph shown?.  
+Option A. y = -2.  
+Option B. x = -2.  
+Option C. y = 2x.  
+Correct Answer is. y = -2.  
+Explanation. All the points on he line have a y value of -2, hence the equation is y = -2.  
+Question Number. 21. Use the graphs to solve the simultaneous equations y = x + 2 and 3y + 2x = 
+6.  
+Option A. x = 2, y = 0.  
+Option B. x = 0, y = 2.  
+Option C. x = 0, y = 0.  
+Correct Answer is. x = 0, y = 2.  
+Explanation. This is easy. The solution is the point when the lines cross, i.e. (0,2): x=0, y=2.  
+Question Number. 22. The plot of the equation y = 1/x is a.  
+Option A. straight line.  
+Option B. curve with one turning point.  
+Option C. curve with two turning points.  
+Correct Answer is. curve with two turning points.  
+Explanation. y = 1/x is a curve with two turning point. Try plotting it with values of x of -2, -1, 0, 
+1, 2 and you will see that it appears in the no.1 and no.3 quadrants and goes off to infinity.  
+Question Number. 23. Which of the graphs shown is given by the equation y = x2 + 3?.  
+Correct Answer is. C is correct.  
+Explanation. y = ax + b is a straight line, y = ax2 + b is a quadratic which has one turning point, y 
+= ax3 + bx + c has two turning points. 
+Question Number. 24. Which of the graphs shown is given by the equation; 2y = 4x +6 ?.  
+Correct Answer is. B is correct because y = ax + b, is equation of straight line.  
+Explanation. y = ax + b is a straight line, y = ax2 + b is a quadratic which has one turning point y 
+= ax3 + bx + c has two turning points. 
+Question Number. 25. Which of the graphs shown is given by the equation; y = 2x3 + 4x + 3 ?.  
+Correct Answer is. Graph in C is correct, because it has two turning points. 
+Explanation. y = ax + b is a straight line, y = ax2 + b is a quadratic which has one turning point, y 
+= ax3 + bx + c has two turning points.  
+1.3c Geometry. 
+Question Number. 1. What is the tangent of 90o ?.  
+Option A. Negative infinity.  
+Option B. 0.  
+Option C. Positive infinity.  
+Correct Answer is. Positive infinity.  
+Explanation. Technically, the tan curve goes off the graph to + infinity at 90 degrees, but then 
+comes back on at - infinity at the same point. Choose + infinity for the answer here (since it goes 
+to +infinity first). 
+Question Number. 2. Two angles of a triangle are 68o and 32o . Therefore the third angle must be.  
+Option A. 114o .  
+Option B. 80o .  
+Option C. 63o .  
+Correct Answer is. 80o .  
+Explanation. The sum of all the angles in a triangle is 180 degrees. 
+Question Number. 3. Which of the following formulae are correct for the triangle shown?.  
+Option A. A2 = C2 + B2 .  
+Option B. B2 = C2 + A2 .  
+Option C. C2 = A2 + B2 .  
+Correct Answer is. C2 = A2 + B2 .  
+Explanation. Pythagoras theorem. 
+Question Number. 4. In a right-angled triangle the other two angles are both 45°. The length of 
+the opposite side can be calculated by.  
+Option A. cos 45° x length of the adjacent side of the triangle.  
+Option B. cos 45° x length of the adjacent side of the triangle.  
+Option C. sin 45° x length of the hypotenuse side of the triangle.  
+Correct Answer is. sin 45° x length of the hypotenuse side of the triangle.  
+Explanation. sin 45o = opp/hyp opp = sin 45o / hyp. 
+Question Number. 5. Sin ø =.  
+Option A. A/C.  
+Option B. B/C.  
+Option C. C/A.  
+Correct Answer is. A /C.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 6. Cos A =.  
+Option A. 1.2.  
+Option B. 0.6.  
+Option C. 0.8.  
+Correct Answer is. 0.8.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 7. In a right-angle triangle, the sine of an angle is.  
+Option A. opposite divided by hypotenuse.  
+Option B. adjacent divided by hypotenuse.  
+Option C. opposite divided by adjacent.  
+Correct Answer is. opposite divided by hypotenuse.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 8. In a right-angle triangle, the tangent of an angle is.  
+Option A. opposite divided by adjacent.  
+Option B. adjacent divided by hypotenuse.  
+Option C. opposite divided by hypotenuse.  
+Correct Answer is. opposite divided by adjacent.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 9. In a right-angle triangle, the cosine of an angle is.  
+Option A. opposite divided by hypotenuse.  
+Option B. adjacent divided by hypotenuse.  
+Option C. opposite divided by adjacent.  
+Correct Answer is. adjacent divided by hypotenuse.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 10. On a right angle triangle, the longest side is 20 cm and the shortest is 12 
+cm. What is the other side?.  
+Option A. 13 cm.  
+Option B. 18 cm.  
+Option C. 16 cm.  
+Correct Answer is. 16 cm.  
+Explanation. 3,4,5 triangle. Also applies to multiples of 3,4,5 such as 6,8,10 and 12,16,20. 
+Question Number. 11. In a right triangle, SINE theta =.  
+Option A. adjacent divided by hypotenuse.  
+Option B. opposite divided by adjacent.  
+Option C. opposite divided by hypotenuse.  
+Correct Answer is. opposite divided by hypotenuse.  
+Explanation. SOHCAHTOA. 
+Question Number. 12. Complete the following: SINE a =.  
+Option A. a squared times b squared.  
+Option B. opposite side divided by the hypotenuse side.  
+Option C. adjacent side divided by the opposite side.  
+Correct Answer is. opposite side divided by the hypotenuse side.  
+Explanation. S.O.H.C.A.H.T.O.A. 
+Question Number. 13. A sector with angle A is subtended to the centre point of a circle. Area of 
+the sector is proportional to:.  
+Option A. Angle A.  
+Option B. Cos A.  
+Option C. Sin A.  
+Correct Answer is. Angle A.  
+Explanation. Area of a sector is proportional to the subtended angle of the sector. 
+Question Number. 14. Starting from zero amplitude, the cosine curve repeats itself between.  
+Option A. -180 and 180 degree.  
+Option B. -90 and 270 degrees.  
+Option C. 0 and 360 degree.  
+Correct Answer is. -90 and 270 degrees.  
+Explanation. Sketch the cosine curve and see. Neither 0 or -180 degrees are zero amplitude. 
+Question Number. 15. Choose the correct statement:.  
+Option A. Cosec2 x-Cot2 x = 1.  
+Option B. Sec2 x+tan2 x = 1.  
+Option C. Cos2 x-Sin2 x = 1.  
+Correct Answer is. Cosec2 x-Cot2 x = 1.  
+Explanation. See http://www.ilovemaths.com/2trigid.htm. 
+Question Number. 16. A right angled triangle has the two shortest sides of 5cm and 12 cm. What 
+is the length of the longest side?.  
+Option A. 17cm.  
+Option B. 15cm.  
+Option C. 13cm.  
+Correct Answer is. 13cm.  
+Explanation. Use Pythagoras theorem The square on the hypotenuse is equal to the sum of the 
+squares on the other two sides. 52 + 122 = h2 25 + 144 = h2 , h = √169 =13. 
+Question Number. 17. The trigonometrical ratio; adjacent divided by hypotenuse is.  
+Option A. Sine.  
+Option B. Tangent.  
+Option C. Cosine.  
+Correct Answer is. Cosine.  
+Explanation. Sin = Opp/Hyp, Cos = Adj/Hyp, Tan = Opp/Adj. 
+Question Number. 18. 57.3 degrees is equal to.  
+Option A. 2 radians.  
+Option B. 1 radian.  
+Option C. π radians.  
+Correct Answer is. 1 radian.  
+Explanation. This is worth learning. 
+Question Number. 19. A right angled triangle has sides 6cm, 8cm and 10 cm. What is the sine of 
+the angle between the 8cm side and the 10 cm side?.  
+Option A. 0.75.  
+Option B. 0.6.  
+Option C. 0.8.  
+Correct Answer is. 0.6.  
+Explanation. A 6,8,10 triangle is 2 x the 3, 4, 5 triangle which is a right angled triangled triangle 
+with hypotenuse 5. For our triangle the hypotenuse will be 10. The angle we are considering has 
+an opposite side of 6 and sine of an angle is the opposite/hypotenuse. Hence the answer is 6/10 = 
+0.6. 
+Question Number. 20. Sin 90 =.  
+Option A. Infinity.  
+Option B. 1.  
+Option C. 0.  
+Correct Answer is. 1.  
+Explanation. Sin 90 = 1, Cos 90 = 0, tan 90 = infinity. 
+Question Number. 21. What size of angle has the same ratio for both the sine and the cosine?.  
+Option A. 60 degrees.  
+Option B. 0 degrees.  
+Option C. 45 degrees.  
+Correct Answer is. 45 degrees.  
+Explanation. An isosceles right angled triangle has two 45 degree angles. The size of the two sides 
+that are not the hypotenuse are the same. This means that both the sine which is 
+opposite/hypotenuse and the cosine which is adjacent/hypotenuseis the same as the adjacent = 
+opposite in this case. 
+Question Number. 22. Sin A is equal to.  
+Option A. 3/4.  
+Option B. 3/5.  
+Option C. 4/5.  
+Correct Answer is. 3/5.  
+Explanation. B&C is opposite to A, A&B is adjacent to A, A&C is hypotenuse, sin = o/h, cos = 
+a/h , tan= o/a. 
+Question Number. 23. If cos 60 is 0.5, what is sin 30?.  
+Option A. 0.5.  
+Option B. None of the above.  
+Option C. 0.866.  
+Correct Answer is. 0.5.  
+Explanation. Cos θ = sin (90-θ). 
+1.4 
+Question Number. 1. 5/16 + 3/32 expressed as a single fraction is.  
+Option A. 13/32.  
+Option B. 8/48.  
+Option C. 15/512.  
+Correct Answer is. 13/32.  
+Explanation. 5/16 = 10/32 , 10/32 + 3/32 = 13/32. 
+Question Number. 2. Dividing 41/2 by 2 1/6 gives the answer of.  
+Option A. 21/3.  
+Option B. 25/12.  
+Option C. 54/26.  
+Correct Answer is. 54/26.  
+Explanation. 41/2 = 9/2, 21/6 = 13/6 Turn one fraction up-side-down then multiply 9/2 x 6/13 = 
+54/26. 
+Question Number. 3. 10000 expressed as ten raised to a power would be.  
+Option A. 105.  
+Option B. 103.  
+Option C. 104.  
+Correct Answer is. 104.  
+Explanation. 10 * 10 *10 = 1000, 10 * 10 * 10 * 10 = 10000. 
+Question Number. 4. 60 mm expressed as a percentage of 3 metres is.  
+Option A. 2 %.  
+Option B. 1.8 %.  
+Option C. 0.5 %.  
+Correct Answer is. 2 %.  
+Explanation. (60 * 100) / 3000. 
+Question Number. 5. The average speed of an aircraft that travels 7200 miles in 12 hours is.  
+Option A. 864 MPH.  
+Option B. 167 MPH.  
+Option C. 600 MPH.  
+Correct Answer is. 600 MPH.  
+Explanation. 7200 /12. 
+Question Number. 6. The sum of complex numbers a+bi and a'+b'i are.  
+Option A. (a+b)+(a'+b')i.  
+Option B. (a+a')i+(b+b').  
+Option C. (a+a')+(b+b')i.  
+Correct Answer is. (a+b)+(a'+b')i.  
+Explanation. Add the real numbers to each other, then add the imaginary numbers to each other, 
+and keep them separate.

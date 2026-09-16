@@ -1,0 +1,3107 @@
+1.1a. Semiconductors - Diodes.
+
+
+Question Number. 1. What gives the colour of an LED?.
+Option A. The active element.
+Option B. The plastic it is encased in.
+Option C. The type of gas used inside it.
+Correct Answer is. The active element.
+Explanation. The active element is the element used in the doping of the semiconductor material. Aircraft Electricity and Electronics 5th Edition Eismin Page 121.
+
+
+Question Number. 2. A germanium diode is used for.
+Option A. rectification.
+Option B. voltage stabilization.
+Option C. modulation.
+Correct Answer is. rectification.
+Explanation. Germanium diode has the least forward bias voltage drop and is best for rectification.
+
+
+Question Number. 3. Why is a diode put in parallel with an LED?.
+Option A. To protect it from AC.
+Option B. So it will work only above a certain voltage.
+Option C. So it will work only below a certain voltage.
+Correct Answer is. To protect it from AC.
+Explanation. An LED has a high forward bias voltage drop but is easily damaged when reverse biased. AC is therefore not good for an LED.
+
+
+Question Number. 4. When testing the forward bias of a diode with a multimeter.
+Option A. the positive lead of the ohmmeter is placed on the anode.
+Option B. it does not matter which terminal the positive lead of the ohmeter is placed.
+Option C. the positive lead of the ohmmeter is placed on the cathode.
+Correct Answer is. the positive lead of the ohmmeter is placed on the anode.
+Explanation. To test forward bias, the positive lead of the multimeter must be placed on the anode. Note: If the question says 'moving coil meter' then it would be the negative lead on the anode, since the negative side of the battery in such a meter is connected to the + lead. Aircraft Electricity and Electronics 5th Edition Eismin Page 113.
+
+
+Question Number. 5. This is a diagram of.
+Option A. an SCR.
+Option B. a TRIAC.
+Option C. a Schottky diode.
+Correct Answer is. an SCR.
+Explanation. NIL.
+
+
+Question Number. 6. Which of the following describes the characteristics of a Thyristor?.
+Option A. High voltage handling.
+Option B. High power handling.
+Option C. High current handling.
+Correct Answer is. High current handling.
+Explanation. A thyristor (such as an SCR) is a high current switching.
+
+
+Question Number. 7. Light Emitting Diodes (LEDs).
+Option A. emit light of only one wavelength dependent on type.
+Option B. have very wide viewing angles.
+Option C. are easily damaged if forward biased b more than 5V.
+Correct Answer is. emit light of only one wavelength dependent on type.
+Explanation. NIL.
+
+
+Question Number. 8. In a semiconductor junction diode, electrons are the minority carriers.
+Option A. within the P region.
+Option B. within the N region.
+Option C. in both the N and P regions.
+Correct Answer is. within the P region.
+Explanation. NIL.
+
+
+Question Number. 9. A silicon diode, when compared to a germanium diode has.
+Option A. a higher forward bias voltage.
+Option B. the same forward bias voltage.
+Option C. less forward bias voltage.
+Correct Answer is. a higher forward bias voltage.
+Explanation. Si = 0.6V, Ge = 0.2V. Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 10. This symbol is.
+Option A. a transistor.
+Option B. a diode.
+Option C. a triac.
+Correct Answer is. a diode.
+Explanation. NIL.
+
+
+Question Number. 11. This symbol is.
+Option A. a photodiode.
+Option B. a laser diode.
+Option C. an LED.
+Correct Answer is. a photodiode.
+Explanation. The photodiode is used in reverse bias. The minority current increases when light shines on it.
+
+
+Question Number. 12. A zener diode.
+Option A. allows current to flow in one direction.
+Option B. stabilizes voltage at a predetermined level.
+Option C. acts like a switch.
+Correct Answer is. stabilizes voltage at a predetermined level.
+Explanation. Zener diodes are usually used in voltage regulator circuits. Aircraft Electricity and Electronics 5th Edition Eismin Page 385.
+
+
+Question Number. 13. A junction diode.
+Option A. is similar to a vacuum diode but cannot rectify.
+Option B. has one p-n junction.
+Option C. can handle only very small currents.
+Correct Answer is. has one p-n junction.
+Explanation. NIL.
+
+
+Question Number. 14. Reverse bias.
+Option A. raises the potential barrier.
+Option B. lowers the potential barrier.
+Option C. greatly increases the majority carrier current.
+Correct Answer is. raises the potential barrier.
+Explanation. NIL.
+
+
+Question Number. 15. A diode connected across a relay coil is used to.
+Option A. dissipate coil spikes on switch off.
+Option B. allow the coil to energize with only one polarity.
+Option C. cause a delay in switching on.
+Correct Answer is. dissipate coil spikes on switch off.
+Explanation. Aircraft Electricity and Electronics 5th Edition Eismin Page 121 reading material.
+
+
+Question Number. 16. To check the forward resistance of a diode with a multimeter, the lead connected to the positive terminal is put to the.
+Option A. anode.
+Option B. cathode.
+Option C. either anode or cathode.
+Correct Answer is. anode.
+Explanation. To forward bias a diode with a multimeter, the positive lead must be connected to the anode. Note: If it were a moving coil meter, you must connect the negative lead to the anode since the positive end of the battery is connected to the negative lead.
+
+
+Question Number. 17. A thyristor has which of the following?.
+Option A. A positive temperature coefficient.
+Option B. High resistance when switched off.
+Option C. High resistance when switched on.
+Correct Answer is. High resistance when switched off.
+Explanation. The thyristor (such as an SCR or TRIAC) is basically a switch which provides a high resistance when switched off.
+
+
+Question Number. 18. What does the circuit shown do?.
+Option A. Full wave rectifier.
+Option B. Half wave rectifier.
+Option C. Voltage doubler.
+Correct Answer is. Half wave rectifier.
+Explanation. The diagram shows a half wave rectifier. The capacitor is for smoothing the output. A full wave rectifier requires 4 diodes and a voltage doubler requires two capacitors.
+
+
+Question Number. 19. In an LED, what is used to make the colour?.
+Option A. The plastic lens cover.
+Option B. The electrons.
+Option C. The doping material.
+Correct Answer is. The doping material.
+Explanation. The dopant is what gives the LED its colour.
+
+
+Question Number. 20. An atom with 5 electrons in its outer shell is part of.
+Option A. a C type material.
+Option B. a P type material.
+Option C. an N type material.
+Correct Answer is. an N type material.
+Explanation. An atom with five electrons in its outer shell (pentavalent) will provide an extra free electron and make the material an N type. Aircraft Electricity and Electronics 5th Edition Eismin Page 110.
+
+
+Question Number. 21. A thyristor is commonly used for.
+Option A. overvolts regulation.
+Option B. voltage regulation.
+Option C. rectification.
+Correct Answer is. rectification.
+Explanation. A thyristor (especially an SCR) is often used for rectification.
+
+
+Question Number. 22. A diode which emits photons when conducting is a.
+Option A. light emitting.
+Option B. varactor.
+Option C. zener.
+Correct Answer is. light emitting.
+Explanation. Photons = light, so a diode which emits light is a Light Emitting Diode.
+
+
+Question Number. 23. The electrodes of an SCR are.
+Option A. gate, cathode, anode.
+Option B. source, drain, gate.
+Option C. anode, cathode, source.
+Correct Answer is. gate, cathode, anode.
+Explanation. The electrodes of an SCR are the anode, cathode and the gate. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 24. What gives an LED its colour?.
+Option A. A gas.
+Option B. The cover.
+Option C. Composition and impurity of the compound.
+Correct Answer is. Composition and impurity of the compound.
+Explanation. It is the doping element which gives an LED its colour.
+
+
+Question Number. 25. Forward voltage of a silicon diode is.
+Option A. 1.6V.
+Option B. 0.6V.
+Option C. 0.2V.
+Correct Answer is. 0.6V.
+Explanation. Si = 0.6V, Ge = 0.2V Aircraft Electricity and Electronics 5th Edition Eismin Page 111 or 113.
+
+
+Question Number. 26. What is the typical volts drop across an LED.
+Option A. 0.2V.
+Option B. 0.4V.
+Option C. 1.6V.
+Correct Answer is. 1.6V.
+Explanation. An LED volts drop is typically 1.6 - 2.4V. Aircraft Electricity and Electronics 5th Edition Eismin Page 121.
+
+
+Question Number. 27. What diode gives off light photons when forward biased.
+Option A. LED.
+Option B. Gunn diode.
+Option C. Schottky diode.
+Correct Answer is. LED.
+Explanation. LEDs give off light (photons) when forward biased.
+
+
+Question Number. 28. The anode of a diode is connected to a +4V DC supply and the cathode is connected to a +2V DC supply. The diode is.
+Option A. forward biased not conducting.
+Option B. reverse biased not conducting.
+Option C. forward biased conducting.
+Correct Answer is. forward biased conducting.
+Explanation. Forward bias is anode to cathode. 4V fwd bias and 2V reverse bias, the diode is 2V fwd bias in total.
+
+
+Question Number. 29. Using electron flow in a diode the current flows from.
+Option A. Anode to Cathode.
+Option B. Cathode to Base.
+Option C. Cathode to Anode.
+Correct Answer is. Cathode to Anode.
+Explanation. ELECTRON FLOW (i.e. American notation) is cathode to anode (against the arrow direction). Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 30. When a hole diffuses from the p region to the n region.
+Option A. raises the potential barrier.
+Option B. it becomes a minority carrier in the n region.
+Option C. lowers the potential barrier.
+Correct Answer is. raises the potential barrier.
+Explanation. The potential barrier is formed by holes diffusing from the P region to the N region, (and electrons diffusing from the N region to the P region).
+
+
+Question Number. 31. A junction diode.
+Option A. can handle only small currents.
+Option B. is similar to a vacuum diode but cannot rectify.
+Option C. has one p-n junction.
+Correct Answer is. has one p-n junction.
+Explanation. A junction diode is so named for its one junction. Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 32. A germanium diode.
+Option A. has a lower forward bias voltage than a silicon diode.
+Option B. has a higher forward bias voltage than a silicon diode.
+Option C. has the same forward bias voltage as a silicon diode.
+Correct Answer is. has a lower forward bias voltage than a silicon diode.
+Explanation. Forward bias voltage of germanium diode = 0.2 V. Silicon diode = 0.6 V. Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 33. What switches off a thyristor?.
+Option A. Reverse bias gate.
+Option B. Remove the gate voltage.
+Option C. Remove supply voltage.
+Correct Answer is. Remove supply voltage.
+Explanation. To switch off a thyristor (such as an SCR) you must disconnect the supply voltage. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 34. When an SCR is switched on it has.
+Option A. low resistance.
+Option B. no change in resistance.
+Option C. high resistance.
+Correct Answer is. low resistance.
+Explanation. An SCR is basically a switch, which, when switched on has a low resistance. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 35. What type of pulse is required to switch on an SCR?.
+Option A. Positive.
+Option B. Negative.
+Option C. Positive or negative.
+Correct Answer is. Positive.
+Explanation. A positive pulse is required to switch an SCR on.
+
+
+Question Number. 36. A piece of pure Germanium.
+Option A. is electrically stable.
+Option B. has a deficit of electrons.
+Option C. has an excess of electrons.
+Correct Answer is. is electrically stable.
+Explanation. In a solid piece of semiconductor material, all the valence electrons are occupied in the covalent bond. It does not conduct electricity. Aircraft Electricity and Electronics 5th Edition Eismin Page 110.
+
+
+Question Number. 37. When a diode is forward biased, current flow is mainly due to the.
+Option A. germanium bias junction.
+Option B. majority carriers.
+Option C. minority carriers.
+Correct Answer is. majority carriers.
+Explanation. Forward bias = majority carriers.
+
+
+Question Number. 38. When a diode is forward biased the.
+Option A. positive lead is connected to both N and P type.
+Option B. positive lead is connected to the N type and negative to the P type.
+Option C. positive lead is connected to the P type and negative to the N type.
+Correct Answer is. positive lead is connected to the P type and negative to the N type.
+Explanation. To forward biased, connect Positive to P, Negative to N. Aircraft Electricity and Electronics 5th Edition Eismin Page 117.
+
+
+Question Number. 39. The typical voltage drop across an L.E.D is.
+Option A. 2V.
+Option B. 4V.
+Option C. 6V.
+Correct Answer is. 2V.
+Explanation. 2V typical.
+
+
+Question Number. 40. What are the majority carriers for a forward biased PN junction device?.
+Option A. Electrons and holes.
+Option B. Holes.
+Option C. Electrons.
+Correct Answer is. Electrons and holes.
+Explanation. Majority carriers are electrons in the N material, and holes in the P material.
+
+
+Question Number. 41. Germanium in its pure state is.
+Option A. negatively charged.
+Option B. neutral.
+Option C. positively charged.
+Correct Answer is. neutral.
+Explanation. Both germanium and silicon are neutrally charged, even when doped. Aircraft Electricity and Electronics 5th Edition Eismin Page 110.
+
+
+Question Number. 42. Which diode has a lower forward bias voltage?.
+Option A. Silicon.
+Option B. Germanium.
+Option C. Both have the same forward bias voltage.
+Correct Answer is. Germanium.
+Explanation. Silicon about 0.6V, Germanium about 0.2V. Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 43. A Zener diode is used for.
+Option A. voltage stabilisation.
+Option B. rectification.
+Option C. voltage regulation.
+Correct Answer is. voltage regulation.
+Explanation. A Zener diode is used for voltage regulation. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 44. A thyristor SCR is a.
+Option A. bi-directional device.
+Option B. unidirectional device.
+Option C. multidirectional device.
+Correct Answer is. unidirectional device.
+Explanation. http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/diac.html#c4
+
+
+Question Number. 45. What component is used to turn AC to DC?.
+Option A. Thyristor.
+Option B. Diode.
+Option C. Transistor.
+Correct Answer is. Diode.
+Explanation. Although a thyristor (SCR) can be used, a diode is more common. Aircraft Electricity and Electronics 5th Edition Eismin Page 113.
+
+
+Question Number. 45. What component is used to turn AC to DC?.
+Option A. Thyristor.
+Option B. Diode.
+Option C. Transistor.
+Correct Answer is. Diode.
+Explanation. Although a thyristor (SCR) can be used, a diode is more common. Aircraft Electricity and Electronics 5th Edition Eismin Page 113.
+
+
+Question Number. 46. What is an intrinsic material?.
+Option A. One with added elements.
+Option B. One with removed elements.
+Option C. A pure material.
+Correct Answer is. A pure material.
+Explanation. Intrinsic is a pure material.
+
+
+Question Number. 47. The voltage drop of a silicon diode is.
+Option A. 1 V.
+Option B. 0.7 V.
+Option C. 0.3 V.
+Correct Answer is. 0.7 V.
+Explanation. Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 48. A diode is parallel to an LED in an AC circuit to.
+Option A. provide correct amount of current for LED when circuit is switched on.
+Option B. prevent back EMF in the circuit when LED is switched off.
+Option C. protect LED from AC current when switched on.
+Correct Answer is. protect LED from AC current when switched on.
+Explanation. The negative half cycle of the AC must be bypassed around the LED.
+
+
+Question Number. 49. In a forward biased diode, current is carried by.
+Option A. majority carriers.
+Option B. both.
+Option C. minority carriers.
+Correct Answer is. both.
+Explanation. Forward bias is both, reverse bias is minority carriers only.
+
+
+Question Number. 50. When checking a diode for reverse bias resistance the positive lead goes to.
+Option A. anode and negative lead to earth.
+Option B. cathode and negative lead to anode.
+Option C. anode and negative lead to cathode.
+Correct Answer is. cathode and negative lead to anode.
+Explanation. Positive lead to cathode.
+
+
+Question Number. 51. Zener diodes are used for.
+Option A. Current control.
+Option B. Voltage control.
+Option C. Temperature control.
+Correct Answer is. Voltage control.
+Explanation. Comment/Reference (if available).
+
+
+Question Number. 52. Once started conducting an SCR switches off.
+Option A. only when the anode goes negative to the cathode.
+Option B. automatically after a specific time.
+Option C. only when the anode goes positive to the cathode.
+Correct Answer is. only when the anode goes negative to the cathode.
+Explanation. NIL.
+
+
+Question Number. 53. In a forward biased diode, electrons leave the.
+Option A. the anode.
+Option B. the cathode.
+Option C. the doped area.
+Correct Answer is. the cathode.
+Explanation. explainAnswer[3]="Electrons jump accross the depletion layer from the Cathode (-ve) to the Anode (+ve) to recombine with the holes and close the depletion layer".
+
+
+Question Number. 54. Diodes are.
+Option A. conductors.
+Option B. semi-conductors.
+Option C. Insulators.
+Correct Answer is. semi-conductors.
+Explanation. Only answer which is correct in both bias configurations.
+
+
+Question Number. 55. To function, i.e. conduct, a junction diode made of silicon requires a forward bias of at least.
+Option A. 0.2V.
+Option B. 1.41V.
+Option C. 1V.
+Correct Answer is. 1V.
+Explanation. Silicon diodes require around 0.7V, so a is the closest.
+
+
+Question Number. 56. What is the average gain of an Op Amp?.
+Option A. 20.
+Option B. 200,000.
+Option C. 200.
+Correct Answer is. 200,000.
+Explanation. NIL. http://en.wikipedia.org/wiki/Op_amp#DC_behavior
+
+1.1b. Semiconductors - Diodes.
+
+
+Question Number. 1. Tunnel diodes have the following characteristics.
+Option A. Heavily doped P-N junction with an extremely narrow depletion region.
+Option B. Lightly doped P and N regions and a high reverse breakdown voltage.
+Option C. Lightly doped P region, heavily doped N region and has a fast response time.
+Correct Answer is. Heavily doped P-N junction with an extremely narrow depletion region.
+Explanation. NIL. http://en.wikipedia.org/wiki/Tunnel_diode
+
+
+Question Number. 2. The capacitance of a varactor diode is.
+Option A. inversely proportional with reverse bias voltage.
+Option B. a linear function of applied reverse bias voltage.
+Option C. directly related to the forward bias voltage.
+Correct Answer is. inversely proportional with reverse bias voltage.
+Explanation. NIL. http://en.wikipedia.org/wiki/Varactor_diode
+
+
+Question Number. 3. A semiconductor doped with an element having a valency of 5 will produce.
+Option A. an N type material.
+Option B. either an N type or a P type depending on what type of semiconductor material is used.
+Option C. a P type material.
+Correct Answer is. an N type material.
+Explanation. Pentavalent materials make an N type material due to its extra electron. Aircraft Electricity and Electronics 5th Edition Eismin Page 110.
+
+
+Question Number. 4. In a diode clamper, if the resistor is removed making the time constant equal to C x r where r is the reverse resistance of the diode, this will ensure a.
+Option A. long time constant.
+Option B. short time constant.
+Option C. Very Long Time Constant.
+Correct Answer is. long time constant.
+Explanation. NIL.
+
+
+Question Number. 5. PIN diodes are used mainly for.
+Option A. linear rectifiers.
+Option B. fast switching devices.
+Option C. voltage operated rectifiers.
+Correct Answer is. fast switching devices.
+Explanation. NIL.
+
+
+Question Number. 6. To enable an IMPATT diode to operate correctly, it must be.
+Option A. connected to a resonant circuit.
+Option B. used in its reverse bias mode.
+Option C. operated in its negative resistance range.
+Correct Answer is. operated in its negative resistance range.
+Explanation. NIL.
+
+
+Question Number. 7. What type of diode would be used to stop voltage spikes across a coil of a relay?.
+Option A. Gunn diode.
+Option B. Double acting diode.
+Option C. Schottky diode.
+Correct Answer is. Double acting diode.
+Explanation. NIL. http://en.wikipedia.org/wiki/Voltage_stabiliser, http://en.wikipedia.org/wiki/Zener_diode
+
+
+Question Number. 8. What is a schottky diode used for?.
+Option A. Rectification.
+Option B. Stabilization.
+Option C. Very high frequency applications.
+Correct Answer is. Very high frequency applications.
+Explanation. A schottky diode has very little junction capacitance and can be used for very high frequency switching applications.
+
+
+Question Number. 9. When a hole diffuses from a p-region to the n-region it.
+Option A. becomes a minority carrier in the n-region.
+Option B. lowers the potential barrier.
+Option C. raises the potential barrier.
+Correct Answer is. raises the potential barrier.
+Explanation. This is descriptive of holes crossing the PN junction to form the depletion layer. Aircraft Electricity and Electronics 5th Edition Eismin Page 111.
+
+
+Question Number. 10. The junction barrier offers opposition to only.
+Option A. holes in the p-region.
+Option B. free electrons in the n-region.
+Option C. majority carriers in both regions.
+Correct Answer is. majority carriers in both regions.
+Explanation. NIL. http://en.wikipedia.org/wiki/P-n_junction
+
+
+Question Number. 11. Avalanche breakdown occurs when.
+Option A. reverse bias exceeds a certain value.
+Option B. forward bias exceeds a certain value.
+Option C. forward current becomes excessive.
+Correct Answer is. reverse bias exceeds a certain value.
+Explanation. Reverse biasing a diode will cause avalanche breakdown at a certain value. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 12. If forward bias is increased from zero on a p-n junction, a rapid increase in current flow for a relatively small increase in voltage occurs.
+Option A. when the flow of minority carriers is sufficient to cause an avalanche breakdown.
+Option B. when the depletion layer becomes larger than the space charge area.
+Option C. only after the forward bias exceeds the potential barrier.
+Correct Answer is. only after the forward bias exceeds the potential barrier.
+Explanation. A forward biased PN junction will conduct only when the forward bias voltage exceeds the junction barrier - i.e Si = 0.6V, Ge = 0.2V.
+
+
+Question Number. 13. A band pass filter excludes frequencies.
+Option A. below the frequency required only.
+Option B. above and below the frequency required.
+Option C. above the frequency required only.
+Correct Answer is. above and below the frequency required.
+Explanation. A band-pass filter excludes frequencies above and below a particular frequency. Aircraft Electricity and Electronics 5th Edition Eismin Page 288.
+
+
+Question Number. 14. In an unbiased p-n junction, current flow is.
+Option A. zero, because equal but opposite currents are crossing the junction.
+Option B. zero, because no charges are crossing the junction.
+Option C. due to the diffusion of minority carriers only.
+Correct Answer is. zero, because no charges are crossing the junction.
+Explanation. NIL.
+
+
+Question Number. 15. With a small amplitude voltage, what type of diode would you use to produce the output waveform?.
+Option A. Gunn.
+Option B. Zener.
+Option C. Schottky.
+Correct Answer is. Schottky.
+Explanation. The first part of the device is a basic RC differentiator, providing positive and negative pulses from the square wave input. The diode blocks the negative pulses. Since the amplitude is small, a fast acting diode with a low forward bias voltage is required. The Schottky diode fits the bill.
+Question Number. 16. What diode is used to stop power spikes in a coil?.
+Option A. Gunn diode.
+Option B. Schottky diode.
+Option C. Two directional zener diode.
+Correct Answer is. Two directional zener diode.
+Explanation. A two directional zener diode (actually 2 zener diodes back-to-back) is used to stop power spikes.
+
+
+Question Number. 17. What type of diode when forward biased holes and electrons recombine producing photons?.
+Option A. LED.
+Option B. Photodiode.
+Option C. Gunn.
+Correct Answer is. LED.
+Explanation. The word 'photons' implies light emission - i.e. a light emitting diode (LED).
+
+
+Question Number. 18. A zener diode is designed to operate.
+Option A. below its breakdown voltage.
+Option B. either above or below its breakdown voltage.
+Option C. above its breakdown voltage.
+Correct Answer is. above its breakdown voltage.
+Explanation. A zener diode is designed to operate above its breakdown voltage continuously. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 19. A triac is a type of.
+Option A. thermistor.
+Option B. transistor.
+Option C. thyristor.
+Correct Answer is. thyristor.
+Explanation. Thyristors include, SCRs, Triacs and diacs. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 20. If a junction diode is reverse biased too far, the output current would.
+Option A. reverse direction.
+Option B. cease to flow.
+Option C. increase.
+Correct Answer is. increase.
+Explanation. If a junction diode is reverse biased too far, it will 'breakdown' and a high current will flow.
+
+
+Question Number. 21. When a PN junction is forward biased, it conducts via.
+Option A. intrinsic carrier.
+Option B. majority carrier.
+Option C. minority carrier.
+Correct Answer is. majority carrier.
+Explanation. Forward biased - majority carriers.
+
+
+Question Number. 22. In the Zener Diode suppressor shown, point X in respect to point Y should be.
+Option A. more Positive.
+Option B. either positive or negative.
+Option C. more negative.
+Correct Answer is. more negative.
+Explanation. A Zener Diode is always wired in reverse bias. Aircraft Electricity and Electronics 5th Edition Eismin Page 138.
+
+
+Question Number. 23. If the reverse bias voltage across a diode is too high.
+Option A. load current reduces to zero.
+Option B. load current increases rapidly.
+Option C. load current reverses.
+Correct Answer is. load current increases rapidly.
+Explanation. If the reverse bias voltage is too high, the diode will break down and pass current.
+
+
+Question Number. 24. An LED which emits green light uses.
+Option A. gallium phosphide.
+Option B. gallium arsenide.
+Option C. gallium arsenide phosphide.
+Correct Answer is. gallium phosphide.
+Explanation. NIL. http://www.oksolar.com/led/led_color_chart.htm
+
+
+Question Number. 25. An LED which emits red light uses.
+Option A. gallium phosphide.
+Option B. gallium arsenide phosphide.
+Option C. gallium arsenide.
+Correct Answer is. gallium arsenide phosphide.
+Explanation. NIL.
+
+
+Question Number. 26. A photodiode is operated under.
+Option A. reverse bias conditions.
+Option B. forward bias conditions.
+Option C. reverse or forward bias conditions.
+Correct Answer is. reverse bias conditions.
+Explanation. NIL. http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/photdet.html#c2
+
+
+Question Number. 27. To increase capacitance of a varactor diode.
+Option A. reverse bias voltage is increased.
+Option B. reverse bias voltage is decreased.
+Option C. forward bias voltage is decreased.
+Correct Answer is. reverse bias voltage is decreased.
+Explanation. NIL. http://www.tpub.com/content/neets/14179/css/14179_131.htm
+
+
+Question Number. 28. The diagram shows a.
+Option A. voltage doubler.
+Option B. half wave rectifier.
+Option C. full wave rectifier.
+Correct Answer is. voltage doubler.
+Explanation. NIL. http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/voldoub.html
+
+
+Question Number. 29. A bi-directional TRIAC has two SCRs connected in.
+Option A. series parallel.
+Option B. inverse parallel.
+Option C. parallel series.
+Correct Answer is. inverse parallel.
+Explanation. NIL. http://en.wikipedia.org/wiki/TRIAC
+
+
+Question Number. 30. A thyristor can be forward biased by a.
+Option A. positive or negative pulse.
+Option B. negative pulse.
+Option C. positive pulse.
+Correct Answer is. positive pulse.
+Explanation. Positive pulse only.
+
+
+Question Number. 31. N' type materials are doped with.
+Option A. acceptors.
+Option B. acceptors and donors.
+Option C. donors.
+Correct Answer is. donors.
+Explanation. N' type materials have excess electrons, therefore the impurity element is a donor of electrons. Aircraft Electricity and Electronics 5th Edition Eismin Page 110.
+
+
+Question Number. 32. In an electronic circuit, if the anode of a diode is clamped to ground. What is this called?.
+Option A. A negative clamping circuit.
+Option B. A negative limiting circuit.
+Option C. A positive clamping circuit.
+Correct Answer is. A positive clamping circuit.
+Explanation. NIL.
+
+
+Question Number. 33. To decrease the capacitance of a varactor.
+Option A. reverse bias should be decreased.
+Option B. forward bias should be increased.
+Option C. reverse bias should be increased.
+Correct Answer is. reverse bias should be increased.
+Explanation. NIL.
+
+
+Question Number. 34. A Zener diode is used across the output for a power supply circuit to.
+Option A. give a full wave rectification.
+Option B. prevent thermal runway.
+Option C. provide a steady DC voltage output without falling.
+Correct Answer is. provide a steady DC voltage output without falling.
+Explanation. A Zener diode is the main component in a voltage regulator.
+
+
+Question Number. 35. If a diode has gone open circuit in a full wave bridge rectifier, the output frequency ripple is.
+Option A. the same as the input frequency.
+Option B. twice the input frequency.
+Option C. half the input frequency.
+Correct Answer is. the same as the input frequency.
+Explanation. A fully serviceable bridge rectifier produces an output ripple twice the input frequency. If one diode goes open circuit, one of the output 'humps' drops to zero.
+
+
+Question Number. 36. In a full wave bridge rectifier.
+Option A. the output is pure DC. Frequency is 0 Hz.
+Option B. the output frequency is twice the input frequency.
+Option C. the output voltage is twice the input voltage.
+Correct Answer is. the output is pure DC. Frequency is 0 Hz.
+Explanation. The output is un-smoothed DC of 2 x input frequency.
+
+
+Question Number. 37. After passing through a rectifier, alternating current becomes.
+Option A. smooth direct current.
+Option B. pulsating direct current.
+Option C. square wave form current.
+Correct Answer is. pulsating direct current.
+Explanation. Assuming the rectifier does not contain any smoothing circuitry.
+
+
+Question Number. 38. A Zener diode usually works.
+Option A. only in reverse bias.
+Option B. at variable voltages.
+Option C. only in forward bias.
+Correct Answer is. only in reverse bias.
+Explanation. NIL.
+
+
+Question Number. 39. P' type materials require.
+Option A. acceptors.
+Option B. conductors.
+Option C. donors.
+Correct Answer is. acceptors.
+Explanation. NIL. http://en.wikipedia.org/wiki/P-type_semiconductor
+
+
+Question Number. 40. Which of the following explains how the photodiode works?.
+Option A. Photodiodes are forward biased to conduct when light falls upon them.
+Option B. Photodiodes are back biased not to conduct when light falls upon them.
+Option C. Photodiodes are back biased to conduct when light falls upon them.
+Correct Answer is. Photodiodes are back biased to conduct when light falls upon them.
+Explanation. NIL. http://en.wikipedia.org/wiki/Photodiodes
+
+1.2a. Semiconductors - Transistors.
+
+
+Question Number. 1. In an NPN transistor the P is the.
+Option A. collector.
+Option B. emitter.
+Option C. base.
+Correct Answer is. base.
+Explanation. NPN or PNP, the middle one is always the Base. Aircraft Electricity and Electronics 5th Edition Eismin Page 116.
+
+
+Question Number. 2. When compared to a photo diode, a photo transistor.
+Option A. is less sensitive to light levels.
+Option B. responds faster to changes of light.
+Option C. is slower to respond to changes of light.
+Correct Answer is. is slower to respond to changes of light.
+Explanation. NIL.
+
+
+Question Number. 3. For correct operation of a transistor, the following conditions must apply.
+Option A. The base-emitter junction must be forward biased and the base-collector junction must be greater than 0.7 volts.
+Option B. For an NPN transistor the base-emitter junction must be forward biased and for a PNP transistor the base emitter junction must be reverse biased.
+Option C. The base-collector junction must be reverse biased and the base-emitter junction must be forward biased.
+Correct Answer is. The base-collector junction must be reverse biased and the base-emitter junction must be forward biased.
+Explanation. Eismin Aircraft Electricity and Electronics 5th Edition page 116.
+
+
+Question Number. 4. Current gain in a common emitter amplifier is given the symbol.
+Option A. Β.
+Option B. a.
+Option C. Hcg.
+Correct Answer is. Β.
+Explanation. NIL.
+
+
+Question Number. 5. When a positive voltage is applied to the base of a normally biased n-p-n common emitter amplifier.
+Option A. the collector voltage goes less positive.
+Option B. the emitter current decreases.
+Option C. the base current decreases.
+Correct Answer is. the collector voltage goes less positive.
+Explanation. Sketch the circuit and work it out.
+
+
+Question Number. 6. Which way does conventional current flow in a PNP junction?.
+Option A. Emitter to base.
+Option B. Collector to base.
+Option C. Collector to emitter.
+Correct Answer is. Emitter to base.
+Explanation. Conventional current in a PNP transistor flows from EMITTER to BASE. Note: In an NPN transistor it would be collector to emitter.
+
+
+Question Number. 7. For conduction of a transistor, the emitter junction is.
+Option A. forward or reverse as appropriate to the input signal.
+Option B. reverse biased.
+Option C. forward biased.
+Correct Answer is. forward biased.
+Explanation. For a transistor to switch on, the base-emitter (or just emitter) junction must be forward biased. Aircraft Electricity and Electronics 5th Edition Eismin Page 116.
+
+
+Question Number. 8. In a PNP transistor, which way does conventional current flow?.
+Option A. Base to emitter.
+Option B. Collector to emitter.
+Option C. Emitter to collector.
+Correct Answer is. Emitter to collector.
+Explanation. In a PNP transistor, the main current flow is Emitter to Collector (reverse of what it is with an NPN transistor).
+
+
+Question Number. 9. In a PNP transistor, conventional current will flow when.
+Option A. the emitter is more positive than the base.
+Option B. the base is more positive than the emitter.
+Option C. the collector is more positive than the emitter.
+Correct Answer is. the emitter is more positive than the base.
+Explanation. To switch a PNP on, the emitter must be positive compared to the base (opposite to an NPN).
+
+
+Question Number. 10. In a common collector circuit the output and input are.
+Option A. in phase.
+Option B. out of phase by 60°.
+Option C. out of phase by 90°.
+Correct Answer is. in phase.
+Explanation. Common collector - output is in-phase with the input.
+
+
+Question Number. 11. For an NPN transistor to conduct the collector circuit has to be.
+Option A. more positive than the base.
+Option B. less positive than the emitter.
+Option C. more positive than the emitter.
+Correct Answer is. more positive than the base.
+Explanation. Sketch an NPN circuit and mark the two current flows. Aircraft Electricity and Electronics 5th Edition Eismin Page 116.
+
+
+Question Number. 12. Point X compared to point.
+Option A. Y is more negative.
+Option B. Z is more positive.
+Option C. Z is more negative.
+Correct Answer is. Z is more positive.
+Explanation. NPN transistor. The collector is more positive than the base. Aircraft Electricity and Electronics 5th Edition Eismin Page 116/117.
+
+
+Question Number. 13. The resistance measured using an AVO between the Collector and Emitter of a transistor is.
+Option A. smaller Collector to Emitter.
+Option B. same both ways.
+Option C. higher Collector to Emitter.
+Correct Answer is. same both ways.
+Explanation. Without looking too deeply into it, a transistor is two diodes back-to-back, so have high resistance both ways. Aircraft Electricity and Electronics 5th Edition Eismin Page 119.
+
+
+Question Number. 14. A transistor is used in.
+Option A. current amplifiers.
+Option B. both current amplifiers and voltage amplifiers.
+Option C. voltage amplifiers.
+Correct Answer is. both current amplifiers and voltage amplifiers.
+Explanation. A transistor can amplify either current or voltage or both, depending on the configuration (CE, CB, CC).
+
+
+Question Number. 15. Under normal operating conditions X will be.
+Option A. negative with respect to Z.
+Option B. positive with respect to Z.
+Option C. negative with respect to Y.
+Correct Answer is. positive with respect to Z.
+Explanation. The collector on a NPN transistor is more positive than the base and the emitter. Aircraft Electricity and Electronics 5th Edition Eismin Page 116/117.
+
+
+Question Number. 16. In which direction does the current flow on a PNP transistor when forward biased?.
+Option A. Emitter to base.
+Option B. Emitter to collector.
+Option C. Collector to emitter.
+Correct Answer is. Emitter to collector.
+Explanation. PNP, current (conventional) flows emitter to collector.
+
+
+Question Number. 17. With an NPN transistor electrons leave the.
+Option A. Base.
+Option B. Collector.
+Option C. Emitter.
+Correct Answer is. Emitter.
+Explanation. In a NPN electrons (NOT conventional current) leave at the Emitter.
+
+
+Question Number. 18. In a transistor, the arrow always points in the direction of.
+Option A. electron flow.
+Option B. conventional current.
+Option C. emitter.
+Correct Answer is. conventional current.
+Explanation. NIL.
+
+
+Question Number. 19. In an NPN transistor the.
+Option A. collector is more positive than the base.
+Option B. collector is the same as the base.
+Option C. emitter is more positive than the base.
+Correct Answer is. collector is more positive than the base.
+Explanation. NIL.
+
+
+Question Number. 20. In an NPN transistor the.
+Option A. emitter is more positive than the base.
+Option B. collector is more positive than the emitter.
+Option C. emitter is more positive than the collector.
+Correct Answer is. collector is more positive than the emitter.
+Explanation. NIL.
+
+1.2b. Semiconductors - Transistors.
+
+
+Question Number. 1. If light entering a photo transistor decreases, the current to the collector.
+Option A. decreases.
+Option B. remains the same.
+Option C. increases.
+Correct Answer is. decreases.
+Explanation. NIL.
+
+
+Question Number. 2. A silicon bi-polar transistor with two depletion zones.
+Option A. operates by varying electric fields.
+Option B. is a voltage operated device.
+Option C. consists of 3 slices of semiconductor material.
+Correct Answer is. consists of 3 slices of semiconductor material.
+Explanation. NIL.
+
+
+Question Number. 3. How is the amplifier in the diagram shown wired?.
+Option A. Common base.
+Option B. Common emitter.
+Option C. Common collector.
+Correct Answer is. Common emitter.
+Explanation. NIL.
+
+
+Question Number. 4. "To decrease the voltage gain of a common emitter amplifier you would increase
+the resistance in the."
+Option A. base circuit.
+Option B. emitter circuit.
+Option C. collector circuit.
+Correct Answer is. collector circuit.
+Explanation. Decreasing the collector resistance (RL) increases the output voltage of the transistor.
+
+
+Question Number. 5. The current I/P and O/P waveforms in a common emitter amplifier are.
+Option A. out of phase.
+Option B. in phase.
+Option C. 90° out of phase.
+Correct Answer is. out of phase.
+Explanation. NIL.
+
+
+Question Number. 6. Which mode of operation provides the best high frequency response? Common.
+Option A. emitter.
+Option B. base.
+Option C. collector.
+Correct Answer is. base.
+Explanation. NIL.
+
+
+Question Number. 7. A FET when compared to a junction transistor is.
+Option A. low impedance.
+Option B. current operated.
+Option C. high impedance.
+Correct Answer is. high impedance.
+Explanation. The biggest advantage of a FET is its high input impedance.
+
+
+Question Number. 8. One characteristic of the emitter follower is.
+Option A. low resistance output.
+Option B. low current amplification.
+Option C. high voltage amplification.
+Correct Answer is. low resistance output.
+Explanation. The emitter follower (common collector) has the lowest output resistance of all three configurations.
+
+
+Question Number. 9. An amplifier current gain will be slightly less than 1, but its voltage gain will be high, if it is connected in the.
+Option A. common base configuration.
+Option B. common emitter configuration.
+Option C. common collector configuration.
+Correct Answer is. common base configuration.
+Explanation. Only the common base configuration provides a current gain of less than 1.
+
+
+Question Number. 10. The common collector amplifier is sometimes called the emitter follower circuit because.
+Option A. the emitter voltage follows the collector voltage.
+Option B. the emitter current follows the collector current.
+Option C. the emitter voltage follows the base voltage.
+Correct Answer is. the emitter voltage follows the base voltage.
+Explanation. NIL.
+
+
+Question Number. 11. Amplifiers may be classified as.
+Option A. voltage amplifiers or power amplifiers.
+Option B. voltage amplifiers or impedance amplifiers.
+Option C. common emitter or common collector amplifiers.
+Correct Answer is. voltage amplifiers or power amplifiers.
+Explanation. Amplifiers are classified as either voltage or power amplifiers.
+
+
+Question Number. 12. An amplifier can provide both voltage gain and current gain when it is connected in the.
+Option A. common collector configuration.
+Option B. common emitter configuration.
+Option C. common base configuration.
+Correct Answer is. common emitter configuration.
+Explanation. Only the common emitter configuration provides both current and voltage gain greater than 1.
+
+
+Question Number. 13. How do you increase voltage gain of an amplifier?.
+Option A. decrease base circuit bias.
+Option B. decrease input resistance.
+Option C. decrease output resistance.
+Correct Answer is. decrease input resistance.
+Explanation. Amplifier gain = feedback resistance / input resistance.
+
+
+Question Number. 14. In the diagram shown, what is resistor R used for?.
+Option A. Amplification.
+Option B. Bias.
+Option C. Stabilisation.
+Correct Answer is. Stabilisation.
+Explanation. The resister R is used to provide thermal stabilisation to the transistor by supplying negative feedback if the quiescent point moves.
+
+
+Question Number. 15. The input and output signals of a common emitter amplifier are.
+Option A. in phase.
+Option B. equal.
+Option C. out of phase.
+Correct Answer is. out of phase.
+Explanation. The common emitter amplifier is the only configuration which provides an output which is anti-phase with the input.
+
+
+Question Number. 16. A transistor is said to be in the quiescent state when.
+Option A. no currents are flowing.
+Option B. it is unbiased.
+Option C. no signal is applied to the input.
+Correct Answer is. no signal is applied to the input.
+Explanation. The quiescent state of a transistor is when DC is supplied to the base to bias the transistor. No signal is applied.
+
+
+Question Number. 17. A common base transistor circuit is so called because.
+Option A. the base is common to the emitter and collector circuits.
+Option B. the base region is located between the emitter and collector region.
+Option C. the base is n-type material.
+Correct Answer is. the base is common to the emitter and collector circuits.
+Explanation. NIL.
+
+
+Question Number. 18. With reference to the circuit shown below, how is the transistor configured?.
+Option A. Common emitter.
+Option B. Common collector.
+Option C. Common base.
+Correct Answer is. Common emitter.
+Explanation. The diagram shows a common emitter circuit.
+
+
+Question Number. 19. In the circuit diagram shown, R1 and R2 are used to.
+Option A. set the transistor gain.
+Option B. increase the base voltage.
+Option C. set the DC bias level.
+Correct Answer is. set the DC bias level.
+Explanation. The resistors R1 and R2 are to set the bias level of the transistor, i.e. to put the transistor into quiescence.
+
+
+Question Number. 20. In a FET, the junction connections are called.
+Option A. drain, source and gate.
+Option B. drain, collector and junctions.
+Option C. base, collector and emitter.
+Correct Answer is. drain, source and gate.
+Explanation. The leads of a FET are called drain, source and gate. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 21. How is a push-pull transistor arrangement connected?.
+Option A. Collector to collector.
+Option B. Emitter to emitter.
+Option C. Base to base.
+Correct Answer is. Emitter to emitter.
+Explanation. A push pull amplifier is wired emitter to emitter.
+
+
+Question Number. 22. Thermal runaway in a transistor is caused by.
+Option A. excessive heat causing maximum current flow.
+Option B. excessive heat causing minimum current flow.
+Option C. low heat causing minimum current flow.
+Correct Answer is. excessive heat causing maximum current flow.
+Explanation. Thermal runaway is caused by excessive temperature creating an increase in current flow and hence an increase in temperature etc. etc..
+
+
+Question Number. 23. An advantage of a common emitter is.
+Option A. it has high power gain.
+Option B. it is a voltage follower.
+Option C. it has high voltage gain.
+Correct Answer is. it has high power gain.
+Explanation. Common emitter configuration has a high power gain.
+
+
+Question Number. 24. What class of amplifier is biased at cut off?.
+Option A. C.
+Option B. B.
+Option C. A.
+Correct Answer is. B.
+Explanation. NIL.
+
+
+Question Number. 25. When testing a transistor with an ohmmeter, what is the resistance of the emitter/collector?.
+Option A. Low resistance both ways.
+Option B. High resistance one way.
+Option C. High resistance both ways.
+Correct Answer is. High resistance both ways.
+Explanation. Draw a transistor as 2 back to back diodes and work it out from there (same for PNP as NPN). Aircraft Electricity and Electronics 5th Edition Eismin Page 119.
+
+
+Question Number. 26. A transistor at saturation has.
+Option A. low resistance.
+Option B. zero resistance.
+Option C. high resistance.
+Correct Answer is. low resistance.
+Explanation. A transistor at saturation is switched on - therefore has low resistance.
+
+
+Question Number. 27. A capacitor-resistor coupled multistage amplifier lets.
+Option A. DC pass only.
+Option B. AC and DC pass to the next stage.
+Option C. AC pass only.
+Correct Answer is. AC pass only.
+Explanation. A capacitor lets AC pass only.
+
+
+Question Number. 28. An oscillator operating at its natural frequency has feedback which is.
+Option A. 90 degrees out of phase.
+Option B. 180 degrees out of phase.
+Option C. in-phase.
+Correct Answer is. in-phase.
+Explanation. An oscillator provides positive in-phase feedback to switch itself over.
+
+
+Question Number. 29. Which mathematical operation is performed by a modulator amplifier?.
+Option A. Addition.
+Option B. Subtraction.
+Option C. Multiplication.
+Correct Answer is. Multiplication.
+Explanation. A modulator amplifier is a basic input/output amplifier used for amplifying a signal. It 'multiplies' the input signal by the value of the gain.
+
+
+Question Number. 30. A JFET is.
+Option A. either of the above depending on resistance in the circuit.
+Option B. current sensitive.
+Option C. voltage sensitive.
+Correct Answer is. voltage sensitive.
+Explanation. A JFET is voltage sensitive, whereas a normal transistor is current sensitive. Aircraft Electricity and Electronics 5th Edition Eismin Page 119.
+
+
+Question Number. 31. Thermal runaway in a transistor refers to.
+Option A. high current flow when temperature decreases.
+Option B. low current flow when temperature increases.
+Option C. high current flow when temperature increases.
+Correct Answer is. high current flow when temperature increases.
+Explanation. Thermal runaway is caused by the 'negative temperature coefficient' of semiconductors. More heat, less resistant, hence more current. More current, more heat etc. etc..
+
+
+Question Number. 32. Resistors and capacitors are used to couple stages of amplifiers so that.
+Option A. only DC can be applied.
+Option B. only AC can be applied.
+Option C. equal amounts of AC and DC can be applied.
+Correct Answer is. only AC can be applied.
+Explanation. NIL.
+
+
+Question Number. 33. An advantage of a FET when compared to a bi-polar transistor is.
+Option A. the switching time is quicker.
+Option B. the input resistance is higher.
+Option C. the input resistance is lower.
+Correct Answer is. the input resistance is higher.
+Explanation. A FET has a high input resistance and a low output resistance.
+
+
+Question Number. 34. The typical bandwidth for an audio frequency amplifier is shown by line.
+Option A. Z.
+Option B. X.
+Option C. Y.
+Correct Answer is. X.
+Explanation. Audio frequency is typically 15Hz - 20 kHz, so X is the closest.
+
+
+Question Number. 35. Where are decoupling capacitors used in digital circuits?.
+Option A. Between pins 1 & 8.
+Option B. Close to the positive pin.
+Option C. Close to the negative pin.
+Correct Answer is. Close to the positive pin.
+Explanation. Close' is an important requirement. The capacitor has to be as close as possible to the +ve power supply pin. Answer a) could also be true assuming pin 8 to be ground, but in the real world not all pin 8’s are negative, especially in DIL packages with more than 8 pins.
+
+
+Question Number. 36. A Common Collector circuit has the following characteristics.
+Option A. Medium Voltage Gain, High Current Gain, Non-Inverted Output.
+Option B. Low Voltage Gain, High Current Gain, Inverted Output.
+Option C. Medium Voltage Gain, Low Current Gain, Inverted Output.
+Correct Answer is. Medium Voltage Gain, High Current Gain, Non-Inverted Output.
+Explanation. Common collector is a voltage follower, with high current gain.
+
+
+Question Number. 37. In a Common Emitter Amplifier RE is used for.
+Option A. load control.
+Option B. biasing.
+Option C. stabilisation.
+Correct Answer is. stabilisation.
+Explanation. The emitter resistor is a stabilizing resistor.
+
+
+Question Number. 38. In the diagram the relationship of the input to the output is.
+Option A. 180 degrees out of phase.
+Option B. 90 degrees out of phase.
+Option C. in phase.
+Correct Answer is. 180 degrees out of phase.
+Explanation. A Common Emitter configuration inverts the signal.
+
+
+Question Number. 39. The most suitable class of amplifier for a high fidelity radio transmitter is.
+Option A. B.
+Option B. C.
+Option C. A.
+Correct Answer is. A.
+Explanation. Best amplifier is a Class A.
+
+
+Question Number. 40. Which curve is from a Broadband amplifier?.
+Option A. C.
+Option B. A.
+Option C. B.
+Correct Answer is. A.
+Explanation. NIL.
+
+
+Question Number. 41. A transistor in Common Emitter mode gives.
+Option A. high voltage gain only.
+Option B. high current gain only.
+Option C. high power gain.
+Correct Answer is. high power gain.
+Explanation. NIL.
+
+
+Question Number. 42. For a transistor in common emitter mode, the term Hfe indicates.
+Option A. the Voltage gain Vce/Vbe at Ib constant.
+Option B. the Power gain Pin/Pout.
+Option C. the current gain Ic/Ib at Vce constant.
+Correct Answer is. the current gain Ic/Ib at Vce constant.
+Explanation. NIL. http://www.vishay.com/brands/measurements_group/guide/glossary/commodvt.htm
+
+
+Question Number. 43. In a differential amplifier the term 'common mode voltage' means.
+Option A. output voltage with one input connected to common ground.
+Option B. output voltage with non-inverting input at 0 volts.
+Option C. output voltage when both inputs have equal voltages.
+Correct Answer is. output voltage when both inputs have equal voltages.
+Explanation. NIL.
+
+
+Question Number. 44. In an ideal current amplifier.
+Option A. input impedance must be low and output high.
+Option B. input impedance must be high and output low.
+Option C. both input and output impedances must be low.
+Correct Answer is. input impedance must be low and output high.
+Explanation. NIL. http://www.safarix.com/0131470469/ch11lev1sec6
+
+
+Question Number. 45. In an ideal voltage amplifier.
+Option A. input impedance must be high and output impedance low.
+Option B. input impedance must be low and output impedance high.
+Option C. input impedance must be low and output impedance low.
+Correct Answer is. input impedance must be high and output impedance low.
+Explanation. NIL. http://www.safarix.com/0131470469/ch11lev1sec6
+
+
+Question Number. 46. The term ICE related to transistor in common emitter mode means.
+Option A. leakage current flowing between Collector and Emitter with Base open circuited.
+Option B. forward current between Collector and Emitter with Base connected to signal.
+Option C. leakage current between Collector and Emitter with Base connected to ground.
+Correct Answer is. forward current between Collector and Emitter with Base connected to signal.
+Explanation. NIL.
+
+
+Question Number. 47. A common base amplifier has.
+Option A. high input and high output impedance.
+Option B. low input and high output impedance.
+Option C. low input and medium output impedance.
+Correct Answer is. low input and high output impedance.
+Explanation. NIL. http://www.tpub.com/content/neets/14180/css/14180_48.htm
+
+
+Question Number. 48. The emitter, base and collector currents in a common emitter circuit, follow ohm's and kirchoff's law, which is.
+Option A. Ie = Ic - Ib.
+Option B. Ib = Ie + Ic.
+Option C. Ie = Ib + Ic.
+Correct Answer is. Ie = Ib + Ic.
+Explanation. NIL.
+
+1.3a. Integrated Circuits.
+
+
+Question Number. 1. What are the ideal characteristics of an Op Amp?.
+Option A. Infinite gain, infinite input Impedance and infinite output impedance.
+Option B. Infinite gain, infinite input Impedance and zero output impedance.
+Option C. Low gain, infinite input Impedance and zero output impedance.
+Correct Answer is. Infinite gain, infinite input Impedance and zero output impedance.
+Explanation. NIL.
+
+
+Question Number. 2. What gate does the following Boolean expression represent F = A.B.C.
+Option A. AND.
+Option B. OR.
+Option C. NOT.
+Correct Answer is. AND.
+Explanation. NIL.
+
+
+Question Number. 3. What gate does the following Boolean expression represent F = A+B+C.
+Option A. NOR.
+Option B. OR.
+Option C. NOT.
+Correct Answer is. OR.
+Explanation. NIL.
+
+
+Question Number. 4. In an integrated circuit, the components are mounted.
+Option A. by metal screws.
+Option B. by metal oxide film.
+Option C. by means of wires connecting them.
+Correct Answer is. by means of wires connecting them.
+Explanation. A thin film of aluminium is coated over the oxide film onto the surface of the IC to make the conductors.
+
+
+Question Number. 5. A non-inverting op-amp.
+Option A. has an inverting input and a non-inverting output.
+Option B. a non-inverting input connection only.
+Option C. has a non-inverting input and an inverting output.
+Correct Answer is. a non-inverting input connection only.
+Explanation. NIL.
+
+
+Question Number. 6. In an operational amplifier, the two input waves are the same amplitude, same frequency, but exactly anti-phase. What would the output be?.
+Option A. Double.
+Option B. Zero.
+Option C. Half.
+Correct Answer is. Double.
+Explanation. Although the input waves are anti-phase, the inverter input of the op amp inverts one of the inputs, so the two waves actually add to each other.
+
+
+Question Number. 7. In the following Boolean algebra statement, which gate is described?. F = A + B + C.
+Option A. And.
+Option B. Or.
+Option C. Not.
+Correct Answer is. Or.
+Explanation. A+B+C represents an OR gate.
+
+
+Question Number. 8. "In the Boolean algebra statement below, the gate described is
+F = A.B.C."
+Option A. Nand.
+Option B. And.
+Option C. Nor.
+Correct Answer is. And.
+Explanation. A.B.C represents an AND gate.
+
+
+Question Number. 9. Infinite gain, infinite input impedance and zero output impedance is characteristic of a.
+Option A. Class B amp.
+Option B. Class A amp.
+Option C. Op amp.
+Correct Answer is. Op amp.
+Explanation. impedance and zero output impedance are characteristics of the ideal op amp.
+
+
+Question Number. 10. What is meant by a bistable circuit?.
+Option A. The circuit has 2 stable states and will stay in which one it is put.
+Option B. The circuit has 1 stable state and it can be negative or positive.
+Option C. The circuit has 2 stable states and will stay in both at the same time.
+Correct Answer is. The circuit has 2 stable states and will stay in which one it is put.
+Explanation. A bistable circuit has 2 stable states and it will be in only one at a time.
+
+
+Question Number. 11. What does the output voltage of an op-amp depend upon?.
+Option A. The op amp bandwidth.
+Option B. The gain of the op-amp.
+Option C. The resistors in the circuit.
+Correct Answer is. The resistors in the circuit.
+Explanation. The output of an op-amp is controlled by the external resistor circuit.
+
+
+Question Number. 12. What type of gate is an OR gate with both inverted inputs and inverted outputs?.
+Option A. NAND gate.
+Option B. NOR gate.
+Option C. AND gate.
+Correct Answer is. AND gate.
+Explanation. An AND gate can be made by inverting both the inputs and the output of an OR gate.
+
+
+Question Number. 13. Diodes connected in parallel would act like an.
+Option A. an NAND gate.
+Option B. an AND gate.
+Option C. an OR gate.
+Correct Answer is. an AND gate.
+Explanation. NIL.
+
+
+Question Number. 14. The output of the circuit shown will be.
+Option A. -15 V.
+Option B. 0 V.
+Option C. +30 V.
+Correct Answer is. 0 V.
+Explanation. NIL.
+
+1.3b. Integrated Circuits.
+
+
+Question Number. 1. The voltage supply to a Complimentary Metal Oxide Semiconductor (CMOS) integrated circuit must be.
+Option A. 0 V is 5 V DC.
+Option B. 3V to 18V DC.
+Option C. 3V to 15V AC.
+Correct Answer is. 3V to 18V DC.
+Explanation. NIL.
+
+
+Question Number. 2. This is a diagram of a.
+Option A. differentiator.
+Option B. adder.
+Option C. integrator.
+Correct Answer is. differentiator.
+Explanation. A differentiator uses a resistor in the feedback loop across the op amp.
+
+
+Question Number. 2. This is a diagram of a.
+Option A. adder.
+Option B. integrator.
+Option C. differentiator.
+Correct Answer is. differentiator.
+Explanation. A differentiator uses a resistor in the feedback loop across the op amp.
+
+
+Question Number. 3. This is a diagram of a.
+Option A. integrator.
+Option B. adder.
+Option C. differentiator.
+Correct Answer is. integrator.
+Explanation. An integrator has the capacitor in the feedback loop across the op amp.
+
+
+Question Number. 4. How are the pins numbered on an op-amp IC?.
+Option A. from left to right from the dot.
+Option B. counter clockwise from the dot.
+Option C. clockwise from the dot.
+Correct Answer is. counter clockwise from the dot.
+Explanation. Pins on an IC are always numbered counter-clockwise from the dot. Aircraft Electricity and Electronics 5th Edition Eismin Page 140.
+
+
+Question Number. 5. On an integrated circuit the hole in the top left corner is pin 1. The pins are counted.
+Option A. clockwise.
+Option B. from left to right.
+Option C. anticlockwise.
+Correct Answer is. anticlockwise.
+Explanation. On an IC the pins are counted anti-clockwise. Aircraft Electricity and Electronics 5th Edition Eismin Page 140.
+
+
+Question Number. 6. A single integrated circuit Op Amp has how many pins?.
+Option A. 7.
+Option B. 8.
+Option C. 4.
+Correct Answer is. 8.
+Explanation. Inverting and non-inverting input, output, positive and negative supply, two offset null connections (for a potentiometer) plus one leg not used = 8. Aircraft Electricity and Electronics 5th Edition Eismin Page 140.
+
+
+Question Number. 7. What is the output of the amplifier shown?.
+Option A. 5V.
+Option B. 3V.
+Option C. 0V.
+Correct Answer is. 5V.
+Explanation. A basic adding op-amp. 4 + 0 + 1 = 5.
+
+
+Question Number. 8. A logic circuit with more than one gate will have.
+Option A. 2 or more outputs.
+Option B. one of 2 states of logic output.
+Option C. an analogue output.
+Correct Answer is. one of 2 states of logic output.
+Explanation. Logic circuit outputs are either 0 or 1, regardless of the number of gates in the circuit.
+
+
+Question Number. 9. Components on an integrated circuit are.
+Option A. on the surface.
+Option B. in the solid.
+Option C. don't need them.
+Correct Answer is. on the surface.
+Explanation. Components on an integrated circuit are on the surface of the substrate.
+
+
+Question Number. 10. A VLS IC has.
+Option A. more than 10,000 gates.
+Option B. less than 1000 gates.
+Option C. more than 1000 gates.
+Correct Answer is. more than 10,000 gates.
+Explanation. NIL. http://en.wikipedia.org/wiki/Very-large-scale_integration, http://en.wikipedia.org/wiki/Intergrated_circuit
+
+
+Question Number. 11. A momentary input at the reset input of a flip flop will.
+Option A. reset the true output to 0.
+Option B. clock in new data from the data inputs.
+Option C. reset the true output to 1.
+Correct Answer is. reset the true output to 0.
+Explanation. When the value on reset (R) is 1, the value of Q is set to 0 and vice versa.
+
+
+Question Number. 12. Which type of flip flop has only 1 data input?.
+Option A. JK.
+Option B. D.
+Option C. RS.
+Correct Answer is. D.
+Explanation. The D type Flip Flop has only 1 input (besides the clock input).
+
+
+Question Number. 13. When you use an op amp as a buffer it has.
+Option A. low input impedance and high output impedance.
+Option B. high input impedance and low output impedance.
+Option C. the same input an output impedance.
+Correct Answer is. high input impedance and low output impedance.
+Explanation. An op amp is characterised by its high input impedance and low output impedance. Aircraft Electricity and Electronics 5th Edition Eismin Page 288.
+
+
+Question Number. 14. What is required for the switching of a monostable multivibrator?.
+Option A. One trigger pulse to both switch on and off.
+Option B. One trigger pulse to switch on and two trigger pulses to switch off.
+Option C. One trigger pulse to switch on and another to switch off.
+Correct Answer is. One trigger pulse to both switch on and off.
+Explanation. Monostable multivibrators can remain only in one state permanently. When an external trigger pulse is applied, the circuit moves from its permanent stable state then drops back after a short while.
+
+
+Question Number. 15. An astable multivibrator is a.
+Option A. one which requires no input whatsoever.
+Option B. one which requires an input to switch on and off.
+Option C. free running vibrator.
+Correct Answer is. free running vibrator.
+Explanation. An astable multivibrator flips on/off continuously providing it has a power supply.
+
+
+Question Number. 16. Op amps use what power supply?.
+Option A. 26 VAC.
+Option B. 5-15 VDC.
+Option C. 26 VDC.
+Correct Answer is. 5-15 VDC.
+Explanation. Power supplies vary from op-amp to op-amp (manufacturer to manufacturer) but most are +/- 5v to +/- 15v.
+
+
+Question Number. 17. A device which has a high input impedance, low output impedance and high voltage gain is a.
+Option A. Op-Amp.
+Option B. Class A amp.
+Option C. Class B amp.
+Correct Answer is. Op-Amp.
+Explanation. This is the definition of an Op-Amp.
+
+
+Question Number. 18. In an integrated circuit, the components are mounted by.
+Option A. a three dimensional process with no connections between them required.
+Option B. wires connecting them using conformal coating.
+Option C. metal oxide film etched onto the surface.
+Correct Answer is. metal oxide film etched onto the surface.
+Explanation. All three answers are close to the truth. c) is probably the closest. Aircraft Electricity and Electronics 5th Edition Eismin Page 138.
+
+
+Question Number. 19. In an integrated circuit, the components are inserted.
+Option A. automatically.
+Option B. by doping in successive layers.
+Option C. manually.
+Correct Answer is. by doping in successive layers.
+Explanation. An integrated circuit is produced by masking and doping each P and N component successively. Aircraft Electricity and Electronics 5th Edition Eismin Page 121.
+
+
+Question Number. 20. In an electronic circuit with an operational amplifier connected in the push-pull configuration, the circuit.
+Option A. utilizes both sides of the input signal.
+Option B. decreases impedance.
+Option C. blocks half of the input signal.
+Correct Answer is. utilizes both sides of the input signal.
+Explanation. During the positive portion of the AC input signal, the NPN follower drives the output, and during the negative half, the PNP drives the output.
+
+
+Question Number. 21. Pin 3 on an op-amp has a + symbol. This designates.
+Option A. positive input DC pin.
+Option B. non-inverting input.
+Option C. positive offset null.
+Correct Answer is. non-inverting input.
+Explanation. 741 Op-Amp (for example) is the non-inverting input.
+
+
+Question Number. 22. The semiconductor substrate used in 'chips' is most commonly.
+Option A. silicon.
+Option B. phiidide.
+Option C. germanium.
+Correct Answer is. silicon.
+Explanation. Silicon is most commonly used.
+
+
+Question Number. 23. An integrated circuit is manufactured by.
+Option A. doping impurities into layers of intrinsic material.
+Option B. etching copper tracks onto an insulating board.
+Option C. computer hardware, which use individual circuits on ribbon.
+Correct Answer is. doping impurities into layers of intrinsic material.
+Explanation. Aircraft Instruments and Integrated Systems Pallett Page 149/150.
+
+
+Question Number. 24. A monostable vibrator.
+Option A. is switched on by a trigger pulse then within a pre-set time will eventually return to its original state.
+Option B. uses a trigger pulse to turn on and the same pulse to turn off.
+Option C. uses one pulse to turn on and another to turn off.
+Correct Answer is. is switched on by a trigger pulse then within a pre-set time will eventually return to its original state.
+Explanation. A monostable vibrator is switched on by a trigger pulse then within a pre-set time will eventually return to its original state.
+
+
+Question Number. 25. The negative feedback for an op-amp integrator is connected across a.
+Option A. resistor.
+Option B. inductor.
+Option C. capacitor.
+Correct Answer is. capacitor.
+Explanation. NIL.
+
+
+Question Number. 26. The input resistance to an inverting op-amp is 100 Ohms. The feedback resistance is 100 kilohms. What is the amplifier gain?.
+Option A. 1000.
+Option B. 1/1000.
+Option C. -1000.
+Correct Answer is. -1000.
+Explanation. Gain = Feedback/input resistance = 100,000/100 = 1000 (minus because it is inverting).
+
+
+Question Number. 27. In an integrated circuit, active, passive and connecting components are.
+Option A. connected by fine gold wires.
+Option B. mounted on the outside of the solid block.
+Option C. embedded within the solid block.
+Correct Answer is. embedded within the solid block.
+Explanation. Hence the term 'integrated circuit'.
+
+2. Printed Circuit Boards.
+
+
+Question Number. 1. When compared to a system that is constructed on one board, a modular system using Printed Circuit Boards (PCBs) is.
+Option A. harder to fault find.
+Option B. more expensive for spares.
+Option C. easier to fault find.
+Correct Answer is. easier to fault find.
+Explanation. NIL.
+
+
+Question Number. 2. A Printed Circuit Board (PCS) is constructed of a plastic laminate which has bonded to one or both sides.
+Option A. a thin sheet of copper.
+Option B. various thicknesses of copper.
+Option C. a thick sheet of copper.
+Correct Answer is. a thin sheet of copper.
+Explanation. NIL.
+
+
+Question Number. 3. How is a PCB protected after manufacture?.
+Option A. By conformal coating.
+Option B. With non-conductive varnish.
+Option C. With wax.
+Correct Answer is. By conformal coating.
+Explanation. Although varnish is often used on PCBs, 'conformal coating' is the name of the process usually applied to aircraft use PCBs. Aircraft Electricity and Electronics 5th Edition Eismin Page 120.
+
+
+Question Number. 4. A multi-layer PCB has.
+Option A. two or more layers on one or both sides.
+Option B. one layer on either side.
+Option C. two or more layers connected in series.
+Correct Answer is. two or more layers on one or both sides.
+Explanation. CAIPs MMC/1-1 Para 15.
+
+
+Question Number. 5. When removing a microprocessor.
+Option A. ensure the power is OFF to avoid static discharge.
+Option B. no damage is done by static discharge.
+Option C. considerable damage can be done by static discharge.
+Correct Answer is. considerable damage can be done by static discharge.
+Explanation. NIL.
+
+
+Question Number. 6. On a PCB, a decoupling capacitor is used to get rid of transient currents between which points?.
+Option A. The electronic circuit and the aircraft ground.
+Option B. The negative rail and the rest of the circuit.
+Option C. Interspaced along the circuit.
+Correct Answer is. Interspaced along the circuit.
+Explanation. The decoupling capacitor decouples the AC signal from the DC quiescent current.
+
+
+Question Number. 7. A decoupling capacitor in a PCB is used to.
+Option A. minimise transient currents.
+Option B. pass DC only.
+Option C. pass AC only.
+Correct Answer is. pass AC only.
+Explanation. A decoupling capacitor decouples the AC from the DC in a signal, and blocks the DC.
+
+
+Question Number. 8. What is the base material of a PCB?.
+Option A. Insulator.
+Option B. Semiconductor.
+Option C. Conductor.
+Correct Answer is. Insulator.
+Explanation. Insulator. Aircraft Electricity and Electronics 5th Edition Eismin Page 122.
+
+
+Question Number. 9. In a printed circuit board , the surface resistance testing is.
+Option A. insulation resistance between adjacent printed conductor.
+Option B. the resistance between the tow inductors.
+Option C. between the board and the conductor.
+Correct Answer is. insulation resistance between adjacent printed conductor.
+Explanation. CAIPs MMC/1-1 para 4.1.7.
+
+
+Question Number. 10. What are printed circuit boards made of?.
+Option A. Fibreglass board coated with copper in which circuits are etched.
+Option B. Synthetic resin board etched with copper.
+Option C. Matrix board with components soldered on.
+Correct Answer is. Fibreglass board coated with copper in which circuits are etched.
+Explanation. NIL.
+
+3a. Servomechanisms.
+
+
+Question Number. 1. The output of a tachogenerator is.
+Option A. proportional to speed of rotation.
+Option B. proportional to position.
+Option C. proportional to acceleration.
+Correct Answer is. proportional to speed of rotation.
+Explanation. NIL.
+
+
+Question Number. 2. AC power to a synchro system is supplied to.
+Option A. torque transmitter only.
+Option B. both the torque receiver and torque transmitter.
+Option C. torque receiver only.
+Correct Answer is. both the torque receiver and torque transmitter.
+Explanation. NIL.
+
+
+Question Number. 3. A differential synchro.
+Option A. can be used as either a transmitter or a receiver.
+Option B. can only be used as a receiver.
+Option C. can only be used as a transmitter.
+Correct Answer is. can be used as either a transmitter or a receiver.
+Explanation. The TDX is a transmitter, the TDR is a receiver.
+
+
+Question Number. 4. A resolver has.
+Option A. 3 coils on the rotor and 2 coils on the stator.
+Option B. 2 coils on the rotor and 3 coils on the stator.
+Option C. 2 coils on the rotor and 2 coils on the stator.
+Correct Answer is. 2 coils on the rotor and 2 coils on the stator.
+Explanation. NIL.
+
+
+Question Number. 5. The 'null' point on a control synchro is when the two rotors are.
+Option A. wired in series.
+Option B. at 90° to each other.
+Option C. parallel to each other.
+Correct Answer is. at 90° to each other.
+Explanation. NIL.
+
+
+Question Number. 6. The rotor of a desynn indicator is.
+Option A. an electromagnet.
+Option B. a permanent magnet.
+Option C. an AC magnet.
+Correct Answer is. a permanent magnet.
+Explanation. NIL.
+
+
+Question Number. 7. The position feedback from a potentiometer is.
+Option A. anti-phase.
+Option B. in phase.
+Option C. 90 degrees out of phase.
+Correct Answer is. anti-phase.
+Explanation. NIL.
+
+
+Question Number. 8. A differential synchro has.
+Option A. single phase stator, 2 phase rotor.
+Option B. 3 phase stator, 3 phase rotor.
+Option C. 3 phase stator, single phase rotor.
+Correct Answer is. 3 phase stator, 3 phase rotor.
+Explanation. NIL.
+
+
+Question Number. 9. When a servomotor has stopped, the rate feedback from a tachogenerator is.
+Option A. maximum and in phase.
+Option B. maximum and anti-phase.
+Option C. zero.
+Correct Answer is. zero.
+Explanation. NIL.
+
+
+Question Number. 10. A tachogenerator is usually used for.
+Option A. angular feedback.
+Option B. rate feedback.
+Option C. position feedback.
+Correct Answer is. rate feedback.
+Explanation. NIL.
+
+
+Question Number. 11. Differential synchros have.
+Option A. a transmitter and a receiver.
+Option B. a transmitter only.
+Option C. a receiver only.
+Correct Answer is. a transmitter and a receiver.
+Explanation. See Pallett Aircraft Instruments and Integrated Systems pg 135.
+
+
+Question Number. 12. In a torque synchro system, the power supply is connected to.
+Option A. the rotor windings of both the transmitter and receiver.
+Option B. the stator windings of the transmitter.
+Option C. the rotor windings of the transmitter only.
+Correct Answer is. the rotor windings of both the transmitter and receiver.
+Explanation. Pallett Aircraft Instruments and Integrated Systems pg 135. Aircraft Electricity and Electronics 5th Edition Eismin Page 185/6.
+
+
+Question Number. 13. To reduce overshoot errors in a synchro.
+Option A. the gain of the amplifier is increased.
+Option B. the system will have velocity feedback.
+Option C. the system will have position feedback.
+Correct Answer is. the system will have velocity feedback.
+Explanation. Velocity feedback is used to reduce overshoot and oscillations.
+
+
+Question Number. 14. A synchro transformer is used to.
+Option A. add the output of two synchro transmitters.
+Option B. derive an error voltage from a synchro transmitter signal and a shaft position.
+Option C. obtain a 26 volt AC reference.
+Correct Answer is. derive an error voltage from a synchro transmitter signal and a shaft position.
+Explanation. Pallett Automatic Flight Control pg 135.
+
+
+Question Number. 15. Reversal of the complete power to a torque synchro system will.
+Option A. displace the receiver rotor by 180o.
+Option B. cause reverse rotation of the receiver rotor.
+Option C. have no effect.
+Correct Answer is. have no effect.
+Explanation. Since both rotors are supplied with the same AC, reversing the connections to both will have no effect.
+
+
+Question Number. 16. The power supply to a torque synchro system is.
+Option A. AC or DC.
+Option B. AC.
+Option C. DC.
+Correct Answer is. AC.
+Explanation. See Pallett Aircraft Instruments and Integrated Systems pg 135.
+
+
+Question Number. 17. An open loop system is one which has.
+Option A. no direct feedback loop.
+Option B. rate feedback loop.
+Option C. position feedback only.
+Correct Answer is. no direct feedback loop.
+Explanation. Open loop has no feedback.
+
+
+Question Number. 18. Mechanical friction in a servo results in.
+Option A. increased inertia.
+Option B. increased damping.
+Option C. reduced gain.
+Correct Answer is. increased damping.
+Explanation. Friction devices are sometimes used to increase damping and thus decrease oscillations.
+
+
+Question Number. 19. The position feedback signal is.
+Option A. phase advanced by 90° with respect to the input signal.
+Option B. in phase with the input demand signal.
+Option C. in anti-phase with the demand signal.
+Correct Answer is. in anti-phase with the demand signal.
+Explanation. The positive feedback must be in anti-phase if it is to oppose the demand input.
+
+
+Question Number. 20. A servo system that overshoots and oscillates is.
+Option A. under damped.
+Option B. over damped.
+Option C. critically damped.
+Correct Answer is. under damped.
+Explanation. Oscillations are caused by an underdamped system.
+
+
+Question Number. 21. The power supply to a torque synchro system is connected to.
+Option A. the transmitter rotor only.
+Option B. the transmitter stator.
+Option C. the transmitter and receiver rotors.
+Correct Answer is. the transmitter and receiver rotors.
+Explanation. See Pallett Aircraft |Instruments and Integrated Systems pg 135.
+
+
+Question Number. 22. In a toroidal resistance transmitter indicator system, the power supply is connected to.
+Option A. the resistor slab.
+Option B. the rotor.
+Option C. the brushes.
+Correct Answer is. the brushes.
+Explanation. A toroidal resistance indicator is better known as a Desynn indicator.
+
+
+Question Number. 23. When a servo has reached its null and stopped, the velocity feedback is.
+Option A. maximum and anti-phase.
+Option B. maximum and in phase.
+Option C. zero.
+Correct Answer is. zero.
+Explanation. Velocity feedback will stop when the load is at rest.
+
+
+Question Number. 24. The primary purpose of rate feedback in a positional servo system is to.
+Option A. ensure system linearity.
+Option B. prevent excessive overshoot.
+Option C. ensure minimum response time.
+Correct Answer is. prevent excessive overshoot.
+Explanation. Rate feedback is to prevent excessive overshoot and oscillation.
+
+
+Question Number. 25. In an AC rate servo, a steady input will result in the servomotor.
+Option A. rotating to a new datum position.
+Option B. rotating at a constant speed.
+Option C. oscillating about a new datum.
+Correct Answer is. rotating at a constant speed.
+Explanation. An AC rate servo is designed to rotate a load (such as a radar dish) at a constant speed continually.
+
+
+Question Number. 26. In a torque synchro that includes a differential synchro the power supply is connected to.
+Option A. all three rotors.
+Option B. the transmitter and receiver rotors only.
+Option C. the transmitter rotor only.
+Correct Answer is. the transmitter and receiver rotors only.
+Explanation. See Pallett Aircraft Instruments and Integrated Systems pg 135.
+
+
+Question Number. 27. A differential synchro rotor has.
+Option A. three windings.
+Option B. two windings.
+Option C. one winding.
+Correct Answer is. three windings.
+Explanation. See Pallett Aircraft Instruments and Integrated Systems pg 135.
+
+
+Question Number. 28. In a resolver synchro the stator windings are electrically displaced by.
+Option A. 90°.
+Option B. 180°.
+Option C. 120°.
+Correct Answer is. 90°.
+Explanation. Pallett Aircraft Instruments and Integrated Systems pg 135.
+
+
+Question Number. 29. A resolver synchro output is obtained from a rotor with.
+Option A. two coils at 90°.
+Option B. one single coil.
+Option C. three coils at 120°.
+Correct Answer is. two coils at 90°.
+Explanation. Pallett Aircraft Instruments and Integrated Systems pg 135.
+
+
+Question Number. 30. In a speed control servo system (rate control), the purpose of the tachogenerator is.
+Option A. to make the velocity proportional to servo demand.
+Option B. to make the deflection proportional to servo demand.
+Option C. to make it run at constant speed.
+Correct Answer is. to make it run at constant speed.
+Explanation. The tachogenerator is to make the load run at a constant speed.
+
+
+Question Number. 31. The rotor of a torque synchro indicator is.
+Option A. supplied with an excitation voltage.
+Option B. connected in series with the transmitter stator coil.
+Option C. short circuited.
+Correct Answer is. supplied with an excitation voltage.
+Explanation. The excitation voltage is that necessary to magnetise the rotor.
+
+
+Question Number. 32. To increase the output of a servo amplifier, it is necessary to.
+Option A. reduce the tacho feedback.
+Option B. increase the position feedback.
+Option C. increase the tacho feedback.
+Correct Answer is. reduce the tacho feedback.
+Explanation. Tachogenerator feedback opposes the error signal and thus reduces amplifier output.
+
+
+Question Number. 33. Angular displacement of the control coils with respect to the reference coils in a two phase induction motor are.
+Option A. 90°, 270°.
+Option B. 0°, 180°.
+Option C. 90°, 120°.
+Correct Answer is. 90°, 270°.
+Explanation. NIL.
+
+
+Question Number. 34. A servomotor having only a tachogenerator as a feedback device will.
+Option A. vary its speed with input error voltage.
+Option B. null out at a position dependant upon input error voltage.
+Option C. have a constant speed for any given input voltage.
+Correct Answer is. have a constant speed for any given input voltage.
+Explanation. With only a tacho feedback it is a rate servo.
+
+
+Question Number. 35. The null position of a torque synchro system is when.
+Option A. the TX and TR rotors are parallel to each other.
+Option B. the TX and TR rotors are 90° to each other.
+Option C. the TX and TR rotors are 120° to each other.
+Correct Answer is. the TX and TR rotors are parallel to each other.
+Explanation. TX and TR rotors must be parallel to be at the null position.
+
+
+Question Number. 36. An AC tachogenerator stator has.
+Option A. two windings 180° apart.
+Option B. three windings 120° apart.
+Option C. two windings 90° apart.
+Correct Answer is. two windings 90° apart.
+Explanation. NIL.
+
+
+Question Number. 37. When the rotor of an AC tachogenerator is stationary, the rotor has.
+Option A. no magnetic fields.
+Option B. no circulating currents.
+Option C. low circulating currents.
+Correct Answer is. low circulating currents.
+Explanation. A small amount of residual voltage exists on the output winding of an AC tachogenerator when it is stationary.
+
+
+Question Number. 38. A closed loop servomechanism.
+Option A. must only have position feedback.
+Option B. must have both position and velocity feedback.
+Option C. can have either position or velocity feedback.
+Correct Answer is. can have either position or velocity feedback.
+Explanation. A closed loop servomechanism can have either position feedback or velocity feedback or both.
+
+
+Question Number. 39. In a control synchro system the power supply is connected to the.
+Option A. transmitter and receiver rotors.
+Option B. transmitter rotor and amplifier.
+Option C. receiver rotor and amplifier.
+Correct Answer is. transmitter rotor and amplifier.
+Explanation. Pallett Aircraft Instruments and Integrated Systems pg 141.
+
+
+Question Number. 40. Velocity feedback.
+Option A. opposes the demand input.
+Option B. assists the demand input.
+Option C. prevents dead space errors.
+Correct Answer is. opposes the demand input.
+Explanation. Velocity feedback is anti-phase to the demand input and opposes it.
+
+
+Question Number. 41. An increase in velocity feedback will.
+Option A. decrease the speed the load moves.
+Option B. have no effect on speed.
+Option C. increase the speed the load moves.
+Correct Answer is. decrease the speed the load moves.
+Explanation. Velocity feedback opposes demand input therefore it reduces thew speed the load moves.
+
+
+Question Number. 42. Rate feedback can be obtained from a.
+Option A. tachogenerator.
+Option B. synchro.
+Option C. potentiometer.
+Correct Answer is. tachogenerator.
+Explanation. A tachogenerator produces rate feedback.
+
+
+Question Number. 43. Positional feedback can be obtained from a.
+Option A. synchro.
+Option B. potentiometer.
+Option C. tachogenerator.
+Correct Answer is. potentiometer.
+Explanation. A potentiometer produces positional feedback.
+
+
+Question Number. 44. The 'null' point in a control synchro is when the two rotors are.
+Option A. at 90° to each other.
+Option B. wired in series.
+Option C. parallel to each other.
+Correct Answer is. at 90° to each other.
+Explanation. In a control synchro the null position is when the rotors are 90 degrees to each other (unlike a torque synchro where they must be parallel to each other).
+
+
+Question Number. 45. In a control synchro the stator current ceases to flow when the.
+Option A. CT rotor is at null.
+Option B. power is removed.
+Option C. two rotors are aligned.
+Correct Answer is. power is removed.
+Explanation. In a control synchro current flows in the stator lines at all times, regardless of the position of the transformer rotor.
+
+
+Question Number. 46. In a rate servo (speed control) the signal into the servo amplifier is.
+Option A. input voltage plus position feedback voltage.
+Option B. input voltage plus tachogenerator output.
+Option C. input voltage minus tachogenerator output.
+Correct Answer is. input voltage minus tachogenerator output.
+Explanation. In a rate servo the input voltage makes the load rotate and the tachogenerator output (which is negative feedback) prevents it rotating too fast.
+
+
+Question Number. 47. To reduce oscillations about a demand position.
+Option A. the amount of velocity feedback would be increased.
+Option B. the amount of velocity feedback would be decreased.
+Option C. the amount of position feedback would be increased.
+Correct Answer is. the amount of velocity feedback would be increased.
+Explanation. If velocity feedback is increased, there is more opposition to the demand signal and the load will move slower and oscillations will be reduced.
+
+
+Question Number. 48. Positive feedback applied to a servomechanism.
+Option A. increases the response of the system.
+Option B. opposes the demand signal.
+Option C. decreases the response of the system.
+Correct Answer is. increases the response of the system.
+Explanation. Positive feedback will add to the input of the amplifier and increase the response of the system.
+
+
+Question Number. 49. A differential synchro rotor consists of.
+Option A. two windings at 90° apart.
+Option B. one winding parallel to the transmitter rotor.
+Option C. three windings at 120° apart.
+Correct Answer is. three windings at 120° apart.
+Explanation. Pallett Aircraft Instruments and Integrated Systems pg 143.
+
+
+Question Number. 50. A differential synchro transmitter used for addition has.
+Option A. the TDX S1 and S3 connections cross connected to the TX.
+Option B. the TDX S1 and S3 connections cross connected to the TR.
+Option C. the TDX R1, R3 and S1, S3 connections cross connected to the TX.
+Correct Answer is. the TDX R1, R3 and S1, S3 connections cross connected to the TX.
+Explanation. To convert a differential synchro from subtraction to addition you must swap two of the stator leads AND swap two of the rotor leads at the differential transmitter.
+
+
+Question Number. 51. Differential transmitters are used to.
+Option A. add or subtract two electrical signals.
+Option B. add or subtract a mechanical signal to an electrical synchro signal.
+Option C. increase the operating speed of the synchro receiver.
+Correct Answer is. add or subtract a mechanical signal to an electrical synchro signal.
+Explanation. A differential synchro is used to add or subtract a mechanical signal from an electrical signal derived from the synchro transmitter.
+
+
+Question Number. 52. When resolving a Cartesian input to a Polar output.
+Option A. the outputs are two voltages.
+Option B. the inputs are a shaft angle and a voltage.
+Option C. the inputs are two voltages.
+Correct Answer is. the inputs are two voltages.
+Explanation. Cartesian inputs are the X and Y coordinates and are represented by two voltages. The outputs are represented by a voltage and an angular position.
+
+
+Question Number. 53. A resolver synchro output is obtained from a rotor with.
+Option A. one single coil.
+Option B. two coils at 90° to each other.
+Option C. three coils at 120° to each other.
+Correct Answer is. two coils at 90° to each other.
+Explanation. A resolver synchro has two coils at 90 degrees to each other.
+
+
+Question Number. 54. The output of a resolver synchro is.
+Option A. dependant upon the position of the rotor only.
+Option B. proportional to the speed of input rotation.
+Option C. a function of the rotor position and excitation voltage.
+Correct Answer is. a function of the rotor position and excitation voltage.
+Explanation. The output of a resolver synchro is angular position and a voltage to represent the distance.
+
+
+Question Number. 55. The rotor of an autosyn position indicating system is.
+Option A. a permanent magnet.
+Option B. spring controlled.
+Option C. an electromagnet.
+Correct Answer is. an electromagnet.
+Explanation. The rotor of an autosyn position indicating system is an electromagnet.
+
+
+Question Number. 56. The rotor of a magnesyn transmitter is.
+Option A. a permanent magnet.
+Option B. an ac electromagnet.
+Option C. a dc electromagnet.
+Correct Answer is. a permanent magnet.
+Explanation. The rotor of a magnesyn transmitter (and receiver) is a permanent magnet.
+
+
+Question Number. 57. Torque synchro systems are normally used when the.
+Option A. system accuracy is of extreme importance.
+Option B. mechanical load is high.
+Option C. mechanical load is low.
+Correct Answer is. mechanical load is low.
+Explanation. Torque synchros are used for indication only, i.e. when the load is low.
+
+
+Question Number. 58. In a resolver synchro the stator windings are electrically disposed by.
+Option A. 90°.
+Option B. 120°.
+Option C. 180°.
+Correct Answer is. 90°.
+Explanation. A resolver synchro has the windings 90 degrees apart.
+
+
+Question Number. 59. Torque synchro systems are normally used when the.
+Option A. system accuracy is of extreme importance.
+Option B. mechanical load is high.
+Option C. mechanical load is low.
+Correct Answer is. mechanical load is low.
+Explanation. A torque synchro is only used for indication - i.e. the load is low.
+
+
+Question Number. 60. What device transfers one energy type to another?.
+Option A. Transponder.
+Option B. Transducer.
+Option C. Transmitter.
+Correct Answer is. Transducer.
+Explanation. The device that transfers one energy type to another is called a transducer. Aircraft Electricity and Electronics 5th Edition Eismin Page 171.
+
+
+Question Number. 61. Electrical power is supplied to a synchro rotor.
+Option A. through slip rings.
+Option B. through a commutator.
+Option C. directly.
+Correct Answer is. through slip rings.
+Explanation. Electrical power is connected to a synchro rotor through slip rings.
+
+
+Question Number. 62. In a synchro resolver, the stator coils are at what angle in relation to one another?.
+Option A. 45 degrees.
+Option B. 80 degrees.
+Option C. 90 degrees.
+Correct Answer is. 90 degrees.
+Explanation. In a synchro resolver the stator coils are 90 degrees to each other."
+
+
+Question Number. 63. An increase in negative feedback to the servo amplifier.
+Option A. has no effect.
+Option B. increases amplifier stability.
+Option C. decreases amplifier stability.
+Correct Answer is. increases amplifier stability.
+Explanation. Negative feedback helps to increase the stability of an amplifier with changes in temperature and the effects of age.
+
+
+Question Number. 64. In a synchro, what is used to convert signals from one form to another?.
+Option A. Transducer.
+Option B. Transmitter.
+Option C. Transformer.
+Correct Answer is. Transducer.
+Explanation. A 'transducer' converts one signal type to another. Aircraft Electricity and Electronics 5th Edition Eismin Page 171.
+
+
+Question Number. 65. A control surface position feedback signal is.
+Option A. inversely proportional to surface position.
+Option B. proportional to surface position.
+Option C. non-linear.
+Correct Answer is. proportional to surface position.
+Explanation. Position feedback is proportional to surface position. Meaning, as control surface deflection increases, so does the feedback.
+
+
+Question Number. 66. A position gyro will provide.
+Option A. acceleration feedback.
+Option B. velocity feedback.
+Option C. positional feedback.
+Correct Answer is. positional feedback.
+Explanation. Referring to a 'position gyro' as in artificial horizon and directional gyro.
+
+
+Question Number. 67. In velocity feedback the signal is.
+Option A. out of phase.
+Option B. in phase.
+Option C. equal to the error signal.
+Correct Answer is. out of phase.
+Explanation. The velocity feedback must be anti-phase with the error signal in order to oppose it (and thus be negative feedback).
+
+
+Question Number. 68. If velocity feedback in a servo system is above optimum, this will cause.
+Option A. no effect.
+Option B. sluggish operation.
+Option C. hunting.
+Correct Answer is. sluggish operation.
+Explanation. Velocity feedback slows down the operation of the rotor.
+
+
+Question Number. 69. The amount of rate feedback from a tachogenerator is.
+Option A. proportional to speed.
+Option B. constant for all servo speeds.
+Option C. inversely proportional to speed.
+Correct Answer is. proportional to speed.
+Explanation. A tachogenerator provides feedback proportional to its rate (speed).
+
+
+Question Number. 70. What control system is used on an input that gives a controlled predetermined output?.
+Option A. Control Servo.
+Option B. Closed Loop.
+Option C. Open Loop.
+Correct Answer is. Closed Loop.
+Explanation. Only a closed loop control system can give a predetermined output.
+
+
+Question Number. 71. Increasing velocity feedback from optimum will give.
+Option A. faster performance.
+Option B. sluggish performance.
+Option C. no change on the output.
+Correct Answer is. sluggish performance.
+Explanation. Velocity feedback is subtracted from the error signal to reduce the rate of the output.
+
+
+Question Number. 72. A rate control servo system with a steady input voltage will give.
+Option A. decreasing speed.
+Option B. increasing speed.
+Option C. constant speed.
+Correct Answer is. constant speed.
+Explanation. A rate control system with a steady input voltage will give a constant speed output.
+
+
+Question Number. 73. An increase in amplitude of a rate feedback signal will cause.
+Option A. sluggish servo operation.
+Option B. unstable operation.
+Option C. reduced hunting.
+Correct Answer is. reduced hunting.
+Explanation. Rate feedback is to reduce overshoot and oscillation (hunting), therefore, increasing the amplitude (size) of the rate feedback will decrease tendency to hunt.
+
+
+Question Number. 74. An increase in negative feedback.
+Option A. decreases system sensitivity.
+Option B. increases system sensitivity.
+Option C. will make the driven device continuously rotate.
+Correct Answer is. decreases system sensitivity.
+Explanation. Negative feedback (position and/or rate) increases stability but makes the servo unresponsive to small changes.
+
+
+Question Number. 75. Position feedback is used to.
+Option A. indicate to the pilot the position of the load.
+Option B. to prevent control surface oscillations while the surface is being moved.
+Option C. ensure control surface moves to the demanded position by the controls.
+Correct Answer is. ensure control surface moves to the demanded position by the controls.
+Explanation. Position feedback is to ensure control surface moves to (and stops at) the demanded position by the controls.
+
+
+Question Number. 76. The output from a control transformer is.
+Option A. torque.
+Option B. AC voltage.
+Option C. DC voltage.
+Correct Answer is. AC voltage.
+Explanation. The control transformer provides AC voltage in proportion to the error signal.
+
+
+Question Number. 77. The stator output voltages from a synchro resolver are.
+Option A. 3 phase.
+Option B. AC single phase.
+Option C. DC.
+Correct Answer is. AC single phase.
+Explanation. AC single phase from each winding.
+
+
+Question Number. 78. A typical use for resolver synchros is.
+Option A. fly by wire system.
+Option B. engine power instrumentation.
+Option C. in compass comparator units.
+Correct Answer is. in compass comparator units.
+Explanation. A resolver synchro converts Cartesian coordinates (grid refs) to polar (compass reading) and can be used to check the accuracy of the compass system.
+
+
+Question Number. 79. What does a resolver do?.
+Option A. Adds two signals.
+Option B. Resolves a movement into sine and cosine components.
+Option C. Resolves a position into sine and cosine components.
+Correct Answer is. Resolves a position into sine and cosine components.
+Explanation. A resolver converts a position from polar coordinates into cartesian coordinates, and/or vice versa.
+
+
+Question Number. 80. If the feedback is ideally damped, the signal will.
+Option A. overshoots once and return back.
+Option B. not overshoot.
+Option C. oscillate.
+Correct Answer is. overshoots once and return back.
+Explanation. NIL.
+
+
+Question Number. 81. In a tachogenerator the output voltage is.
+Option A. inversely proportional to the speed.
+Option B. zero.
+Option C. directly proportional to the speed.
+Correct Answer is. directly proportional to the speed.
+Explanation. NIL.
+
+
+Question Number. 82. The primary purpose of rate feedback in a positional servo system is to.
+Option A. ensure system linearity.
+Option B. prevent excessive overshoot.
+Option C. ensure minimum response time.
+Correct Answer is. prevent excessive overshoot.
+Explanation. NIL.
+
+
+Question Number. 83. In a control surface position indicating system the feedback signal is.
+Option A. in phase with the control surface position.
+Option B. indirectly proportional to the control surface position.
+Option C. proportional to the control surface position.
+Correct Answer is. proportional to the control surface position.
+Explanation. NIL.
+
+
+Question Number. 84. Synchro systems depend on the principles of.
+Option A. electromagnetic induction.
+Option B. capacitive reaction.
+Option C. mutual Inductance.
+Correct Answer is. mutual Inductance.
+Explanation. NIL.
+
+
+Question Number. 85. A piezoelectric crystal is an example of.
+Option A. an analogue transducer.
+Option B. a Pneumatic Transducer.
+Option C. a Electro Acoustic Transducer.
+Correct Answer is. an analogue transducer.
+Explanation. NIL.
+
+
+Question Number. 86. The difference between an open and closed loop is.
+Option A. error signal.
+Option B. feedback.
+Option C. correspondence.
+Correct Answer is. feedback.
+Explanation. NIL.
+
+
+Question Number. 87. In a Desynn indicator system, where is power supplied to?.
+Option A. Transmitter and indicator.
+Option B. Indicator only.
+Option C. Transmitter only.
+Correct Answer is. Transmitter only.
+Explanation. NIL.
+
+
+Question Number. 88. What does the Desynn indicator rotor consist of?.
+Option A. Electro magnet.
+Option B. Permanent Magnet.
+Option C. Aluminium cored coil.
+Correct Answer is. Permanent Magnet.
+Explanation. NIL.
+
+3b. Servomechanisms.
+
+
+Question Number. 1. When a servomotor overshoots after a step input and oscillates it is.
+Option A. under damped.
+Option B. over damped.
+Option C. critically damped.
+Correct Answer is. under damped.
+Explanation. NIL.
+
+
+Question Number. 2. A reduction from the optimum setting of the velocity feedback in a servo loop could cause.
+Option A. instability.
+Option B. slow response.
+Option C. ow servo gain.
+Correct Answer is. instability.
+Explanation. See Pallett Automatic Flight Control pg 88.
+
+
+Question Number. 3. The phase difference between the supplies of a two phase induction motor is.
+Option A. 90°.
+Option B. 180°.
+Option C. 0°.
+Correct Answer is. 90°.
+Explanation. The phase difference of the two phases applied to an induction motor is 90°.
+
+
+Question Number. 4. If the rotor of the receiver in a torque synchro system was prevented from aligning with the transmitter rotor, then.
+Option A. the transmitter rotor will turn to align with the receiver rotor.
+Option B. the receiver will hunt.
+Option C. the receiver will overheat.
+Correct Answer is. the receiver will overheat.
+Explanation. Current flows in the stator whenever the rotors are not in correspondence.
+
+
+Question Number. 5. An E&I bar output at datum has.
+Option A. an imbalance of voltages in the secondary windings.
+Option B. no induced voltage in the secondary windings.
+Option C. equal and opposite voltages induced in the secondary.
+Correct Answer is. equal and opposite voltages induced in the secondary.
+Explanation. See Pallett Automatic Flight Control pg 130.
+
+
+Question Number. 6. The result of cross connecting two of the transmission leads in a torque synchro system and then turning the rotor of the transmitter 60° clockwise would be.
+Option A. the receiver would move 60° clockwise.
+Option B. the receiver would move 60° anticlockwise.
+Option C. the receiver would move 120° anticlockwise.
+Correct Answer is. the receiver would move 60° anticlockwise.
+Explanation. NIL.
+
+
+Question Number. 7. The control windings of a two phase servomotor is supplied with AC voltage of.
+Option A. variable amplitude, variable phase.
+Option B. variable phase.
+Option C. constant amplitude.
+Correct Answer is. variable amplitude, variable phase.
+Explanation. The control windings are fed with variable amplitude AC but the amplitude can be positive (in phase) or negative (anti-phase).
+
+
+Question Number. 8. If the rotor of a control synchro sticks.
+Option A. the system hunts.
+Option B. the position feedback will oscillate.
+Option C. high current will flow.
+Correct Answer is. high current will flow.
+Explanation. High current flows in the stators whenever the rotors are not in correspondence.
+
+
+Question Number. 9. With the reversal of the connections to the rotor of the transmitter of a torque synchro, the position of the receiver rotor will be.
+Option A. changed by 120°.
+Option B. unchanged.
+Option C. changed by 180°.
+Correct Answer is. changed by 180°.
+Explanation. NIL.
+
+
+Question Number. 10. The application of a 'stick-off' voltage to a control synchro servo system is.
+Option A. to overcome the effect of static friction.
+Option B. to overcome the effect of viscous friction.
+Option C. to prevent alignment to a false null.
+Correct Answer is. to prevent alignment to a false null.
+Explanation. Stick-off voltage is to prevent alignment to a false null (i.e. 180 degrees out) when system is switched off.
+
+
+Question Number. 11. A servo system may include a brake, an automatic trim system is one example where a brake is used. The brake is.
+Option A. applied when trimming is complete to prevent stabilizer creep.
+Option B. applied during trimming to prevent oscillations about the demand position.
+Option C. applied during trimming to prevent servo runaway.
+Correct Answer is. applied when trimming is complete to prevent stabilizer creep.
+Explanation. The trim switch often consists of 2 separate switches. One is to release the brake, the other is to switch on the motor.
+
+
+Question Number. 12. In a control synchro the stator current ceases to flow when.
+Option A. the CT rotor is at null.
+Option B. when power is removed.
+Option C. when the two rotors are aligned.
+Correct Answer is. when power is removed.
+Explanation. In a control synchro, the stator is supplied with current at all times, whatever the transformer rotor position.
+
+
+Question Number. 13. The result of reversing the rotor connections to the receiver of a torque synchro system is that the rotor position.
+Option A. is changed by 180°.
+Option B. is unchanged.
+Option C. is changed by 120°.
+Correct Answer is. is changed by 180°.
+Explanation. NIL.
+
+
+Question Number. 14. A two phase induction motor used in a servomechanism.
+Option A. will always require a starter.
+Option B. runs with no slip.
+Option C. is self starting under light loads.
+Correct Answer is. is self starting under light loads.
+Explanation. NIL.
+
+
+Question Number. 15. A hysteresis servo motor is used in a servomechanism because.
+Option A. it has good starting characteristics.
+Option B. good speed/voltage relationship.
+Option C. low inertia.
+Correct Answer is. it has good starting characteristics.
+Explanation. NIL.
+
+
+Question Number. 16. Reversal of two of the stator connections on a torque synchro receiver would cause.
+Option A. the transmitter to become the receiver.
+Option B. the output to move the same direction as the input.
+Option C. the output to move the reverse direction to the input.
+Correct Answer is. the output to move the reverse direction to the input.
+Explanation. NIL.
+
+
+Question Number. 17. The output of a tachogenerator should be.
+Option A. exponential.
+Option B. linear.
+Option C. sinusoidal.
+Correct Answer is. sinusoidal.
+Explanation. The output should be the same waveform as the input, i.e. sinusoidal.
+
+
+Question Number. 18. With a constant input to a speed control servo, the servo motor.
+Option A. moves to a certain position.
+Option B. moves at a constant speed.
+Option C. oscillates, but otherwise does not move.
+Correct Answer is. moves at a constant speed.
+Explanation. A speed control servo moves the load (e.g. a radar dish) at constant speed.
+
+
+Question Number. 19. Critical damping in a servomechanism is.
+Option A. the point which allows just one overshoot before the load comes to rest.
+Option B. the amount of damping that results in the load just not oscillating.
+Option C. the critical damping required for the optimum damping of the servomechanism.
+Correct Answer is. the amount of damping that results in the load just not oscillating.
+Explanation. damping results in the fastest time to demand position without any overshoot.
+
+
+Question Number. 20. Reverse rotation of a control transformer rotor can be caused by.
+Option A. connections to the transmitter rotor reversed.
+Option B. connections between the transformer rotor and the amplifier reversed.
+Option C. short circuit between two transmission lines.
+Correct Answer is. connections between the transformer rotor and the amplifier reversed.
+Explanation. Reversing the connections to the amplifier will make the motor run backwards. Then the feedback will drive the transformer rotor in the wrong direction.
+
+
+Question Number. 21. Velocity lag can be decreased by.
+Option A. keeping the error detector (summing point) output as low as possible.
+Option B. introduction of an integrator.
+Option C. decreasing the coulomb friction in the system.
+Correct Answer is. decreasing the coulomb friction in the system.
+Explanation. Coulomb friction is one of the things which causes velocity lag.
+
+
+Question Number. 22. A two phase motor will stop when.
+Option A. the control phase is reversed.
+Option B. the reference phase is reversed.
+Option C. the control phase is zero.
+Correct Answer is. the control phase is zero.
+Explanation. A two phase motor will stop when the control phase is zero (i.e. no output).
+
+
+Question Number. 23. A tachogenerator output is.
+Option A. variable frequency, constant voltage.
+Option B. variable frequency, variable voltage.
+Option C. variable voltage, constant frequency.
+Correct Answer is. variable voltage, constant frequency.
+Explanation. A tachogenerator output is the same frequency as the input (i.e. constant) but the voltage varies.
+
+
+Question Number. 24. If two of the stator leads are cross connected in a control synchro system, a 25° clockwise rotation of the input rotor would result in the output rotor.
+Option A. moving 180° to rectify the defect.
+Option B. moving 25° anticlockwise.
+Option C. moving 25° clockwise.
+Correct Answer is. moving 25° anticlockwise.
+Explanation. Cross connecting two stator leads of a control synchro will make the magnetic field in the receiver rotate in the opposite direction as the transmitter.
+
+
+Question Number. 25. Damping in a servomechanism is easier to apply if.
+Option A. the mechanism is light and has high inertia.
+Option B. the mechanism is light and has low inertia.
+Option C. the mechanism is heavy and has high inertia.
+Correct Answer is. the mechanism is light and has low inertia.
+Explanation. Overshoot and oscillation is greatest when the mechanism is heavy and has a high inertia.
+
+
+Question Number. 26. If the electrical connections to the feedback generator in a control synchro system were disconnected, the.
+Option A. motor would run in the wrong direction.
+Option B. input signal to the amplifier would reduce.
+Option C. system would tend to oscillate.
+Correct Answer is. system would tend to oscillate.
+Explanation. Feedback from the tachogenerator prevents overspeed and overshoot, so disconnecting the feedback will cause the load to overshoot and oscillate.
+
+
+Question Number. 27. An increase in servo amplifier gain.
+Option A. increases system response.
+Option B. reduces tendency to hunt.
+Option C. reduces the speed of the system.
+Correct Answer is. increases system response.
+Explanation. Increasing servo-amplifier gain will make the system respond faster but will also cause it to overshoot and oscillate (hunt).
+
+
+Question Number. 28. The term 'velocity lag' refers to a.
+Option A. speed error.
+Option B. acceleration error.
+Option C. position error.
+Correct Answer is. position error.
+Explanation. Velocity lag is the difference between the demand input and the load position. It is therefore a position error.
+
+
+Question Number. 29. The rotor of an AC tachogenerator.
+Option A. rotates at constant speed.
+Option B. has skewed slots.
+Option C. has a copper, brass or aluminium cylinder.
+Correct Answer is. has a copper, brass or aluminium cylinder.
+Explanation. An AC generator rotor is made from a diamagnetic material such as copper, brass or aluminium.
+
+
+Question Number. 30. A servo system with transient negative velocity feedback.
+Option A. is damped with little velocity lag.
+Option B. is underdamped with high velocity lag.
+Option C. is damped with high velocity lag.
+Correct Answer is. is damped with little velocity lag.
+Explanation. Transient velocity feedback is a variable feedback which can be switched on when the system is about to overshoot (and anticipates the overshoot). But it can also be switched off when it is not required to reduce the velocity lag.
+
+
+Question Number. 31. To reverse the direction of rotation of a two phase induction motor.
+Option A. reverse the polarity of both the control phase and reference phase.
+Option B. reverse the polarity of the control phase.
+Option C. shift the reference by 90°.
+Correct Answer is. reverse the polarity of the control phase.
+Explanation. To reverse the direction of a two phase induction motor the control phase must be out of phase with the reference phase.
+
+
+Question Number. 32. Loss of DC to a servo amplifier causes the motor to.
+Option A. reverse.
+Option B. stop.
+Option C. run continuously.
+Correct Answer is. stop.
+Explanation. Loss of DC to the servo-amplifier will cause the amplifier to stop working and the motor will therefore stop running.
+
+
+Question Number. 33. An AC servo demand can be converted to drive a DC motor by the introduction of a.
+Option A. rectifier.
+Option B. demodulator.
+Option C. modulator.
+Correct Answer is. demodulator.
+Explanation. A demodulator differs from a rectifier in that it can sense the phase of the AC input, and give an output either positive DC or negative DC accordingly. This then drives the DC motor in the correct direction.
+
+
+Question Number. 34. Synchro indicator systems are used when the indication is required to move.
+Option A. a fraction of the input distance.
+Option B. at the same rate as the input.
+Option C. slower than the input rate.
+Correct Answer is. at the same rate as the input.
+Explanation. A synchro indicator moves at the same speed as the input.
+
+
+Question Number. 35. A linear variable differential transformer is used to measure position feedback where.
+Option A. an output whose phase is related to direction of movement and amplitude linear over a wide range.
+Option B. 360° of rotation and high angular accuracy is required.
+Option C. is of limited importance but robust construction and reliability is important.
+Correct Answer is. an output whose phase is related to direction of movement and amplitude linear over a wide range.
+Explanation. An LVDT measures position and provides a different phase according to the direction of movement.
+
+
+Question Number. 36. A low frequency sinusoidal input will cause a closed loop servomechanism load to.
+Option A. move backwards and forwards at the input frequency.
+Option B. move backwards and forwards at the input frequency.
+Option C. move to a demand position with no overshoot.
+Correct Answer is. move to a demand position with no overshoot.
+Explanation. A closed loop servo mechanism (whatever frequency) will move to the demand position with no or minimal overshoot.
+
+
+Question Number. 37. If a servo amplifier is suffering from drift.
+Option A. the load would move to a new position, proportional to the drift and then return back to the datum position.
+Option B. the load would move to a new position, proportional to the drift and stay there.
+Option C. the load would oscillate about the datum position.
+Correct Answer is. the load would move to a new position, proportional to the drift and stay there.
+Explanation. If a servo amplifier suffers from drift (e.g. due to age or temperature), the load will move to a new position and stop when the position feedback cancels out the drift signal.
+
+
+Question Number. 38. In a transient velocity feedback circuit, the tachogenerator output is summated with the demand voltage.
+Option A. at all times when the load is moving.
+Option B. only when the load is speeding up or slowing down.
+Option C. only when the load is slowing down.
+Correct Answer is. only when the load is speeding up or slowing down.
+Explanation. Automatic Flight Control EHJ Pallett Page 91.
+
+
+Question Number. 39. An LVDT has.
+Option A. an output winding which is wound in series opposition.
+Option B. an input winding whose voltage will change with load movement.
+Option C. an output winding whose voltage and frequency is linear to load angular movement.
+Correct Answer is. an output winding which is wound in series opposition.
+Explanation. An LVDT has an output winding which is wound in series opposition.
+
+
+Question Number. 40. To convert a differential synchro from subtraction to addition you would.
+Option A. change over two rotor and two stator connections.
+Option B. change over all three stator windings.
+Option C. reverse the reference phase supply.
+Correct Answer is. change over two rotor and two stator connections.
+Explanation. To convert a differential synchro from subtraction to addition you must swap two of the rotor leads AND swap two of the stator leads.
+
+
+Question Number. 41. In general the accuracy of a synchro system increases if the.
+Option A. stator current is low.
+Option B. rotor current is high.
+Option C. stator current is high.
+Correct Answer is. stator current is low.
+Explanation. The synchro system is only accurate when the two rotors are in correspondence. At this time the stator current is zero.
+
+
+Question Number. 42. The induced signal in the output coils of the magnesyn system.
+Option A. de-saturates the soft iron core.
+Option B. is of a value of 800 Hz.
+Option C. damps the pointer oscillations.
+Correct Answer is. is of a value of 800 Hz.
+Explanation. A signal from the permanent magnet flux is induced every time the soft iron comes out of saturation. Therefore, if the supply is 400 Hz the induced signal is 800 Hz.
+
+
+Question Number. 43. The direction of the induced (secondary) magnetic field in a synchro transmitter.
+Option A. in the same direction as the primary field.
+Option B. is in the opposite direction to the primary field.
+Option C. is 90° to the primary magnetic field.
+Correct Answer is. is in the opposite direction to the primary field.
+Explanation. The rotor of a synchro transmitter induces a current into the stator coils. The stator coils produce a magnetic field which opposes the field in the rotor which created it. (Similar to the secondary field of a transformer).
+
+
+Question Number. 44. The cogging effect in synchros is rectified by.
+Option A. using an elliptical cog.
+Option B. skewing the rotor.
+Option C. using carbon brushes.
+Correct Answer is. skewing the rotor.
+Explanation. The cogging effect in a synchro is prevented by skewing (or twisting) the rotor.
+
+
+Question Number. 45. Reversal of the power supply to either the transmitter or the receiver of a torque synchro system would.
+Option A. make the receiver rotor rotate in the opposite direction.
+Option B. cause a 180° displacement between the transmitter and the receiver.
+Option C. have no effect on the indication, but would cause a heavy current to flow.
+Correct Answer is. cause a 180° displacement between the transmitter and the receiver.
+Explanation. Reversal of the power supply to either the transmitter or the receiver will cause a 180 degree displacement of the receiver rotor.
+
+
+Question Number. 46. The purpose of a flywheel incorporated in a synchro is to.
+Option A. increase the driving force.
+Option B. prevent insect ingress.
+Option C. prevent oscillations.
+Correct Answer is. prevent oscillations.
+Explanation. The purpose of a flywheel on a synchro is as part of a eddy current (coulomb friction) damping mechanism.
+
+
+Question Number. 47. In a synchro system, if two stator lines are crossed the receiver will.
+Option A. be 180° out.
+Option B. not be affected.
+Option C. reverse direction.
+Correct Answer is. reverse direction.
+Explanation. If two stator lines are crossed the receiver will reverse in direction.
+
+
+Question Number. 48. In an E and I signal generator at datum, the voltage on the secondary windings.
+Option A. is zero.
+Option B. is maximum.
+Option C. are equal and opposite.
+Correct Answer is. are equal and opposite.
+Explanation. Since an EandI bar transformer secondary winding is wound in series opposition, at datum the voltage in the secondary windings will be equal and opposite and cancel.
+
+
+Question Number. 49. In a synchrotel, the.
+Option A. stator coil is fixed and the rotor coil moves.
+Option B. rotor coil and stator coil is fixed.
+Option C. rotor coil is fixed and the stator coil moves.
+Correct Answer is. rotor coil and stator coil is fixed.
+Explanation. Aircraft Instruments and Integrated Systems Pallett Page 149/150.
+
+
+Question Number. 50. An E&I transformer out of datum has.
+Option A. equal and opposite voltages in each windings.
+Option B. unequal and opposite voltages in both windings.
+Option C. no voltage in either winding.
+Correct Answer is. unequal and opposite voltages in both windings.
+Explanation. Off datum, the E&I transformer has unequal and opposite voltages in the windings (and hence an output).
+
+
+Question Number. 51. When is maximum voltage induced into the rotor of a control synchro transformer?.
+Option A. 90 degrees (null position).
+Option B. 0 degrees.
+Option C. When spinning fast.
+Correct Answer is. 0 degrees.
+Explanation. NIL.
+
+
+Question Number. 52. To check the output of a synchro stator it would be preferable to use.
+Option A. a Valve Voltmeter.
+Option B. a Cambridge Bridge.
+Option C. an Avometer.
+Correct Answer is. a Valve Voltmeter.
+Explanation. Since the synchro stator output is a very low voltage, a high impedance multimeter would be used. Since this is not an answer provided the most sensitive of the three is the Valve Voltmeter.
+
+
+Question Number. 53. Synchro capacitors are connected into synchro systems to.
+Option A. act as spark suppression due to wear of the slip rings.
+Option B. increase the accuracy of the control synchro.
+Option C. minimize the torque synchro stator current at null.
+Correct Answer is. increase the accuracy of the control synchro.
+Explanation. Synchro capacitors increase the accuracy of the synchro system.
+
+
+Question Number. 54. In a slab desynn transmitter the.
+Option A. pick-offs form part of the circuit resistance.
+Option B. pick-offs rotate on the slab resister.
+Option C. pick-offs are connected to a spark suppressor.
+Correct Answer is. pick-offs rotate on the slab resister.
+Explanation. The pick-offs rotate on the slab resistor. Aircraft Electricity and Electronics 5th Edition Eismin Page 352.
+
+
+Question Number. 55. If, in a servo system, the amplitude from the feedback system is below normal, the servo will.
+Option A. be sluggish in operation.
+Option B. oscillate.
+Option C. be overdamped.
+Correct Answer is. oscillate.
+Explanation. The feedback system is designed to prevent overshoot and oscillation (hunting).
+
+
+Question Number. 56. A desynn instrument has a positive regular increasing error, you would adjust.
+Option A. lever length.
+Option B. lever angle and lever length.
+Option C. lever angle.
+Correct Answer is. lever angle.
+Explanation. NIL.
+
+
+Question Number. 57. Torque synchro receiver bearing friction will cause.
+Option A. improved accuracy.
+Option B. misalignment.
+Option C. hunting.
+Correct Answer is. misalignment.
+Explanation. Bearing friction will cause the delicate rotor to stop before the desired position.
+
+
+Question Number. 58. A control synchro system pointer is.
+Option A. actuated by a permanent magnet.
+Option B. displaced by the torque of the stator.
+Option C. motor driven.
+Correct Answer is. motor driven.
+Explanation. The receiver of a control synchro is effectively a slow speed synchronous motor.
+
+
+Question Number. 59. A D.C. signal converted to a phase sensitive A.C. is.
+Option A. modulation.
+Option B. demodulation.
+Option C. phase conversion.
+Correct Answer is. modulation.
+Explanation. DC to phase sensitive AC = 'modulation'.
+
+
+Question Number. 60. The rotor coil of a synchrotel.
+Option A. rotates only when a current flows in it.
+Option B. rotates.
+Option C. is stationary.
+Correct Answer is. is stationary.
+Explanation. NIL.
+
+
+Question Number. 61. The purpose of synchro capacitors in a differential synchro transmission system.
+Option A. reduce stator circuit impedance.
+Option B. to reduce stator current.
+Option C. reduce rotor current.
+Correct Answer is. to reduce stator current.
+Explanation. Synchro capacitors reduce stator current and make the synchro system more accurate.
+
+
+Question Number. 62. The purpose of a flywheel in a synchro receiver indicator is to.
+Option A. increase driving torque.
+Option B. prevent spinning or oscillation.
+Option C. encourage spinning.
+Correct Answer is. prevent spinning or oscillation.
+Explanation. The flywheel is coupled to some form of brake (e.g. magnetic) to reduce oscillations.
+
+
+Question Number. 63. A linear variometer is.
+Option A. a special synchro giving ac output proportional to shaft angle.
+Option B. a special auto transformer for synchro system power supplies.
+Option C. an alternative term for a desynn system.
+Correct Answer is. a special synchro giving ac output proportional to shaft angle.
+Explanation. A linear variometer is a device which gives an output voltage directly proportional to angle when coupled to a gyro (for example).
+
+
+Question Number. 64. In a synchrotel the rotating winding is.
+Option A. the stator.
+Option B. rotor.
+Option C. neither.
+Correct Answer is. neither.
+Explanation. This is a trick question, because a synchrotel has NO rotating winding. Aircraft Instruments and Integrated Systems Pallett Page 149/150.
+
+
+Question Number. 65. The receiver rotor in a torque synchro system oscillates over an arc of approx 75 degrees. The probable cause is.
+Option A. one stator line open circuit.
+Option B. two stator lines reversed.
+Option C. short circuit between two stator lines.
+Correct Answer is. one stator line open circuit.
+Explanation. A 'possible' symptom of a stator line open.
+
+
+Question Number. 66. Synchro capacitors are fitted.
+Option A. to improve sensitivity and accuracy.
+Option B. to provide critical damping.
+Option C. to make additional damping features unnecessary.
+Correct Answer is. to improve sensitivity and accuracy.
+Explanation. Synchro capacitors reduce stator current and make the synchro system more accurate.
+
+
+Question Number. 67. The output of a control transformer is made.
+Option A. phase and amplitude sensitive by direction and magnitude of the transmitter rotor movement respectively.
+Option B. phase and amplitude sensitive by magnitude and direction of the transmitter rotor movement respectively.
+Option C. phase sensitive by transmitter rotor excitation and amplitude sensitive by direction of transmitter rotor movement.
+Correct Answer is. phase and amplitude sensitive by direction and magnitude of the transmitter rotor movement respectively.
+Explanation. Phase provided by TX rotor direction, amplitude provided by TX rotor displacement (magnitude).
+
+
+Question Number. 68. The letter 'B' following the identification code on the case of a synchro denotes.
+Option A. that the synchro is second hand.
+Option B. the modification status.
+Option C. that the stator is rotatable.
+Correct Answer is. that the stator is rotatable.
+Explanation. NIL. http://www.tpub.com/content/neets/14187/css/14187_18.htm
+
+
+Question Number. 69. TX is the abbreviation for a.
+Option A. torque transmitter.
+Option B. control transformer.
+Option C. torque receiver.
+Correct Answer is. torque transmitter.
+Explanation. NIL.
+
+
+Question Number. 70. TR is the abbreviation for a.
+Option A. transmitter Resolver.
+Option B. torque receiver.
+Option C. torque synchro.
+Correct Answer is. torque receiver.
+Explanation. NIL.
+
+
+Question Number. 71. When a synchro system is in correspondence, its transmitter and receiver.
+Option A. are in phase.
+Option B. are anti-phase.
+Option C. are at 90° to each other.
+Correct Answer is. are in phase.
+Explanation. NIL.
+
+4.
+
+
+Question Number. 1. The reference phase to a synchro is.
+Option A. 50 Hz.
+Option B. 28 VDC.
+Option C. 400 Hz.
+Correct Answer is. 400 Hz.
+Explanation. Aircraft Electricity and Electronics, TK Eismin Page 353.
+
+
+Question Number. 2. In rate feedback, when the motor has reached the commanded position, the output will be.
+Option A. maximum and in-phase with the input.
+Option B. maximum and out-of-phase with the input.
+Option C. zero.
+Correct Answer is. zero.
+Explanation. Assuming it is a position servo, not a rate servo (but all three answers are incorrect if it is a rate servo).
+
+
+Question Number. 3. What power is required for a desynn indicator system?.
+Option A. DC.
+Option B. AC 400 Hz.
+Option C. AC 50 Hz.
+Correct Answer is. DC.
+Explanation. NIL.
+
+
+Question Number. 4. What material would have 3 electrons in the outermost orbit?.
+Option A. Majority Carrier material.
+Option B. The donor to an N-Type semi-conductor material.
+Option C. The acceptor to a P-Type semi-conductor material.
+Correct Answer is. The acceptor to a P-Type semi-conductor material.
+Explanation. NIL.
+
+
+Question Number. 5. a microprocessor on a PCB.
+Option A. is not easily damaged by static-electricity.
+Option B. is easily damaged by static-electricity if mishandling.
+Option C. is only easily damaged by static-electricity if removed from teh PCB.
+Correct Answer is. is easily damaged by static-electricity if mishandling.
+Explanation. NIL.
+
+
+Question Number. 6. On a torque synchro, the AC power supply is applied to.
+Option A. the rotors of both the transmitter and the receiver.
+Option B. the rotor of the transmitter only.
+Option C. the stators of both the transmitter and the receiver.
+Correct Answer is. the rotors of both the transmitter and the receiver.
+Explanation. NIL.
+
+
+Question Number. 7. The Characteristic Curve of a transistor is plotted on axis of.
+Option A. base current against Vec.
+Option B. collector current against Vbe.
+Option C. collector current against Vec.
+Correct Answer is. collector current against Vec.
+Explanation. NIL. http://www.st-andrews.ac.uk/~jcgl/Scots_Guide/info/comp/active/BiPolar/bpcur.html
+
+
+Question Number. 8. Amplifier output characteristics are defined by.
+Option A. the collector resistance.
+Option B. the effect of the load resistor.
+Option C. the configuration of the transistor.
+Correct Answer is. the configuration of the transistor.
+Explanation. NIL.
+
+
+Question Number. 9. What Type of Diode is this?.
+Option A. Varactor Diode.
+Option B. Double Acting Diode.
+Option C. Shottky Diode.
+Correct Answer is. Shottky Diode.
+Explanation. NIL. http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/varactor.html
+
+
+Question Number. 10. A device which provides cheap and convenient variable power supply is a.
+Option A. Diac.
+Option B. Variac.
+Option C. Triac.
+Correct Answer is. Variac.
+Explanation. NIL. http://en.wikipedia.org/wiki/Autotransformer

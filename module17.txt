@@ -1,0 +1,2486 @@
+17.1. Fundamentals.
+
+Question Number.       1.         High speed propellers are designed to.                     
+Option A.        rotate at high RPM.  
+Option B.        operate at high forward speeds.        
+Option C.        operate at supersonic tip speeds.       
+Correct Answer is.      operate at high forward speeds.        
+Explanation.    NIL.  
+
+
+Question Number.       2.         When in the windmill position ATM.           
+Option A.        opposes CTM.
+Option B.        is not related to CTM.
+Option C.        assists CTM.  
+Correct Answer is.      assists CTM.  
+Explanation.    ATM normally increases blade angle but in the windmill condition reverses and assists CTM.      
+
+
+Question Number.       3.         The optimum angle for a fixed pitch propeller is.                 
+Option A.        15 degrees.    
+Option B.        2 - 4 degrees. 
+Option C.        6 - 10 degrees.
+Correct Answer is.      2 - 4 degrees. 
+Explanation.    Jepperson A&P Powerplant Page 12-4 Refers.        
+
+
+Question Number.       4.         A left handed propeller is one that.              
+Option A.        rotates clockwise when viewed from the rear.         
+Option B.        rotates clockwise when viewed from the front.       
+Option C.        is fitted to an engine on the left side of the aircraft.
+Correct Answer is.      rotates clockwise when viewed from the front.       
+Explanation.    Left hand propeller rotates anti-clockwise when viewed from the rear.            http://www.baypropeller.com/parts.html
+
+
+Question Number.       5.         Forces acting on a propeller are.                   
+Option A.        centrifugal, twisting, and bending.   
+Option B.        torque, thrust and centrifugal.          
+Option C.        torsion, tension and thrust.   
+Correct Answer is.      centrifugal, twisting, and bending.   
+Explanation.    Jepperson Powerplant Page 12-5 to 12-7 refers.       
+
+
+Question Number.       6.         The blade angle at the root is.           
+Option A.        less than the tip.        
+Option B.        same from tip to root.
+Option C.        greater than the tip.   
+Correct Answer is.      greater than the tip.   
+Explanation.    Jepperson Aircraft Propellers and Controls Page 13 Refers.
+
+
+Question Number.       7.         What force on a propeller blade turns the blades to a fine pitch?.               
+Option A.        ATM.
+Option B.        Torque.          
+Option C.        CTM. 
+Correct Answer is.      CTM. 
+Explanation.    Jepperson Aircraft Propellers and Controls Page 15 refers. 
+
+
+Question Number.       8.         The purpose of propeller twist is.                  
+Option A.        coarsen the blade angle at the root.  
+Option B.        to maintain Blade Angle along the blade.    
+Option C.        to maintain Angle of Attack at the same value along the blade.      
+Correct Answer is.      to maintain Angle of Attack at the same value along the blade.      
+Explanation.    Jepperson Aircraft Propellers and Controls Page 13 Refers.
+
+
+Question Number.       9.         The forces acting on a propeller blade are.               
+Option A.        bending, twisting and centrifugal.    
+Option B.        thrust, aerodynamic and tension.      
+Option C.        thrust and torque.      
+Correct Answer is.      bending, twisting and centrifugal.    
+Explanation.    Refer Jepperson Powerplant Page 12- 5 to 7.
+
+
+Question Number.       10.       Blade angle at the root is.                 
+Option A.        low.   
+Option B.        high.  
+Option C.        master blade angle.   
+Correct Answer is.      high.  
+Explanation.    Jepperson Aircraft Propellers and Control Pages 55-58 Refer.        
+
+
+Question Number.       11.       Blade angle is taken from the chord and.                 
+Option A.        propeller shaft.          
+Option B.        relative airflow.         
+Option C.        plane of rotation.       
+Correct Answer is.      plane of rotation.       
+Explanation.    Jepperson Aircraft Propellers and Control Page132 refer.   
+
+
+Question Number.       12.       What forces act on a propeller blade?.                      
+Option A.        Thrust and torque.     
+Option B.        Bending, thrust, torque.        
+Option C.        Bending, CTM and ATM.    
+Correct Answer is.      Bending, CTM and ATM.    
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 14-15 Note Thrust and Torque are both.   
+
+
+Question Number.       13.       CTM will.                  
+Option A.        try to bend the blade away from the engine.
+Option B.        turn the blade about the lateral axis. 
+Option C.        cause the tips to rotate at supersonic speeds.
+Correct Answer is.      turn the blade about the lateral axis. 
+Explanation.    Jepperson Aircraft Propellers and Controls page Page 15 refers.     
+
+
+Question Number.       14.       From reverse pitch, to return to normal pitch it.                   
+Option A.        passes through coarse then fine.       
+Option B.        passes through coarse.
+Option C.        passes through fine.  
+Correct Answer is.      passes through fine.  
+Explanation.    NIL.  
+
+
+Question Number.       15.       When in reverse pitch, CTM will tend to move the  propeller blades towards.                   
+Option A.        a positive pitch.         
+Option B.        a position depending on rpm.
+Option C.        a negative pitch.        
+Correct Answer is.      a positive pitch.         
+Explanation.    CTM always rotates towards the plane of rotation. 
+
+
+Question Number.       16.       If the blade angle is increased.                     
+Option A.        the pitch becomes finer.        
+Option B.        the pitch becomes coarser.    
+Option C.        lateral stability decreases.     
+Correct Answer is.      the pitch becomes coarser.    
+Explanation.    Pitch is an alternative name for blade angle.
+
+
+Question Number.       17.       As a propeller blade moves through the air, forces are produced, which are known as.                      
+Option A.        lift and torque.          
+Option B.        lift and drag. 
+Option C.        thrust and torque.      
+Correct Answer is.      thrust and torque.      
+Explanation.    Jepperson A & P Powerplant Page 12-6.
+
+
+Question Number.       18.       A rotating propeller imparts rearwards motion to a.             
+Option A.        small mass of air at high velocity.     
+Option B.        large mass of air at low velocity.      
+Option C.        small mass of air at low velocity.      
+Correct Answer is.      large mass of air at low velocity.      
+Explanation.    Kermode Mechanics of Flight Fig 4.4 refers.
+
+
+Question Number.       19.       Propeller efficiency is.                      
+Option A.        the ratio of output speed to input propeller speed.   
+Option B.        the ratio of the work applied to the geometric pitch to useful work on the C.S.U. 
+Option C.        the ratio of the useful work done by the propeller to work done by the engine on the propeller.   
+Correct Answer is.      the ratio of the useful work done by the propeller to work done by the engine on the propeller.          
+Explanation.    Kermode Mechanics of Flight Page 134 Refers.
+
+
+Question Number.       20.       Geometric Pitch is the distance moved.                   
+Option A.        in one revolution.      
+Option B.        in one revolution when slip is maximum.      
+Option C.        in one revolution without slip.          
+Correct Answer is.      in one revolution without slip.          
+Explanation.    Jepperson Aircraft Propellers and Controls page 15. CTM increases as a function of Centrifugal.
+
+
+Question Number.       21.       As propeller rotation speed increases the centrifugal turning moment on the blades will.               
+Option A.        increase.        
+Option B.        decrease.       
+Option C.        remain constant through r.p.m. range.          
+Correct Answer is.      increase.        
+Explanation.    Jepperson Aircraft Propellers and Controls page 15 refers.
+
+
+Question Number.       22.       Propeller torque is the resistance offered by the propeller to.                      
+Option A.        feathering.     
+Option B.        changing pitch.          
+Option C.        rotation.         
+Correct Answer is.      rotation.         
+Explanation.    Jepperson A&P Powerplant Page 12-4 refers.
+
+
+Question Number.       23.       The angle between the resultant airflow direction and the propeller blade plane of rotation is known as.             
+Option A.        angle of attack.         
+Option B.        blade angle.   
+Option C.        helix angle or angle of advance.       
+Correct Answer is.      helix angle or angle of advance.       
+Explanation.    The helix angle is the angle between the plane of rotation and the relative airflow.
+
+
+Question Number.       24.       At constant rpm, advance per revolution depends on.                     
+Option A.        SHP.  
+Option B.        forward speed.                                    Correct Answer is.      forward speed.            Explanation.            Jepperson A&P Powerplant Fig 12-12 refers.
+Question Number.       25        .           Aerodynamic Twisting Moment.                    Option A.        turns the blade to windmill.         Option B.        turns the blades to high pitch.                         Correct Answer is.      turns the blades to high pitch.       Explanation.    Jepperson A&P Powerplant Page 12/6 refers.
+Question Number.       26        .           Under normal operation the point of maximum stress on a propeller blade is at the.                  Option A.        root.                                                     Correct Answer is.      root.     Explanation.            Jepperson A&P Powerplant Fig 12-8 refers
+Question Number.       27        .           Propeller blade angle.              Option A.        is constant along the blade length.            Option B.        decreases from root to tip.    
+Option C.        increases from root to tip.     
+Correct Answer is.      decreases from root to tip.    
+Explanation.    Jepperson Aircraft Propellers and Controls Fig 11-33 refers.
+
+
+Question Number.       28.       Coarse pitch is used for.                   
+Option A.        take off and climb.    
+Option B.        maximum economical cruise in level flight.  
+Option C.        landing and power checks.   
+Correct Answer is.      maximum economical cruise in level flight.  
+Explanation.    Jepperson Aircraft Propellers and Controls page 30 refers.
+
+
+Question Number.       29.       Effective pitch is.                  
+Option A.        distance moved in one revolution.    
+Option B.        geometric pitch plus slip.      
+Option C.        pitch measured at the master station.
+Correct Answer is.      distance moved in one revolution.    
+Explanation.    Effective pitch is geometric pitch minus slip.
+
+
+Question Number.       30.       A windmilling Propeller has.            
+Option A.        a small positive blade angle. 
+Option B.        a small positive angle of attack.        
+Option C.        a small negative angle of attack.       
+Correct Answer is.      a small negative angle of attack.       
+Explanation.    Windmilling occurs with a small negative AoA and a small positive blade angle.
+
+
+Question Number.       31.       Windmilling causes.              
+Option A.        propeller underspeeding.       
+Option B.        maximum propeller drag.      
+Option C.        Centrifugal Twisting Moment.         
+Correct Answer is.      maximum propeller drag.      
+Explanation.    NIL.
+
+
+Question Number.       32.       Torque acts.               
+Option A.        in the same direction as the plane of rotation.          
+Option B.        at right angles to the plane of rotation.         
+Option C.        in opposition to the direction of rotation.     
+Correct Answer is.      in opposition to the direction of rotation.     
+Explanation.    Jepperson Aircraft Propellers and Controls Page 15 refers.
+
+
+Question Number.       33.       The purpose of blade twist is to.                   
+Option A.        reduce angle of attack at the blade root.      
+Option B.        to ensure that tip speed does not go faster than Mach 1.     
+Option C.        to even out thrust distribution across the propeller.  
+Correct Answer is.      to even out thrust distribution across the propeller.  
+Explanation.    Jepperson Aircraft Propellers and Controls Page 14 refers.
+
+
+Question Number.       34.       Thrust is greatest.                  
+Option A.        at 70 to 80% of propeller length.      
+Option B.        in the first 50%.        
+Option C.        the same all along the length.
+Correct Answer is.      at 70 to 80% of propeller length.      
+Explanation.    Beyond this point the blade chord is reduced to lessen tip thrust.
+
+
+Question Number.       35.       CTM changes the pitch of a blade.               
+Option A.        about its twisting axis.          
+Option B.        bending forward.      
+Option C.        towards the feather plane.    
+Correct Answer is.      about its twisting axis.          
+Explanation.    CTM reduces pitch towards the plane of rotation, about the twisting axis.
+
+
+Question Number.       36.       The velocity of the slipstream behind the aircraft in relation to the ambient air is.              
+Option A.        less.   
+Option B.        greater.          
+Option C.        equal. 
+Correct Answer is.      greater.          
+Explanation.    If there was not a difference then no thrust would be produced. T = mass ( Vout-Vin).
+
+
+Question Number.       37.       High speed aerofoils are employed at.                      
+Option A.        the master station.     
+Option B.        the tips.         
+Option C.        the root.         
+Correct Answer is.      the tips.         
+Explanation.    On helicopters they are called BERP tips.
+
+
+Question Number.       38.       A right hand propeller.                      
+Option A.        rotates clockwise when viewed from the rear.         
+Option B.        is always fitted to the starboard engine.       
+Option C.        rotates clockwise when viewed from the front.       
+Correct Answer is.      rotates clockwise when viewed from the rear.         
+Explanation.    Left or right is determined by sitting in the cockpit and viewing the rotation.
+
+
+Question Number.       39.       Given that blade angle is measured from the centre of the hub, the blade angle at the hub is considered to be.                    
+Option A.        lowest.
+Option B.        Master Station value.
+Option C.        highest.          
+Correct Answer is.      highest.          
+Explanation.    Refer to Jeppesen Aircraft Propellers and controls page 13.
+
+
+Question Number.       40.       A windmilling propeller will create.             
+Option A.        more drag in feather. 
+Option B.        more drag in fine pitch.         
+Option C.        more drag in coarse pitch.     
+Correct Answer is.      more drag in fine pitch.         
+Explanation.    A windmilling propeller is always in fine pitch.
+
+
+Question Number.       41.       The chord line of a propeller is.                    
+Option A.        a line joining the leading and trailing edges.
+Option B.        a line joining the tip to the root of the blade.
+Option C.        a line joining the tips of the blades.  
+Correct Answer is.      a line joining the leading and trailing edges.
+Explanation.    NIL.
+
+
+Question Number.       42.       The plane of rotation is defined as.              
+Option A.        the plane in which thrust force acts. 
+Option B.        the plane in which the propeller rotates.       
+Option C.        the angle at which the blade strikes the airflow.      
+Correct Answer is.      the plane in which the propeller rotates.       
+Explanation.    NIL.
+
+
+Question Number.       43.       Thrust bending force on a propeller blade.               
+Option A.        intensifies the centrifugal forces to some degrees.   
+Option B.        can be used in propeller design to reduce some operation stress.     
+Option C.        tends to bend the propeller blade forward at the tip.
+Correct Answer is.      tends to bend the propeller blade forward at the tip.
+Explanation.    NIL.
+
+
+Question Number.       44.       What conditions are applied to a propeller blade windmilling?.                  
+Option A.        Positive angle of attack, thrust negative.      
+Option B.        Negative angle of attack, thrust positive.     
+Option C.        Negative angle of attack, thrust negative.    
+Correct Answer is.      Negative angle of attack, thrust negative.    
+Explanation.    NIL.
+
+
+Question Number.       45.       The primary purpose of propeller is to.                     
+Option A.        change engine horsepower to thrust.
+Option B.        provide static and dynamic stability to aircraft.       
+Option C.        create lift on the fixed aerofoils of an aircraft.         
+Correct Answer is.      change engine horsepower to thrust.
+Explanation.    NIL.
+
+
+Question Number.       46.       The primary purpose of a feathering propeller is to.             
+Option A.        prevent further engine damage when an engine fails in flight.         
+Option B.        prevent propeller damage when an engine fails in flight.     
+Option C.        eliminate the drag created by a windmilling propeller when an engine fails in flight.         
+Correct Answer is.      eliminate the drag created by a windmilling propeller when an engine fails in flight.         
+Explanation.    NIL.
+                                                                                                                                                                      
+                                                                                                                                                                      
+
+17.2. Propeller Construction.
+
+
+Question Number.       1.         A fibreglass composite blade.           
+Option A.        will never be struck by lighting.        
+Option B.        does not require lightning strike protection. 
+Option C.        requires lightning strike protection.  
+Correct Answer is.      requires lightning strike protection.  
+Explanation.    NIL.
+
+
+Question Number.       2.         The timber most often used today for propeller construction is.                  
+Option A.        birch. 
+Option B.        spruce.
+Option C.        balsa. 
+Correct Answer is.      birch. 
+Explanation.    NIL.
+
+
+Question Number.       3.         Electronic torque measuring systems utilise.            
+Option A.        strain gauges in the reduction gear.  
+Option B.        stress gauges in the reduction gear.  
+Option C.        pressure transducers in the reduction gear.   
+Correct Answer is.      strain gauges in the reduction gear.  
+Explanation.    NIL.
+
+
+Question Number.       4.         A conventional turboprop torque meter uses.           
+Option A.        hydraulic oil as the pressure medium.
+Option B.        coiled spring levers as the pressure medium.
+Option C.        engine oil as the pressure medium.   
+Correct Answer is.      engine oil as the pressure medium.   
+Explanation.    Pallett Aircraft Instruments and integrated Systems page 357.
+
+
+Question Number.       5.         Metal at the tip and along the leading edge of a wooden propeller is.                     
+Option A.        for balancing.
+Option B.        for protection.
+Option C.        for Anti-icing.
+Correct Answer is.      for protection.
+Explanation.    Jepperson Aircraft Propellers and Control page 18 refers.
+
+
+Question Number.       6.         Blade cuffs are fitted to the root of the blades.                   
+Option A.        to increase the strength of the blade.
+Option B.        to increase thrust.      
+Option C.        to increase flow of cooling air into the engine nacelle.         
+Correct Answer is.      to increase flow of cooling air into the engine nacelle.         
+Explanation.    Refer Jepperson Powerplant Page 12- 3.
+
+
+Question Number.       7.         Low torque sensing is used to.                     
+Option A.        increase power.         
+Option B.        increase pitch.
+Option C.        initiate auto-feather.  
+Correct Answer is.      initiate auto-feather.  
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 135.
+
+
+Question Number.       8.         Torque sensing is used to.                 
+Option A.        reduce drag.  
+Option B.        reduce drag following engine shutdown.     
+Option C.        synchronise blade angle.       
+Correct Answer is.      reduce drag following engine shutdown.     
+Explanation.    Jepperson Aircraft Propellers and Controls page 135 Refers.
+
+
+Question Number.       9.         The minimum percentage seating on a propeller rear cone should be.                      
+Option A.        90%.  
+Option B.        70%.  
+Option C.        95%.  
+Correct Answer is.      70%.  
+Explanation.    Jepperson Aircraft Propellers and Controls Page 31 shows 70% Old CAIPs shows 80%.
+
+
+Question Number.       10.       The propeller is 'feathered' when the blades are at.              
+Option A.        0° to plane of rotation.          
+Option B.        20° to plane of rotation.        
+Option C.        90° to plane of rotation.        
+Correct Answer is.      90° to plane of rotation.        
+Explanation.    Jepperson Aircraft Propellers and Controls page 75 refers.
+
+
+Question Number.       11.       The thrust of a propeller is normally taken by the.               
+Option A.        torque meter. 
+Option B.        propeller rear cone.    
+Option C.        front bearing in the reduction gear.  
+Correct Answer is.      front bearing in the reduction gear.  
+Explanation.    Jepperson A&P Powerplant Page 1-30/1-31 refers.
+
+
+Question Number.       12.       On which type of turbo-propeller would you expect to find a parking brake?.                   
+Option A.        Compounded twin spool.     
+Option B.        Direct coupled twin spool.    
+Option C.        Free turbine.  
+Correct Answer is.      Free turbine.  
+Explanation.    The parking brake stops the propeller rotating when the engine is stopped.
+
+
+Question Number.       13.       What does the torquemeter reading indicate in a gas turbine engine?.                    
+Option A.        Torque reaction at the reduction gear.          
+Option B.        The ratio between engine thrust and engine torque. 
+Option C.        Engine torque.
+Correct Answer is.      Torque reaction at the reduction gear.          
+Explanation.    Jepperson Aircraft Propellers and Controls Page 55 refers.
+
+
+Question Number.       14.       The gear segments on the blade roots of a hydromatic propeller mesh with the.                 
+Option A.        stationary cam.          
+Option B.        torque tubes and eye bolts.   
+Option C.        moving cam.  
+Correct Answer is.      moving cam.  
+Explanation.    Jepperson A&P Powerplant Page 12-16 refers.
+
+
+Question Number.       15.       A propeller is centralised on the propeller shaft by.             
+Option A.        the front and rear cones.       
+Option B.        the front git seal.       
+Option C.        the rear pre-load shims.         
+Correct Answer is.      the front and rear cones.       
+Explanation.    Front and rear cones - Jepperson Aircraft Propellers and Controls.
+
+
+Question Number.       16.       Reduction gearing allows the.                      
+Option A.        blade tips to operate below the speed of sound.      
+Option B.        blade tips to operate above the speed of sound.       
+Option C.        blade tips to rotate slower than the root of the propeller blade.       
+Correct Answer is.      blade tips to operate below the speed of sound.      
+Explanation.    Propellers always operate slower than the engine to ensure the blade tips do not go sonic.
+
+
+Question Number.       17.       When fitting a propeller to a tapered shaft.              
+Option A.        locate the master spline.        
+Option B.        ensure the master spline and blade alignment are in accordance with the MM.       
+Option C.        ensure fully seated.   
+Correct Answer is.      locate the master spline.        
+Explanation.    Jepperson Aircraft Propellers and Controls Page 29 refers.
+
+
+Question Number.       18.       What is the purpose of small holes at the tip of wooden propellers?.                      
+Option A.        Drainage.       
+Option B.        Balancing.     
+Option C.        Pivot points used during manufacture.         
+Correct Answer is.      Drainage.       
+Explanation.    Jepperson Aircraft Propellers and Controls Page 143 refers.
+
+
+Question Number.       19.       The thrust face of a propeller blade is the.                
+Option A.        root to which the gear segment is fitted.      
+Option B.        blade face or flat side.          
+Option C.        blade back or curved side.    
+Correct Answer is.      blade face or flat side.          
+Explanation.    Jepperson A&P Powerplant Fig 12-16 Refers.
+
+
+Question Number.       20.       Solidity of a propeller can be increased by.              
+Option A.        increasing blade chord.         
+Option B.        increasing blade angle.          
+Option C.        increasing blade thickness.    
+Correct Answer is.      increasing blade chord.         
+Explanation.    AC Kermode Mechanics of Flight Page 138 refers.
+
+
+Question Number.       21.       A turbo-prop engine.             
+Option A.        uses an epicyclic reduction gear system.       
+Option B.        uses a spur gear reduction system.    
+Option C.        does not require a reduction gear system due to the propshaft being driven from the low speed compressor.   
+Correct Answer is.      uses an epicyclic reduction gear system.       
+Explanation.    All large engines use Epicyclic reduction gearing.
+
+
+Question Number.       22.       Total power of a turbo-prop engine is measured in.             
+Option A.        Equivalent Shaft Horsepower (ESHP).        
+Option B.        Shaft Horsepower (SHP).     
+Option C.        Brake Horsepower (BHP).    
+Correct Answer is.      Equivalent Shaft Horsepower (ESHP).        
+Explanation.    ESHP is SHP plus residual thrust.
+
+
+Question Number.       23.       The disadvantage of using reverse pitch on a turbo-propeller engine is.                  
+Option A.        exhaust gas ingestion , high gas temperature and debris ingestion.  
+Option B.        debris ingestion.        
+Option C.        high gas temperature.
+Correct Answer is.      debris ingestion.        
+Explanation.    Jepperson A&P Powerplant page 12-33 refers.
+
+
+Question Number.       24.       A compound twin spool engine is.               
+Option A.        turbo prop propeller driven by a power turbine.       
+Option B.        turbo prop twin spool compressor.    
+Option C.        LP Compressor driven by a free turbine.      
+Correct Answer is.      turbo prop twin spool compressor.    
+Explanation.    Rolls Royce Jet Engine Page 5 refers.
+
+
+Question Number.       25.       With the engine stationary the indication that the propeller is in ground fine pitch is.                      
+Option A.        blade and spinner markings aligned. 
+Option B.        below stop warning light on.
+Option C.        flight fine pitch stop lever withdrawn.         
+Correct Answer is.      blade and spinner markings aligned. 
+Explanation.    Unattributed notes.
+
+
+Question Number.       26.       When the power lever on a turbo prop engine is moved from ground idle to flight fine the fuel flow increases and the blade angle.             
+Option A.        increases.       
+Option B.        decreases.      
+Option C.        remains the same.      
+Correct Answer is.      increases.       
+Explanation.    Ground idle is a lower pitch than flight idle.
+
+
+Question Number.       27.       How is the blade station measured?.            
+Option A.        In inches from the centre of the hub.
+Option B.        In inches from the tip.
+Option C.        As a percentage of blade length from the tip.          
+Correct Answer is.      In inches from the centre of the hub.
+Explanation.    Jepperson Aircraft Propellers and Controls Page 10 refers.
+
+
+Question Number.       28.       The oil used in the torquemeter system is.                
+Option A.        DTD 5 8 5.    
+Option B.        engine oil pressure boosted by a pump driven off the reduction gear.         
+Option C.        PCU oil pressure.      
+Correct Answer is.      engine oil pressure boosted by a pump driven off the reduction gear.         
+Explanation.    Rolls Royce The Jet Engine Fig 12-4 Refers.
+
+
+Question Number.       29.       Which type of turboprop engine is practically free from surge and requires low power for starting?.              
+Option A.        Compound twin spool.         
+Option B.        Directly coupled.      
+Option C.        One using a centrifugal compressor. 
+Correct Answer is.      Compound twin spool.         
+Explanation.    Rolls Royce The Jet Engine page 5 refers.
+
+
+Question Number.       30.       Blade stations are measured from the.                      
+Option A.        centre of the hub.      
+Option B.        tip.     
+Option C.        shank.
+Correct Answer is.      centre of the hub.      
+Explanation.    Jepperson Aircraft Propellers and Controls Page 13 refers.
+
+
+Question Number.       31.       Auto feathering is disarmed.            
+Option A.        during landing.          
+Option B.        during take off.         
+Option C.        in the cruise.  
+Correct Answer is.      in the cruise.  
+Explanation.    Jepperson Aircraft Propellers and Controls Page 136 refers.
+
+
+Question Number.       32.       With a multi-engined aircraft the torque pressure would be.           
+Option A.        There is only one gauge for all engines.        
+Option B.        same on all engines.  
+Option C.        similar on all engines.
+Correct Answer is.      same on all engines.  
+Explanation.    All engines are synchronised to the same RPM and are travelling at the same forward speed.
+
+
+Question Number.       33.       If torque pressure fell to zero during the cruise what would indicate that the gauge had failed?.                      
+Option A.        Engine would auto feather.  
+Option B.        Engine would overspeed.     
+Option C.        Engine would continue to run.         
+Correct Answer is.      Engine would continue to run.         
+Explanation.    Auto feather would engage if torque had actually failed, but if it is just the gauge, then the engine would be unaffected.
+
+
+Question Number.       34.       The purpose of using reverse pitch propellers is to.              
+Option A.        provide aerodynamic breaking.         
+Option B.        allow aircraft to taxi backwards.      
+Option C.        reverse the direction of rotation of the propeller.     
+Correct Answer is.      provide aerodynamic breaking.         
+Explanation.    Jepperson aircraft propellers and controls Page 97 Refers.
+
+
+Question Number.       35.       The RPM of a windmilling propeller is primarily related to.            
+Option A.        EAS. 
+Option B.        IAS.  
+Option C.        TAS.  
+Correct Answer is.      TAS.  
+Explanation.    Relative airflow is a function of rotational speed and TAS.
+
+
+Question Number.       36.       A ducted propeller is used because.             
+Option A.        ducted props give more thrust for the diameter of disc.      
+Option B.        only ducted propellers can be vectored.       
+Option C.        ducted props give less thrust for the diameter of disc.         
+Correct Answer is.      ducted props give more thrust for the diameter of disc.      
+Explanation.    The duct provides for less tip losses.
+
+
+Question Number.       37.       A two position prop uses.                 
+Option A.        high pitch for take off and low pitch for cruise.       
+Option B.        low pitch for take off and climb and high pitch for cruise.  
+Option C.        high pitch for take off, low pitch for climb and descent and high pitch for cruise. 
+Correct Answer is.      low pitch for take off and climb and high pitch for cruise.  
+Explanation.    Jepperson aircraft propellers and controls Page 49 Refers.
+
+
+Question Number.       38.       A propeller operating in the Beta range is operating between.                     
+Option A.        Flight Idle and Ground Idle.
+Option B.        coarse and flight fine pitch.  
+Option C.        maximum reverse pitch and Flight idle pitch.
+Correct Answer is.      maximum reverse pitch and Flight idle pitch.
+Explanation.    Jeppesen Aircraft Propellers and controls page 108 refers.
+
+
+Question Number.       39.       The CSU oil pump is provided to.                
+Option A.        boost engine oil pressure to decrease pitch.  
+Option B.        boost engine oil pressure to alter pitch.         
+Option C.        boost engine oil pressure to increase pitch.   
+Correct Answer is.      boost engine oil pressure to decrease pitch.  
+Explanation.    A CSU is used on a single acting propeller system. Spring pressure + counterweights move it to  coarse pitch.
+
+
+Question Number.       40.       Counterweights are used to.             
+Option A.        counter the ATM of the blades.        
+Option B.        counteract the CTM of the blades.   
+Option C.        balance the blades.    
+Correct Answer is.      counteract the CTM of the blades.   
+Explanation.    The counterweights are seen on single acting propeller systems.
+
+
+Question Number.       41.       The pressure face of a propeller is.                
+Option A.        the flat face.  
+Option B.        the leading edge.       
+Option C.        the camber face.        
+Correct Answer is.      the flat face.  
+Explanation.    The pressure face is the thrust face or blade face. They all mean the same.
+
+
+Question Number.       42.       In blade station numbering the stations nearest the hub are.            
+Option A.        datum.
+Option B.        highest.          
+Option C.        lowest.
+Correct Answer is.      lowest.
+Explanation.    Blade stations are measured in inches-from the hub.
+
+
+Question Number.       43.       A propeller mounted forward of the engine is known as.                
+Option A.        hydromatic propeller.
+Option B.        a tractor propeller.     
+Option C.        a pusher propeller.     
+Correct Answer is.      a tractor propeller.     
+Explanation.    A tractor propeller pulls the aircraft through the air.
+
+
+Question Number.       44.       Contra-rotating propellers are.                      
+Option A.        two propellers on the same shaft on one engine-each revolving in a different direction.    
+Option B.        propellers geared to rotate in the opposite direction to the engine.  
+Option C.        propellers on a twin engined aircraft revolving in opposite directions.        
+Correct Answer is.      two propellers on the same shaft on one engine-each revolving in a different direction.    
+Explanation.    Enables extra power to be absorbed.
+
+
+Question Number.       45.       An aerodynamic braking propeller goes through.                 
+Option A.        the feathered pitch position to act as a brake.          
+Option B.        the coarse pitch position to act as a brake.    
+Option C.        the fine pitch position to act as a brake.       
+Correct Answer is.      the fine pitch position to act as a brake.       
+Explanation.    You must go through fine to get to reverse- the braking position.
+
+
+Question Number.       46.       The term spinner is applied to.                      
+Option A.        a propeller tip vortex.
+Option B.        a streamline covering over the propeller hub.
+Option C.        an acrobatic manoeuvre.       
+Correct Answer is.      a streamline covering over the propeller hub.
+Explanation.    The spinner covers the front of the hub.
+
+
+Question Number.       47.       Turbo-prop engines require a slightly higher viscosity oil than a turbo-jet engine due to.                      
+Option A.        lower engine rpm.     
+Option B.        higher engine rpm.    
+Option C.        reduction gear and propeller pitch chang mechanism.          
+Correct Answer is.      reduction gear and propeller pitch chang mechanism.          
+Explanation.    The mechanical gear system exerts higher forces on the lubricant.
+
+
+Question Number.       48.       The propulsive efficiency of a propeller-turbine engine is higher than that of a jet-turbine engine at aircraft speeds.                  
+Option A.        above approximately 450 mph.         
+Option B.        within the range 450 mph and 700 mph.      
+Option C.        below approximately 450 mph.         
+Correct Answer is.      below approximately 450 mph.         
+Explanation.    Turbo props are used only below 450 kts as the prop becomes inefficient above this.
+
+
+Question Number.       49.       A propeller has the requirement of a.            
+Option A.        manufacturers data plate.      
+Option B.        type certificate or equivalent certificate.      
+Option C.        batch number.
+Correct Answer is.      type certificate or equivalent certificate.      
+Explanation.    JAR 25.905 refers.
+
+
+Question Number.       50.       Variable pitch propellers are used because they are.             
+Option A.        reduce vibration and noise.   
+Option B.        have peak efficiency over a greater speed range.     
+Option C.        more economical.      
+Correct Answer is.      have peak efficiency over a greater speed range.     
+Explanation.    range from 150-350 kts.
+
+
+Question Number.       51.       The condition lever normally has the following settings.                 
+Option A.        normal, beta-range and reverse range.          
+Option B.        cut-off, idle and high idle.    
+Option C.        rich, lean and cut-off.
+Correct Answer is.      cut-off, idle and high idle.    
+Explanation.    Jeppersen A&P Powerplant page 12-36 refers. the condition lever controls the propeller governor.
+
+
+Question Number.       52.       What is the ground clearance for a Tricycle Geared Aircraft?.                    
+Option A.        7 inches.        
+Option B.        9 inches.        
+Option C.        1 inch.
+Correct Answer is.      7 inches.        
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 9 refers.
+
+
+Question Number.       53.       In a variable pitch propeller system, a decrease in propeller RPM will alter the angle of attack on the blade to.                      
+Option A.        increase angle of attack.        
+Option B.        decrease angle of attack.       
+Option C.        increase negative torque.       
+Correct Answer is.      decrease angle of attack.       
+Explanation.    The blade fines off to maintain RPM.
+
+
+Question Number.       54.       To achieve reverse pitch the blade angle must be.                
+Option A.        more than 17°.
+Option B.        less than 0°.   
+Option C.        more than 90°.
+Correct Answer is.      less than 0°.   
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 97 refers.
+
+
+Question Number.       55.       Centrifugal latches are fitted to lock the propeller.              
+Option A.        in the feathered position.      
+Option B.        when stationary.        
+Option C.        in the fine pitch position.      
+Correct Answer is.      when stationary.        
+Explanation.    Used on lightweight single acting propeller systems; latches are used on shutdown to stop spring pressure pushing the blades to the feather position thus making the load on the engine excessive for the next start.
+
+
+Question Number.       56.       Counterweights are fitted to blade root to.              
+Option A.        counteract ATM.       
+Option B.        assist blade to move to fine pitch.    
+Option C.          counteract CTM.     
+Correct Answer is.        counteract CTM.     
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 71 refers.
+
+
+Question Number.       57.       The limits for blade angle are controlled by pitch stops on the.                   
+Option A.        propeller shaft.          
+Option B.        blade root.     
+Option C.        cylinder.        
+Correct Answer is.      cylinder.        
+Explanation.    eppersen Aircraft Propellers and Controls Page 81-83 refers.
+
+
+Question Number.       58.       The range of angles of a VP propeller is usually limited by.            
+Option A.        the fine pitch position.          
+Option B.        the feathering angle. 
+Option C.        coarse and fine pitch stops.   
+Correct Answer is.      coarse and fine pitch stops.   
+Explanation.    A Variable Pitch (VP) propeller will have at least 2 stops- coarse and fine; although sophisticated types also have ground fine and reverse pitch stops.
+
+
+Question Number.       59.       The purpose of fine pitch stop is to.             
+Option A.        maintain constant speed in flight.     
+Option B.        prevent the propeller moving below flight fine pitch in flight.         
+Option C.        maintain maximum RPM at takeoff.
+Correct Answer is.      prevent the propeller moving below flight fine pitch in flight.         
+Explanation.    CAIP's Leaflet PL/1-1 para 5.2.2 refers.
+
+
+Question Number.       60.       Which best describes a Variable Pitch propeller?.                
+Option A.        The blade angles can be changed in flight.   
+Option B.        Its blade angles are set with an automatic system with which the pilot has no input.         
+Option C.        Its blade angles can only be set on the ground.        
+Correct Answer is.      The blade angles can be changed in flight.   
+Explanation.    propellers which can only be adjusted on the ground are known as 'ground adjustable' not 'variable pitch'.
+
+
+Question Number.       61.       The holding coil of a hydromatic propeller feathering button switch holds a relay closed that applies power to the propeller.               
+Option A.        dome feathering mechanism.
+Option B.        feathering pump motor.        
+Option C.        governor.       
+Correct Answer is.      feathering pump motor.        
+Explanation.    The feathering pump is required as the existing pressure from the engine will be decaying. The pump is held energised until the prop feather switches sense that the propeller has reached the feather position.
+
+
+Question Number.       62.       The primary purpose of the front and rear cones for propellers that are installed on splined shafts is to.               
+Option A.        prevent metal-to-metal contact between the propeller and the splined shaft.          
+Option B.        reduce stresses between the splines of the propeller and the splines of the shaft.   
+Option C.        position the propeller hub on the splined shaft.        
+Correct Answer is.      position the propeller hub on the splined shaft.        
+Explanation.    AC65-12A.
+
+
+Question Number.       63.       The constant-speed control unit is also called a.                   
+Option A.        propeller pitch control.          
+Option B.        accumulator.  
+Option C.        governor.       
+Correct Answer is.      governor.       
+Explanation.    NIL.
+                                                                                                                                                                      
+                                                                                                                                                          
+                                                                                                                                                                                                          
+17.3. Propeller Pitch Control.                                                        
+
+
+Question Number.       1.         When the compressive force on a speeder spring is reduced, the propeller blades will.                      
+Option A.        remain fixed. 
+Option B.        fine off.         
+Option C.        coarsen.         
+Correct Answer is.      coarsen.         
+Explanation.    Aircraft Propellers and Controls.      
+
+
+Question Number.       2.         A hydraulic pitch lock is utilised in a hydromatic propeller to.                    
+Option A.        lock out the course pitch oil line in the event of  underspeeding.    
+Option B.        lock out the fine pitch oil line in the event of overspeeding.
+Option C.        prevent the propeller overspeeding in the event of oil supply failure.          
+Correct Answer is.      lock out the fine pitch oil line in the event of overspeeding.
+Explanation.    Refer Jepperson Aircraft Propellers and Controls page 136.
+
+
+Question Number.       3.         When in the beta range, the propeller pitch is controlled.                
+Option A.        directly from the power lever.          
+Option B.        indirectly from the power lever.       
+Option C.        directly from the pitch change mechanism to the PCU.       
+Correct Answer is.      directly from the power lever.          
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 102.
+
+
+Question Number.       4.         The advantage of the beta range is it allows.            
+Option A.        high power settings with higher than normal pitch settings when in flight. 
+Option B.        low fine pitch settings with high power.      
+Option C.        low power settings with higher than normal pitch setting for ground manoeuvres. 
+Correct Answer is.      low power settings with higher than normal pitch setting for ground manoeuvres. 
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 102.
+
+
+Question Number.       5.         If the speeder spring pressure of a CSU is increased the blade will.            
+Option A.        coarsen off.   
+Option B.        fine off.         
+Option C.        will not move.
+Correct Answer is.      fine off.         
+Explanation.    Jepperson Aircraft Propellers and Control pages 55-58.      
+
+
+Question Number.       6.         On an underspeed condition the blades are turned to.                     
+Option A.        fine.   
+Option B.        feather.          
+Option C.        coarse.
+Correct Answer is.      fine.   
+Explanation.    Jepperson Aircraft Propellers and Controls Page 55-58 refers.        
+
+
+Question Number.       7.         In a hydromatic propeller with counterweights, what is used to make the propeller move to fine pitch?.              
+Option A.        A T M.          
+Option B.        engine oil.      
+Option C.        centrifugal force acting on the counterweight.         
+Correct Answer is.      engine oil.      
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Pages 55- 58.      
+
+
+Question Number.       8.         Relaxing tension on the governor spring will result in the blade coarsening and.                
+Option A.        RPM decreasing, manifold pressure increasing.       
+Option B.        RPM increasing, manifold pressure increasing.        
+Option C.        manifold pressure constant, RPM decreasing.          
+Correct Answer is.      RPM decreasing, manifold pressure increasing.       
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 59. 
+
+
+Question Number.       9.         The ground fine pitch stop is.           
+Option A.        never removed.         
+Option B.        removed on the ground.        
+Option C.        removed during flight.          
+Correct Answer is.      removed on the ground.        
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 32 Low pitch stop is an alternative name on some applications.     
+
+
+Question Number.       10.       If governor flywheel overcomes the speeder spring, it indicates.                
+Option A.        underspeed.   
+Option B.        overspeed.     
+Option C.        onspeed.        
+Correct Answer is.      overspeed.     
+Explanation.    Jepperson Powerplant Page 12-4 refers.       
+
+
+Question Number.       11.       Pitch control using torque measuring is for.             
+Option A.        reducing drag in engine failure.        
+Option B.        increasing drag.         
+Option C.        reducing drag in binding.      
+Correct Answer is.      reducing drag in engine failure.        
+Explanation.    Jepperson Aircraft Propellers and Control Pages 135 Refer.
+
+
+Question Number.       12.       If force is applied to the speeder spring, what will happen?.           
+Option A.        Blade angle is frozen in last known position.
+Option B.        Blade angle coarsen. 
+Option C.        Blade angle finer.      
+Correct Answer is.      Blade angle finer.      
+Explanation.    Fly-weights will move inwards, tricking the CSU to believing there is a reduction in  speed, thus decreasing the blade pitch to speed the propeller back up.  
+
+
+Question Number.       13.       When is superfine pitch used?.                     
+Option A.        Landing and takeoff.
+Option B.        In cruise.       
+Option C.        Engine starting to reduce propeller torque loading on starter motor.
+Correct Answer is.      Engine starting to reduce propeller torque loading on starter motor.
+Explanation.    Caips Leaflet PL/1-1 refers to ground fine pitch; believed to be an alternative to Superfine Pitch.
+
+
+Question Number.       14.       When the flyweights fly outwards in a PCU, this is known as.                   
+Option A.        onspeed.        
+Option B.        overspeed.     
+Option C.        low power settings with higher than normal pitch setting for ground manoeuvres. 
+Correct Answer is.      overspeed.     
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 55-58.        
+
+
+Question Number.       15.       In an on speed condition, oil in the tube.                 
+Option A.        remains constant.      
+Option B.        flows in the tubes.     
+Option C.        flows out of the tubes
+Correct Answer is.      remains constant.      
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 55-58.        
+
+
+Question Number.       16.       On a reversing propeller moving to the maximum reversing angle, the propeller goes.                      
+Option A.        from fine pitch through plane of rotation, course reverse then fine reverse.
+Option B.        from course pitch through plane of rotation course, fine reverse then course reverse.         
+Option C.        from fine pitch through plane of rotation, fine reverse then course reverse.
+Correct Answer is.      from fine pitch through plane of rotation, fine reverse then course reverse.
+Explanation.    Fine reverse must come before coarse reverse.         
+
+
+Question Number.       17.       If pressure is increased on the speeder spring, rpm increases. What happens to the blade angle?.             
+Option A.        Remains unchanged. 
+Option B.        Increases.      
+Option C.        Decreases.     
+Correct Answer is.      Decreases.     
+Explanation.    Jepperson Aircraft Propellers and Controls pages 55-58 Refers.
+
+
+Question Number.       18.       In a prop with counterweights, what is used to make it move to fine pitch?.                      
+Option A.        ATM.
+Option B.        Centrifugal force acting on the counterweight.        
+Option C.        Governor oil pressure.
+Correct Answer is.      Governor oil pressure.
+Explanation.    Jepperson Aircraft Propellers and Controls page 81 refers.
+
+
+Question Number.       19.       If a propeller is in fine pitch and then moves to feather it will pass throug.            
+Option A.        flight fine only.         
+Option B.        reverse.          
+Option C.        coarse.
+Correct Answer is.      coarse.
+Explanation.    Jepperson Aircraft Propellers and Controls Fig 11.1 refers.
+
+
+Question Number.       20.       A 'double' acting propeller has.                     
+Option A.        nitrogen or air on one side of piston.
+Option B.        oil pressure on one side of piston.     
+Option C.        oil pressure on two sides of piston.   
+Correct Answer is.      oil pressure on two sides of piston.   
+Explanation.    Jepperson Aircraft Propellers and Controls Fig 11-32 refers.
+
+
+Question Number.       21.       During normal propeller operation, oil pressure for the governor is provided by.                
+Option A.        a pump in the governor.        
+Option B.        a variable volume pump.       
+Option C.        the engine driven pump.       
+Correct Answer is.      a pump in the governor.        
+Explanation.    Jepperson Aircraft Propellers and Controls refer. All governors have a built in pump.
+
+
+Question Number.       22.       Oil for an on-speed condition passes through.                     
+Option A.        the coarse pitch line. 
+Option B.        the fine pitch line.     
+Option C.        neither of the lines.   
+Correct Answer is.      neither of the lines.   
+Explanation.    Jepperson Aircraft Propellers and Controls Pages 55-58 refer.
+
+
+Question Number.       23.       If the spur gear pump in a single acting propeller governor failed, the.                   
+Option A.        blades would turn to a coarse pitch. 
+Option B.        blades would rotate to a fine pitch.  
+Option C.        blades would move to the feather position.  
+Correct Answer is.      blades would turn to a coarse pitch. 
+Explanation.    Jepperson Aircraft Propellers and Controls Page 62 refer.
+
+
+Question Number.       24.       The hydromatic variable pitch propeller is operated on the principle of.                  
+Option A.        a venturi or 'u' tube with mercury.    
+Option B.        an electrical motor moving a gear segment.  
+Option C.        oil pressure moving a piston. 
+Correct Answer is.      oil pressure moving a piston. 
+Explanation.    Jepperson Aircraft Propellers and Controls Page 85 refer.
+
+
+Question Number.       25.       The constant speed unit (C.S.U.) governor works on the principle of.                    
+Option A.        manual selection through a gearbox. 
+Option B.        centrifugal twisting moments.          
+Option C.        spring pressure acting against centrifugal force.       
+Correct Answer is.      spring pressure acting against centrifugal force.       
+Explanation.    Jepperson A&P Powerplant Page 12-7/8 refers.
+
+
+Question Number.       26.       The purpose of the pitch change cams is to.             
+Option A.        convert rotary motion to linear motion.        
+Option B.        prevent windmilling. 
+Option C.        convert linear motion to rotary motion.        
+Correct Answer is.      convert linear motion to rotary motion.        
+Explanation.    Jepperson Aircraft Gas Turbine Powerplants Fig 12-14 refers.
+
+
+Question Number.       27.       The gear type pump in a C.S.U. or P.C.U.               
+Option A.        lubricates the entire propeller system.
+Option B.        boosts engine oil system pressure.    
+Option C.        assist the governor valve to move.    
+Correct Answer is.      boosts engine oil system pressure.    
+Explanation.    Jepperson Aircraft Propellers and Controls Fig 11-33 refers.
+
+
+Question Number.       28.       When an engine fails.            
+Option A.        the propeller is feathered using an electrical feathering pump.         
+Option B.        the propeller is feathered using the propeller governor pump.          
+Option C.        the propeller is feathered using counterweights.      
+Correct Answer is.      the propeller is feathered using an electrical feathering pump.         
+Explanation.    Jepperson A&P Powerplant Page 12-30 refers.
+
+
+Question Number.       29.       The purpose of an accumulator in a single acting propeller system is to.                 
+Option A.        to port oil to the coarse pitch oil line to assist in feathering the propelle.     
+Option B.        accelerate the unfeathering process. 
+Option C.        provide back up to the governor pump.        
+Correct Answer is.      accelerate the unfeathering process. 
+Explanation.    Jepperson A&P Powerplant Page 12-26 refers.
+
+
+Question Number.       30.       When auto feathering has taken place the feathering pump is switched off by.                  
+Option A.        pressure control drop switch.
+Option B.        carrying out the manual feather drill.
+Option C.        removing the pump circuit breaker or fuse.  
+Correct Answer is.      carrying out the manual feather drill.
+Explanation.    The pump is switched off by pressing the alternate action pump switch-part of the manual feather drill.
+
+
+Question Number.       31.       On a free turbine engine it is possible to vary the propeller RPM whilst the engine RPM remains constant.                     
+Option A.        by operating the Power lever.
+Option B.        it is not possible to vary the propeller RPM. 
+Option C.        by operating the PCU control Lever.
+Correct Answer is.      by operating the PCU control Lever.
+Explanation.    The PCU lever changes the pressure on the governor spring thus changing the pitch of the blades.
+
+
+Question Number.       32.       A propeller control Unit hydraulic system is supplied with oil from the.                 
+Option A.        engine lubrication oil tank.    
+Option B.        aircraft hydraulic System.     
+Option C.        PCU oil tank.
+Correct Answer is.      engine lubrication oil tank.    
+Explanation.    Jepperson Aircraft Propellers and Controls Page 59 refers.
+
+
+Question Number.       33.       Low torque sensing is used to initiate.                     
+Option A.        relighting.      
+Option B.        fine pitch selection.   
+Option C.        auto feathering.         
+Correct Answer is.      auto feathering.         
+Explanation.    Jepperson Aircraft Propellers and Controls Page 135 refers.
+
+
+Question Number.       34.       What is the purpose of the auto coarsening system?.           
+Option A.        To prevent overspeeding in the event of the flight fine pitch stop failing.  
+Option B.        To reduce drag during power loss.   
+Option C.        To save the pilot making minor changes when changing altitude.   
+Correct Answer is.      To prevent overspeeding in the event of the flight fine pitch stop failing.  
+Explanation.    CAIP's Leaflet PL/1-1 refer - note this is not an auto feather system.         
+
+
+Question Number.       35.       In a single acting propeller, blade angle is increased by.                  
+Option A.        counterweights and a feathering spring.       
+Option B.        CTM. 
+Option C.        oil pressure.   
+Correct Answer is.      counterweights and a feathering spring.       
+Explanation.    CAIP's PL leaflets refer. Oil pressure turns the prop to fine. If the oil pressure is released by the CSU the spring and counterweights drive the prop to feather.     
+
+
+Question Number.       36.       The function of a propeller pitch lock is to prevent the propeller from.                   
+Option A.        coarsening.    
+Option B.        reducing below flight fine pitch.      
+Option C.        fining off in the event of pitch lock mechanism failure.       
+Correct Answer is.      fining off in the event of pitch lock mechanism failure.       
+Explanation.    CAIP's PL leaflets refer to a pitch lock that holds the fine pitch stop in position, but also adds that some manufacturers have a pitch lock device that locks the prop in its last position in the event of failure of the pitch lock mechanism. For a description of this system see Jeppesen Aircraft Propellers and Controls page 136.          
+
+
+Question Number.       37.       The minimum propeller pitch is established by the.              
+Option A.        superfine pitch stop.  
+Option B.        pitch Lock.    
+Option C.        flight fine pitch stop.
+Correct Answer is.      superfine pitch stop.  
+Explanation.    CAIP's PL leaflets refer. Oil pressure turns the prop to fine. If the oil pressure is released by the CSU the spring and counterweights drive the prop to feather.     
+
+
+Question Number.       38.       Oil for the feathering system is taken from.             
+Option A.        a separate feathering oil tank.
+Option B.        a feathering reserve in the engine oil tank.   
+Option C.        the engine lubrication system.
+Correct Answer is.      a feathering reserve in the engine oil tank.   
+Explanation.    Jepperson Aircraft Propellers and Controls Page 10 refers. 
+
+
+Question Number.       39.       What are the centrifugal latches in a single acting propeller used for?.                    
+Option A.        Prevent CTM.
+Option B.        Prevent feathering of the prop on shutdown.
+Option C.        Prevent Propeller moving to superfine.         
+Correct Answer is.      Prevent feathering of the prop on shutdown.
+Explanation.    Jepperson Aircraft Propellers and Controls Fig 11-4 refers. 
+
+
+Question Number.       40.       In a two position propeller.               
+Option A.        ATM turns the prop to fine.  
+Option B.        oil pushes the prop to fine.    
+Option C.        oil pushes the prop to coarse.
+Correct Answer is.      oil pushes the prop to fine.    
+Explanation.    Jepperson aircraft propellers and controls Page 96 Refers.  
+
+
+Question Number.       41.       An overspeed condition causes governor spring pressure to be.                  
+Option A.        the same as centrifugal force.
+Option B.        more than centrifugal force.  
+Option C.        less than centrifugal force.    
+Correct Answer is.      less than centrifugal force.    
+Explanation.    The bob weights lift the governor valve in this condition, thus they have more force than the spring.          
+
+
+Question Number.       42.       When the engine is running, the CSU is sensing.                 
+Option A.        propeller tip speed.    
+Option B.        propeller blade angle.
+Option C.        engine RPM. 
+Correct Answer is.      engine RPM. 
+Explanation.    Engine RPM is sensed via the governor bob weights.          
+
+
+Question Number.       43.       An accumulator may be fitted to.                 
+Option A.        feather the propeller. 
+Option B.        unfeather the propeller.         
+Option C.        provide emergency control.  
+Correct Answer is.      unfeather the propeller.         
+Explanation.    The accumulator is needed to drive the prop out of feather and hence get it rotating. Normally seen on a single acting propeller system.  
+
+
+Question Number.       44.       If governor weight spring pressure is reduced.                     
+Option A.        governor weights will pivot inwards raising the governor valve allowing the blades to move to a coarser pitch. 
+Option B.        governor weights will spring outwards raising the governor valve allowing the blades to move to a finer pitch.     
+Option C.        governor weights will spring outwards raising the governor valve allowing the blades to move to a coarser pitch. 
+Correct Answer is.      governor weights will spring outwards raising the governor valve allowing the blades to move to a coarser pitch.      
+Explanation.    When 'on speed' spring pressure equals the governor centrifugal force.      
+
+
+Question Number.       45.       A constant speed variable pitch propeller is running whilst stationary on the ground. If it is facing into a headwind it will.               
+Option A.        speed up.       
+Option B.        remain constant.        
+Option C.        slow down.   
+Correct Answer is.      remain constant.        
+Explanation.    A headwind acts the same as increased forward speed. The prop will coarsen off and the speed will remain the same.       
+
+
+Question Number.       46.       If the TAS of an aircraft increases, the CSU will.                
+Option A.        increase the blade angle to provide constant RPM.  
+Option B.        decrease the blade angle to provide constant RPM. 
+Option C.        change the blade angle to provide constant RPM.   
+Correct Answer is.      increase the blade angle to provide constant RPM.  
+Explanation.    This causes blade to coarsen off to stop overspeeding and as a result the speed remains the same.
+
+
+Question Number.       47.       When governor spring load is less than governor weights, the CSU is in.               
+Option A.        overspeed.     
+Option B.        underspeed.   
+Option C.        underspeed.   
+Correct Answer is.      overspeed.     
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 57 refers.  
+
+
+Question Number.       48.       An aircraft's propeller system beta range.                 
+Option A.        is used to achieve maximum thrust during take-off.
+Option B.        refers to the most fuel efficient pitch range to use at a given engine RPM. 
+Option C.        is used to produce zero or negative thrust.   
+Correct Answer is.      is used to produce zero or negative thrust.   
+Explanation.    Beta range is used on the ground.    
+
+
+Question Number.       49.       How is a propeller controlled in a large aircraft?.                 
+Option A.        By engine power lever.         
+Option B.        By varying teh engine RPM except for feathering and reversing.   
+Option C.        Independently of the engine.
+Correct Answer is.      By engine power lever.         
+Explanation.    AC65-12A.
+
+
+Question Number.       50.       Manually feathering a hydromechanical propeller means to.            
+Option A.        block governor oil pressure to the cylinder of the propeller.
+Option B.        port governor oil pressure to the cylinder of the propeller.   
+Option C.        block governor oil pressure from the cylinder of the propeller.        
+Correct Answer is.      block governor oil pressure from the cylinder of the propeller.        
+Explanation.    AC65-12A.
+
+
+Question Number.       51.       How is the oil pressure delivery on a hydromatic propeller normally stopped after the blades have reached their full-feathered position?.              
+Option A.        Stop lugs in the teeth of the rotating cam.    
+Option B.        Electric cut-out pressure switch.       
+Option C.        Pulling out the feathering push-button.        
+Correct Answer is.      Electric cut-out pressure switch.       
+Explanation.    AC65-12A.
+
+
+Question Number.       52.       Counterweights on constant-speed propellers are generally used to.           
+Option A.        increase blade angle. 
+Option B.        decrease blade angle.
+Option C.        unfeather the propeller.         
+Correct Answer is.      increase blade angle. 
+Explanation.    AC65-12A.
+
+
+Question Number.       53.       Constant speed non-feathering McCauley, Hartzell and other propellers of similar design without counterweights increase pitch angle using.              
+Option A.        centrifugal twisting moment.
+Option B.        spring pressure.         
+Option C.        oil pressure.   
+Correct Answer is.      oil pressure.   
+Explanation.    AC65-12A.
+
+
+Question Number.       54.       What are the rotational speed and blade pitch angle requirements of a constant-speed propeller during take-off?.                
+Option A.        High speed and low pitch angle.      
+Option B.        High speed and high pitch angle.     
+Option C.        Low speed and high pitch angle.      
+Correct Answer is.      High speed and low pitch angle.      
+Explanation.    AC65-12A.
+
+
+Question Number.       55.       A constant speed propeller provides maximum efficiency by.                     
+Option A.        increasing the lift coefficient of the blades. 
+Option B.        adjusting blade angle for most conditions encountered during flight.         
+Option C.        increasing blade pitch as the aircraft speed increases.          
+Correct Answer is.      adjusting blade angle for most conditions encountered during flight.         
+Explanation.    AC65-12A.
+                                                                                                                                                                      
+                                                                                                          
+
+17.4 Propeller Synchronising.
+
+
+
+Question Number.       1.         Synchrophasing reduces vibration by the use of.                 
+Option A.        pulse probes and a single synchrophase unit.
+Option B.        tachometers and correction motors.  
+Option C.        coordinating the rpm of each engine.
+Correct Answer is.      pulse probes and a single synchrophase unit.
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 134.           
+
+
+Question Number.       2.         Synchronising can only be achieved if the slave propeller is.           
+Option A.        the same speed as the master.
+Option B.        within 20 rpm of the master. 
+Option C.        within 100 rpm of the master.
+Correct Answer is.      within 100 rpm of the master.
+Explanation.    Jepperson Aircraft Propellers and Control page 132 refers.             
+
+
+Question Number.       3.         Synchronising is carried out to.                    
+Option A.        match propeller tip speed.     
+Option B.        match engine rpm.     
+Option C.        match blade phase angle difference. 
+Correct Answer is.      match propeller tip speed.     
+Explanation.    Jepperson Aircraft Propellers and Control page 132 refers.             
+
+
+Question Number.       4.         The synchronisation governor monitors.                   
+Option A.        RPM. 
+Option B.        propeller tip speeds.  
+Option C.        thrust tip speeds.       
+Correct Answer is.      RPM. 
+Explanation.    Jepperson Aircraft Propellers and Controls Page 37 refers.             
+
+
+Question Number.       5.         Synchronisation is used to.               
+Option A.        reduce vibration and noise.   
+Option B.        reduce the pitch of the fastest running blade.          
+Option C.        preset the phase angle of propellers. 
+Correct Answer is.      reduce vibration and noise.   
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page131.            
+
+
+Question Number.       6.         Synchronisation is used.                   
+Option A.        on the ground.
+Option B.        in flight except landing and take off.
+Option C.        in flight.        
+Correct Answer is.      in flight except landing and take off.
+Explanation.    Jepperson Aircraft Propellers and Control Page136 refer to Auto Feather systems.           
+
+
+Question Number.       7.         The propeller synchronising system is put into operation by.           
+Option A.        adjusting the engine rpm at required cruise speed then switching on the synchroniser.      
+Option B.        adjusting the engine rpm then propeller rpm to required speed then switching on. 
+Option C.        switching on the synchronizer then adjust the engine rpm so that all engines adjust together.       
+Correct Answer is.      adjusting the engine rpm at required cruise speed then switching on the synchroniser.      
+Explanation.    Jepperson aircraft propellers and controls Page 132 Refers.            
+
+
+Question Number.       8.         Propellers are synchronised by the.               
+Option A.        power lever.  
+Option B.        PCU governor.          
+Option C.        prop lever.     
+Correct Answer is.      PCU governor.          
+Explanation.    EHJ Pallett Aircraft Electrical Systems Page 182 refers.                 
+
+
+Question Number.       9.         Unlike the automatic synchronizing system, the synchrophasing system of a two-propeller aircraft.                   
+Option A.        sets the blade phase angle of two constant speed propellers.
+Option B.        causes the same rotation speed of the two propellers.          
+Option C.        matches the blade angle of variable pitch propellers.
+Correct Answer is.      sets the blade phase angle of two constant speed propellers.
+Explanation.    Synchrophasing is the setting of blade phase angle difference to minimise vibration.                    
+
+
+Question Number.       10.       In a propeller synchrophasing system, an electric actuator.              
+Option A.        rotates (controls) the slave engine governor.
+Option B.        equalizes the governor signals.          
+Option C.        turns the flexible shaft leading to the trimmer assembly.     
+Correct Answer is.      rotates (controls) the slave engine governor.
+Explanation.    Jeppesen Propellers and controls Fig 13-20 shows the actuator attached to the governor.              
+
+
+Question Number.       11.       If one signal is lost into the comparator unit when Synchrophasing is operating.                
+Option A.        Synchrophasing is lost and the engines continue to function normally.       
+Option B.        the slower engine immediately goes to feather.        
+Option C.        both engines remain running until there is a difference, of commonly, (4 to 5 percent), at which the slower of the engines is then feathered.       
+Correct Answer is.      Synchrophasing is lost and the engines continue to function normally.       
+Explanation.    Synchrophasing is used in conjunction with synchronising to reduce aircraft vibration.                 
+
+
+Question Number.       12.       Synchronisation controls RPM within what range?.            
+Option A.        100 RPM.      
+Option B.        150 RPM.      
+Option C.        50 RPM.        
+Correct Answer is.      100 RPM.      
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 132 refers.            
+
+
+Question Number.       13.       When should synchronisation be used?.                   
+Option A.        During cruise.
+Option B.        During landing.         
+Option C.        Anytime.       
+Correct Answer is.      During cruise.
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 132 refers.            
+
+
+Question Number.       14.       Propeller Synchronizing works utilizing.                  
+Option A.        RPM Levers. 
+Option B.        propeller lever.          
+Option C.        governor.       
+Correct Answer is.      governor.       
+Explanation.    The governor is sometimes known as a comparator unit.                 
+
+
+Question Number.       15.       In relation to a propeller aircraft, synchrophasing would be used on.                      
+Option A.        all Aircraft.    
+Option B.        all Multi engine aircraft.        
+Option C.        turbo prop Aircraft.   
+Correct Answer is.      all Multi engine aircraft.        
+Explanation.    Synchrophasing can be used on any multi propeller driven aircraft.            
+
+
+Question Number.       16.       A propeller synchrophasing system allows a pilot to reduce noise and vibration by.           
+Option A.        setting the RPM of all propellers exactly the same.  
+Option B.        adjusting the plane of rotation of all propellers.       
+Option C.        adjusting the phase angle between the propellers.    
+Correct Answer is.      adjusting the phase angle between the propellers.    
+Explanation.    NIL.              
+
+
+Question Number.       17.       A propeller synchronising system allows a pilot to reduce noise and vibration by.             
+Option A.        adjusting the phase angle between the propellers.    
+Option B.        setting the RPM of all propellers exactly the same.  
+Option C.        adjusting the plane of rotation of all propellers.       
+Correct Answer is.      setting the RPM of all propellers exactly the same.  
+Explanation.    65-12A.                     
+
+
+Question Number.       18.       What is the function of automatic propeller synchronizing system on multiengined aircraft?.                    
+Option A.        To control tip speed of all propellers.
+Option B.        To control the power output of all engines.  
+Option C.        To control engine RPM and reduce vibration.          
+Correct Answer is.      To control engine RPM and reduce vibration.          
+Explanation.    65-12A.                     
+
+
+Question Number.       19.       On most reciprocating multiengined aircraft, automatic propeller synchronization is accomplished through the actuation of the.              
+Option A.        propeller governors.  
+Option B.        propeller control levers.         
+Option C.        throttle levers.
+Correct Answer is.      propeller governors.  
+Explanation.    AC65-12A.               
+
+
+
+17.5 Propeller Ice Protection.
+
+
+
+Question Number.       1.         Electrically de-iced propeller slip rings have regular resistance checks for.             
+Option A.        oxidisation due to altitude.   
+Option B.        open circuit heating elements.
+Option C.        wear between brushes and slip ring. 
+Correct Answer is.      open circuit heating elements.
+Explanation.    A pair of slip rings conduct power to the heating elements CAIP's leaflet PL/1-4 refers.
+
+
+Question Number.       2.         Propeller anti-icing may be achieved by.                  
+Option A.        using iso-propyl alcohol de-icing fluid sprayed on the blade.          
+Option B.        using commercial de-icing fluid sprayed on the pro.
+Option C.        a using hot air from the compressor. 
+Correct Answer is.      using iso-propyl alcohol de-icing fluid sprayed on the blade.          
+Explanation.    Jepperson Aircraft Propellers and Control page 124 refers.
+
+
+Question Number.       3.         De-icing of the propeller can be monitored by.                    
+Option A.        viewing the deicing fluid level sight glass.   
+Option B.        viewing the blade and observing ice falling off the blade.   
+Option C.        an ammeter in the flight deck.          
+Correct Answer is.      an ammeter in the flight deck.          
+Explanation.    Jepperson Aircraft Propellers and Control page 129 refers.
+
+
+Question Number.       4.         Insulation testing of electrical de-icing systems should be periodically carried out because of.                
+Option A.        an open circuit in one of the blades. 
+Option B.        oxidation due to atmospheric conditions.     
+Option C.        wear on the slip rings.
+Correct Answer is.      an open circuit in one of the blades. 
+Explanation.    CAIPs leaflet PL/1-4 refers.
+
+
+Question Number.       5.         Insulation checks on propeller electrical heating elements should be carried out frequently due to.                 
+Option A.        short/open circuits in the heating system wires along the propeller blade.   
+Option B.        oxidation of slip ring and brush gear assembly.        
+Option C.        deposits formed due to the wear of slip ring and brush gear assembly.       
+Correct Answer is.      short/open circuits in the heating system wires along the propeller blade.   
+Explanation.    CAIP's Leaflet PL/1-4 Para 3.3-2 Refers.
+
+
+Question Number.       6.         Where is the de-icing boot?.             
+Option A.        Root. 
+Option B.        Trailing edge.
+Option C.        Tip.    
+Correct Answer is.      Root. 
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Pages 126-127.
+
+
+Question Number.       7.         How is anti icing fluid fed to the individual blades?.                      
+Option A.        Pump to a slinger ring.          
+Option B.        Pump to each blade rubber feed boot.          
+Option C.        Under gravity to the slinger ring then on to the blade.         
+Correct Answer is.      Pump to a slinger ring.          
+Explanation.    Jepperson Aircraft Propellers and Controls Page 124 refers.
+
+
+Question Number.       8.         Ice is removed from blades by.                     
+Option A.        a continuously heated electrical boot.
+Option B.        rubber boots inflated in sequence using compressor hot air.
+Option C.        inboard and outboard boot sections heated in sequence by action of the timer.      
+Correct Answer is.      inboard and outboard boot sections heated in sequence by action of the timer.      
+Explanation.    Jepperson Aircraft Propellers and Controls Page 126 refers.
+
+
+Question Number.       9.         Propeller blades are de-iced by.                    
+Option A.        electrical heating elements bound in rubber overshoes on the blade leading edges.
+Option B.        generating eddy currents in the blade.          
+Option C.        electrical heating elements wound around rubber shoes.      
+Correct Answer is.      electrical heating elements bound in rubber overshoes on the blade leading edges.
+Explanation.    Jepperson Aircraft Propellers and Controls Page 126 refers.
+
+
+Question Number.       10.       Electrical power supplies on large aircraft, for electrical deicing are.           
+Option A.        AC.   
+Option B.        DC.   
+Option C.        Both AC or DC.       
+Correct Answer is.      DC.   
+Explanation.    CAIPs PL leaflets Refer.
+
+
+Question Number.       11.       Propeller slip rings.                
+Option A.        convey oil for PCU to pitch change mechanism.      
+Option B.        minimise slip.
+Option C.        conduct electrical power for de-icing.          
+Correct Answer is.      conduct electrical power for de-icing.          
+Explanation.    Jepperson Aircraft Propellers and Controls Page 126 refers.
+
+
+Question Number.       12.       On an electrical deicing system fast cycle is used.               
+Option A.        at low air temperature.          
+Option B.        at high air temperature.         
+Option C.        on the ground.
+Correct Answer is.      at high air temperature.         
+Explanation.    Rolls Royce page 151 refers. Slow cycle meaning the elements are on for longer.
+
+
+Question Number.       13.       The output of an anti-icing pump is controlled by.               
+Option A.        a rheostat.      
+Option B.        the hand pump.         
+Option C.        a cyclic timer.
+Correct Answer is.      a rheostat.      
+Explanation.    Jepperson aircraft propellers and controls Page 124 Refers.
+
+
+Question Number.       14.       De-icing fluid goes to a slinger ring from.                
+Option A.        an electrical pump.    
+Option B.        a hand pump.
+Option C.        a tank in the prop hub, providing constant feed once released.       
+Correct Answer is.      an electrical pump.    
+Explanation.    The pump is controlled by a rheostat to quicken or slow the flow.
+
+
+Question Number.       15.       To increase anti icing effectiveness.             
+Option A.        increase cycle times.  
+Option B.        increase the AC or DC current.        
+Option C.        use liquid as well as electrical anti icing systems.     
+Correct Answer is.      increase the AC or DC current.        
+Explanation.    Anticing refers to fluid deicing in Jeppersen Propeller and Controls page 123 therefore it is the rheostat that is adjusted to vary current.
+
+
+Question Number.       16.       Propeller de-icing for varying rates of icing can be varied by.                     
+Option A.        increasing propeller RPM.     
+Option B.        increasing cyclic timing.        
+Option C.        increasing the AC or DC voltage.     
+Correct Answer is.      increasing cyclic timing.        
+Explanation.    Usually a slow and fast cycle are provided.
+
+
+Question Number.       17.       Propeller De-icing can be checked by.                      
+Option A.        checking the torque meter for abnormal readings.    
+Option B.        checking the the de-icing ammeter.  
+Option C.        visually checking for ice on the blades.        
+Correct Answer is.      checking the torque meter for abnormal readings.    
+Explanation.    Disturbed airflow due to ice will reduce the eficiency of the propeller.
+
+
+Question Number.       18.       Proper operation of electric deicing boots on individual propeller blades may be best determined by.                      
+Option A.        feeling the sequence of boot heating and have an assistant observe the loadmeter indications.      
+Option B.        feeling the boots to see if they are heating.  
+Option C.        observing the ammeter or loadmeter for current flow.         
+Correct Answer is.      feeling the sequence of boot heating and have an assistant observe the loadmeter indications.          
+Explanation.    65-12A.
+
+
+Question Number.       19.       What unit in the propeller anti-icing system controls the output of the pump?.                   
+Option A.        Pressure relief valve. 
+Option B.        Rheostat.       
+Option C.        Cycling timer.
+Correct Answer is.      Rheostat.       
+Explanation.    65-12A.
+
+
+Question Number.       20.       Ice formation on the propellers, when the aircraft is in flight, will.             
+Option A.        decrease available engine power.      
+Option B.        increase aircraft stall speed and increase noise.        
+Option C.        decrease thrust and cause excessive vibration.         
+Correct Answer is.      decrease thrust and cause excessive vibration.         
+Explanation.    65-12A.
+
+
+Question Number.       21.       Propeller fluid anti-icing systems generally use which of the following?.               
+Option A.        Ethyl alcohol.
+Option B.        Ethylene glycol.        
+Option C.        Isopropyl alcohol.     
+Correct Answer is.      Isopropyl alcohol.     
+Explanation.    65-12A.
+
+
+17.6 Propeller Maintenance.
+
+
+
+Question Number.       1.         Thrust and camber faces of a propeller should be blended out to.               
+Option A.        5 times the depth of damage.
+Option B.        10 times to the depth of damage.     
+Option C.        30 times to the depth of damage.     
+Correct Answer is.      30 times to the depth of damage.     
+Explanation.    Answer found in unattributed notes.
+
+
+Question Number.       2.         An aerodynamic correction factor that is preceded by the letter Q indicates.                     
+Option A.        thrust balance.
+Option B.        dynamic balance.      
+Option C.        torque balance.          
+Correct Answer is.      torque balance.          
+Explanation.    NIL.  
+
+
+Question Number.       3.         Leading edges should be blended out to.                 
+Option A.        5 times the depth of damage.
+Option B.        10 times the depth of damage.         
+Option C.        30 times the depth of damage.         
+Correct Answer is.      10 times the depth of damage.         
+Explanation.    Answer found in unattributed notes.
+
+
+Question Number.       4.         If the tip of an electrical overshoe is torn.                
+Option A.        it may be cut back.    
+Option B.        it may be classified as acceptable damage.   
+Option C.        it must not be cut back.         
+Correct Answer is.      it must not be cut back.         
+Explanation.    NIL.  
+
+
+Question Number.       5.         The shank of the propeller is permitted to have.                   
+Option A.        no repairs.      
+Option B.        minor repairs.
+Option C.        no decals fitted.        
+Correct Answer is.      no repairs.      
+Explanation.    Refer Jepperson A&P Powerplant Page 12-55.        
+
+
+Question Number.       6.         When blending out a gouge on the face or camber side of a blade, the additional metal to be removed for stress relief is.                  
+Option A.        0.02 inch.      
+Option B.        0.002 inch.    
+Option C.        0.2 inch.        
+Correct Answer is.      0.002 inch.    
+Explanation.    NIL.  
+
+
+Question Number.       7.         Wooden propellers are permitted.                 
+Option A.        repairs that do not affect weight and balance.         
+Option B.        no repairs.      
+Option C.        repairs using sawdust and aeroglue. 
+Correct Answer is.      repairs using sawdust and aeroglue. 
+Explanation.    Jepperson A&P Powerplant page 12-53 refers.        
+
+
+Question Number.       8.         The preservative used to protect metal blades is.                 
+Option A.        lanolin.          
+Option B.        brown storage wax.   
+Option C.        petroleum jelly.         
+Correct Answer is.      lanolin.          
+Explanation.    NIL.  
+
+
+Question Number.       9.         Composite propellers may have minor repairs carried out by.                      
+Option A.        any approved 3rd party maintenance organization.  
+Option B.        the operator.  
+Option C.        any approved composite repair facility.        
+Correct Answer is.      any approved composite repair facility.        
+Explanation.    Must be composite specialist organization.   
+
+
+Question Number.       10.       Details of propeller overhaul may be found in.                    
+Option A.        Airworthiness Notice 75.      
+Option B.        the AMM.     
+Option C.        Airworthiness Notice 55.      
+Correct Answer is.      Airworthiness Notice 75.      
+Explanation.    Refer CAA Airworthiness Notice 75.          
+
+
+Question Number.       11.       The ground clearance of a single engine tail wheel aircraft propeller is measured with the aircraft.                
+Option A.        tail wheel on the ground.      
+Option B.        tail wheel in the take off position.    
+Option C.        in the rigging position.          
+Correct Answer is.      tail wheel in the take off position.    
+Explanation.    Refer JAR 25.925.    
+
+
+Question Number.       12.       The structural clearance of a multi engine aircraft propeller.            
+Option A.        is taken between the engines with the props aligned.
+Option B.        is taken between the prop and the fuselage. 
+Option C.        is taken from the ground.      
+Correct Answer is.      is taken between the prop and the fuselage. 
+Explanation.    Refer JAR 25.925. Sometimes known as tip clearance.       
+
+
+Question Number.       13.       What position should the blades be when installing the pitch change mechanism onto a hydromatic propeller?.                      
+Option A.        Feather.         
+Option B.        Zero pitch.     
+Option C.        Full reverse.   
+Correct Answer is.      Feather.         
+Explanation.    NIL.  
+
+
+Question Number.       14.       The ground (sea) clearance of a sea plane propeller is.                     
+Option A.        1 inch.
+Option B.        9 inches.        
+Option C.        18 inches.      
+Correct Answer is.      18 inches.      
+Explanation.    Jepperson Aircraft Propellers and Controls Fig 2-5 refers.   
+
+
+Question Number.       15.       Cropping is permitted to a maximum of.                  
+Option A.        1 inch on all blades.  
+Option B.        ½ inch on all blades. 
+Option C.        ½ inch on one blade only.     
+Correct Answer is.      1 inch on all blades.  
+Explanation.    If 1 blade is cropped all must be cropped equally.   
+
+
+Question Number.       16.       Dynamic balance is confirmed by use of.                 
+Option A.        knife edges and mandrel.      
+Option B.        a tracking check.       
+Option C.        a vibration analyser.  
+Correct Answer is.      a vibration analyser.  
+Explanation.    Refer Jepperson Powerplant Page 12-60.     
+
+
+Question Number.       17.       A metal propeller may be statically balanced by.                 
+Option A.        adding varnish to the lighter blade.  
+Option B.        removing metal from the opposite blade.     
+Option C.        adding or removing lead wool to the hollow blade roots.    
+Correct Answer is.      adding or removing lead wool to the hollow blade roots.    
+Explanation.    Refer Jepperson Powerplant Page 12-12.     
+
+
+Question Number.       18.       Mechanical vibration relating to propellers in a piston powered aircraft.                 
+Option A.        is due to the crankshaft at intermittent power settings.        
+Option B.        is due to the lead lag of the propeller compared to the engine.        
+Option C.        is due to the power stroke of the engine and may have a more detrimental effect than aerodynamic vibration.       
+Correct Answer is.      is due to the power stroke of the engine and may have a more detrimental effect than aerodynamic vibration.         
+Explanation.    Jepperson Aircraft Propellers and Control page 16 refers.   
+
+
+Question Number.       19.       Aerodynamic Correction Factor (A C F).                 
+Option A.        corrects for static balance.    
+Option B.        is indicated in the form of degrees and minutes of pitch.    
+Option C.        corrects for dynamic balance.
+Correct Answer is.      is indicated in the form of degrees and minutes of pitch.    
+Explanation.    A C F adjusts individual blade pitch angle to compensate for aerodynamic differences of blades in manufacture. 
+
+
+Question Number.       20.       A propeller with an adjustable blade can be adjusted.                     
+Option A.        on the ground with the engine stationary.    
+Option B.        in flight.        
+Option C.        on the ground with the engine running.        
+Correct Answer is.      on the ground with the engine stationary.    
+Explanation.    Jepperson Aircraft Propellers and Controls Page 37 refers. 
+
+
+Question Number.       21.       When on the ground with the engine idling the prop control should be.                 
+Option A.        fully aft with the mixture at idle.      
+Option B.        fully aft with the mixture at rich.      
+Option C.        fully forward with the mixture at idle.         
+Correct Answer is.      fully aft with the mixture at rich.      
+Explanation.    Jepperson Powerplant Page 2-16 refers- rich mixture cools the cylinders.   
+
+
+Question Number.       22.       Operation with the engine at maximum boost should be limited to.            
+Option A.        prop at fine to prevent overstressing the engine.      
+Option B.        prop at course to prevent overstressing the engine.  
+Option C.        prop at windmill to prevent overstressing the engine.          
+Correct Answer is.      prop at course to prevent overstressing the engine.  
+Explanation.    Maximum Boost indicates maximum power is applied to the prop. 
+
+
+Question Number.       23.       Damage to a leading edge can be blended in comparison to a blade face.              
+Option A.        by maintaining a smooth depression.
+Option B.        by not exceeding 25% of the chord. 
+Option C.        at a steeper angle.      
+Correct Answer is.      at a steeper angle.      
+Explanation.    10:1 compared to 30:1.         
+
+
+Question Number.       24.       The longitudinal clearance between the nose wheel and the propeller on a tricycle geared propeller is.                
+Option A.        9 inches.        
+Option B.        18 inches.      
+Option C.        1/2 inch.        
+Correct Answer is.      1/2 inch.        
+Explanation.    Refer JAR-25.925.    
+
+
+Question Number.       25.       A tracking check compares.              
+Option A.        2 Adjacent blades.    
+Option B.        2 Opposite blades.    
+Option C.        any 2 blades. 
+Correct Answer is.      any 2 blades. 
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Page 32. 
+
+
+Question Number.       26.       A line of indentations at one blade section can be.              
+Option A.        blended within limits.
+Option B.        left for up to 12 months.       
+Option C.        declared unserviceable.         
+Correct Answer is.      declared unserviceable.         
+Explanation.    Jepperson Aircraft Propellers and Control Page 126 Refer. 
+
+
+Question Number.       27.       Propeller vibration due to a problem with propeller installations would have a.                  
+Option A.        the same frequency as turbine vibration.      
+Option B.        lower frequency than turbine vibration.        
+Option C.        higher frequency than turbine vibration.       
+Correct Answer is.      lower frequency than turbine vibration.        
+Explanation.    Propeller RPM is always less than Gas Turbine RPM therefore vibration frequency will always be less.   
+
+
+Question Number.       28.       Preloading propeller blades before installation prevents.                 
+Option A.        blade distortion.        
+Option B.        blade flutter. 
+Option C.        aerodynamic imbalance on the blades.         
+Correct Answer is.      blade flutter. 
+Explanation.    Preloading refers to shimming the blade gear boss when being mated with the bevel gear cams in the hub.   
+
+
+Question Number.       29.       When unfeathering a propeller, the blade should be put into what position to stop propeller overspeed?.            
+Option A.        Negative pitch.          
+Option B.        Fine pitch.     
+Option C.        Coarse pitch. 
+Correct Answer is.      Coarse pitch. 
+Explanation.    A Prop moved to coarse pitch will rotate the engine without overspeeding.
+
+
+Question Number.       30.       Blade angle is measured using a.                  
+Option A.        clinometer.    
+Option B.        propeller protractor.  
+Option C.        bevel protractor.        
+Correct Answer is.      propeller protractor.  
+Explanation.    Refer Jepperson Aircraft Propellers and Controls Fig 1-7.   
+
+
+Question Number.       31.       In the Beta range, angle of attack increases. The fuel flow increases, and what else increases?.                 
+Option A.        Fuel temperature.      
+Option B.        EPR and fuel temperature.   
+Option C.        RPM and EGT.         
+Correct Answer is.      RPM and EGT.         
+Explanation.    If fuel flow increases then RPM and EGT of the Gas Generator must increase.     
+
+
+Question Number.       32.       With a propeller defect, the frequency of vibration will be.             
+Option A.        higher than a auxiliary gearbox defect.         
+Option B.        lower than a turbine defect.  
+Option C.        higher than a turbine defect. 
+Correct Answer is.      lower than a turbine defect.  
+Explanation.    Propeller vibration is always lower then turbine vibration.   
+
+
+Question Number.       33.       Blending of propeller blade defects refers to the.                
+Option A.        repainting of blade tips after cropping.         
+Option B.        matching of paint finishes for appearances.  
+Option C.        conversion of rough or sharp edges into smooth depression.
+Correct Answer is.      conversion of rough or sharp edges into smooth depression.
+Explanation.    Jepperson Aircraft Propellers and Controls Page 21.Blending is the smoothing of a defect.          
+
+
+Question Number.       34.       Removal of material from the propeller blade tips, resulting in a reduction in propeller diameter is called.                 
+Option A.        tipping.          
+Option B.        cropping.       
+Option C.        topping.         
+Correct Answer is.      cropping.       
+Explanation.    If you crop one blade (normally 1 inch maximum) the opposite blade must also be cropped.         
+
+
+Question Number.       35.       Prior to using the universal propeller protractor.                   
+Option A.        ensure the propeller blade is at the horizontal.          
+Option B.        determine the reference blade station.          
+Option C.        check date stamp for serviceability.  
+Correct Answer is.      determine the reference blade station.          
+Explanation.    Jepperson Aircraft Propellers and Controls Page 3 refers.   
+
+
+Question Number.       36.       To fit a new front cone to a prop shaft firstly.                     
+Option A.        etch the propeller serial number to the rear face.      
+Option B.        cut in half with a hacksaw and etch a unique serial number to both halves.
+Option C.        coat in Engineers blue to ensure seating in the propeller front boss.
+Correct Answer is.      cut in half with a hacksaw and etch a unique serial number to both halves.
+Explanation.    Jepperson Aircraft Propellers and Controls Page 30 refers. 
+
+
+Question Number.       37.       Blade tracking is adjusted by.                      
+Option A.        adding lead wool to the blade shank.
+Option B.        re-seating the propeller on the front and rear cones. 
+Option C.        by fitting shims to the propeller shaft hub.   
+Correct Answer is.      by fitting shims to the propeller shaft hub.   
+Explanation.    Jepperson Aircraft Propellers and Controls Page 33 refers. 
+
+
+Question Number.       38.       Which of the following functions requires the use of a propeller blade station?.                
+Option A.        Indexing blades.       
+Option B.        Propeller balancing.   
+Option C.        Measuring blade angle.         
+Correct Answer is.      Measuring blade angle.         
+Explanation.    NIL.  
+
+
+Question Number.       39.       To conduct a power check of an internal combustion engine requires.                    
+Option A.        coarse pitch setting and advance the throttle to the target RPM.    
+Option B.        fine pitch setting and advance the engine to the target RPM setting.          
+Option C.        fine pitch setting and advance the engine to the max RPM setting.
+Correct Answer is.      fine pitch setting and advance the engine to the target RPM setting.          
+Explanation.    Jepperson A&P Powerplant Page 2-16 refers.          
+
+
+Question Number.       40.       The power output of a turboprop engine is checked by.                  
+Option A.        reference RPM.         
+Option B.        reference Thrust.       
+Option C.        reference Torque.      
+Correct Answer is.      reference Torque.      
+Explanation.    Rolls Royce Jet Engine Page 137.    
+
+
+Question Number.       41.       Immediately after blending out damage to to a blade the repair must be.               
+Option A.        re-protected against corrosion.          
+Option B.        crack checked.          
+Option C.        balanced.       
+Correct Answer is.      crack checked.          
+Explanation.    Crack check before re-protection.     
+
+
+Question Number.       42.       How is the efficiency of a turbo prop engine assessed?.                  
+Option A.        By correcting propeller RPM for ambient Air temperature and barometric pressure.          
+Option B.        By comparing compressor and propeller RPM against a reference figure.   
+Option C.        By comparing torque meter pressure against a reference figure.      
+Correct Answer is.      By correcting propeller RPM for ambient Air temperature and barometric pressure.          
+Explanation.    Rolls Royce The Jet Engine Page 138 Refers.          
+
+
+Question Number.       43.       The limits for a tracking check are.               
+Option A.        1/4 inch maximum difference between adjacent blades.      
+Option B.        1/8 inch maximum difference between opposite blades.      
+Option C.        1/8 inch maximum difference between all blades.    
+Correct Answer is.      1/8 inch maximum difference between all blades.    
+Explanation.    Jepperson Aircraft Propellers and Controls Page 43 refers. 
+
+
+Question Number.       44.       After a lightning strike.                     
+Option A.        the prop must be tracked.     
+Option B.        the propeller shaft should be checked for concentricity.      
+Option C.        the heater elements should be checked for continuity and insulation.         
+Correct Answer is.      the heater elements should be checked for continuity and insulation.         
+Explanation.    Taken from unattributed notes- has anyone got a reference?.          
+
+
+Question Number.       45.       After overspeeding to 110%.            
+Option A.        no action is required. 
+Option B.        return propeller for overhaul.
+Option C.        remove propeller for inspection.       
+Correct Answer is.      no action is required. 
+Explanation.    Up to 115% no action is necessary.  
+
+
+Question Number.       46.       Indentations to the blade face are measured.           
+Option A.        individually.  
+Option B.        individually and collectively.
+Option C.        collectively.   
+Correct Answer is.      individually and collectively.
+Explanation.    Taken from unattributed notes- has anyone got a reference?.          
+
+
+Question Number.       47.       When a propeller has had a report of overspeeding.             
+Option A.        procedure is dependant on the extent of overspeeding.       
+Option B.        the propeller must be removed and sent to the manufacturer.          
+Option C.        the propeller must be removed and tracked. 
+Correct Answer is.      procedure is dependant on the extent of overspeeding.       
+Explanation.    CAIPS Lflt PL/1-4 refers inspection after overspeeding depends upon amount of overspeed.      
+
+
+Question Number.       48.       The most significant effect of stone chips on a propeller is.             
+Option A.        thrust output of the propeller.
+Option B.        structural integrity of the propeller.  
+Option C.        aerodynamic capability of the propeller.       
+Correct Answer is.      structural integrity of the propeller.  
+Explanation.    Cracks are initiated by stone chips etc.         
+
+
+Question Number.       49.       Ground running an aircraft with a fixed pitch prop with its tail into wind causes the engine RPM to.                     
+Option A.        increase.        
+Option B.        stay the same regardless of wind direction.  
+Option C.        decrease.       
+Correct Answer is.      decrease.       
+Explanation.    A head wind on a dead engine will cause the prop to windmill. Therefore a tail wind must do the opposite.        
+
+
+Question Number.       50.       Adjustments to a variable pitch propeller are.                      
+Option A.        made in the air using the synchronizer.         
+Option B.        made on the ground with the engine stationary.      
+Option C.        made on the ground with the engine running.          
+Correct Answer is.      made on the ground with the engine stationary.      
+Explanation.    Governor spring pressure may be adjusted but only with the engine stationary!!.   
+
+
+Question Number.       51.       When a propeller is removed, the securing parts are kept with.                   
+Option A.        all separately in cases.
+Option B.        the propeller. 
+Option C.        the engine.     
+Correct Answer is.      the engine.     
+Explanation.    It is believed that the securing parts stay with the engine, but no reference can be found to support this.   
+
+
+Question Number.       52.       During engine warm up the mixture should be at.                
+Option A.        rich, blades at feather.
+Option B.        lean, blades at superfine.       
+Option C.        rich, blades at superfine.       
+Correct Answer is.      rich, blades at superfine.       
+Explanation.    A&P Mechanics EA65 states that engines should not be warmed up with a lean mixture and you would not do it with the prop in feather, the engine load would be too great therefore b must be correct.
+
+
+Question Number.       53.       When unfeathering a propeller use.              
+Option A.        minimum RPM/min throttle. 
+Option B.        any RPM min throttle.          
+Option C.        maximum RPM/min throttle.
+Correct Answer is.      minimum RPM/min throttle. 
+Explanation.    A correspondent reports that for a SAAB 340 the power lever is set at ground idle (940 RPM) and the condition lever at unfeather.       
+
+
+Question Number.       54.       How is the concentricity of a propeller shaft checked?.                   
+Option A.        Micrometer.   
+Option B.        Dial Test Indicator (DTI).     
+Option C.        Ring gauge.   
+Correct Answer is.      Dial Test Indicator (DTI).     
+Explanation.    CAIPs show DTI's checking concentricity of crankshafts etc.        
+
+
+Question Number.       55.       Propeller slip rings should be.           
+Option A.        lubricated with silicon grease.
+Option B.        lubricated with graphite grease.        
+Option C.        cleaned and left dry. 
+Correct Answer is.      cleaned and left dry. 
+Explanation.    CAIPs PL/1-4 para 3.2.8 refers.       
+
+
+Question Number.       56.       A splined hub is found be loose with the.                
+Option A.        excessive spline wear.
+Option B.        front cones bottomed against the front end of the splines.  
+Option C.        retaining nut torque loading too low.
+Correct Answer is.      front cones bottomed against the front end of the splines.  
+Explanation.    Cones used to centralise hubs on shafts. If they do not seat properly the hub cannot be held firm. See Jeppesen propellers and controls fig 5-19.    
+
+
+Question Number.       57.       When measuring RPM on a supercharged engine with variable pitch.                     
+Option A.        maximum boost pressure and actual air pressure is used.     
+Option B.        engine boost pressure and actual air pressure is used.          
+Option C.        zero boost pressure and actual air pressure is used.  
+Correct Answer is.      zero boost pressure and actual air pressure is used.  
+Explanation.    CAIPs Leaflet EL/3-2 para 9.8.3 refers to testing on the fine pitch stops and at the same manifold pressure indicated before the engine was started (IE zero boost), corrected for.    
+
+
+Question Number.       58.       On propeller securing plates circlips should be.                    
+Option A.        annealed and the springiness put back into the circlip before it can be used again. 
+Option B.        used once only.         
+Option C.        used again as long as the circlip springs back first time.       
+Correct Answer is.      used once only.         
+Explanation.    Lycoming have issued mandatory service bulletin 240S dated 3 Feb 2003 stating that circlips, lockplates shims and retaining rings must be replaced at overhaul or removal regardless of condition.      
+
+
+Question Number.       59.       The cause of propeller out-of-track vibration is.                   
+Option A.        propeller blade angle too large.         
+Option B.        static imbalance.        
+Option C.        blade stiffness not exactly matched.
+Correct Answer is.      blade stiffness not exactly matched.
+Explanation.    Vibration caused by blades being out of track means that the blades do not rotate in the same plane of rotation. Variable blade stiffness could cause the blades to flex and thus cause the blades not to track in the same plane. 
+
+
+Question Number.       60.       How is blending carried out on an aluminium propeller blade?.                  
+Option A.        By using a course file and peening.  
+Option B.        By using a needle file and finish with emery cloth. 
+Option C.        By using a scraper.    
+Correct Answer is.      By using a needle file and finish with emery cloth. 
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 21 refers.  
+
+
+Question Number.       61.       Where would you find information on RPM and Power ratings?.               
+Option A.        Painted onto the propeller.    
+Option B.        Engine Log book.     
+Option C.        Etched on the Propeller.       
+Correct Answer is.      Engine Log book.     
+Explanation.    CAIPs leaflet EL/3-2 states that the reference RPM is recorded in the engine log book for power assurance checks.      
+
+
+Question Number.       62.       During a test on the feathering and un-feathering systems, 1) after selecting Feather and pressing the feather button, it remained pressed for about 5 seconds then automatically deselected. 2) When un-feather was selected and the button pressed, it remained in for a short period and then autodeselected. These 2 situations would indicate.                 
+Option A.        both systems are working correctly. 
+Option B.        the Feathering Pump is Unserviceable since the button did not de-press immediately.       
+Option C.        there is nothing wrong with the Feathering motor but the Un-Feathering pump is unserv. 
+Correct Answer is.      both systems are working correctly. 
+Explanation.    system is a hydromatic type propeller control. The feather/defeather switch is auto deselected by a pressure switch sensing the pressure build up in the hub after the desired position has been reached.       
+
+
+Question Number.       63.       On a Hartzell prop with counterweights, full oil supply would indicate.                 
+Option A.        on-speed condition.  
+Option B.        overspeed condition. 
+Option C.        underspeed condition.          
+Correct Answer is.      overspeed condition. 
+Explanation.    The counterweights are the clue here. This is a single acting propeller, therefore if the tank is full the spring must be fully extended to counteract an overspeed condition.         
+
+
+Question Number.       64.       If a 2 blade prop is placed on a knife edge and it ends up horizontal (blades at 3 and 9 o'clock positions), it is said to be in balance.            
+Option A.        vertically.      
+Option B.        horizontally.  
+Option C.        dynamically.  
+Correct Answer is.      horizontally.  
+Explanation.    Jeppersen Aircraft Propellers and Controls Page 20 refers.  
+
+
+Question Number.       65.       High Engine Oil pressure may be caused by.           
+Option A.        blocked scavenge filter.        
+Option B.        restricted pump operation.    
+Option C.        higher oil pressure.    
+Correct Answer is.      blocked scavenge filter.        
+Explanation.    Restriction of flow in the circuit, assuming the pump is a full flow (gear) type, will give this indication.     
+
+
+Question Number.       66.       Which of the following defects is cause for rejection of wooden propellers?.                    
+Option A.        An oversize hub or bolthole or elongated bolt holes.
+Option B.        No protective coating on propeller.  
+Option C.        Solder missing from screw heads securing metal tipping.    
+Correct Answer is.      An oversize hub or bolthole or elongated bolt holes.
+Explanation.    Solder or finish can be replaced elongated holes cannot.     
+
+
+Question Number.       67.       Inspection of a propeller blade by dye penetrant inspection is accomplished to detect.                      
+Option A.        cracks.
+Option B.        corrosion at the blade tip.     
+Option C.        torsional stress.          
+Correct Answer is.      cracks.
+Explanation.    Dye penetrant techniques are used to detect surface cracks.
+
+
+Question Number.       68.       Which of the following is used to correct horizontal imbalance of a wooden propeller?.                      
+Option A.        Shellac.          
+Option B.        Brass screws. 
+Option C.        Solder.
+Correct Answer is.      Solder.
+Explanation.    CAIPs state that adding solder to the metal tiping of the blade is the correct method for horizontal balance. Brass screws are added for vertical imbalance on the lightwieght side of the hub.
+
+
+Question Number.       69.       Which of the following determines oil and grease specifications for lubrication of propellers?.                
+Option A.        Propeller manufacturers.       
+Option B.        Engine Manufacturers.          
+Option C.        Airframe manufacturers.       
+Correct Answer is.      Propeller manufacturers.       
+Explanation.    AC65-12A.   
+
+
+Question Number.       70.       What type of imbalance will cause a two-bladed propeller to have a persistent tendency to come to rest in a horizontal position (with the blades parallel to the ground) while being checked on a propeller balance beam?.                   
+Option A.        Harmonic.     
+Option B.        Vertical.        
+Option C.        Horizontal.    
+Correct Answer is.      Vertical.        
+Explanation.    AC65-12A.   
+
+
+Question Number.       71.       What is the purpose of an arbor used in balancing a propeller?.                   
+Option A.        To support the propeller on the balance knives.        
+Option B.        To mark the propeller blades where weights are to be be attached. 
+Option C.        To level the balance stand.    
+Correct Answer is.      To support the propeller on the balance knives.        
+Explanation.    AC65-12A.   
+
+
+Question Number.       72.       The application of more protective coating on one blade than another when refinishing a wood propeller.                  
+Option A.        has little or no effect on operating characteristics.   
+Option B.        may be necessary to achieve final balancing.
+Option C.        should never be done.
+Correct Answer is.      may be necessary to achieve final balancing.
+Explanation.    NIL.  
+
+
+Question Number.       73.       Apparent engine roughness is often a result of propeller unbalance. The effect of an unbalanced propeller will usually be.            
+Option A.        greater at high RPM. 
+Option B.        greater at low RPM.  
+Option C.        approximately the same at all speeds.
+Correct Answer is.      greater at high RPM. 
+Explanation.    AC65-12A.   
+
+
+Question Number.       74.       Propeller aerodynamic (thrust) imbalance can be largely eliminated by.                  
+Option A.        correct blade contouring and angle setting.  
+Option B.        static balancing.        
+Option C.        keeping the propeller blades within the same plane of rotation.       
+Correct Answer is.      correct blade contouring and angle setting.  
+Explanation.    AC65-12A.   
+
+
+Question Number.       75.       Propellers exposed to salt spray should be flushed with.                 
+Option A.        fresh water.   
+Option B.        soapy water.  
+Option C.        stoddard solvent.      
+Correct Answer is.      fresh water.   
+Explanation.    AC65-12A.   
+
+
+Question Number.       76.       How can a steel propeller hub be tested for cracks?.            
+Option A.        By magnetic particle inspection.       
+Option B.        By anodizing.
+Option C.        By etching.    
+Correct Answer is.      By magnetic particle inspection.       
+Explanation.    AC65-12A.   
+
+
+Question Number.       77.       Which of the following defects is cause of rejection of a wood propeller?.            
+Option A.        An oversize hub or bolt hole, or elongated bolt holes.         
+Option B.        Solder missing from screw heads securing metal tipping.    
+Option C.        No protective coating on propeller.  
+Correct Answer is.      An oversize hub or bolt hole, or elongated bolt holes.         
+Explanation.    AC43.13-1B.
+
+
+Question Number.       78.       Longitudinal (fore and aft) clearance of constant speed propeller blades or cuffs must be at least 1/2 inch (12.7 mm) between propeller parts and stationary parts of the aircraft. This clearance is with the propeller blades.                    
+Option A.        at the lowest pitch angle.      
+Option B.        at take-off pitch (maximum thrust) angle.    
+Option C.        feathered or in the most critical pitch configuration.
+Correct Answer is.      feathered or in the most critical pitch configuration.
+Explanation.    JAR 23.         
+
+
+Question Number.       79.       When lubricating a Hartzell propeller blade with grease, to prevent damage to the blade seals, the service manual may recommend on some models to.                      
+Option A.        remove the seals prior to greasing and reinstall them afterwards.    
+Option B.        remove one of the two grease nipples for the blade, and grease the blade through the remaining nipple.
+Option C.        pump grease into both grease nipples for the blade simultaneously.
+Correct Answer is.      remove one of the two grease nipples for the blade, and grease the blade through the remaining nipple.       
+Explanation.    NIL.  
+
+
+Question Number.       80.       When running-up an engine and testing a newly installed hydromatic propeller, it is necessary to exercise the propeller by moving the governor control through its entire travel several times to.                   
+Option A.        remove any entrapped air.     
+Option B.        test the maximum RPM setting of the governor.      
+Option C.        seat the blades fully against the low pitch stop.       
+Correct Answer is.      remove any entrapped air.     
+Explanation.    NIL.  
+
+
+Question Number.       81.       What is indicated when the front cone bottoms while installing a propeller?.                     
+Option A.        Blade angles are incorrect.    
+Option B.        Propeller-dome combination is incorrect.     
+Option C.        Rear cone should be moved forward.
+Correct Answer is.      Rear cone should be moved forward.
+Explanation.    AC65-12A.   
+
+
+Question Number.       82.       Which of the following statements concerning the installation of a new fixed-pitch wood propeller is true?.                    
+Option A.        If a separate metal hub is used, final track should be accomplished prior to installing the hub in the propeller.       
+Option B.        NAS close-tolerance bolts should be used to install the propeller.   
+Option C.        Inspect the bolts for tightness after the first flight and again after the first 25 hours of flying.      
+Correct Answer is.      Inspect the bolts for tightness after the first flight and again after the first 25 hours of flying.          
+Explanation.    AC43.13-1B.
+
+
+Question Number.       83.       If the propeller cone or hub cone seats show evidence of galling and wear, the most likely cause is.           
+Option A.        the propeller retaining nut was not tight enough during previous operation.
+Option B.        the front cone was not fully bottomed against the crankshaft splines during installation.  
+Option C.        the pitch change stops were located incorrectly, causing the cone seats to act as the high pitch stop.          
+Correct Answer is.      the propeller retaining nut was not tight enough during previous operation.
+Explanation.    AC65-12A.   
+
+
+Question Number.       84.       On aircraft equiped with hydraulically operated constant speed propellers, all ignition and magneto checking is done with the propeller in which position?.                     
+Option A.        Low RPM.    
+Option B.        High pitch range.      
+Option C.        High RPM.    
+Correct Answer is.      High RPM.    
+Explanation.    AC65-12A.   
+
+
+Question Number.       85.       Oil leakage around the rear cone of a hydromatic propeller usually indicates a defective.                  
+Option A.        spider-shaft oil seal.  
+Option B.        piston gasket.
+Option C.        dome-barrel oil seal.  
+Correct Answer is.      spider-shaft oil seal.  
+Explanation.    NIL.  
+
+
+Question Number.       86.       Maximum taper contact between crankshaft and propeller hub is determined by using.                      
+Option A.        a micrometer.
+Option B.        a surface gauge.        
+Option C.        bearing blue colour transfer. 
+Correct Answer is.      bearing blue colour transfer. 
+Explanation.    NIL.  
+
+
+Question Number.       87.       Propeller blade tracking is the process of determining.                    
+Option A.        the plane of rotation of the propeller with respect to the aircraft longitudinal axis.
+Option B.        that the blade angles are within specified tolerance of each other.  
+Option C.        the positions of the tips of the propeller blades relative to each other.        
+Correct Answer is.      the positions of the tips of the propeller blades relative to each other.        
+Explanation.    AC65-12A.   
+
+
+Question Number.       88.       In what position is the constant-speed propeller control placed to check the magnetos?.                      
+Option A.        Full decrease, low propeller blade pitch angle.         
+Option B.        Full increase, low propeller blade pitch angle.          
+Option C.        Full increase, high propeller blade pitch angle.         
+Correct Answer is.      Full increase, low propeller blade pitch angle.          
+Explanation.    AC65-12A.   
+
+
+Question Number.       89.       If a flanged propeller shaft has dowel pins.             
+Option A.        the propeller can be installed in only one position.   
+Option B.        check carefully for front cone bottoming against the pins.  
+Option C.        install the propeller so that the blades are positioned for hand propping.    
+Correct Answer is.      the propeller can be installed in only one position.   
+Explanation.    AC65-12A.   
+
+
+Question Number.       90.       Repairs of aluminium alloy adjustable pitch propellers are not permitted to be made on the.                
+Option A.        face.  
+Option B.        shank.
+Option C.        back.  
+Correct Answer is.      shank.
+Explanation.    AC43.13-1B.
+
+
+Question Number.       91.       Which of the following methods is used to straighten a bent aluminium propeller blade that is within repairable limits?.                    
+Option A.        Either hot or cold straightening, depending on the location and severity of damage.         
+Option B.        Cold straightening only.       
+Option C.        Careful heating to accomplish straightening, followed by heat treatment to store original strength.          
+Correct Answer is.      Cold straightening only.       
+Explanation.    AC43.13-1B.
+
+
+Question Number.       92.       It is important that nicks in aluminium alloy propeller blades be repaired as soon as possible in order to.               
+Option A.        maintain equal aerodynamic characteristics between blades.
+Option B.        eliminate stress concentration points.
+Option C.        equalize the centrifugal loads between the blades.   
+Correct Answer is.      eliminate stress concentration points.
+Explanation.    AC43.13-1B.
+
+
+Question Number.       93.       Minor surface damage located in a repairable area, but not on the leading or trailing edges of aluminium blades, may be repaired by first.                      
+Option A.        filing with a half round or flat file.   
+Option B.        sanding and applying a proper filler.
+Option C.        filing with a riffle file.          
+Correct Answer is.      filing with a riffle file.          
+Explanation.    NIL.  
+
+
+Question Number.       94.       Minor surface damage located in a repairable area, but not on the leading or trailing edges of composite blades, may be repaired by.                  
+Option A.        filing with a riffle file.          
+Option B.        sanding and applying a proper filler.
+Option C.        filing with a half round or flat file.   
+Correct Answer is.      sanding and applying a proper filler.
+Explanation.    NIL.  
+
+
+Question Number.       95.       After removal of aluminium blade damage, the affected surface should be polished with.              
+Option A.        fine steel wool.          
+Option B.        very fine sandpaper.  
+Option C.        powdered soapstone.
+Correct Answer is.      very fine sandpaper.  
+Explanation.    AC43.13-1B.
+
+
+Question Number.       96.       When preparing a propeller blade for inspection it should be cleaned with.            
+Option A.        mild soap and water. 
+Option B.        steel wool.     
+Option C.        methyl ethyl ketone. 
+Correct Answer is.      mild soap and water. 
+Explanation.    AC65-12A.   
+
+
+Question Number.       97.       What method would you use to inspect an aluminium propeller blade when a crack is suspected?.                
+Option A.        Dye penetrant inspection.     
+Option B.        Magnetic particle inspection.
+Option C.        A bright light and magnifying glass.
+Correct Answer is.      Dye penetrant inspection.     
+Explanation.    AC43.13-1B.
+
+
+Question Number.       98.       Removal of propeller blade tips within the Type Certificate Data Sheet limits to correct a defect is.                 
+Option A.        a major repair.
+Option B.        permitted under the privileges and limitations of a category B1 licence.     
+Option C.        a major modification.
+Correct Answer is.      a major repair.
+Explanation.    NIL.  
+
+
+Question Number.       99.       Which of the following generally renders an aluminium alloy propeller unrepairable?.                      
+Option A.        A transverse crack of any size.         
+Option B.        Any slag inclusions or cold shuts.     
+Option C.        Any repairs that would require shortening and re-contouring of blades.     
+Correct Answer is.      A transverse crack of any size.         
+Explanation.    AC43.13-1B.
+
+
+Question Number.       100.     What is the acceptable amount of cushion in a governor control lever?.                  
+Option A.        1/8 inch.        
+Option B.        3/8 inch.        
+Option C.        1/4 inch.        
+Correct Answer is.      1/8 inch.        
+Explanation.    NIL.  
+
+
+
+17.7 Propeller Storage and Preservation.
+
+
+
+Question Number.       1.         Rubber components should be stored in.                  
+Option A.        the dark.        
+Option B.        natural light.  
+Option C.        flouresent light.         
+Correct Answer is.      the dark.        
+Explanation.    NIL.
+
+
+Question Number.       2.         The maximum storage periods for installed propellers are detailed in the.               
+Option A.        propeller overhaul and repair manual.
+Option B.        Airworthiness Notices.         
+Option C.        aircraft Maintenance Manual.
+Correct Answer is.      aircraft Maintenance Manual.
+Explanation.    NIL.
+
+
+Question Number.       3.         When storing wooden propellers.                 
+Option A.        store in a dry well ventilated and illuminated location.        
+Option B.        store in a horizontal position.
+Option C.        wrap in greaseproof paper.    
+Correct Answer is.      store in a horizontal position.
+Explanation.    Jepperson A&P Powerplant Page 12-54 refers.
+
+
+Question Number.       4.         A wooden propeller should be stored.                      
+Option A.        a dry and well ventilated area.          
+Option B.        in a room with high humidity to stop it drying and cracking.          
+Option C.        a warm but light storeroom.  
+Correct Answer is.      a dry and well ventilated area.          
+Explanation.    A&P Technician Powerplant textbook 12-54.
+
+
+Question Number.       5.         A wooden propeller in storage.                     
+Option A.        should not be wrapped at-all.
+Option B.        should be wrapped tightly.   
+Option C.        should be wrapped loosely.  
+Correct Answer is.      should not be wrapped at-all.
+Explanation.    A&P Technician Powerplant textbook 12-54.
+
+
+Question Number.       6.         A VP propeller mechanism, for storage for long periods should.                 
+Option A.        should be completely emptied and dried.     
+Option B.        be filled with special inhibiting oil to prevent condensation and corrosion.
+Option C.        be filled with the normal operating oil to prevent condensation and corrosion.      
+Correct Answer is.      should be completely emptied and dried.     
+Explanation.    NIL.

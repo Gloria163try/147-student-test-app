@@ -1,0 +1,5078 @@
+1. Matter.
+
+
+Question Number. 1. An atom with 3 free electrons in its outer shell is said to be.
+Option A. pentavalent.
+Option B. covalent.
+Option C. trivalent.
+Correct Answer is. trivalent.
+Explanation. Number of electrons in the outer shell is called the valency - 1 = monovalent, 2 = divalent, 3 = trivalent etc.
+
+
+
+
+Question Number. 2. What is the mass number of an element?.
+Option A. Number of electrons and protons.
+Option B. Number of neutrons and protons.
+Option C. Number of electrons and neutrons.
+Correct Answer is. Number of neutrons and protons.
+Explanation. NIL.
+
+
+
+
+Question Number. 3. What do you get when you add 2H2 and O?.
+Option A. H2 O.
+Option B. 2H2 O.
+Option C. 2H2 O2 .
+Correct Answer is. 2H2 O.
+Explanation. Water is molecules each made up of 2 hydrogen atoms and 1 oxygen atom. Here ther is 4 hydrogen atoms, and 2 oxygen atoms, so we can make 2 water molecules.
+
+
+
+
+Question Number. 4. The splitting of a chemical compound is called.
+Option A. bombardment.
+Option B. synthesis.
+Option C. analysis.
+Correct Answer is. analysis.
+Explanation. NIL.
+
+
+
+
+Question Number. 5. What is the atomic number of an element?.
+Option A. The number of neutrons in the atom.
+Option B. The number of electrons in the atom.
+Option C. The number of protons in the atom.
+Correct Answer is. The number of protons in the atom.
+Explanation. NIL. http://en.wikipedia.org/wiki/Atomic_number
+
+
+
+
+Question Number. 6. An atom with 5 free electrons is said to be.
+Option A. pentavalet.
+Option B. covalent.
+Option C. trivalent.
+Correct Answer is. trivalent.
+Explanation. The valency is the number of electrons in the outer shell if that number is 4 or less. If there are more than 4 electrons, the valency is 8 minus the number of electrons. In this case 8 -5 = 3 = trivalent.
+
+
+
+
+Question Number. 7. An atom consists of.
+Option A. protons, neutron and electrons.
+Option B. protons and electrons.
+Option C. protons and neutrons.
+Correct Answer is. protons, neutron and electrons.
+Explanation. NIL.
+
+
+
+
+Question Number. 8. The maximum number of electrons in the inner shell of an atom is.
+Option A. 8.
+Option B. 2.
+Option C. 4.
+Correct Answer is. 2.
+Explanation. NIL.
+
+
+
+
+Question Number. 9. The mass of a proton equals the mass of a.
+Option A. neutron.
+Option B. beta particle.
+Option C. electron.
+Correct Answer is. neutron.
+Explanation. Mass of a proton = mass of a neutron (well, very nearly).
+
+
+
+
+Question Number. 10. Catalysts.
+Option A. speed up reactions.
+Option B. speed up and slow down reactions.
+Option C. slow down reactions.
+Correct Answer is. speed up reactions.
+Explanation. A catalyst speeds up reactions, an inhibitor slows down reaction.
+
+
+
+
+Question Number. 11. If the outer shell of an atom is full the the element is.
+Option A. unstable / reactive.
+Option B. a good conductor.
+Option C. practically inert.
+Correct Answer is. practically inert.
+Explanation. NIL.
+
+
+
+
+Question Number. 12. Molecules of the same compound are held together by.
+Option A. cohesive forces.
+Option B. adhesive forces.
+Option C. gravitational forces.
+Correct Answer is. cohesive forces.
+Explanation. Cohesion is the property that causes like substances to cling together (eg water molecules, forming raindrops). Adhesion is the property that causes unlike substances to stick together (eg the raindrops stick on a washing line).
+
+
+
+
+Question Number. 13. Oxygen has a valency of.
+Option A. 2.
+Option B. 6.
+Option C. 8.
+Correct Answer is. 2.
+Explanation. Oxygen has 6 electrons in its outer shell. The valency is the number of electrons in the outer shell if that number is 4 or less. If there are more than 4 electrons, the valency is 8 minus the number of electrons. In this case 8 - 6 = 2.
+
+
+
+
+Question Number. 14. The further from the nucleus the shells are in an atom.
+Option A. the shells retain the same spacing from each other.
+Option B. the closer the shells get to each other.
+Option C. the further the shells get from each other.
+Correct Answer is. the further the shells get from each other.
+Explanation. The gap between the 'energy levels' reduces, but the physical gap increases slightly. http://www.1stardrive.com/solar/chem.htm
+
+
+
+
+Question Number. 15. What determines an element's identity?.
+Option A. The number of neutrons.
+Option B. The number of electrons.
+Option C. The number of protons.
+Correct Answer is. The number of protons.
+Explanation. NIL. http://en.wikipedia.org/wiki/Atomic_number
+
+
+
+
+Question Number. 16. An isotope of an element will have more/less _________ than usual.
+Option A. electrons.
+Option B. neutrons.
+Option C. protons.
+Correct Answer is. neutrons.
+Explanation. NIL. http://en.wikipedia.org/wiki/Isotope
+
+
+
+
+Question Number. 17. The smallest part of an element is.
+Option A. a compound.
+Option B. an atom.
+Option C. a molecule.
+Correct Answer is. an atom.
+Explanation. NIL.
+
+
+
+
+Question Number. 18. The nucleus of an atom contains.
+Option A. protons and electrons.
+Option B. protons and neutrons.
+Option C. electrons and neutrons.
+Correct Answer is. protons and neutrons.
+Explanation. NIL.
+
+
+
+
+Question Number. 19. What is atomic mass?.
+Option A. Number of neutrons.
+Option B. Number of protons plus the number of neutrons.
+Option C. Number of protons.
+Correct Answer is. Number of protons plus the number of neutrons.
+Explanation. NIL.
+
+
+
+
+Question Number. 20. A solid melted into a liquid will take up.
+Option A. less space.
+Option B. the same amount of space.
+Option C. more space.
+Correct Answer is. less space.
+Explanation. When a solid melts, its volume decreases - and then begins to increase again as the temperature of the liquid rises.
+
+
+
+
+Question Number. 21. What form of heat is used to turn a solid into a liquid?.
+Option A. specific heat.
+Option B. coefficient of heat.
+Option C. heat of fusion.
+Correct Answer is. heat of fusion.
+Explanation. Fusion' is another term for melting (as in fusion welding).
+
+
+
+
+Question Number. 22. Change from solid to gas state without going through liquid state is called.
+Option A. transformation.
+Option B. sublimation.
+Option C. state leap.
+Correct Answer is. sublimation.
+Explanation. Sublimation is when a solid vapourises without first melting.
+
+
+
+
+Question Number. 23. What is the smallest particle of matter that can exist in nature?.
+Option A. A molecule.
+Option B. An isotope.
+Option C. An atom.
+Correct Answer is. An atom.
+Explanation. An atom is the smallest particle of matter that can exist in nature.
+
+
+
+
+Question Number. 24. A positive ion.
+Option A. has extra electrons.
+Option B. has missing electrons.
+Option C. is a radioactive isotope.
+Correct Answer is. has missing electrons.
+Explanation. A positive ion is an atom with missing electrons.
+
+
+
+
+Question Number. 25. The isotope of a carbon atom C14 to C12 will have.
+Option A. same numbers of neutrons.
+Option B. same numbers of protons.
+Option C. same number of electrons.
+Correct Answer is. same numbers of protons.
+Explanation. An isotope is an atom with the same atomic number but different mass number. Atomic number is the number of protons. Mass number is the number of protons plus neutrons. Note: the number of electrons can differ from one atom to another (making ions).
+
+
+
+
+Question Number. 26. If an atom has 2 protons, how many electrons will it have?.
+Option A. 1.
+Option B. 8.
+Option C. 2.
+Correct Answer is. 2.
+Explanation. Since it is an 'atom' (and not an ion) it has the same number of electrons as protons.
+
+
+
+
+Question Number. 27. A molecule with like atoms is said to be a.
+Option A. neutroid.
+Option B. compound.
+Option C. element.
+Correct Answer is. element.
+Explanation. If only one type of atom is involved, it is an element.
+
+
+
+
+Question Number. 28. Two elements in the same substance is said to be a.
+Option A. mixture.
+Option B. element.
+Option C. compound.
+Correct Answer is. compound.
+Explanation. A compound is a substance formed by chemical reaction between 2 or more elements. A mixture could be 2 or more compounds. A tenuous question.
+
+
+
+
+Question Number. 29. The number of protons in an atom is equal to the number of.
+Option A. electrons.
+Option B. neutrons.
+Option C. mass number.
+Correct Answer is. electrons.
+Explanation. No. of protons = No. of electrons, or it is not an atom.
+
+
+
+
+Question Number. 30. The charge of an electron is.
+Option A. neutral.
+Option B. negative.
+Option C. positive.
+Correct Answer is. negative.
+Explanation. Electrons are negative.
+
+
+
+
+Question Number. 31. A valance electron is an electron.
+Option A. in the innermost shell.
+Option B. in the outermost shell.
+Option C. which is not within an atom.
+Correct Answer is. in the outermost shell.
+Explanation. The outer shell is the valence shell.
+
+
+
+
+Question Number. 32. Molecules of unlike atoms are combined by their.
+Option A. adhesive force.
+Option B. magnetic force.
+Option C. cohesive force.
+Correct Answer is. adhesive force.
+Explanation. Cohesion is the property that causes like substances to cling together (eg water molecules, forming raindrops - from 'cohesion' meaning to stick together). Adhesion is the property that causes unlike substances to stick together (eg the raindrops stick, or 'adhere to' a washing line).
+
+
+
+
+Question Number. 33. What is the difference between hydrogen, deuterium and tritium?.
+Option A. The number of electrons.
+Option B. The number of protons.
+Option C. The number of neutrons.
+Correct Answer is. The number of neutrons.
+Explanation. There are three isotopes of the element hydrogen: hydrogen, deuterium, and tritium. They each have one single proton (Z=1), but differ in the number of their neutrons. Hydrogen has no neutron, deuterium has one, and tritium has two neutrons.
+
+
+
+
+Question Number. 34. The smallest material in the universe is.
+Option A. an ion.
+Option B. helium.
+Option C. hydrogen.
+Correct Answer is. hydrogen.
+Explanation. Hydrogen is the smallest known element, having just 1 electron and 1 proton and no neutrons.
+
+
+
+
+Question Number. 35. What is the atomic number of the element shown here?.
+Option A. 7.
+Option B. 3.
+Option C. 4.
+Correct Answer is. 3.
+Explanation. The atomic number is the number of protons and is always the smallest number (and yes, the element shown is not possible).
+
+
+
+
+Question Number. 36. What is the mass number of the element shown here?.
+Option A. 4.
+Option B. 5.
+Option C. 9.
+Correct Answer is. 5.
+Explanation. The mass number is the number of protons + the number of neutrons and is always the biggest of the 2 numbers.
+
+
+
+
+Question Number. 37. There are solids, liquids and gases present in the universe and every unit of theirs occupy some space. This is called.
+Option A. matter.
+Option B. compound.
+Option C. mass.
+Correct Answer is. matter.
+Explanation. All material in space is known as matter. (All matter 'has' mass, but that is not what the question asks - what is it known as, not, what does it have).
+
+
+
+
+Question Number. 38. An atom deficient of a valency electron is deficient.
+Option A. of an electron in the outer shell.
+Option B. of a neutron in the outer shell.
+Option C. of an electron in the inner shell.
+Correct Answer is. of an electron in the outer shell.
+Explanation. The valency electrons are in the outer shell.
+
+
+
+
+Question Number. 39. The maximum number of electrons in the second shell is.
+Option A. 4.
+Option B. 8.
+Option C. 2.
+Correct Answer is. 8.
+Explanation. Try the formula '2n-squared', where 'n' is the shell number. In this case 2 * (2 * 2) = 8.
+
+
+
+
+Question Number. 40. What does an oxygen atom consist of?.
+Option A. Protons, neutrons and electrons.
+Option B. Protons and electrons.
+Option C. Protons and neutrons.
+Correct Answer is. Protons, neutrons and electrons.
+Explanation. All atoms have protons, neutrons and electrons (except hydrogen, which has no neutrons).
+
+
+
+
+Question Number. 41. Surface molecular attraction between two different molecules is.
+Option A. adhesive.
+Option B. gravitational.
+Option C. cohesive.
+Correct Answer is. adhesive.
+Explanation. Cohesion is the property that causes like substances to cling together (e.g. water molecules, forming raindrops - from 'cohesion' meaning to stick together). Adhesion is the property that causes unlike substances to stick together (e.g. the raindrops stick, or 'adhere to' a washing line).
+
+
+
+
+Question Number. 42. The atomic mass number is the number of.
+Option A. protons plus electrons.
+Option B. neutrons plus electrons.
+Option C. protons plus neutrons.
+Correct Answer is. protons plus neutrons.
+Explanation. Mass Number is the number of protons + neutrons.
+
+
+
+
+Question Number. 43. A catalyst in a chemical reaction does what?.
+Option A. Can either speed it up or slow it down.
+Option B. Speeds it up.
+Option C. Slows it down.
+Correct Answer is. Speeds it up.
+Explanation. Official definition of 'catalyst': A substance that increases the rate of a chemical reaction by reducing the activation energy, but which is left unchanged by the reaction.
+
+
+
+
+Question Number. 44. What is the number of electrons in the inner-most shell of an atom?.
+Option A. 4.
+Option B. 8.
+Option C. 2.
+Correct Answer is. 2.
+Explanation. The inner shell of an atom has 2 electrons.
+
+
+
+
+Question Number. 45. What form of heat is used to turn a solid into a gas?.
+Option A. Sensible heat.
+Option B. Specific heat.
+Option C. Latent heat.
+Correct Answer is. Latent heat.
+Explanation. To change any state, the heat required is called 'latent heat'.
+
+
+
+
+Question Number. 46. The heat required to change a liquid to a gas at constant temperature is the heat of.
+Option A. fusion.
+Option B. condensation.
+Option C. vaporisation.
+Correct Answer is. vaporisation.
+Explanation. The heat required to turn a liquid into a gas (vaporise) is called the 'latent heat of vaporisation'.
+
+
+
+
+Question Number. 47. An atom with a full outer shell is.
+Option A. practically inert.
+Option B. a good insulator.
+Option C. a good conductor.
+Correct Answer is. practically inert.
+Explanation. An atom with a full outer shell is practically inert.
+
+
+
+
+Question Number. 48. An element with a full valence shell is.
+Option A. very reactive.
+Option B. good conductor.
+Option C. inert.
+Correct Answer is. inert.
+Explanation. An element with a full valence shell is inert.
+
+
+
+
+Question Number. 49. A substance of two or more different atoms is.
+Option A. a neutrino.
+Option B. an isotope.
+Option C. a chemical compound.
+Correct Answer is. a chemical compound.
+Explanation. A compound is two or more different atoms.
+
+
+
+
+Question Number. 50. An atom with 5 electrons in its outer shell is.
+Option A. trivalent.
+Option B. pentavelent.
+Option C. covalent.
+Correct Answer is. trivalent.
+Explanation. Valency is the number of electrons in the outer shell (up to 4) or 8 minus the number of electrons in the outer shell (over 4).
+
+
+
+
+Question Number. 51. Protons have.
+Option A. no charge.
+Option B. positive charge.
+Option C. negative charge.
+Correct Answer is. positive charge.
+Explanation. Protons are positively charged.
+
+
+
+
+Question Number. 52. Producing a compound from commonly available materials is.
+Option A. synthesis.
+Option B. analysis.
+Option C. bombardment.
+Correct Answer is. synthesis.
+Explanation. Making a compound is called synthesis, breaking it apart is called analysis.
+
+
+
+
+Question Number. 53. A different number of nucleons in the nucleus of atoms would represent.
+Option A. semiconductor.
+Option B. isotopes.
+Option C. isotones.
+Correct Answer is. isotopes.
+Explanation. An Isotope is an element with a 'wrong' number of neutrons.
+
+
+
+
+Question Number. 54. Molecules of matter are in constant motion. The amount of vibration or motion is dependent on.
+Option A. temperature.
+Option B. volume.
+Option C. pressure.
+Correct Answer is. temperature.
+Explanation. Temperature produces molecular motion.
+
+
+
+
+Question Number. 55. When a chemical change takes place, the smallest particle indivisible in an element is called.
+Option A. an atom.
+Option B. an electron.
+Option C. a neutron.
+Correct Answer is. an atom.
+Explanation. An atom is the smallest particle in an element. Particles smaller than that (neutrons, protons, electrons) do not define an element.
+
+
+
+
+Question Number. 56. A nucleus of an atom consists of.
+Option A. positively charged particles.
+Option B. a nucleus and normally has no overall charge at all and so is neutral.
+Option C. negatively charged particles.
+Correct Answer is. positively charged particles.
+Explanation. Protons are positive, neutrons are neutral.
+
+
+
+
+Question Number. 57. A compound is a.
+Option A. mixture of more than one element which are chemically bonded together.
+Option B. solution (either liquid or solid) of elements or mixtures of elements to form a new material.
+Option C. mixture of more than one element which are mixed together.
+Correct Answer is. mixture of more than one element which are chemically bonded together.
+Explanation. A compound is two or more elements chemically bonded.
+
+
+
+
+Question Number. 58. A compound such as water can exist in how many states?.
+Option A. 2.
+Option B. 3.
+Option C. 1.
+Correct Answer is. 3.
+Explanation. Solid, liquid, gas.
+
+
+
+
+Question Number. 59. Select the correct statement from the following.
+Option A. Temperature is the only factor which can affect the state in which matter exists.
+Option B. Matter can only exist in one of three states.
+Option C. As temperature rises a solid will always become a liquid and then a gas.
+Correct Answer is. Matter can only exist in one of three states.
+Explanation. Solid, liquid, gas. Pressure also affects the state in which matter exists.
+
+
+
+
+Question Number. 60. Isotopes of an element have.
+Option A. a different atomic number.
+Option B. the same number of neutrons but a different number of protons.
+Option C. the same number of protons but a different number of neutrons.
+Correct Answer is. the same number of protons but a different number of neutrons.
+Explanation. NIL.
+
+
+
+
+Question Number. 61. Neutrons have.
+Option A. no charge.
+Option B. a positive charge.
+Option C. a negative charge.
+Correct Answer is. no charge.
+Explanation. NIL.
+
+
+
+
+Question Number. 62. Atomic MASS number is the number of.
+Option A. protons.
+Option B. protons and neutrons.
+Option C. electrons.
+Correct Answer is. protons and neutrons.
+Explanation. Mass number is the total number of items in the nucleus (protons and neutrons).
+
+
+
+
+Question Number. 63. How many electrons does an `S` orbital hold?.
+Option A. 6.
+Option B. 8.
+Option C. 2.
+Correct Answer is. 2.
+Explanation. How many electrons does an `S` orbital hold?.
+
+
+
+
+Question Number. 64. The number of electrons in a stable atom equals.
+Option A. the number of neutrons in the nucleus.
+Option B. the number of protons and neutrons in the nucleus.
+Option C. the number of protons in the nucleus.
+Correct Answer is. the number of protons in the nucleus.
+Explanation. Electrons = Protons (to cancel the electrical charge).
+
+
+
+
+Question Number. 65. An isotope of an element has.
+Option A. the same atomic number but a different mass number.
+Option B. the same mass number but a different atomic number.
+Option C. a different mass and atomic number.
+Correct Answer is. the same atomic number but a different mass number.
+Explanation. NIL. http://en.wikipedia.org/wiki/Isotope
+
+
+
+
+Question Number. 66. The mass number of an element is based on.
+Option A. the total number of protons and neutrons in its nucleus.
+Option B. the number of protons in its nucleus.
+Option C. the number of neutrons in its nucleus.
+Correct Answer is. the total number of protons and neutrons in its nucleus.
+Explanation. NIL. http://chemistry.about.com/library/glossary/bldef57040.htm
+
+
+
+
+Question Number. 67. The atomic weight of all atoms is related to.
+Option A. Hydrogen.
+Option B. Carbon.
+Option C. Helium.
+Correct Answer is. Carbon.
+Explanation. NIL. http://education.yahoo.com/reference/dictionary/entry/atomic%20weight
+
+
+
+
+Question Number. 68. The chemical bonding of two or more elements is called.
+Option A. chemical analysis.
+Option B. chemical synthesis.
+Option C. chemical fusion.
+Correct Answer is. chemical synthesis.
+Explanation. NIL. http://en.wikipedia.org/wiki/Chemical_synthesis
+
+
+
+
+Question Number. 69. Two or more elements that are chemically bonded together and have an even mass distribution form a.
+Option A. mixture.
+Option B. substance.
+Option C. chemical compound.
+Correct Answer is. chemical compound.
+Explanation. When elements bond chemically, they make a compound.
+
+
+
+
+Question Number. 70. An atom that gains one or more additional electrons is called.
+Option A. a negative ion.
+Option B. a positive ion.
+Option C. an isotope.
+Correct Answer is. a negative ion.
+Explanation. Electrons are negatively charged, so additional electrons make an atom into a negative ion.
+
+
+
+
+Question Number. 71. Ionic bonding involves.
+Option A. electron sharing.
+Option B. attraction to a free electron cloud.
+Option C. electron transfer.
+Correct Answer is. electron transfer.
+Explanation. Ionic bonding is formed when electrons are transferred.
+
+
+
+
+Question Number. 72. Non-metals form.
+Option A. covalent bonds.
+Option B. ionic bond.
+Option C. metallic bonds.
+Correct Answer is. covalent bonds.
+Explanation. Non-metals usually form covalent bonds.
+
+
+
+
+Question Number. 73. Brownian Movement describes.
+Option A. Brownian Movement describes.
+Option B. the attraction of electrons.
+Option C. the motion of molecules.
+Correct Answer is. the motion of molecules.
+Explanation. NIL. http://www.hyperdictionary.com/dictionary/Brownian+movement
+
+
+
+
+Question Number. 74. Elements on the extreme right of the periodic table are.
+Option A. Metals.
+Option B. Non-metals.
+Option C. Transition metals.
+Correct Answer is. Non-metals.
+Explanation. NIL. http://science.howstuffworks.com/atom8.htm
+
+
+
+
+Question Number. 75. Oxygen, atomic number 8 is.
+Option A. trivalent.
+Option B. univalent.
+Option C. bivalent.
+Correct Answer is. bivalent.
+Explanation. NIL. http://www.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsValency.htm
+
+
+
+
+Question Number. 76. The atomic number of the atom of an element is based on.
+Option A. the number of neutrons in to nucleus.
+Option B. the number of protons in its nucleus.
+Option C. the total number of protons and neutrons in its nucleus.
+Correct Answer is. the number of protons in its nucleus.
+Explanation. NIL. http://www.hyperdictionary.com/dictionary/atomic+number
+
+
+
+
+Question Number. 77. Water is.
+Option A. an element.
+Option B. a mixture.
+Option C. a compound.
+Correct Answer is. a compound.
+Explanation. NIL.
+
+
+
+
+Question Number. 78. The Mass of a Proton is approximately.
+Option A. equal to the mass of an electron.
+Option B. equal to the relative mass of a molecule.
+Option C. 2000 times greater than the mass of an electron.
+Correct Answer is. 2000 times greater than the mass of an electron.
+Explanation. NIL.
+
+
+
+
+Question Number. 79. Noble gases are _______ and _______ and have a full outer shell of electrons.
+Option A. fluorine and neon.
+Option B. sulphur and neon.
+Option C. helium, neon, argon.
+Correct Answer is. helium, neon, argon.
+Explanation. NIL. http://www.chemicalelements.com/groups/noblegases.html
+
+
+
+
+Question Number. 80. If a hydrogen atom has 2 neutrons and 1 proton what kind of water would you get?. 
+Option A. Fresh water.
+Option B. Heavy water.
+Option C. Salt water.
+Correct Answer is. Heavy water.
+Explanation. Heavy water - water containing a substantial proportion of deuterium atoms, used in nuclear reactors.
+
+
+
+
+Question Number. 81. A majority of an atom's mass is in the.
+Option A. compound.
+Option B. isotope.
+Option C. nucleus.
+Correct Answer is. nucleus.
+Explanation. NIL. http://en.wikipedia.org/wiki/Atom
+
+
+2.1. Mechanics – Statics.
+
+
+
+
+Question Number. 1. An insulator has its electrons.
+Option A. tightly bound.
+Option B. loosely bound.
+Option C. otally free from the atoms.
+Correct Answer is. tightly bound.
+Explanation. Aircraft Electricity & Electronics 5th edition TK Eismin.
+
+
+
+
+Question Number. 2. The centre of gravity of an aircraft is adjusted by two weights, 10 kg and 5 ckg plaed 4m and 2 m aft of the c of g. To what position must a 20 kg weight be added to balance the c of g?.
+Option A. 2.5m.
+Option B. 4m.
+Option C. 2m.
+Correct Answer is. 2.5m.
+Explanation. (10 * 4) + (5 * 2) = 20 x ? 40+10=20 x ? ? = 2.5m.
+
+
+
+
+Question Number. 3. For the CGS system, the force is.
+Option A. the 'N' which produces an acceration of 1 cm/s2 for a mass of gram.
+Option B. the 'dyne' which produces an acceleration of 1cm/s2 for a mass of gram.
+Option C. the 'pd1' which produces an acceleration of 1 cm/s2 for a mass of gram.
+Correct Answer is. the 'dyne' which produces an acceleration of 1cm/ s2 for a mass of gram.
+Explanation. NIL.
+
+
+
+
+Question Number. 4. The quadrature component of a vector is.
+Option A. 45° to the original.
+Option B. 90° to the original.
+Option C. 180° to the original.
+Correct Answer is. 90° to the original.
+Explanation. NIL.
+
+
+
+
+Question Number. 5. 1 Newton is equal to.
+Option A. 1 kilogram meter per second per second.
+Option B. 1 kilogram of force.
+Option C. 1 joule per second.
+Correct Answer is. 1 kilogram meter per second per second.
+Explanation. Remember Newtons 2nd law 'F=ma'. Well, 'm' is in kilograms, 'a' is in metres per second squared (or meters per second per second) so put the two together and 'F' is….
+
+
+
+
+Question Number. 6. The SI unit of mass is the.
+Option A. metre (m).
+Option B. pound (lb).
+Option C. kilogram (kg).
+Correct Answer is. kilogram (kg).
+Explanation. NIL.
+
+
+
+
+Question Number. 7. A slug is a unit of.
+Option A. speed.
+Option B. mass.
+Option C. weight.
+Correct Answer is. mass.
+Explanation. A very old unit of mass - equal to 14.6 kg.
+
+
+
+
+Question Number. 8. If an object in air is submerged in a liquid or a gas its weight will.
+Option A. increase.
+Option B. decrease.
+Option C. remain the same.
+Correct Answer is. remain the same.
+Explanation. thing that can change the weight of an object is the gravitational field it is in.
+
+
+
+
+Question Number. 9. If a material is loaded excessively and is permanently deformed, it is said to be.
+Option A. stretched.
+Option B. stressed.
+Option C. strained.
+Correct Answer is. strained.
+Explanation. Strain = extension / original length (Stress = force / area).
+
+
+
+
+Question Number. 10. The SI unit of force is the.
+Option A. Newton (N).
+Option B. Metre (m).
+Option C. Pascal (Pa).
+Correct Answer is. Newton (N).
+Explanation. NIL.
+
+
+
+
+Question Number. 11. The formula for calculating stress is.
+Option A. load divided by cross sectional area.
+Option B. area divided by load.
+Option C. load multiplied by cross sectional area.
+Correct Answer is. load divided by cross sectional area.
+Explanation. NIL.
+
+
+
+
+Question Number. 12. Stress is given by.
+Option A. force per unit area.
+Option B. extension per original length.
+Option C. force per original length.
+Correct Answer is. force per unit area.
+Explanation. NIL.
+
+
+
+
+Question Number. 13. The force which opposes twisting deformation is.
+Option A. torsion.
+Option B. strain.
+Option C. shear.
+Correct Answer is. torsion.
+Explanation. A torsional force opposes twisting.
+
+
+
+
+Question Number. 14. A force perpendicular to a beam produces what type of stress?.
+Option A. compressive.
+Option B. shear.
+Option C. tensile.
+Correct Answer is. shear.
+Explanation. perpendicular to a beam (such a s a man on a diving board) produces bending and shear stress. 
+
+
+
+
+Question Number. 15. The extension of a spring can be determined using.
+Option A. Charles' Law.
+Option B. Newton's 2nd Law.
+Option C. Hooke's Law.
+Correct Answer is. Hooke's Law.
+Explanation. Hooke's law is 'extension is proportional to force'.
+
+
+
+
+Question Number. 16. When a steel bar is overstressed, what is the name of the point at which it does not return to its original form after the load is released?.
+Option A. Ultimate point.
+Option B. Yield point.
+Option C. Young's modulus.
+Correct Answer is. Yield point.
+Explanation. NIL.
+
+
+
+
+Question Number. 17. Two couples with magnitude F act against each other. The resultant will be.
+Option A. -2F.
+Option B. 2F.
+Option C. 0.
+Correct Answer is. 0.
+Explanation. A 'couple' is 2 forces acting in the same rotational direction an equal distance from a pivot point (like turning a die holder). Two couples in opposition will cancel each other.
+
+
+
+
+Question Number. 18. The height of mercury required to give 1 bar is.
+Option A. 700 mm.
+Option B. 1000 mm.
+Option C. 760 mm.
+Correct Answer is. 760 mm.
+Explanation. 1 bar is almost atmospheric pressure.
+
+
+
+
+Question Number. 19. A vessel has 25 ml of water which produces 10 kPa. If another 125 ml of water is added, what will be the pressure in the vessel?.
+Option A. 40 kPa.
+Option B. 50 kPa.
+Option C. 60 kPa.
+Correct Answer is. 60 kPa.
+Explanation. pressure = density * gravity * height. 25ml + 125ml = 150ml or 6 times. So 6 * height = 6 * pressure.
+
+
+
+
+Question Number. 20. Two hydraulic jacks with different diameters have the same fluid pressures entering at the same rate. They will extend at.
+Option A. the same rate until the smaller jack becomes full.
+Option B. the same rate.
+Option C. different rates.
+Correct Answer is. different rates.
+Explanation. diameter will have the greater force. The 'trade-off' for this is that it will move slower.
+
+
+
+
+Question Number. 21. What load can be lifted on jack B?.
+Option A. 300N.
+Option B. 200N.
+Option C. 100N.
+Correct Answer is. 100N.
+Explanation. 10 times the area, then it can lift 10 times the load.
+
+
+
+
+Question Number. 22. The most common method of expressing pressure is in.
+Option A. inch pounds per square inch.
+Option B. grams per square inch.
+Option C. pounds per square inch.
+Correct Answer is. pounds per square inch.
+Explanation. Pressure is usually measured in Pounds per Square Inch (PSI).
+
+
+
+
+Question Number. 23. The difference between two pressures is.
+Option A. vacuum pressure.
+Option B. differential pressure.
+Option C. static pressure.
+Correct Answer is. differential pressure.
+Explanation. Differential pressure is the difference between two pressures (such as inside and outside the aircraft cabin).
+
+
+
+
+Question Number. 24. What torque loading would you apply to a nut if the force is 50 lbs, exerted 2 feet from its axis?.
+Option A. 100 lbs.ft.
+Option B. 600 lbs.ft.
+Option C. 251 lbs.ft.
+Correct Answer is. 100 lbs.ft.
+Explanation. Torque loading = force * distance.
+
+
+
+
+Question Number. 25. In a jack with a ram only on one side and hydraulic fluid applied from both sides.
+Option A. a condition of hydraulic lock exists and no movement will take place.
+Option B. the ram will move opposite to the side where the ram is due to pressure acting on differential areas.
+Option C. the ram will move to the side where the ram is, due to pressure acting on differential areas.
+Correct Answer is. the ram will move opposite to the side where the ram is due to pressure acting on differential areas.
+Explanation. The non-ram side has a greater area, so the ram will be pushed from that side to the ram side.
+
+
+
+
+Question Number. 26. Using the same hydraulic pressure, the force applied by a hydraulic jack of 4 sq. inch piston area.
+Option A. will be half that applied by a similar jack of 2 sq. inch piston area.
+Option B. will be equal to that applied by a similar jack of 2 sq. inch piston area.
+Option C. will be twice that applied by a similar jack of 2 sq. inch piston area.
+Correct Answer is. will be equal to that applied by a similar jack of 2 sq. inch piston area.
+Explanation. Force = pressure * area.
+
+
+
+
+Question Number. 27. A pressure of 100 PSI acts on two jacks in a hydraulic system, having piston areas 2 sq in and 4 sq in.
+Option A. the smaller jack will exert a force of 50 lb and the larger a force of 25 lb.
+Option B. the smaller jack will exert a force of 200 lb and the larger a force of 400 lb.
+Option C. the two jacks will exert the same force.
+Correct Answer is. the smaller jack will exert a force of 200 lb and the larger a force of 400 lb.
+Explanation. Force = pressure * area. 100 * 2 = 200 lbs. 100 * 4 = 400 lbs.
+
+
+
+
+Question Number. 28. The purpose of an accumulator in a hydraulic system is to.
+Option A. collect air from the hydraulic fluid, thus reducing the requirement for frequent bleeding.
+Option B. relieve excess pressure.
+Option C. store hydraulic fluid under pressure.
+Correct Answer is. store hydraulic fluid under pressure.
+Explanation. An accumulator stores hydraulic pressure for use when the main pressure pump fails.
+
+
+
+
+Question Number. 29. If the hydraulic system accumulator has a low air pressure, it will cause.
+Option A. rapid pressure fluctuations during operation of services.
+Option B. rapid movement of the operating jacks.
+Option C. slow build up of pressure in the system.
+Correct Answer is. rapid pressure fluctuations during operation of services.
+Explanation. The secondary purpose of an accumulator is to damp out pressure fluctuations.
+
+
+
+
+Question Number. 30. The specific torque loading for a bolt is 50 lbs.ins but an extension of 2 inches is needed to reach the bolt in addition to the 8 inches torque wrench. What will the actual reading?.
+Option A. 54 lb.ins.
+Option B. 40 lb.ins.
+Option C. 60 lb.ins.
+Correct Answer is. 40 lb.ins.
+Explanation. New torque reading = desired torque x L/(x+L). 50 * 8/10 = 40 lb.ins.
+
+
+
+
+Question Number. 31. If 1500 psi hydraulic pressure is pumped into an accumulator, with a pre-charge air pressure of 1000 psi the gauge will read.
+Option A. 2500 psi.
+Option B. 1500 psi.
+Option C. 1000 psi.
+Correct Answer is. 1500 psi.
+Explanation. The accumulator pressure gauge reads the hydraulic pressure only when it is above the charge pressure.
+
+
+
+
+Question Number. 32. Young's modulus is.
+Option A. stress * strain.
+Option B. strain / stress.
+Option C. stress / strain.
+Correct Answer is. stress / strain.
+Explanation. Young's Modulus (E) is the ratio Stress / Strain.
+
+
+
+
+Question Number. 33. A cylinder filled with water to half a metre will exert a pressure of.
+Option A. 4.9 Pa.
+Option B. 4900 Pa.
+Option C. 49 Pa.
+Correct Answer is. 4900 Pa.
+Explanation. Pressure = density * gravity * height = 1000 (for water) * 10 * 0.5 = 5000 Pa. Answer is 4900 Pa because gravity is slightly less than 10 (9.81 to be exact).
+
+
+
+
+Question Number. 34. A mass of 10kg placed 2 metres away from a pivot will have a moment of.
+Option A. 196 NM.
+Option B. 50 NM.
+Option C. 20 NM.
+Correct Answer is. 196 NM.
+Explanation. 10 kg = 10 * 9.8 = 98N. Moment = force * radius = 98 * 2 = 196 Nm.
+
+
+
+
+Question Number. 35. 25 litres of fuel exerts a pressure of 10KPa. If a further 125 litres is added, the pressure will now be.
+Option A. 50 kPa.
+Option B. 60 kPa.
+Option C. 40 kPa.
+Correct Answer is. 60 kPa.
+Explanation. Total Fuel = 150 litres = 6 * 25. 6 * original pressure = 60 kPa.
+
+
+
+
+Question Number. 36. 1000 lb/in2 is in an accumulator. If 3000 lb/in2 of hydraulic fluid is pumped in, what is the pressure on the air side?.
+Option A. 3000 lb/in2.
+Option B. 4000 lb/in2.
+Option C. 1000 lb/in2.
+Correct Answer is. 3000 lb/in2.
+Explanation. The piston does not move until the hydraulic pressure exceeds 1000 psi. From then on, the air and hydraulic pressures are equal (at all times that the piston is off its stops).
+
+
+
+
+Question Number. 37. A fractional decrease in volume of a material when it is compressed is a function of the.
+Option A. compressive strain.
+Option B. compressive strain.
+Option C. bulk modulus.
+Correct Answer is. bulk modulus.
+Explanation. Bulk modulus = ratio of change in pressure to the fractional volume compression.
+
+
+
+
+Question Number. 38. A ram has a piston with 2 in2. Another ram with a piston of 4 in2 will provide.
+Option A. the same force.
+Option B. double the force.
+Option C. square the force.
+Correct Answer is. double the force.
+Explanation. Double the area = double the force. (However, if the question said double the radius or diameter, the force is a square of that, i.e 4x).
+
+
+
+
+Question Number. 39. How much force is exerted by piston if it is subjected to a pressure of 3000 Pa and has surface area of 2.5 m2?.
+Option A. 7500 N.
+Option B. 3000 N.
+Option C. 1200 N.
+Correct Answer is. 7500 N.
+Explanation. Force = pressure * area = 3000 * 2.5 = 7.5 N.
+
+
+
+
+Question Number. 40. A force of 10 million Newton’s is expressed numerically as.
+Option A. 10 MN.
+Option B. 10 MN.
+Option C. 1 MN.
+Correct Answer is. 10 MN.
+Explanation. million Newtons = 10 MN (MegaNewtons).
+
+
+
+
+Question Number. 41. A millilitre is equal to.
+Option A. one million litres.
+Option B. one millionth of a litre.
+Option C. one thousandth of a litre.
+Correct Answer is. one thousandth of a litre.
+Explanation. A millilitre = 1/1000 litre.
+
+
+
+
+Question Number. 42. If a square has an area of 9m2, one side is.
+Option A. 3 m.
+Option B. 3 m2.
+Option C. 3 sq. m.
+Correct Answer is. 3 m.
+Explanation. 3 m * 3m = 9 m2.
+
+
+
+
+Question Number. 43. A vector quantity is a quantity which.
+Option A. possesses sense, magnitude and direction.
+Option B. possesses direction only.
+Option C. possesses sense only.
+Correct Answer is. possesses sense, magnitude and direction.
+Explanation. A vector quantity has magnitude AND direction. (sense and direction are the same thing).
+
+
+
+
+Question Number. 44. One atmosphere is equal to.
+Option A. 1.22 kg/m2.
+Option B. 14.7 lbf/in2.
+Option C. 28.9 inches of Hg.
+Correct Answer is. 14.7 lbf/in2.
+Explanation. atmosphere = 14.7 pounds-force (lbf) per square inch.
+
+
+
+
+Question Number. 45. Strain is calculated by.
+Option A. Original Length * Extension.
+Option B. Extension ÷ Original Length.
+Option C. Original Length ÷ Extension.
+Correct Answer is. Extension ÷ Original Length.
+Explanation. Strain = change in length divided by original length.
+
+
+
+
+Question Number. 46. When a twisting force is applied to a bolt, what stress is exerted on to the head?.
+Option A. Shear.
+Option B. Compressive.
+Option C. Torsion.
+Correct Answer is. Torsion.
+Explanation. A twisting force applied to a bolt produces 'torsion stress' (which technically is a form of shear). 
+
+
+
+
+Question Number. 47. When you overstress a steel bar, what is the point called where it does not return to its original form?.
+Option A. Plastic limit.
+Option B. Elasticity limit.
+Option C. Deformation limit.
+Correct Answer is. Elasticity limit.
+Explanation. The point at which the stressed bar does not return to its original form is called the 'elastic limit'. 
+
+
+
+
+Question Number. 48. The formula for calculating shear is.
+Option A. force ÷ cross-sectional area.
+Option B. force * area.
+Option C. force ÷ area parallel to the force.
+Correct Answer is. force ÷ area parallel to the force.
+Explanation. Formula for shear (stress) is Shear stress = force/area parallel to force.
+
+
+
+
+Question Number. 49. A force 10 N is placed 2 Meters from a pivot point, what is the moment?.
+Option A. 20 Nm.
+Option B. 20 Nm.
+Option C. 80 Nm.
+Correct Answer is. 20 Nm.
+Explanation. N at 2 m distance produces 10 * 2 = 20 Nm.
+
+
+
+
+Question Number. 50. If a tensile load is placed on a bar, it will.
+Option A. bend.
+Option B. crush.
+Option C. stretch.
+Correct Answer is. stretch.
+Explanation. tensile load placed on a bar will stretch it.
+
+
+
+
+Question Number. 51. What atmospheric conditions will cause the true landing speed of an aircraft to be highest?.
+Option A. Low temp, high humidity.
+Option B. Head wind, low humidity.
+Option C. High temp, high humidity.
+Correct Answer is. High temp, high humidity.
+Explanation. Lift is least at low density. Density is lowest at high temperature and high humidity.
+
+
+
+
+Question Number. 52. Structures designed to withstand compression are called a.
+Option A. tie.
+Option B. strut.
+Option C. beam.
+Correct Answer is. strut.
+Explanation. Tension - Tie, Compression - Strut, Bending - Beam.
+
+
+
+
+Question Number. 53. 1 Pascal equals.
+Option A. 105 N/m2.
+Option B. 1 N/m2.
+Option C. 10 Nm.
+Correct Answer is. 1 N/m2.
+Explanation. 1 Pa = 1 N/m2.
+
+
+
+
+Question Number. 54. The addition of 2 different vectors to produce another vector is called.
+Option A. component.
+Option B. resolution.
+Option C. resultant.
+Correct Answer is. resultant.
+Explanation. The resultant of two vectors. The mathematical process is actually called 'composition'.
+
+
+
+
+Question Number. 55. Two items weighing 11kg and 8kg are placed 2m and 1m respectively aft of the C of G of an aircraft. How far forward of the C of G must a weight of 30kg be placed so as not to change the C of G?.
+Option A. 2m.
+Option B. 1.5m.
+Option C. 1m.
+Correct Answer is. 1m.
+Explanation. Total moment = (11*2) + (8*1) = 30kgm. The 30 kg mass must be placed such that 30kg * Xm = 30 kg m. Hence X = 1m.
+
+
+
+
+Question Number. 56. A point at which the total force of a body acts is known as the.
+Option A. centre of gravity.
+Option B. point of equilibrium.
+Option C. centre of mass.
+Correct Answer is. centre of gravity.
+Explanation. If by force they mean 'weight' then it is Centre of Gravity.
+
+
+
+
+Question Number. 57. A load of 600N is suspended by a cable. If the stress in the cable is said to be limited to 15N/mm2 the minimum cross sectional area of the cable must be.
+Option A. 0.025mm2.
+Option B. 9000mm2.
+Option C. 40mm2.
+Correct Answer is. 40mm2.
+Explanation. Stress = Force/Area. Area = Force/Stress = 600/15 = 40mm2.
+
+
+
+
+Question Number. 58. A spring, operating within its elastic range, shortens by 60mm when a load of 480N is applied to it. Calculate the total shortening when the load is increased by 120N.
+Option A. 82mm.
+Option B. 45mm.
+Option C. 75mm.
+Correct Answer is. 75mm.
+Explanation. 600/480 * 60 = 75mm.
+
+
+
+
+Question Number. 59. The c.g. of a triangular plate is at the intersection of.
+Option A. medians from a vertex to the opposite side.
+Option B. angle bisectors.
+Option C. perpendicular bisectors.
+Correct Answer is. medians from a vertex to the opposite side.
+Explanation. NIL.
+
+
+
+
+Question Number. 60. When a square block of material is pushed into a parallelogram, the material is under what stress type?.
+Option A. Compression.
+Option B. Torsion.
+Option C. Shear.
+Correct Answer is. Shear.
+Explanation. NIL. http://groups.physics.umn.edu/demo/old_page/demo_gifs/1R30_20.GIF
+
+
+
+
+Question Number. 61. A quantity which has size but no direction is called a.
+Option A. Scalar.
+Option B. Moment.
+Option C. Vector.
+Correct Answer is. Scalar.
+Explanation. scalar has size only (mass, area etc.). A vector has size and direction (velocity, force etc.).
+
+
+
+
+Question Number. 62. The advantage of using a machine is.
+Option A. mechanical advantage of input.
+Option B. mechanical advantage of output.
+Option C. input work is less than the output work.
+Correct Answer is. mechanical advantage of output.
+Explanation. Mechanical advantage is usually on the outp.
+
+
+
+
+Question Number. 63. Which of the following can transmit pressure?.
+Option A. Liquids and gases.
+Option B. Solids and gases.
+Option C. Any matter can transmit pressure, depending on temperature.
+Correct Answer is. Liquids and gases.
+Explanation. NIL.
+
+
+
+
+Question Number. 64. A moment is created by a force of 5N acting 4m from the pivot on a uniform bar. At what distance must a force of 10N be applied to balance the beam?.
+Option A. 8 m.
+Option B. 4 m.
+Option C. 2 m.
+Correct Answer is. 2 m.
+Explanation. 5 * 4 = 20, 10 * X = 20 X = 2m.
+
+
+
+
+Question Number. 65. A lever of length 105 cm is used with a fulcrum placed 15 cm from the end bearing the load. Its mechanical advantage is.
+Option A. 1/6.
+Option B. 7.
+Option C. 6.
+Correct Answer is. 6.
+Explanation. The TOTAL length is 105 cm, so the input end is 90 cms. 90/15 = 6.
+
+
+
+
+Question Number. 66. The stress created when a material is pulled apart is called.
+Option A. tension.
+Option B. torsion.
+Option C. compression.
+Correct Answer is. tension.
+Explanation. NIL.
+
+
+
+
+Question Number. 67. The yield point of a material is the point at which.
+Option A. strain becomes proportional to stress.
+Option B. the material ruptures or breaks.
+Option C. permanent deformation takes place.
+Correct Answer is. permanent deformation takes place.
+Explanation. NIL.
+
+
+
+
+Question Number. 68. Assuming constant temperature. If a steel bar of length 2 m deforms to a length of 2.2 m under applied load. The strain is.
+Option A. 1.1.
+Option B. 0.9.
+Option C. 0.1.
+Correct Answer is. 0.1.
+Explanation. Strain = Extension/Original Length = 0.2/2 = 0.1.
+
+
+
+
+Question Number. 69. A Scalar quantity has.
+Option A. sense, magnitude and direction.
+Option B. sense and direction.
+Option C. magnitude only.
+Correct Answer is. magnitude only.
+Explanation. NIL.
+
+
+
+
+Question Number. 70. A hydraulic piston of 2.5 square inches produces 7500lbf, What pressure is used?.
+Option A. 5000 PSI.
+Option B. 3000 PSI.
+Option C. 7000 PSI.
+Correct Answer is. 3000 PSI.
+Explanation. Pressure = Force/Area.
+
+
+
+
+Question Number. 71. Forces passing through a common point are said to be.
+Option A. coherent.
+Option B. coplanar.
+Option C. concurrent.
+Correct Answer is. concurrent.
+Explanation. NIL.
+
+
+
+
+Question Number. 72. A force of 5 Newtons acting perpendicularly at 300 centimetres from the pivot produces a moment of.
+Option A. 1500 Newton metre.
+Option B. 15 Newton metre.
+Option C. 1.5 Kilonewton millimetre.
+Correct Answer is. 15 Newton metre.
+Explanation. 3m * 5N = 15 Nm.
+
+
+
+
+Question Number. 73. Equilibrium of translation occurs when.
+Option A. downward forces equal upward (reactive) forces.
+Option B. clockwise moments equal counterclockwise moments.
+Option C. clockwise forces and counterclockwise forces are equal.
+Correct Answer is. downward forces equal upward (reactive) forces.
+Explanation. Translation is linear movement.
+
+
+
+
+Question Number. 74. The conversion factor to convert litres to pints is.
+Option A. 0.57.
+Option B. 1.76.
+Option C. 2.2.
+Correct Answer is. 1.76.
+Explanation. NIL. http://www.thetipsbank.com/convert.htm
+
+
+
+
+Question Number. 75. Hydraulic pressure can be restored by.
+Option A. the use of pressure/heat exchange.
+Option B. compressing the air charge in an accumulator.
+Option C. compressing the fluid in a reservoir.
+Correct Answer is. compressing the air charge in an accumulator.
+Explanation. NIL.
+
+
+
+
+Question Number. 76. When checking a hydraulic accumulator initial air pressure, the hydraulic system pressure.
+Option A. should be at the normal working pressure.
+Option B. is not important.
+Option C. should be released.
+Correct Answer is. should be released.
+Explanation. NIL.
+
+
+
+
+Question Number. 77. One kg is the mass of.
+Option A. one litre of pure water.
+Option B. one pint of pure water.
+Option C. one gallon of pure water.
+Correct Answer is. one litre of pure water.
+Explanation. NIL. http://www.bartleby.com/68/85/3685.html
+
+
+
+
+Question Number. 78. The centre of gravity of a triangle is.
+Option A. 1/3 the median from the base.
+Option B. 1/3 the bisector from the base.
+Option C. 1/3 the height from the base.
+Correct Answer is. 1/3 the median from the base.
+Explanation. http://en.wikipedia.org/wiki/Triangle
+
+
+
+
+Question Number. 79. A lifting machine moves with an effort, a distance of 200 cm, in order to raise it 0.5 m. The Velocity Ratio is.
+Option A. 0.25.
+Option B. 4.
+Option C. 40.
+Correct Answer is. 4.
+Explanation. Distance ratio input/ output = 2/0.5 = 4. Velocity ratio is same as Distance ration.
+
+
+
+
+Question Number. 80. Two Vectors are at 90 degrees to each other having magnitudes of 3N and 4N. The resultant is.
+Option A. 5N.
+Option B. 1N.
+Option C. 7N.
+Correct Answer is. 5N.
+Explanation. Vectors make a 3-4-5 triangle.
+
+
+
+
+Question Number. 81. Which of the following has no units?.
+Option A. Strain.
+Option B. Stress.
+Option C. Elasticity.
+Correct Answer is. Strain.
+Explanation. NIL.
+
+
+2.2. Mechanics – Kinetics.
+
+
+
+
+Question Number. 1. For a car weighing 1000 N, what force would be required to accelerate the car to 3 ms-2.
+Option A. 3270 N.
+Option B. 305.8 N.
+Option C. 3000 N.
+Correct Answer is. 305.8 N.
+Explanation. F = ma F = 1000/9.81 * 3 F = 305.8 N (The 'divide by' 9.81 is necessary to convert the 1000 N into a mass (in kg)).
+
+
+
+
+Question Number. 2. A time period of 10 microseconds is equal to a frequency of.
+Option A. 100 kHz.
+Option B. 10 kHz.
+Option C. 1 Mhz.
+Correct Answer is. 100 kHz.
+Explanation. Frequency = 1/time period. 1/0.00001 = 100,000 = 100 kHz.
+
+
+
+
+Question Number. 3. The SI unit of acceleration is the.
+Option A. metre per second squared (m/s2).
+Option B. metre per second (m/s).
+Option C. square metre (m2).
+Correct Answer is. metre per second squared (m/s2).
+Explanation. NIL.
+
+
+
+
+Question Number. 4. If a body starts at rest and reaches 84 m/s in 3 seconds, its acceleration is.
+Option A. 28 m/s2.
+Option B. 14 m/s2.
+Option C. 252 m/s2.
+Correct Answer is. 28 m/s2.
+Explanation. Acceleration = change in speed / time.
+
+
+
+
+Question Number. 5. The SI unit of velocity is the.
+Option A. metre per second squared (m/s2).
+Option B. metre per second (m/s).
+Option C. metre (m).
+Correct Answer is. metre per second (m/s).
+Explanation. NIL.
+
+
+
+
+Question Number. 6. An aircraft flies 1350 nmiles in 2h 15mins. What is the average speed?.
+Option A. 600 nmiles/hour.
+Option B. 600 miles/hour.
+Option C. 150 nmiles/hour.
+Correct Answer is. 600 nmiles/hour.
+Explanation. Average speed = distance/time = 1350/2.25 = 600 nm/h.
+
+
+
+
+Question Number. 7. A spring extends 7 cm to the ground and back again 20 times a minute. What is the period?.
+Option A. 7 cm.
+Option B. 3 seconds.
+Option C. 1/3 cycle.
+Correct Answer is. 3 seconds.
+Explanation. Frequency = 20/60 = 1/3 Hz. Time period = 1/f = 3 seconds.
+
+
+
+
+Question Number. 8. A cyclist goes from rest to 50 m/s in 5 seconds. What is the average acceleration?.
+Option A. 10 m/s2.
+Option B. 12 m/s2.
+Option C. 8 m/s2.
+Correct Answer is. 10 m/s2.
+Explanation. Acceleration = change in speed / time.
+
+
+
+
+Question Number. 9. What is the period of a frequency of 4 Hz?.
+Option A. 8 seconds.
+Option B. 0.25 seconds.
+Option C. 4 seconds.
+Correct Answer is. 0.25 seconds.
+Explanation. Period = 1/f.
+
+
+
+
+Question Number. 10. A dot rotates around the circumference of a circle. If the vertical position of this dot is plotted on a graph with respect to time the result will be.
+Option A. a linear motion.
+Option B. a transverse waveform.
+Option C. a sinusoidal waveform.
+Correct Answer is. a sinusoidal waveform.
+Explanation. This is why an AC generator produces a sine wave frequency.
+
+
+
+
+Question Number. 11. A freely falling body, falling from a height of 2km, and assuming g = 10m/s2, will strike the ground in a time of.
+Option A. 400s.
+Option B. 80s.
+Option C. 20s.
+Correct Answer is. 20s.
+Explanation. From the equations of motion s = ut + 1/2at2. If it starts at rest u (and hence ut) is zero. Use s = 2000 m, plug in the numbers and transpose for t.
+
+
+
+
+Question Number. 12. What is the angular velocity of a shaft rotating at 300rpm in radians/second?.
+Option A. 10π radians/second.
+Option B. 2π radians/second.
+Option C. 5π radians/second.
+Correct Answer is. 10π radians/second.
+Explanation. velocity = 2π(RPM)/60 = 2π * 300/60 = 10π radians/second.
+
+
+
+
+Question Number. 13. The force that acts on a body to cause it to rotate in a circular path is called the.
+Option A. centripetal force.
+Option B. centrifugal force.
+Option C. inertia force.
+Correct Answer is. centripetal force.
+Explanation. Centripetal' force is the force pulling the rotating object towards the centre of rotation. 'Centrifugal' force is the equal and opposite reaction.
+
+
+
+
+Question Number. 14. An aircraft of 2 metric tonnes uses 800 kilojoules kinetic energy to make an emergency stop. Its brakes apply a force of 10 kiloNewtons. What distance does it travel before it comes to a stop?.
+Option A. 40m.
+Option B. 800m.
+Option C. 80m.
+Correct Answer is. 80m.
+Explanation. Energy = Force * Distance. 800,000J = 10,000N x Distance. Distance = ??.
+
+
+
+
+Question Number. 15. A body rotating at an angular velocity of 5 radians/sec, with a radius of 5 metres has a speed of.
+Option A. 5π metres per second.
+Option B. 5 metres per second.
+Option C. 25 metres per second.
+Correct Answer is. 25 metres per second.
+Explanation. velocity = Radius * Omega (Omega = radians/sec). V = 5 * 5 = 25 m/s.
+
+
+
+
+Question Number. 16. A mass of 400 kg moves 27metres, with a force of 54N, what is the work produced?.
+Option A. 1458 J.
+Option B. 583.2 KJ.
+Option C. 10.1 KJ.
+Correct Answer is. 1458 J.
+Explanation. Work = Force x Distance = 54 * 27 = 1458 J. It is not moving under gravity so the 400 kg is a red herring.
+
+
+
+
+Question Number. 17. A mass on a spring nearly hits the ground 20 times a minute, its frequency is.
+Option A. 3 cycles per second.
+Option B. 1/3 cycle per second.
+Option C. 20 cycles per second.
+Correct Answer is. 1/3 cycle per second.
+Explanation. cycles per minute = 20/60 cycles per second = 2/6 = 1/3 cycle per second.
+
+
+
+
+Question Number. 18. A body travelling at 20 m/s accelerates to 36 m/s in 8 seconds, what is its acceleration?.
+Option A. 8 m/s2.
+Option B. 4 m/s2.
+Option C. 2 m/s2.
+Correct Answer is. 2 m/s2.
+Explanation. V = u +at 36 = 20 + 8a 36-20 = 8a 16/8 = a.
+
+
+
+
+Question Number. 19. A body dropped from 10 m will hit the ground in.
+Option A. 2 seconds.
+Option B. 0.2 seconds.
+Option C. 1.41 second.
+Correct Answer is. 1.41 second.
+Explanation. s = ut + 1/2at2. Take s = 10, u = 0, a = g = 10. Calculate t. (Remember that 0 * t = 0).
+
+
+
+
+Question Number. 20. What is the rate of gravity?.
+Option A. 12.7 m/s2.
+Option B. 0.981 m/s2.
+Option C. 9.81 m/s2.
+Correct Answer is. 9.81 m/s2.
+Explanation. Gravity = 9.81 m/s2.
+
+
+
+
+Question Number. 21. An object travels 18 km in 1 minute 30 seconds. What is its average speed?.
+Option A. 200 m/s.
+Option B. 270 m/s.
+Option C. 100 ms.
+Correct Answer is. 200 m/s.
+Explanation. Average speed = distance/time = 18000 metres / 90 seconds = 200 m/s.
+
+
+
+
+Question Number. 22. 100 m is approximately.
+Option A. 220 yards.
+Option B. 109 yards.
+Option C. 66 yards.
+Correct Answer is. 109 yards.
+Explanation. m = 3.3 ft. 100 m = 330 ft. 3 ft = 1 yd so 330/3 = 110 yards.
+
+
+
+
+Question Number. 23. A car moves over a distance of 5 miles at steady speed in 10 minutes. What is the speed?.
+Option A. 30 mph.
+Option B. 15 mph.
+Option C. 60 mph.
+Correct Answer is. 30 mph.
+Explanation. in 10 mins, 10 miles in 20 mins, 15 miles in 30 mins, 30 miles in 1 hr.
+
+
+
+
+Question Number. 24. A spaceship travels a distance of 480,000 miles in 2 days. What is its speed?.
+Option A. 48,000 mph.
+Option B. 36,000 mph.
+Option C. 10,000 mph.
+Correct Answer is. 10,000 mph.
+Explanation. 480,000/48 = 10,000 MPH.
+
+
+
+
+Question Number. 25. A cyclist covers a distance of 1,000 m at a constant speed in 90 seconds, What is his speed?.
+Option A. 50 m/s.
+Option B. 12.5 m/s.
+Option C. 11.1 m/s.
+Correct Answer is. 11.1 m/s.
+Explanation. 1000m/90secs = 11.1 m/s.
+
+
+
+
+Question Number. 26. How long will it take a car moving at 60 km/hr to travel 90 km?.
+Option A. 40 minutes.
+Option B. 75 minutes.
+Option C. 90 minutes.
+Correct Answer is. 90 minutes.
+Explanation. km = 1.5 * 60, therefore at 60 km/h it will take 1.5 hours = 90 mins.
+
+
+
+
+Question Number. 27. An aircraft travels at 500 km/hr for 30 minutes at steady speed. How far does it move in that time?.
+Option A. 500 km.
+Option B. 1000 km.
+Option C. 250 km.
+Correct Answer is. 250 km.
+Explanation. 500 km/h for 30 m/s = a distance of 250 km.
+
+
+
+
+Question Number. 28. Which of the following affect the velocity of an object?.
+Option A. Speed and direction.
+Option B. Speed and distance.
+Option C. Speed and mass.
+Correct Answer is. Speed and direction.
+Explanation. Velocity is a vector (it has magnitude - speed, and direction).
+
+
+
+
+Question Number. 29. Acceleration involves.
+Option A. change in speed or direction of movement.
+Option B. change of position with time.
+Option C. steady speed over a fixed period of time.
+Correct Answer is. change in speed or direction of movement.
+Explanation. Acceleration is a vector (it has magnitude as well as direction).
+
+
+
+
+Question Number. 30. What acceleration is produced if a mass increases speed from rest to 10 ft/sec in 5 seconds?.
+Option A. 2 ft/sec2.
+Option B. 50 ft/sec2.
+Option C. 0.5 ft/sec2.
+Correct Answer is. 2 ft/sec2.
+Explanation. v = u + at' where u = 0, v = 10, t = 5, so a = v/t = 10/5 = 2.
+
+
+
+
+Question Number. 31. A car travelling at a speed of 5 m/s accelerates at the rate of 1 m/s2. How long will it take to reach a speed of 20 m/s?.
+Option A. 15 secs.
+Option B. 10 secs.
+Option C. 20 secs.
+Correct Answer is. 15 secs.
+Explanation. The car gains 1 m/s every second, so to add 15 m/s it will take 15 seconds.
+
+
+
+
+Question Number. 32. Newton’s laws of motion apply to.
+Option A. solid substances only.
+Option B. all substances irrespective of state.
+Option C. gases and liquids only.
+Correct Answer is. all substances irrespective of state.
+Explanation. Newtons laws apply to solids, liquids and gases.
+
+
+
+
+Question Number. 33. Which of Newton’s Laws apply most directly to an aircraft which is accelerating down a runway?.
+Option A. The 3rd law.
+Option B. The 2nd law.
+Option C. The 1st law.
+Correct Answer is. The 2nd law.
+Explanation. Technically, all of Newton's laws apply but the word accelerating indicates they are looking for the second law - Force = mass x acceleration.
+
+
+
+
+Question Number. 34. Which of Newton’s Laws apply most directly to a car which is slowing down due to the braking action?.
+Option A. The 1st law.
+Option B. The 3rd law.
+Option C. The 2nd law.
+Correct Answer is. The 2nd law.
+Explanation. The car is decelerating therefore it is obeying the second law - Force = mass * acceleration (but technically all three laws apply).
+
+
+
+
+Question Number. 35. F = ma is an equation which expresses.
+Option A. Newton’s 1st law.
+Option B. Newton’s 2nd law.
+Option C. Newton’s 3rd law.
+Correct Answer is. Newton’s 2nd law.
+Explanation. Newton's second law is F = ma (Force = mass * acceleration).
+
+
+
+
+Question Number. 36. What force is required to produce an acceleration of 5 m/s2 on a mass of 2 kg?.
+Option A. 2.5 N.
+Option B. 10 N.
+Option C. 50 N.
+Correct Answer is. 10 N.
+Explanation. F = ma = 2 * 5 = 10 Newtons (Force is measured in Newtons).
+
+
+
+
+Question Number. 37. If a force of 10 lbf produces an acceleration of 2.5 ft/sec2, on what mass is it acting?.
+Option A. 4 slugs.
+Option B. 4 lb.
+Option C. 25 slugs.
+Correct Answer is. 4 slugs.
+Explanation. F = ma, 10 = m * 2.5, m = 10/2.5 = 4 slugs.
+
+
+
+
+Question Number. 38. What is acceleration?.
+Option A. Rate of change of velocity.
+Option B. Rate of change of movement.
+Option C. Rate of change of position.
+Correct Answer is. Rate of change of velocity.
+Explanation. Acceleration is rate of change of velocity.
+
+
+
+
+Question Number. 39. In a gear train the driver has 100 TPI and the driven has 50 TPI.
+Option A. The driven rotates twice as fast.
+Option B. The driver and driven rotate at the same speed.
+Option C. The driven rotates half as fast.
+Correct Answer is. The driven rotates twice as fast.
+Explanation. smaller wheel rotates at the faster speed (of a ratio equal to their diameters).
+
+
+
+
+Question Number. 40. An aircraft of 2 metric tonnes lands with 400 kilojoules of energy, 10 kiloNewtons of force is applied at the brakes, how far does the aircraft take to stop?.
+Option A. 40 M.
+Option B. 400 M.
+Option C. 800 M.
+Correct Answer is. 40 M.
+Explanation. Work done = Force * energy. Work required to convert all the kinetic energy = Force * distance. So Force * distance = 400,000 Joules. 10,000 N * distance = 400,000. Distance = 40 m.
+
+
+
+
+Question Number. 41. A radar rotates 1 revolution each 30 seconds and uses 10J of energy each revolution. How many joules does it use in a day?.
+Option A. 28.8 kJ.
+Option B. 720 kJ.
+Option C. 7200 kJ.
+Correct Answer is. 28.8 kJ.
+Explanation. =2 8 60 = 120 revs/hour = 120 8 24 = 2880 revs/day. 2880 8 10 = 28800 Joules = 28.8 kJ.
+
+
+
+
+Question Number. 42. A light aircraft flies in a semi-circle from point A to point B. If the circle has a radius of 20km and the time taken is 30 minutes, the average speed is.
+Option A. 125.7 km/h.
+Option B. 110 km/h.
+Option C. 80 km/h.
+Correct Answer is. 125.7 km/h.
+Explanation. arc distance = radius x angular distance (in rads) = 20π = 60 km (approx, taking πas 3). 60 km in 30 minutes is 120 km/h (answer is slightly more because π = 3.14, not 3.
+
+
+
+
+Question Number. 43. The landing speed of an aircraft is 54 m/s2. If the maximum deceleration is 3m/s2 the minimum length of runway required is.
+Option A. 162m.
+Option B. 486m.
+Option C. 360m.
+Correct Answer is. 486m.
+Explanation. NIL.
+
+
+
+
+Question Number. 44. The number of radians in a semi circle are.
+Option A. exactly 3.
+Option B. π.
+Option C. 2π.
+Correct Answer is. π.
+Explanation. full circle = 2π radians, so a semicircle = π radians = 3.142.
+
+
+
+
+Question Number. 45. The angular velocity of 500 RPM is, in rads/seconds is equal to.
+Option A. 1000π rads/s.
+Option B. 8.33π rads/s.
+Option C. 16.66π rads/s.
+Correct Answer is. 16.66π rads/s.
+Explanation. 500 * 2π/60 = 1000π/60 = 100π/6 = 16.66.
+
+
+
+
+Question Number. 46. Which of Newton's laws relates to the formula: Force = mass * acceleration?.
+Option A. 1st.
+Option B. 2nd.
+Option C. 3rd.
+Correct Answer is. 2nd.
+Explanation. Newton's Second Law F = ma.
+
+
+
+
+Question Number. 47. The period of simple pendulum is.
+Option A. independent of its mass.
+Option B. longer for a heavy pendulum bob.
+Option C. longer on the earth than on the moon.
+Correct Answer is. independent of its mass.
+Explanation. The only things that affect the period of a pendulum is the length (greater length = longer period) and gravity (greater gravity= shorter period).
+
+
+
+
+Question Number. 48. A satellite requires 10 Joules to rotate half a revolution, which takes 30 seconds. What is the energy required for one day?.
+Option A. 14,400 J.
+Option B. 1,200 J.
+Option C. 28,800 J.
+Correct Answer is. 28,800 J.
+Explanation. 10 Joules * 2revs/min * 60 mins * 24 hours.
+
+
+
+
+Question Number. 49. The size of Centripetal Force on an object travelling in a circle.
+Option A. increase with increasing mass of the object.
+Option B. decreases with increasing speed of the object.
+Option C. increases with an increasing radius of circle.
+Correct Answer is. increase with increasing mass of the object.
+Explanation. NIL.
+
+
+
+
+Question Number. 50. For an object in circular motion at constant velocity, if the radius of its path is doubled the centripetal force will.
+Option A. double.
+Option B. remain the same.
+Option C. half.
+Correct Answer is. half.
+Explanation. NIL.
+
+
+
+
+Question Number. 51. An aircraft weighing 6400 pounds lands at a speed of 10 ft/Sec and stops in 10 Seconds. What force was generated by the brakes (assuming gravity as 32 ft/sec).
+Option A. -2000 Lbs.
+Option B. -200 Lbs.
+Option C. -640 Lbs.
+Correct Answer is. -200 Lbs.
+Explanation. NIL.
+
+
+
+
+Question Number. 52. For every action there is an equal and opposite reaction.' This is known as.
+Option A. Newtons second law.
+Option B. Newtons third law.
+Option C. Newtons first law.
+Correct Answer is. Newtons third law.
+Explanation. NIL.
+
+
+
+
+Question Number. 53. One radian is equal to.
+Option A. the angle subtended at the centre of a circle when the arc-length formed between two radial lines is equal in length to the radius.
+Option B. 66.67 degrees.
+Option C. the angle subtended at the centre of a circle when the arc-length formed between two radial lines is equal to π.
+Correct Answer is. the angle subtended at the centre of a circle when the arc-length formed between two radial lines is equal in length to the radius.
+Explanation. NIL.
+
+
+
+
+Question Number. 54. A weight on a spring almost touches the floor 7 times over 21 seconds. What is its frequency?.
+Option A. 3 cycles/second.
+Option B. 1/3 cycles/second.
+Option C. 7 cycles/second.
+Correct Answer is. 1/3 cycles/second.
+Explanation. Frequency = number of oscillations divided by time = 7/21 = 1/3.
+
+
+
+
+Question Number. 55. Which of the following statements describes centrifugal force?.
+Option A. Equal to centripetal force and acts in the opposite direction.
+Option B. Greater than centripetal force and acts in the opposite direction.
+Option C. Smaller than centripetal force and acts in the opposite direction.
+Correct Answer is. Greater than centripetal force and acts in the opposite direction.
+Explanation. Centrifugal is away from centre and equal (but opposite) to centripetal force.
+
+
+
+
+Question Number. 56. A body starting from rest accelerates at the rate of 20 metres per second squared. What is the distance covered until the body reaches a velocity of 50 metres per second?.
+Option A. 0.625 kilometres.
+Option B. 50 metres.
+Option C. 62.5 metres.
+Correct Answer is. 62.5 metres.
+Explanation. NIL.
+
+
+
+
+Question Number. 57. The oscillation produced by a pendulum 2500mm long has a periodic time of.
+Option A. 300 milliseconds.
+Option B. 3 seconds.
+Option C. 1.25 seconds.
+Correct Answer is. 3 seconds.
+Explanation. T = 2xπ√L/g = √2.5/10 = 6 * √0.25 = 6 * 0.5 = 3.
+
+
+
+
+Question Number. 58. A drive shaft has a speed 150π radians a second. What is the speed in RPM?.
+Option A. 4500.
+Option B. 9000.
+Option C. 1500.
+Correct Answer is. 4500.
+Explanation. 150π * 60/2π = 4500
+
+
+2.3a. Mechanics – Dynamics.
+
+
+
+
+Question Number. 1. As an object slides down a slope, its.
+Option A. kinetic energy increases and its potential energy increases.
+Option B. kinetic energy increases and its potential energy decreases.
+Option C. kinetic energy decreases and its potential energy increases.
+Correct Answer is. kinetic energy increases and its potential energy decreases.
+Explanation. Potential energy is converted into kinetic energy.
+
+
+
+
+Question Number. 2. A single fixed pulley (discounting friction etc) has a mechanical advantage of.
+Option A. 2.
+Option B. 1/2.
+Option C. 1.
+Correct Answer is. 1.
+Explanation. NIL.
+
+
+
+
+Question Number. 3. What is the ratio of load to effort called?.
+Option A. Mechanical advantage.
+Option B. Velocity ratio.
+Option C. Mechanical ratio.
+Correct Answer is. Mechanical advantage.
+Explanation. NIL.
+
+
+
+
+Question Number. 4. 1 kW is.
+Option A. 3413 BTU per hour.
+Option B. 1.56 HP.
+Option C. 360 Joules.
+Correct Answer is. 3413 BTU per hour.
+Explanation. 1 BTU = 0.293 W. 1 W = 1/0.293 BTU = 3.413 BTU. 1 kW = 3413 BTU.
+
+
+
+
+Question Number. 5. The tension in the cable of a crane is 2500 N and it lifts a load through 50m, what is the work done on the load?.
+Option A. 1.25 * 10 J5.
+Option B. 500 J.
+Option C. 12.5 kJ.
+Correct Answer is. 1.25 * 10 J5.
+Explanation. NIL.
+
+
+
+
+Question Number. 6. What is the kinetic energy of an aircraft of mass of 2 metric tonnes and has a velocity of 2m/s?.
+Option A. 8 kJ.
+Option B. 4 kJ.
+Option C. 2 kJ.
+Correct Answer is. 4 kJ.
+Explanation. Kinetic energy = 1/2mV. Only the V is squared. 2 metric tonnes = 2000 kg.
+
+
+
+
+Question Number. 7. The work done in lifting a mass of 2000 kg vertically to a height of 40 metres is.
+Option A. 80 kJ.
+Option B. 784.8 kJ.
+Option C. 500 kJ.
+Correct Answer is. 784.8 kJ.
+Explanation. Work done = Force * distance (force = mass * gravity). Wd = 2000 * 10 * 40 = 800,000 approx. (answer is slightly less because g = 9.81, not 10).
+
+
+
+
+Question Number. 8. If a machine has a mechanical advantage of 10 and a velocity ratio of 20. The efficiency of the machine is.
+Option A. 200%.
+Option B. 0.5.
+Option C. 2.
+Correct Answer is. 0.5.
+Explanation. 10 times the force out and only 1/20th speed, it must have an efficiency of a 1/2. (100% efficient it would have 10 times the force and 1/10th the speed - straight trade of force for speed).
+
+
+
+
+Question Number. 9. 1 Watt =.
+Option A. 1kg/h.
+Option B. 1 Joule/s.
+Option C. 1 HP.
+Correct Answer is. 1 Joule/s.
+Explanation. 1 Watt = 1 Joule/second.
+
+
+
+
+Question Number. 10. How would you work out the work done by a machine assuming it is 100% efficient?.
+Option A. Input and output.
+Option B. Mechanical advantage and output.
+Option C. Mechanical advantage and input.
+Correct Answer is. Mechanical advantage and input.
+Explanation. Assuming the 'input' means input force, to calculate the work done you will need the input force and the mechanical advantage of the machine to calculate the output force and distance (Work done = force * distance of output).
+
+
+
+
+Question Number. 11. Ignoring friction, if you let an object slide down a slope, at the bottom.
+Option A. the potential energy is equal to the kinetic energy.
+Option B. the potential energy is more than the kinetic energy.
+Option C. the kinetic energy is more than the potential energy.
+Correct Answer is. the kinetic energy is more than the potential energy.
+Explanation. All potential energy is converted to kinetic energy.
+
+
+
+
+Question Number. 12. 1 HP = 33000 ft.lbs/min or 500 ft.lbs/s or.
+Option A. 736 Watts.
+Option B. 746 Watts.
+Option C. 1360 Watts.
+Correct Answer is. 746 Watts.
+Explanation. 1 HP = 746 Watts.
+
+
+
+
+Question Number. 13. A force of 15N is needed to move a body of mass 30kg along a footpath with uniform velocity. Find the coefficient of dynamic friction.(take g as 10m/s/s).
+Option A. 1/20.
+Option B. 1/2.
+Option C. 20.
+Correct Answer is. 1/20.
+Explanation. NIL.
+
+
+
+
+Question Number. 14. A mass of 400kg moves 27 metres with a force of 54N. What is the work produced?.
+Option A. 10.1kJ.
+Option B. 583.2kJ.
+Option C. 1458J.
+Correct Answer is. 1458J.
+Explanation. NIL.
+
+
+
+
+Question Number. 15. The SI unit of Power is the.
+Option A. Volt.
+Option B. Pascal.
+Option C. Watt.
+Correct Answer is. Watt.
+Explanation. NIL.
+
+
+
+
+Question Number. 16. What is 1 joule in calories?.
+Option A. 4.186.
+Option B. 252.
+Option C. 0.239.
+Correct Answer is. 0.239.
+Explanation. NIL.
+
+
+
+
+Question Number. 17. If you push an object with a force of 5 N for 10 m in 4 seconds, how much power is used?.
+Option A. 12.5 watts.
+Option B. 8 watts.
+Option C. 200 Watts.
+Correct Answer is. 12.5 watts.
+Explanation. NIL.
+
+
+
+
+Question Number. 18. What is the Kinetic Energy of a 2 kg object moving at a velocity of 12 m/s?.
+Option A. 24 Joules.
+Option B. 288 Joules.
+Option C. 144 Joules.
+Correct Answer is. 144 Joules.
+Explanation. NIL.
+
+
+
+
+Question Number. 19. A mass of 3kg weighs approximately.
+Option A. 0.675 N.
+Option B. 6.6 LB.
+Option C. 1.3 LB.
+Correct Answer is. 6.6 LB.
+Explanation. 1 kg = 2.2 lb. So 3 kg = 3 * 2.2 = 6.6 lb.
+
+
+
+
+Question Number. 20. Power is the rate of doing work. It is measured in.
+Option A. Watts/Seconds.
+Option B. Joules/Seconds.
+Option C. Joules * Seconds.
+Correct Answer is. Joules/Seconds.
+Explanation. NIL.
+
+
+
+
+Question Number. 21. A 6000 kg engine is lifted off a wing to a height 0.5 metres and then pushed across the hangar 24 meters. The force required to push the trolley is 12 kN. What is the work done to move the trolley?.
+Option A. 298kJ.
+Option B. 84MJ.
+Option C. 288kJ.
+Correct Answer is. 288kJ.
+Explanation. NIL.
+
+
+
+
+Question Number. 22. A ball is dropped from rest. What is its speed after 4 seconds? (Take g as 10m/s/s).
+Option A. 80m/s.
+Option B. 40m/s.
+Option C. 20m/s.
+Correct Answer is. 40m/s.
+Explanation. NIL.
+
+
+
+
+Question Number. 23. 1 KW is equal to.
+Option A. 1.34 HP.
+Option B. 1000 Joules.
+Option C. 252 BTU.
+Correct Answer is. 1.34 HP.
+Explanation. NIL.
+
+
+
+
+Question Number. 24. Ten kilograms is expressed numerically as.
+Option A. 1 Mg.
+Option B. 10 K.
+Option C. 10 kg.
+Correct Answer is. 10 kg.
+Explanation. 10 kilograms = 10 kg.
+
+
+
+
+Question Number. 25. An object accelerating down a slope would gain kinetic energy.
+Option A. less than the potential energy lost.
+Option B. greater than the potential energy lost.
+Option C. equal to the potential energy lost.
+Correct Answer is. equal to the potential energy lost.
+Explanation. NIL.
+
+
+
+
+Question Number. 26. A block slides down a slope. Assuming there is no friction.
+Option A. kinetic energy is gained at the same rate as potential energy is lost.
+Option B. kinetic energy is gained at a greater rate than potential energy is lost.
+Option C. potential energy is gained at a greater rate than kinetic energy is lost.
+Correct Answer is. kinetic energy is gained at the same rate as potential energy is lost.
+Explanation. KE gained = PE lost (at the same rate).
+
+
+
+
+Question Number. 27. The English unit of mass is.
+Option A. the Newton.
+Option B. the kilogram.
+Option C. the slug.
+Correct Answer is. the slug.
+Explanation. The British unit of mass is the Slug.
+
+
+
+
+Question Number. 28. The SI unit of energy is the.
+Option A. Watt (W).
+Option B. Pascal (Pa).
+Option C. Joule (J).
+Correct Answer is. Joule (J).
+Explanation. NIL.
+
+
+
+
+Question Number. 29. A 4.5 kW electric motor is 90% efficient. How much energy does it use in 20 seconds?.
+Option A. 90 kJ.
+Option B. 2.25 kJ.
+Option C. 100 kJ.
+Correct Answer is. 100 kJ.
+Explanation. NIL.
+
+
+
+
+Question Number. 30. A pile driver of mass 1000 kg, hits a post 3 m below it. It moves the post 10 mm. Assuming gravity = 10 m/s, what is the kinetic energy of the pile driver?.
+Option A. 30 kJ.
+Option B. 45 kJ.
+Option C. 90 kJ.
+Correct Answer is. 30 kJ.
+Explanation. NIL.
+
+
+
+
+Question Number. 31. The SI unit for work is the.
+Option A. Joule.
+Option B. Watt.
+Option C. horsepower.
+Correct Answer is. Joule.
+Explanation. NIL.
+
+
+
+
+Question Number. 32. What work is done if a force of 100 N moves a body 15 metres?.
+Option A. 1500 kJ.
+Option B. 1.5 kJ.
+Option C. 0.15 mJ.
+Correct Answer is. 1.5 kJ.
+Explanation. Work = force * distance 100N * 15m = 1500J, or 1.5kJ.
+
+
+
+
+Question Number. 33. Power is the rate of doing work. It is measured in.
+Option A. Joules * Seconds.
+Option B. Joules/Seconds.
+Option C. Watts/Seconds.
+Correct Answer is. Joules/Seconds.
+Explanation. Power = energy per second = Joules/second.
+
+
+
+
+Question Number. 34. A block slides down a slope. Assuming there is no friction.
+Option A. potential energy is gained at a greater rate than kinetic energy is lost.
+Option B. kinetic energy is gained at the same rate as potential energy is lost.
+Option C. kinetic energy is gained at a greater rate than potential energy is lost.
+Correct Answer is. kinetic energy is gained at the same rate as potential energy is lost.
+Explanation. KE gained = PE lost (at the same rate).
+
+
+2.3b. Mechanics – Dynamics.
+
+
+
+
+Question Number. 1. A good refrigerant has a.
+Option A. low condensation temperature and high condensation pressure.
+Option B. low condensation temperature and low condensation pressure.
+Option C. high condensation temperature and low condensation pressure.
+Correct Answer is. high condensation temperature and low condensation pressure.
+Explanation. NIL.
+
+
+
+
+Question Number. 2. What is the momentum of a ball of mass 2 grams and has a velocity of 10cm/s?.
+Option A. 5 kg.m/s.
+Option B. 20 kg.m/s.
+Option C. 0.0002 kg.m/s.
+Correct Answer is. 0.0002 kg.m/s.
+Explanation. Momentum = mass * velocity. But first convert the numbers to SI. (2 grammes = 2/1000 kg. 10cm = 10/1000 Metres).
+
+
+
+
+Question Number. 3. A gyroscope suffers from apparent wander. This is due to.
+Option A. friction on the gimbals and bearings.
+Option B. the earth's rotation.
+Option C. the aircraft flying along a north/south track.
+Correct Answer is. the earth's rotation.
+Explanation. Real wander is physical movement from friction in bearings. Apparent wander is due to effect of earth's rotation.
+
+
+
+
+Question Number. 4. The SI unit of momentum is the.
+Option A. metre squared (m2).
+Option B. kilogram metre per second.
+Option C. kilogram / metre (kg/m).
+Correct Answer is. kilogram metre per second.
+Explanation. Momentum = mass * velocity. So units are kg m/s.
+
+
+
+
+Question Number. 5. Precession in a gyro is.
+Option A. proportional to the magnitude of the torque applied.
+Option B. proportional to the square of the magnitude of the torque applied.
+Option C. inversely proportional to the magnitude of the torques applied.
+Correct Answer is. proportional to the magnitude of the torque applied.
+Explanation. NIL.
+
+
+
+
+Question Number. 6. A gyro with a fixed point free to rotate in three axis is.
+Option A. a tied gyro.
+Option B. a space gyro.
+Option C. an earth gyro.
+Correct Answer is. a tied gyro.
+Explanation. If the gyro is fixed to one point, it is a tied gyro. (An earth gyro is 'tied' specifically to an earth reference point).
+
+
+
+
+Question Number. 7. What type of friction requires the greatest force to overcome it?.
+Option A. Dynamic friction.
+Option B. Static friction.
+Option C. Rolling friction.
+Correct Answer is. Static friction.
+Explanation. Static friction (sometimes called 'stiction') is the greatest friction. Followed by Dynamic and Rolling respectively.
+
+
+
+
+Question Number. 8. If a gyro is constrained to an external reference and has three degrees of freedom it is.
+Option A. a tied gyro.
+Option B. an earth gyro.
+Option C. a space gyro.
+Correct Answer is. a tied gyro.
+Explanation. A tied gyro has one axis fixed to a point (in space or on earth). An earth gyro is a tied gyro but with one axis specifically fixed to a reference on earth.
+
+
+
+
+Question Number. 9. The point at which an applied force overcomes friction and an object begins to move is the co-efficient of.
+Option A. limiting friction.
+Option B. static friction.
+Option C. kinetic friction.
+Correct Answer is. limiting friction.
+Explanation. NIL.
+
+
+
+
+Question Number. 10. The amount a gyro precesses when a torque is applied is.
+Option A. proportional to the torque.
+Option B. inversely proportional to the torque.
+Option C. proportional to the square of the torque.
+Correct Answer is. proportional to the torque.
+Explanation. NIL.
+
+
+
+
+Question Number. 11. The gyroscopic principle is based upon.
+Option A. Newton’s 3rd Law.
+Option B. Newton’s 2nd Law.
+Option C. Newton’s 1st Law.
+Correct Answer is. Newton’s 1st Law.
+Explanation. Newton's First Law is also called the 'Inertia Law'.
+
+
+
+
+Question Number. 12. A mass of 20kg produces a momentum of 300kgm/s. What is the Kinetic energy?.
+Option A. 3250 Joules.
+Option B. 2250 Joules.
+Option C. 0.25 Kilojoules.
+Correct Answer is. 2250 Joules.
+Explanation. Momentum = MV, 300 = 20V, V = 15. KE = 1/2MV2 = 1/2*20*15*15 = 2250J.
+
+
+
+
+Question Number. 13. A motorcycle of mass 400kg is moving at a velocity of 8m/s. Calculate its momentum.
+Option A. 3200 kgm/s.
+Option B. 50 kgm/s.
+Option C. 320 kgm/s.
+Correct Answer is. 3200 kgm/s.
+Explanation. Momentum = mass * velocity.
+
+
+
+
+Question Number. 14. If the speed of a gyro is increased, the force required to precess the gyro is.
+Option A. increased.
+Option B. remains the same.
+Option C. decreased.
+Correct Answer is. increased.
+Explanation. Rigidity increases with RPM.
+
+
+2.4a. Mechanics - Fluid Dynamics.
+
+
+
+
+Question Number. 1. The specific gravity of a substance is calculated by.
+Option A. density of the body squared multiplied by the density of water.
+Option B. the density of the body divided by the density of water.
+Option C. density of the body multiplied by the density of water.
+Correct Answer is. the density of the body divided by the density of water.
+Explanation. Specific' always means 'per' something or divide by.
+
+
+
+
+Question Number. 2. The SI unit of density is the.
+Option A. kilogram per cubic metre (kg/m3).
+Option B. Pascal (Pa).
+Option C. cubic metre (m3).
+Correct Answer is. kilogram per cubic metre (kg/m3).
+Explanation. NIL.
+
+
+
+
+Question Number. 3. Relative density is.
+Option A. density of water x density of medium.
+Option B. density of water/density of medium.
+Option C. density of medium/density of water.
+Correct Answer is. density of medium/density of water.
+Explanation. NIL.
+
+
+
+
+Question Number. 4. The standard for measuring density is.
+Option A. 0 °C and 760 mm of mercury.
+Option B. -20 °C and 700 mm of mercury.
+Option C. +20 °C and 760 mm of mercury.
+Correct Answer is. 0 °C and 760 mm of mercury.
+Explanation. STP.
+
+
+
+
+Question Number. 5. 1kg of water is heated from 0 °C to 2 °C. Its volume will.
+Option A. decrease.
+Option B. stay the same.
+Option C. increase.
+Correct Answer is. decrease.
+Explanation. When ice melts, its volume decreases up to 3 °C.
+
+
+
+
+Question Number. 6. A pilot requests 9.2 tonnes of fuel. The bowser driver reports to the pilot that the specific gravity is 0.8, what will the uplift be?.
+Option A. 7360 litres.
+Option B. 11500 litres.
+Option C. 9200 litres.
+Correct Answer is. 11500 litres.
+Explanation. 1 litre of water has a mass of 1kg. 1000 litres of water has a mass of 1 metric tonne. 9.2 tonnes of water is 9200 litres. But fuel is lighter than water (0.8x) so the uplift will be more than 9200 litres.
+
+
+
+
+Question Number. 7. Specific gravity.
+Option A. is measured in kg/m2.
+Option B. is measured in kg/m3.
+Option C. has no units.
+Correct Answer is. has no units.
+Explanation. Specific gravity is the density of the fluid divided by the density of water. Since both have the same units (kg/m3) they cancel - hence, no units.
+
+
+
+
+Question Number. 8. The standard temperature and pressure for measuring the density of liquids is.
+Option A. 15 °C and 760 mmHg.
+Option B. 0 °C and 760 mmHg.
+Option C. 4 °C and 760 mmHg.
+Correct Answer is. 4 °C and 760 mmHg.
+Explanation. Since water is most dense at 4 °C (1000 kg/m3), this is used as the standard temperature. When working out specific gravity, the fluid in question must also be 4 °C. (But remember it is 0 °C for gases, and room temp - 20 °C - for barometers).
+
+
+
+
+Question Number. 9. The standard temperature and pressure for measuring the volume of liquids and solids is.
+Option A. 20 °C and 700 mmHg.
+Option B. 20 °C and 760 mmHg.
+Option C. 0 °C and 760 mmHg.
+Correct Answer is. 20 °C and 760 mmHg.
+Explanation. Since the volume of solids and gases changes with temperature (and a lesser amount with pressure) the standard for measuring volume is 20 °C. (room temp.) and 760mmHg (standard sea level atmospheric pressure).
+
+
+
+
+Question Number. 10. Given that 1 cubic foot of water weighs 62.4 lbs and the specific gravity of fuel is 0.81, what is the weight of 10 cubic foot of fuel?.
+Option A. 402.8 lbs.
+Option B. 505.4 lbs.
+Option C. 770.3 lbs.
+Correct Answer is. 505.4 lbs.
+Explanation. 10 * 62.4 = 624. 624 * 081 =.
+
+
+
+
+Question Number. 11. At what temperature does water have the greatest density?.
+Option A. 0 °C.
+Option B. 100 °C.
+Option C. 4 °C.
+Correct Answer is. 4 °C.
+Explanation. Solidification begins at 4 °C when cooling.
+
+
+
+
+Question Number. 12. The specific gravity of methylated spirit is 0.8. Its density is.
+Option A. 800 g/m3.
+Option B. 800 kg/m3.
+Option C. 80 kg/m3.
+Correct Answer is. 800 kg/m3.
+Explanation. sg = density of fluid/density of water density of fluid = sg * density of water density of water = 1000 kg/m3.
+
+
+
+
+Question Number. 13. The density of Cu is 8,900kg/m3. What is its relative density?.
+Option A. 890.
+Option B. 8.9.
+Option C. 89.
+Correct Answer is. 8.9.
+Explanation. rel. density = density of substance/density of water= 8900/1000.
+
+
+2.4b. Mechanics - Fluid Dynamics.
+Question Number. 1. Atmospheric pressure at ISA conditions is.
+Option A. 1013 pa.
+Option B. 1013 bar.
+Option C. 1013 mBar.
+Correct Answer is. 1013 mBar.
+Explanation. NIL.
+
+
+
+
+Question Number. 2. Convert 220 gallons to litres.
+Option A. 1000 litres.
+Option B. 48.4 litres.
+Option C. 500 litres.
+Correct Answer is. 1000 litres.
+Explanation. Imagine how many times a large coke bottle goes into a normal engine oil container (about 4 (and a bit)), then * 220. http://www.metric-conversions.org/
+
+
+
+
+Question Number. 3. The SI unit of pressure is the.
+Option A. Newton per metre squared (N/m2).
+Option B. Cubic metre (m3).
+Option C. kilogram per metre cubed (kg/m3).
+Correct Answer is. Newton per metre squared (N/m2).
+Explanation. Pressure = force / area. So units of pressure is Newtons / square metre (or better known as Pascals).
+
+
+
+
+Question Number. 4. A gauge indicates 15 PSIG. What is the absolute pressure?.
+Option A. 30 PSI.
+Option B. 0.3 PSI.
+Option C. Zero PSI.
+Correct Answer is. 30 PSI.
+Explanation. Absolute pressure = gauge pressure + atmospheric pressure. (The G in PSIG means 'gauge') Atmospheric pressure varies slightly so is not always the 14.7 PSI of the ISA. http://en.wikipedia.org/wiki/Pound-force_per_square_inch
+
+
+
+
+Question Number. 5. Water is most dense at.
+Option A. -4 °C.
+Option B. 0 °C.
+Option C. +4 °C.
+Correct Answer is. +4 °C.
+Explanation. As water cools, the molecules begin to crystallise at 4 °C. Crystallized water (i.e. ice) has a greater volume than liquid water and therefore less density (that is why ice floats). http://www.physicalgeography.net/fundamentals/8a.html
+
+
+
+
+Question Number. 6. Viscosity can be described as.
+Option A. Newton's 1st law of motion.
+Option B. fluids flowing in a straight line.
+Option C. the internal resistance for a fluid to flow.
+Correct Answer is. the internal resistance for a fluid to flow.
+Explanation. Viscosity is opposition to flow of a fluid.
+
+
+
+
+Question Number. 7. How much lift is produced on a wing can be derived from.
+Option A. Bernoulli's Theorem.
+Option B. Faraday's law.
+Option C. Charles law.
+Correct Answer is. Bernoulli's Theorem.
+Explanation. Bernoulli's theorem.
+
+
+
+
+Question Number. 8. Pressure in a pipe is.
+Option A. force per unit area.
+Option B. mass divided by cross-sectional area.
+Option C. weight per unit area.
+Correct Answer is. force per unit area.
+Explanation. NIL.
+
+
+3a. Thermodynamics.
+
+
+
+
+Question Number. 1. Convert 25 degrees centigrade to fahrenheit.
+Option A. 57.
+Option B. 77.
+Option C. -7.
+Correct Answer is. 77.
+Explanation. (25*1.8)+32= 77.
+
+
+
+
+Question Number. 2. You are at the north pole where the temperature is minus 50 °C below freezing. What sort of thermometer would you use to measure it?.
+Option A. Water.
+Option B. Alcohol.
+Option C. Mercury.
+Correct Answer is. Alcohol.
+Explanation. NIL.
+
+
+
+
+Question Number. 3. Convert 15 °C to °F.
+Option A. 37 °F.
+Option B. 59 °F.
+Option C. 62 °F.
+Correct Answer is. 59 °F.
+Explanation. ISA sea level temperature 15 °C = 59 °F.
+
+
+
+
+Question Number. 4. 1 degree rise on the centigrade scale will cause a.
+Option A. 1.8 degree rise in Fahrenheit.
+Option B. 33 degree rise in Fahrenheit.
+Option C. 0.911 degree rise in Fahrenheit.
+Correct Answer is. 1.8 degree rise in Fahrenheit.
+Explanation. NIL.
+
+
+
+
+Question Number. 5. 1 calorie is equal to.
+Option A. 4 J.
+Option B. 40 J.
+Option C. 400 J.
+Correct Answer is. 4 J.
+Explanation. NIL.
+
+
+
+
+Question Number. 6. 1 BTU equals.
+Option A. 1055 Joules.
+Option B. 1055 Calorie.
+Option C. 1055 kJ.
+Correct Answer is. 1055 Joules.
+Explanation. NIL.
+
+
+
+
+Question Number. 7. Temperature is a measure of.
+Option A. the amount of friction produced by two mating surfaces.
+Option B. the amount of vibration of molecules.
+Option C. the heat energy of particles.
+Correct Answer is. the amount of vibration of molecules.
+Explanation. Heat energy applied to an object does not necessarily increase temperature (eg. when melting or evaporating).
+
+
+
+
+Question Number. 8. What temperature scale is used with the combined gas law?.
+Option A. Absolute.
+Option B. Fahrenheit.
+Option C. Celsius.
+Correct Answer is. Absolute.
+Explanation. Kelvin (absolute scale) is always used with the combined gas law equation.";.
+
+
+
+
+Question Number. 9. What is 1 btu/lb in joules per kilogram?.
+Option A. 2326 j/kg.
+Option B. 4128 j/kg.
+Option C. 9.18 j/kg.
+Correct Answer is. 2326 j/kg.
+Explanation. This is referring to specific energy content (J/kg or Btu/lb) of fuel. 1 btu = 1055 J. 1 lb = 2.2 kg. Therefore 1 btu = 2326 J/kg.
+
+
+
+
+Question Number. 10. 1 CHU = Centigrade Heat Unit = 1400 ft lbs =energy to raise.
+Option A. 1 lb of water by 1 °F.
+Option B. 1 kg of water by 1 °C.
+Option C. 1 lb of water by 1 °C.
+Correct Answer is. 1 lb of water by 1 °C.
+Explanation. 1 CHU is the heat required to raise 1 lb of water 1 degree Centigrade (=1.8 BTU).
+
+
+
+
+Question Number. 11. 1 BTU = 778 ft lbs which is the energy required to raise the temperature of.
+Option A. 1 lb of water by 1 °F.
+Option B. 1 kg of water by 1 °F.
+Option C. 1 lb of water by 1 °C.
+Correct Answer is. 1 lb of water by 1 °F.
+Explanation. 1 BTU is the heat required to raise 1 lb of water 1 degree Fahrenheit.
+
+
+
+
+Question Number. 12. A temperature of 41 degrees Fahrenheit is, in Centigrade.
+Option A. 9 degrees.
+Option B. 5 degrees.
+Option C. 7 degrees.
+Correct Answer is. 5 degrees.
+Explanation. C = 5/9(F-32).
+
+
+
+
+Question Number. 13. Heat is described as.
+Option A. a high temperature.
+Option B. energy in transit.
+Option C. the stored energy in a hot body.
+Correct Answer is. energy in transit.
+Explanation. Heat is a type of transfer of energy which increases the kinetic energy of the molecules within a body.
+
+
+
+
+Question Number. 14. 600K is equal to.
+Option A. 853 °C.
+Option B. 873 °C.
+Option C. 326.85 °C.
+Correct Answer is. 326.85 °C.
+Explanation. Subtract 273.15.
+
+
+
+
+Question Number. 15. When gases change temperature/pressure, the scale used is.
+Option A. Kelvin.
+Option B. degrees Fahrenheit.
+Option C. degrees Centigrade.
+Correct Answer is. Kelvin.
+Explanation. Always use the Kelvin scale in thermodynamics.
+
+
+
+
+Question Number. 16. Convert 100 °C to Kelvin.
+Option A. 173 K.
+Option B. 373 K.
+Option C. 273 K.
+Correct Answer is. 373 K.
+Explanation. Degrees C to Kelvin - just add 273.
+
+
+
+
+Question Number. 17. -40 °C in Fahrenheit is.
+Option A. 72 °F.
+Option B. 8 °F.
+Option C. -40 °F.
+Correct Answer is. -40 °F.
+Explanation. °F = 1.8 °C + 32 1.8(-40) + 32 = -40 °F. Please do not report this as an error.
+
+
+
+
+Question Number. 18. Absolute zero is.
+Option A. 0 °C.
+Option B. 273.15 K.
+Option C. -273.15 °C.
+Correct Answer is. -273.15 °C.
+Explanation. Absolute zero is - 273.15 degrees Celsius.
+
+
+
+
+Question Number. 19. One degree increment on the Centigrade scale is equal to what increment on the Fahrenheit scale?.
+Option A. 1.8 °F.
+Option B. 33 °F.
+Option C. 12 °F.
+Correct Answer is. 1.8 °F.
+Explanation. A change of' 1 degree C. it is equal to 'a change of' 1.8 degree F.
+
+
+
+
+Question Number. 20. Transfer of heat from a hot area to a cold area is.
+Option A. conduction.
+Option B. convection.
+Option C. radiation.
+Correct Answer is. conduction.
+Explanation. Convection is a transfer of 'matter' from one place to another. Radiation is a system which heats up anything in its path. but heat is not 'transferred'.
+
+
+
+
+Question Number. 21. Fahrenheit may be converted to Celsius by using the equation.
+Option A. °C = 5/9 * ( °F - 32).
+Option B. °C = 5/9 * °F - 32.
+Option C. °C = 9/5 * °F + 32.
+Correct Answer is. °C = 5/9 * ( °F - 32).
+Explanation. °C = 5/9( °F-32). °F = 9/5 °F + 32.
+
+
+
+
+Question Number. 22. What is 1 BTU/lb in joules per kilogram?.
+Option A. 4128 joules per kilogram.
+Option B. 9.18 joules per kilogram.
+Option C. 2326 joules per kilogram.
+Correct Answer is. 2326 joules per kilogram.
+Explanation. 1 BTU/lb = 2326 j/kg. This is referring to heat of combustion of fuel.
+
+
+
+
+Question Number. 23. Celsius to Fahrenheit is calculated by.
+Option A. (9/5 * °C) + 32.
+Option B. (5/9 * °C) + 32.
+Option C. (5/9 + 32) + °C.
+Correct Answer is. (9/5 * °C) + 32.
+Explanation. Remember standard sea level temperature is 15 °C and 59F. Make °C = 15 on each formula above, and see which comes out at 59 °F".
+
+
+
+
+Question Number. 24. The percentage of nitrogen in air is approximately.
+Option A. 0.62.
+Option B. 0.21.
+Option C. 0.78.
+Correct Answer is. 0.78.
+Explanation. NIL.
+
+
+
+
+Question Number. 25. When a system undergoes a complete cycle where the net heat supplied is equal to work done plus a change in internal energy - this is known as.
+Option A. 2nd Law of thermodynamics.
+Option B. First law of thermodynamics.
+Option C. Ideal Gas law.
+Correct Answer is. First law of thermodynamics.
+Explanation. NIL.
+
+
+
+
+Question Number. 26. In a heat pump.
+Option A. the evaporator gains heat during the heating cycle.
+Option B. the condenser always loses heat.
+Option C. the pump operates in both directions.
+Correct Answer is. the pump operates in both directions.
+Explanation. NIL.
+
+
+
+
+Question Number. 27. What is -28 °C on the Kelvin scale?.
+Option A. 245 K.
+Option B. 18 K.
+Option C. 291 K.
+Correct Answer is. 245 K.
+Explanation. -28 + 273 = 245.
+
+
+
+
+Question Number. 28. When water freezes, heat energy is.
+Option A. absorbed.
+Option B. retained.
+Option C. released.
+Correct Answer is. released.
+Explanation. Freezing is 'exothermic'.
+
+
+
+
+Question Number. 29. 842 degrees Fahrenheit is equal to.
+Option A. 450 Degrees Celsius.
+Option B. 400 Degrees Celsius.
+Option C. 232.2 degrees Celsius.
+Correct Answer is. 450 Degrees Celsius.
+Explanation. C = 5/9(F - 32).
+
+
+
+
+Question Number. 30. For a fixed mass of water at sea level ISA conditions and at 10,000ft.
+Option A. the water will boil at a lower temperature than sea level.
+Option B. the water will boil at the same temperature as sea level.
+Option C. the water will boil at a higher temperature than sea level.
+Correct Answer is. the water will boil at a lower temperature than sea level.
+Explanation. As pressure drops, so does the boiling temperature.
+
+
+
+
+Question Number. 31. Dew point is.
+Option A. the temperature at which condensation actually occurs.
+Option B. the temperature below which condensation occurs.
+Option C. the temperature above which condensation occurs.
+Correct Answer is. the temperature below which condensation occurs.
+Explanation. NIL.
+
+
+
+
+Question Number. 32. By adding impurities to water.
+Option A. the melting point will increase and the boiling point decrease.
+Option B. there will be no effect to the melting and boiling points.
+Option C. the melting point will decrease and the boiling point will increase.
+Correct Answer is. the melting point will decrease and the boiling point will increase.
+Explanation. NIL.
+
+
+
+
+Question Number. 33. Which type of circuit is used when the temperature of the source has insufficient heat for thermocouple application?.
+Option A. thermistor.
+Option B. temperature bulb.
+Option C. balanced bridge.
+Correct Answer is. thermistor.
+Explanation. NIL.
+
+
+
+
+Question Number. 34. Four pounds of gas at a temperature of 17 °C is heated to 89 °C. The specific heat at constant pressure and constant volume are 0.2404 and 0.1718 respectively. Find the heat absorbed by the gas at constant pressure and at constant volume.
+Option A. 70.1 C.H.U. and 50 C.H.U.
+Option B. 49.5 C.H.U. and 69 C.H.U.
+Option C. 69.2 C.H.U. and 49.5 C.H.U.
+Correct Answer is. 69.2 C.H.U. and 49.5 C.H.U.
+Explanation. Q = mC(T2 -T1), 4 * 0.2404 * 72 = 69.2 CHU, and 4 * 0.1718 * 72 = 49.5 CHU.
+
+
+
+
+Question Number. 35. In 'standard conditions' what is the standard for measurement of volume and density of a gas?.
+Option A. 0 °C and 760mm of Mercury.
+Option B. 20 °C and 700mm of Mercury.
+Option C. 20 °C and 760mm of Mercury.
+Correct Answer is. 0 °C and 760mm of Mercury.
+Explanation. STP also applies to solids and liquids.
+
+
+
+
+Question Number. 36. In 'standard conditions' what is the standard for measurement of volume and density of a liquid or solid?.
+Option A. 20 °C and 760mm of Mercury.
+Option B. 0 °C and 760mm of Mercury.
+Option C. 20 °C and 700mm of Mercury.
+Correct Answer is. 0 °C and 760mm of Mercury.
+Explanation. NIL.
+
+
+
+
+Question Number. 37. 842 Degrees Fahrenheit is equal to.
+Option A. 450 Degrees Celsius.
+Option B. 232.2 Degrees Celsius.
+Option C. 400 Degrees Celsius.
+Correct Answer is. 450 Degrees Celsius.
+Explanation. NIL.
+
+
+
+
+Question Number. 38. Which of the following 2 points are equal?.
+Option A. -32 °C and 0 °F.
+Option B. 40 °C and 40 °F.
+Option C. -40 °C and -40 °F.
+Correct Answer is. -40 °C and -40 °F.
+Explanation. NIL.
+
+
+
+
+Question Number. 39. What is 100 Degrees Centigrade in Fahrenheit?.
+Option A. 30 Degrees.
+Option B. 148 Degrees.
+Option C. 212 Degrees.
+Correct Answer is. 212 Degrees.
+Explanation. NIL.
+
+
+
+
+Question Number. 40. The absolute temperature scale that has the same increments as the Fahrenheit scale is the.
+Option A. Rankin scale.
+Option B. Kelvin scale.
+Option C. Celsius scale.
+Correct Answer is. Rankin scale.
+Explanation. NIL.
+
+
+
+
+Question Number. 41. The absolute temperature scale that has the same increments as the Celsius scale is the.
+Option A. Rankin scale.
+Option B. Kelvin scale.
+Option C. Fahrenheit scale.
+Correct Answer is. Kelvin scale.
+Explanation. NIL.
+
+
+3b. Thermodynamics.
+
+
+
+
+Question Number. 1. For a heat pump to internally heat it uses a.
+Option A. inside evaporator.
+Option B. inside condenser.
+Option C. outside condenser.
+Correct Answer is. inside condenser.
+Explanation. NIL. http://en.wikipedia.org/wiki/Heat_pump
+
+
+
+
+Question Number. 2. The heat required to change a liquid to a gas is called the heat of.
+Option A. condensation.
+Option B. fusion.
+Option C. vapourisation.
+Correct Answer is. vapourisation.
+Explanation. Liquid to gas is vapourisation. Solid to liquid is fusion (another term for melting - like fusion welding).
+
+
+
+
+Question Number. 3. What is the SI units for specific heat capacity?.
+Option A. Jkg-1k-1.
+Option B. J/S/C.
+Option C. J/ kg.
+Correct Answer is. Jkg-1k-1.
+Explanation. NIL.
+
+
+
+
+Question Number. 4. The most common refrigerants are.
+Option A. water, ammonia, freon.
+Option B. water, freon, carbon dioxide.
+Option C. ammonia, freon, methyl bromide.
+Correct Answer is. water, ammonia, freon.
+Explanation. All are refrigerants - water is used in cooling towers. Methyl bromide is almost completely phased out due to safety and environmental reasons. Carbon dioxide has been used but no more due to availability of better refrigerants such as ammonia.
+
+
+
+
+Question Number. 5. How is heat transferred in a vacuum?.
+Option A. Convection.
+Option B. Conduction.
+Option C. Radiation.
+Correct Answer is. Radiation.
+Explanation. NIL.
+
+
+
+
+Question Number. 6. The specific heat capacity of a gas heated at constant pressure, when compared to the specific heat capacity of a gas heated at constant volume, is.
+Option A. more.
+Option B. less.
+Option C. the same.
+Correct Answer is. more.
+Explanation. Cp is slightly higher than Cv. Usually it only applies to gases. For example the Cp for air is 1.4 times more than its Cv.
+
+
+
+
+Question Number. 7. Adiabatic compression is when.
+Option A. no heat is lost or gained.
+Option B. kinetic energy is gained.
+Option C. heat is given off to the surroundings.
+Correct Answer is. no heat is lost or gained.
+Explanation. NIL.
+
+
+
+
+Question Number. 8. The heat required to change a solid to a liquid is called the heat of.
+Option A. vapourisation.
+Option B. condensation.
+Option C. fusion.
+Correct Answer is. fusion.
+Explanation. Another word for melting is 'fusion' (as in fusion welding - or... 'a fuse').
+
+
+
+
+Question Number. 9. Latent heat is the.
+Option A. heat required to raise the temperature of a body by 1 °C.
+Option B. heat required to raise 1kg of matter by 1K.
+Option C. heat required to change the state of a body.
+Correct Answer is. heat required to change the state of a body.
+Explanation. Latent' means 'hidden'. It is the heat energy required to change the state (melt or vapourise). No rise in temperature is pruduced whilst doing so - hence the 'hidden' bit.
+
+
+
+
+Question Number. 10. The intensity of radiated heat is.
+Option A. inversely proportional to the square of the distance from the source of the heat.
+Option B. not effected by the distance from the source of the heat.
+Option C. directly proportional to distance from the source of the heat.
+Correct Answer is. inversely proportional to the square of the distance from the source of the heat.
+Explanation. Like most such things, intensity of heat, gravity, magnetism etc. - they all reduce with the square of the distance (i.e. double the distance and the intensity is 1/4).
+
+
+
+
+Question Number. 11. As a block of ice is melted (to 4 °C). Its volume.
+Option A. remains the same.
+Option B. decreases.
+Option C. increases.
+Correct Answer is. decreases.
+Explanation. Ice expands as it gets colder - which is why water pipes burst if they freeze.
+
+
+
+
+Question Number. 12. A good refrigerant has.
+Option A. high condensing pressure, low evaporating temperature.
+Option B. high condensing pressure, high evaporating temperature.
+Option C. low condensing pressure, low vaporating temperature.
+Correct Answer is. low condensing pressure, low vaporating temperature.
+Explanation. The refrigerant must evaporate at lower temperature than the 'cold space' and must condense at a relatively high temperature, with a low compression level.
+
+
+
+
+Question Number. 13. In a heat pump.
+Option A. In a heat pump.
+Option B. the condenser loses heat.
+Option C. flow across the condenser is always in one direction.
+Correct Answer is. the condenser loses heat.
+Explanation. Heat pumps can be used to cool as well as heat. Refrigerant flow changes direction respectively, but the condensor always rejects the heat.
+
+
+
+
+Question Number. 14. Charles' Law states that.
+Option A. volume varies inversely with temperature.
+Option B. volume varies directly with temperature.
+Option C. volume equals pressure * temperature.
+Correct Answer is. volume varies directly with temperature.
+Explanation. NIL. http://en.wikipedia.org/wiki/Charles_law
+
+
+
+
+Question Number. 15. Boyle's law states that.
+Option A. pressure equals temperature divided by volume.
+Option B. pressure varies directly with volume.
+Option C. pressure varies inversely with volume.
+Correct Answer is. pressure varies inversely with volume.
+Explanation. Pressure rises, volume decreases.
+
+
+
+
+Question Number. 16. Convection does not occur in.
+Option A. liquids.
+Option B. liquids.
+Option C. solids.
+Correct Answer is. solids.
+Explanation. The medium must 'flow' for conduction to take place.
+
+
+
+
+Question Number. 17. A process where volume does not change is.
+Option A. isochoric.
+Option B. isobaric.
+Option C. isothermic.
+Correct Answer is. isochoric.
+Explanation. NIL.
+
+
+
+
+Question Number. 18. A process where heat is not transferred to or from a gas is.
+Option A. adiabatic.
+Option B. isochoric.
+Option C. isobaric.
+Correct Answer is. adiabatic.
+Explanation. NIL.
+
+
+
+
+Question Number. 19. A process where pressure does not change is known as.
+Option A. isochoric.
+Option B. isothermic.
+Option C. isobaric.
+Correct Answer is. isobaric.
+Explanation. Iso' means equal. 'bar' is pressure.
+
+
+
+
+Question Number. 20. When a liquid is heated, it expands.
+Option A. more than a solid.
+Option B. less than a solid.
+Option C. more than a gas.
+Correct Answer is. more than a solid.
+Explanation. Generally speaking, liquids have a greater coefficient of thermal expansion than solids.
+
+
+
+
+Question Number. 21. If pressure on a liquid increases, whilst temperature is held constant, the volume will.
+Option A. decrease.
+Option B. remain constant.
+Option C. increase.
+Correct Answer is. remain constant.
+Explanation. Liquids are incompressible.
+
+
+
+
+Question Number. 22. A process where temperature remains the same is known as.
+Option A. isobaric.
+Option B. isochoric.
+Option C. isothermic.
+Correct Answer is. isothermic.
+Explanation. Iso' means equal. 'Thermal' is temperature.
+
+
+
+
+Question Number. 23. What is descriptive of Boyle's Law? (P=Pressure, V=Volume, T=Temperature).
+Option A. P is proportional to 1/T.
+Option B. P is proportional to 1/V.
+Option C. P is proportional to T.
+Correct Answer is. P is proportional to 1/V.
+Explanation. Pressure (P) is inversely proportional to volume (V).
+
+
+
+
+Question Number. 24. A compressor increases.
+Option A. kinetic energy.
+Option B. potential energy.
+Option C. moving energy.
+Correct Answer is. potential energy.
+Explanation. Compressed air is a form of 'potential energy'.
+
+
+
+
+Question Number. 25. P1 * V1 / T1 = P2 * V2 / T2 is (P=Pressure, V=Volume, T=Temperature).
+Option A. Ideal gas law.
+Option B. Charles' law.
+Option C. Boyle's law.
+Correct Answer is. Ideal gas law.
+Explanation. NIL.
+
+
+
+
+Question Number. 26. V1 / T1 = V2 / T2 at a constant pressure is (P=Pressure, V=Volume, T=Temperature).
+Option A. ideal gas law.
+Option B. Boyle's law.
+Option C. Charles' law.
+Correct Answer is. Charles' law.
+Explanation. NIL.
+
+
+
+
+Question Number. 27. P1 * V1 = P2 * V2 at a constant temperature is (P=Pressure, V=Volume, T=Temperature).
+Option A. Boyle's law.
+Option B. ideal gas law.
+Option C. Charles' law.
+Correct Answer is. Boyle's law.
+Explanation. NIL.
+
+
+
+
+Question Number. 28. The atmosphere's temperature changes at a rate of -1.98 °C per 1000 ft up to 36,000 ft where it remains constant at.
+Option A. -56 °F.
+Option B. -52 °C.
+Option C. -56 °C.
+Correct Answer is. -56 °C.
+Explanation. The troposphere is a constant -56 degrees C.
+
+
+
+
+Question Number. 29. A process where heat is given off to its surroundings is called.
+Option A. isothermal.
+Option B. adiabatic.
+Option C. isobaric.
+Correct Answer is. isothermal.
+Explanation. Adiabatic' is a process where NO heat is given off to its surroundings. Isobaric is constant pressure. Isothermal, to keep constant temperature must give off heat as it is compressed.
+
+
+
+
+Question Number. 30. A body which is allowed to expand when heated, expands past the pressure imposed on it and.
+Option A. a force is produced.
+Option B. nothing will happen.
+Option C. work is done.
+Correct Answer is. work is done.
+Explanation. Work is done when it exerts a force and moves (work = force x distance). Yes, a force is produced but this is not the whole story.
+
+
+
+
+Question Number. 31. The quantity of heat developed by burning 1 kg of fuel is known as.
+Option A. radiant heat.
+Option B. latent heat.
+Option C. heat of combustion.
+Correct Answer is. heat of combustion.
+Explanation. The energy content of fuel is known as 'heat of combustion'.
+
+
+
+
+Question Number. 32. The transfer of heat through radiation is achieved by the application of radioactive isotopes.
+Option A. the application of radioactive isotopes.
+Option B. warming up the intervening medium.
+Option C. not warming up the intervening medium.
+Correct Answer is. warming up the intervening medium.
+Explanation. NIL.
+
+
+
+
+Question Number. 33. The dew point is.
+Option A. the point when air is cooled at which the moisture just starts to condense.
+Option B. the point at which air can be heated.
+Option C. the point when air is cooled at which the moisture does not condense.
+Correct Answer is. the point when air is cooled at which the moisture just starts to condense.
+Explanation. Check the definition of dew point.
+
+
+
+
+Question Number. 34. What are common refrigerant agents?.
+Option A. formaldehyde, ammonia, carbon dioxide.
+Option B. water, freon, ammonia.
+Option C. Dry ice, methyl bromide, water.
+Correct Answer is. water, freon, ammonia.
+Explanation. Water is used in cooling towers (and when you sweat). Freon and ammonia are commonly used in fridges and air-con systems.
+
+
+
+
+Question Number. 35. During a process of gas heating, no heat is absorbed or given out. It is.
+Option A. adiabatic.
+Option B. isochoric.
+Option C. isothermal.
+Correct Answer is. adiabatic.
+Explanation. No heat absorbed or given out is 'adiabatic'.
+
+
+
+
+Question Number. 36. During a pressurising process, all heat is given away. It is.
+Option A. adiabatic.
+Option B. isochoric.
+Option C. isothermal.
+Correct Answer is. isothermal.
+Explanation. All heat given away keeps the process at constant temperature - thus 'isothermal'.
+
+
+
+
+Question Number. 37. A material capable of going direct from solid to gas is a.
+Option A. substrate.
+Option B. substance.
+Option C. sublimate.
+Correct Answer is. sublimate.
+Explanation. A sublimate can go directly from solid to gas.
+
+
+
+
+Question Number. 38. The composition of the atmosphere is approximately.
+Option A. 1/5 oxygen and 4/5 nitrogen.
+Option B. 4/5 oxygen and 1/5 nitrogen.
+Option C. 2/5 oxygen and 3/5 nitrogen.
+Correct Answer is. 1/5 oxygen and 4/5 nitrogen.
+Explanation. Air is 78% (approx. 4/5) nitrogen and 21% (approx 1/5) oxygen.
+
+
+
+
+Question Number. 39. What is meant by adiabatic?.
+Option A. All heat crosses the boundary.
+Option B. No heat crosses the boundary.
+Option C. Some heat crosses the boundary.
+Correct Answer is. No heat crosses the boundary.
+Explanation. No heat is lost or gained in an adiabatic process.
+
+
+
+
+Question Number. 40. If a gas is heated and its temperature is raised by 1K. What happens to its volume?.
+Option A. Decreases by 1/273.
+Option B. Increases by 1/273.
+Option C. Remains the same.
+Correct Answer is. Increases by 1/273.
+Explanation. Charles's Law. Also how the absolute zero (-273 °C is calculated).
+
+
+
+
+Question Number. 41. If a block of ice melts in a glass of water, the level of water in the glass will.
+Option A. fall.
+Option B. rise.
+Option C. remain the same.
+Correct Answer is. remain the same.
+Explanation. NIL.
+
+
+
+
+Question Number. 42. If heat is constant, and if pressure increases on a liquid what will the volume do?.
+Option A. Increase.
+Option B. Remains constant.
+Option C. Decrease.
+Correct Answer is. Remains constant.
+Explanation. Liquids are considered incompressible, therefore their volume remains constant.
+
+
+
+
+Question Number. 43. Radiant heat of a body, heated from a radiant source is.
+Option A. inversely proportional to the square of the distance.
+Option B. proportional to distance.
+Option C. inversely proportional.
+Correct Answer is. inversely proportional to the square of the distance.
+Explanation. The wording of this question is terrible, but it is probably referring to radiant heat being inversely proportional to the square of the distance from the source of the.
+
+
+
+
+Question Number. 44. Combined gas law relates volume, pressure and.
+Option A. temperature.
+Option B. density.
+Option C. velocity.
+Correct Answer is. temperature.
+Explanation. P1V1/T1 = P2V2/T2 Combined (or ideal) gas law.
+
+
+
+
+Question Number. 45. The heat given off by burning a 1kg block of wood is.
+Option A. transmissive heat.
+Option B. radiant heat.
+Option C. latent heat.
+Correct Answer is. radiant heat.
+Explanation. The embers of burning wood produce radiant heat.
+
+
+
+
+Question Number. 46. H20 in what form holds most energy?.
+Option A. Steam.
+Option B. Ice.
+Option C. Water.
+Correct Answer is. Steam.
+Explanation. Water in the form of steam has the most energy.
+
+
+
+
+Question Number. 47. A block of metal is melted. It will.
+Option A. remain the same volume.
+Option B. decrease in volume.
+Option C. increase in volume.
+Correct Answer is. increase in volume.
+Explanation. NIL.
+
+
+
+
+Question Number. 48. The energy that ice at 0 °C must gain so that it turns to water at 0 °C is called.
+Option A. the latent heat of vaporisation.
+Option B. sensible energy.
+Option C. the latent heat of fusion.
+Correct Answer is. the latent heat of fusion.
+Explanation. Fusion means 'to melt'.
+
+
+
+
+Question Number. 49. Ideal gas goes through an isothermal process. It is in accordance with which law?.
+Option A. Gay Lussac's.
+Option B. Boyle's.
+Option C. Charles's.
+Correct Answer is. Boyle's.
+Explanation. Boyle's Law (P/V = constant) assumes constant temperature (isothermal).
+
+
+
+
+Question Number. 50. The Steam Point of water is.
+Option A. 0 Kelvin.
+Option B. 373 Kelvin.
+Option C. 273 Kelvin.
+Correct Answer is. 373 Kelvin.
+Explanation. K = C + 273.
+
+
+
+
+Question Number. 51. A 200 cm titanium bar increases in length by 2 cm when its temperature rises by 100 °C. Its linear expansivity is.
+Option A. 0.0101 per °C.
+Option B. 0.01 per °C.
+Option C. 0.0001 per °C.
+Correct Answer is. 0.0001 per °C.
+Explanation. Expansion = L x alpha x temp.change So alpha = Expansion/(L x temp.change) = 2/(200 * 100) = 0.0001 per °C.
+
+
+
+
+Question Number. 52. Heat transmission by convection is confined to.
+Option A. liquids and gases.
+Option B. gases and solids.
+Option C. solids and liquids.
+Correct Answer is. liquids and gases.
+Explanation. In convection, the material must 'flow' and carry the heat with it.
+
+
+
+
+Question Number. 53. Which contains the least amount of heat energy?.
+Option A. Both 1 kg of ice at 0 °C and 1 kg of water at 0 °C have the same amount of heat energy.
+Option B. 1 kg of water at 0 °C.
+Option C. 1 kg of ice at 0 °C.
+Correct Answer is. Both 1 kg of ice at 0 °C and 1 kg of water at 0 °C have the same amount of heat energy.
+Explanation. The temperature only is a measure of the heat energy, not the state.
+
+
+
+
+Question Number. 54. Which weighs the most?.
+Option A. 1 kg of ice at 0 °C.
+Option B. Both 1 kg of ice at 0 °C and 1 kg of water at 0 °C have the same weight.
+Option C. 1 kg of water at 0 °C.
+Correct Answer is. Both 1 kg of ice at 0 °C and 1 kg of water at 0 °C have the same weight.
+Explanation. NIL.
+
+
+
+
+Question Number. 55. Which has the greatest density?.
+Option A. 1 kg of ice at 0 °C.
+Option B. 1 kg of water at 0 °C.
+Option C. Both 1 kg of ice at 0 °C and 1 kg of ice at 0 °C have the same density.
+Correct Answer is. Both 1 kg of ice at 0 °C and 1 kg of ice at 0 °C have the same density.
+Explanation. NIL.
+
+
+
+
+Question Number. 56. Which has the greatest volume?.
+Option A. 1 kg of water at 0 °C.
+Option B. 1 kg of ice at 0 °C.
+Option C. Both 1 kg of ice at 0 °C and 1 kg of ice at 0 °C have the same volume.
+Correct Answer is. Both 1 kg of ice at 0 °C and 1 kg of ice at 0 °C have the same volume.
+Explanation. NIL.
+
+
+
+
+Question Number. 57. The temperature at which water will exist as a solid, liquid and gas, all at the same time, is called.
+Option A. the triple point and is approximately 0 °C.
+Option B. the tri-state point and is approximately at 0 °C.
+Option C. the tri-state point and is approximately 98 °C.
+Correct Answer is. the triple point and is approximately 0 °C.
+Explanation. NIL.
+
+
+
+
+Question Number. 58. Material A and material B are both removed from the same oven at the same time, after being in the same amount of time. Material A is a higher temperature than material B. This is because.
+Option A. material B has a higher specific heat capacity.
+Option B. material A must have had a higher temperature before it was put in the oven.
+Option C. material A has a higher specific heat capacity.
+Correct Answer is. material A has a higher specific heat capacity.
+Explanation. NIL.
+
+
+4. Optics (Light).
+
+
+
+
+Question Number. 1. What is the thickness of a single mode fibre optic?.
+Option A. 200 micrometres.
+Option B. 5 micrometres.
+Option C. 50 micrometres.
+Correct Answer is. 5 micrometres.
+Explanation. Introduction to Fiber Optics 3rd Edition John Crisp and Barry Elliot Page 67.
+
+
+
+
+Question Number. 2. Divergent light rays give rise to.
+Option A. a real image.
+Option B. a virtual image.
+Option C. chromatic aberrations.
+Correct Answer is. a virtual image.
+Explanation. NIL.
+
+
+
+
+Question Number. 3. In fibreoptics the type of cable is chosen by.
+Option A. matching the diameter of the cable to the wavelength.
+Option B. distance required to travel.
+Option C. the strength of signal needed.
+Correct Answer is. distance required to travel.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 4. A material with a gradually varying refractive index is said to have a.
+Option A. graded index.
+Option B. step index.
+Option C. single index.
+Correct Answer is. graded index.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 5. Fibre optic cables are capable of transmitting light at.
+Option A. 1.99 * 108 m/s.
+Option B. 3 * 108 m/s.
+Option C. 0.99 * 108 m/s.
+Correct Answer is. 1.99 * 108 m/s.
+Explanation. Speed of light in a vacuum is 3 * 10 to the power 8. But the refractiv index of glass is about 1.5. So divide 3 * 10 to the power 8 by 1.5...Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 6. Step index fibres suffer from.
+Option A. dispersion.
+Option B. scatter.
+Option C. attenuation.
+Correct Answer is. dispersion.
+Explanation. Dispersion also limits the bandwidth in step index fibres. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 7. Attenuated pulses have their sizes and shape restored by.
+Option A. regenerators.
+Option B. impedance matching transformers.
+Option C. opto-isolators.
+Correct Answer is. regenerators.
+Explanation. Regenerators are placed in the fibre optic line (usually not less than 1 km spacings) to boost the signal (like a relay system). Thus reducing attenuation at the recieving end. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 8. Attenuation in fibre optic cables is most often caused by.
+Option A. backscattering and microbends.
+Option B. microbends and scattering.
+Option C. absorption and scattering.
+Correct Answer is. absorption and scattering.
+Explanation. Although all three (microbends, scattering and absorbtion) cause attenuation in fibre optics, microbends are the most easy to manufacture out of the cable. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 9. For a concave lens the image is.
+Option A. virtual.
+Option B. real.
+Option C. a chromatic orb.
+Correct Answer is. virtual.
+Explanation. NIL.
+
+
+
+
+Question Number. 10. In a fibre optic flying control system.
+Option A. the sensor and the transmitter require electrical power.
+Option B. the transmitter requires power.
+Option C. the sensor requires electrical power.
+Correct Answer is. the sensor and the transmitter require electrical power.
+Explanation. The transmitter is an LED or laser (both need power) and the receiver is a photodiode, which needs electrical power. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 11. Photons in a semiconductor are stimulated to produce excess photons to be emitted. This is a.
+Option A. photodiode.
+Option B. laser diode.
+Option C. LED.
+Correct Answer is. laser diode.
+Explanation. LASER - Light Amplification by the Stimulated Emition of Radiation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 12. In a fibre optic flying control system, which of the following are used?.
+Option A. Single mode fibre.
+Option B. Multi mode fibre.
+Option C. Dual mode fibre.
+Correct Answer is. Multi mode fibre.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 13. A fibre optic cable is attenuated at 29 dB/metre. This is referring to.
+Option A. allowable loss.
+Option B. the figure allowed for when calculating power gain.
+Option C. the maximum cable run allowed in the system.
+Correct Answer is. the figure allowed for when calculating power gain.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 14. The fibre optic receiver is a.
+Option A. laser diode.
+Option B. photodiode.
+Option C. light emitting diode.
+Correct Answer is. photodiode.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 15. Regenerators are used in fibre optic systems to reduce.
+Option A. dispersion.
+Option B. random emission.
+Option C. attenuation.
+Correct Answer is. attenuation.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 16. When light rays enter a medium with a different refractive index they.
+Option A. change direction.
+Option B. reflect.
+Option C. change speed.
+Correct Answer is. change speed.
+Explanation. They will only change direction if they hit the surface at an angle other than 0 degrees (to the normal). It will always change speed however.
+
+
+
+
+Question Number. 17. A converging lens can focus light rays because.
+Option A. the incoming rays are already converging.
+Option B. it is spherical.
+Option C. the light rays travel more slowly at the centre.
+Correct Answer is. it is spherical.
+Explanation. A converging lens is a part of a sphere, so light rays hit it at different angles depending upon its distance from the principle axis.
+
+
+
+
+Question Number. 18. If a ray of light enters a fibre optic cable with a refractive index of 1.5, what is the speed of the ray in the cable?.
+Option A. 300,000 kilometres per second.
+Option B. 400,000 kilometres per second.
+Option C. 200,000 kilometres per second.
+Correct Answer is. 200,000 kilometres per second.
+Explanation. vacuum / speed of light in medium. 1.5 = 300,000 / C, C = 200,000 km/s. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 19. vacuum / speed of light in medium. 1.5 = 300,000 / C, C = 200,000 km/s. Introduction to Fiber Optics by John Crisp.
+Option A. a constant refractive index across its cross sectional area.
+Option B. a variable refractive index across its cross sectional area.
+Option C. a sudden change in refractive index.
+Correct Answer is. a variable refractive index across its cross sectional area.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 20. A mirror.
+Option A. refracts all light.
+Option B. reflects all light.
+Option C. absorbs a percentage of light.
+Correct Answer is. absorbs a percentage of light.
+Explanation. NIL.
+
+
+
+
+Question Number. 21. The width of a multimode fibre optic cable (including the cladding) is.
+Option A. 1 µm.
+Option B. 100 µm.
+Option C. 10 µm.
+Correct Answer is. 100 µm.
+Explanation. This must be referring to the 'overall' diameter - i.e that of the cladding, since the core is 50 or 62.5 micrometers (microns). Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 22. A varying refractive index optical fibre is a.
+Option A. single index.
+Option B. graded index.
+Option C. step index.
+Correct Answer is. graded index.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 23. Refractive index is.
+Option A. the speed of light in the medium divided by the speed of light in air.
+Option B. the speed of light in air divided by the speed of light in the medium.
+Option C. the speed of light in air multiplied by the speed of light in the medium.
+Correct Answer is. the speed of light in air multiplied by the speed of light in the medium.
+Explanation. Introduction to Fiber Optics by John Crisp page 11.
+
+
+
+
+Question Number. 24. What is the speed of light in km/s?.
+Option A. 3000.
+Option B. 3 * 108.
+Option C. 300000.
+Correct Answer is. 300000.
+Explanation. 300,000,000 m/s = 300,000,000/1000 km/s = 300,000 km/s. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 25. The focal point of a mirror is.
+Option A. 1/2 the radius.
+Option B. the radius.
+Option C. 2 * the radius.
+Correct Answer is. 1/2 the radius.
+Explanation. NIL.
+
+
+
+
+Question Number. 26. What is the speed of light in air at 0 °C.
+Option A. 331 m/s.
+Option B. 300 m/µs.
+Option C. 331 mm/s.
+Correct Answer is. 300 m/µs.
+Explanation. Standard figure is 300,000,000 m/s. Convert that to m/microsecond and you must divide by 1,000,000. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 27. How far will light travel in one year?.
+Option A. 9.46 * 1015 m.
+Option B. 1.5 * 1011 m.
+Option C. 3 * 1015 m.
+Correct Answer is. 9.46 * 1015 m.
+Explanation. 60 * 60 * 24 * 365 * 300000000 = 9.46.... What a calculation to do without your calculator - estimate as best you can.
+
+
+
+
+Question Number. 28. When different signals are transmitted down a fibre optic core, are they distinguished by a.
+Option A. active filter.
+Option B. passive filter.
+Option C. star coupler.
+Correct Answer is. passive filter.
+Explanation. A 'passive filter' simply sorts out and/or blocks certain wavelengths. An 'active filter' will catch certain wavelengths and convert them to other wavelength. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 29. On an Optical Time Domain Reflectometer (OTDR), the amount of attenuation in the cable is.
+Option A. read from the cathode ray display.
+Option B. derived from a graph.
+Option C. dialed into OTDR.
+Correct Answer is. read from the cathode ray display.
+Explanation. See 'Introduction to Fiber Optics' pg. 157. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 30. In a flat surfaced mirror, the angle of reflection is.
+Option A. equal to the angle of incidence.
+Option B. less than the angle of incidence.
+Option C. more than the angle of incidence.
+Correct Answer is. equal to the angle of incidence.
+Explanation. The angle of incidence is the angle the light makes with the 'normal' line. The angle of reflection is equal on the other side of the 'normal' line.
+
+
+
+
+Question Number. 31. In a multimode fibre optic cable, the.
+Option A. diameter is greater than the wavelength.
+Option B. diameter is less than the wavelength.
+Option C. diameter is equal to the wavelength.
+Correct Answer is. diameter is greater than the wavelength.
+Explanation. Multimode fibres are bigger than single mode fibres. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 32. A converging lens converges light rays because.
+Option A. it is not a sphere.
+Option B. the light source is already converging.
+Option C. the light waves are refracted less in the centre of the lens than they are at the extremities.
+Correct Answer is. the light waves are refracted less in the centre of the lens than they are at the extremities.
+Explanation. NIL.
+
+
+
+
+Question Number. 33. In fibre optics. The fibre cable has a refractive index of 1.5, what is its speed?.
+Option A. 300 meters/microsecond.
+Option B. 400 meters/microsecond.
+Option C. 200 meters/microsecond.
+Correct Answer is. 200 meters/microsecond.
+Explanation. n = speed of light in vacuum / speed of light in substance. 1.5 = 300m per microsecond / speed of light in fibre. Transpose.. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 34. A material, which has a varying refractive index is a.
+Option A. step index.
+Option B. single index.
+Option C. double index.
+Correct Answer is. step index.
+Explanation. A varying refractive index is either 'step index' or 'graded index'. Step index is the only answer available. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 35. A ray of light that travels through the centre of curvature of a concave mirror before being reflected, how is it reflected?.
+Option A. Through the focal point.
+Option B. Neither of the above.
+Option C. Through the centre of curvature.
+Correct Answer is. Through the focal point.
+Explanation. The focal point and the centre of curvature of the concave mirror lie on the same center line. A ray of light travelling along that centre line will be reflected right back along the same path - through the focal point.
+
+
+
+
+Question Number. 36. What will the image produced through a divergent lens be?.
+Option A. Negative.
+Option B. Real.
+Option C. Virtual.
+Correct Answer is. Virtual.
+Explanation. The image produced by a divergent (concave) lens is a 'VIRTUAL' image. i.e you could not take a photograph of it.
+
+
+
+
+Question Number. 37. When a beam of light passes from one medium to another with a different refractive index, what will happen to the beam of light?.
+Option A. Total internal reflection.
+Option B. Change speed.
+Option C. Total internal refraction.
+Correct Answer is. Change speed.
+Explanation. A beam of light passes from one medium to another - its speed will change. This is the only statement of certainty, since no information is given about the angle of incidence.
+
+
+
+
+Question Number. 38. A fibre optic cable has different refractive indexes across its core diameter, it is a.
+Option A. single mode fibre.
+Option B. graded index fibre.
+Option C. step index fibre.
+Correct Answer is. graded index fibre.
+Explanation. A fibre optic with a different refractive index across its core diameter is a 'graded index'. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 39. Incident light travelling from air to water, the light is.
+Option A. bent towards the normal.
+Option B. not bent.
+Option C. bent away from the normal.
+Correct Answer is. bent towards the normal.
+Explanation. Light travelling from air to water, the waves are bent (or angled) less when measured to the normal.
+
+
+
+
+Question Number. 40. If a light is beamed at a flat mirror, what is the angle it reflects at?.
+Option A. Reflective index.
+Option B. Angle of incidence.
+Option C. Reactive angle.
+Correct Answer is. Angle of incidence.
+Explanation. The angle the light hits a mirror (to the normal) is the Angle of Incidence. The angle it bounces off (to the normal) is the Angle of Reflection. The two angles are always equal.
+
+
+
+
+Question Number. 41. In a graded index multimode fibre is the refractive index.
+Option A. is high.
+Option B. varies high and low.
+Option C. is low.
+Correct Answer is. varies high and low.
+Explanation. In a graded index fibre optic cable, the refractive index is low at the edge, high in the centre and then low at the other edge. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 42. The fibre optic receiver is a.
+Option A. photodiode.
+Option B. laser diode.
+Option C. light emitting diode.
+Correct Answer is. photodiode.
+Explanation. The fibre optic receiver is a photo diode. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 43. The usable bandwidth of a fibre is determined by.
+Option A. the wavelength of the light.
+Option B. the angle of total internal reflection.
+Option C. the intermodal dispersion.
+Correct Answer is. the intermodal dispersion.
+Explanation. Bandwidth is the range of frequencies that can be transmitted. Since different frequencies travel at different speed (in glass) they will arrive at the other end at different times. This is the cause of intermodal dispersion. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 44. If, with a concave mirror the image is placed beyond the centre of curvature, the image produced will be.
+Option A. virtual, erect and larger.
+Option B. real, inverted and smaller.
+Option C. real, erect and larger.
+Correct Answer is. real, inverted and smaller.
+Explanation.
+
+
+
+
+Question Number. 45. The power of a lens is calculated from the.
+Option A. reciprocal of the focal length.
+Option B. product of the focal length and its distance from the pole.
+Option C. focal length squared.
+Correct Answer is. reciprocal of the focal length.
+Explanation. focal length squared.
+
+
+
+
+Question Number. 46. Single mode optical fibre cable will.
+Option A. have several light rays to pass.
+Option B. have diameter matched to wavelength of light passed.
+Option C. cause distortion to the light wave at the output end which is dependent upon the length of the cable.
+Correct Answer is. have diameter matched to wavelength of light passed.
+Explanation. Introduction to Fiber Optics John Crisp page 64.
+
+
+
+
+Question Number. 47. When an emergent light wave enters a divergent lens.
+Option A. it will focus beyond the lens.
+Option B. it will focus behind the lens.
+Option C. it is s spherical.
+Correct Answer is. it will focus behind the lens.
+Explanation. A divergent lens (also known as concave lens) focuses the image on the same side of the lens as the object. It is therefore a virtual image.
+
+
+
+
+Question Number. 48. In a concave mirror, light rays parallel to mirror axis will be reflected.
+Option A. through the focal point.
+Option B. back to the centre of curvature.
+Option C. parallel to mirror axis.
+Correct Answer is. through the focal point.
+Explanation. All the light rays focus at the focal point.
+
+
+
+
+Question Number. 49. In a concave mirror, a light ray passing through the focal point will be reflected.
+Option A. through the focal point.
+Option B. on the centre line of the mirror.
+Option C. parallel to the axis.
+Correct Answer is. parallel to the axis.
+Explanation. All rays which pass through the focal point, reflect from the mirror then travel parallel to the axis.
+
+
+
+
+Question Number. 50. A passive sensor.
+Option A. does not require power.
+Option B. requires power for the sensor.
+Option C. requires power for the transmitter.
+Correct Answer is. does not require power.
+Explanation. Passive sensors do not require power. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 51. Refractive index is.
+Option A. lower for 4ºC water than 0ºC ice.
+Option B. higher for diamond than acrylic.
+Option C. highest for water.
+Correct Answer is. higher for diamond than acrylic.
+Explanation. Diamond has the highest refractive index. Note: 4 °C. water is more dense than ice so has greater refractive index.
+
+
+
+
+Question Number. 52. For optical fibres, the refractive index of the cladding compared to that of the core.
+Option A. can be either bigger or smaller depending on specification.
+Option B. is always smaller.
+Option C. is always larger.
+Correct Answer is. is always smaller.
+Explanation. Cladding always has a lower refractive index. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 53. The ability for a fibreoptic cable to carry waves is dependent on.
+Option A. material, absorption and speed of light.
+Option B. internal reflection.
+Option C. material, diameter and absorption.
+Correct Answer is. internal reflection.
+Explanation. Fiber optics carry light by Total Internal Reflection. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 54. In spherical aberrations.
+Option A. incident rays further from the axis intersect slightly closer to the lens to produce a distorted picture.
+Option B. incident rays further from the axis intersect slightly further away from the lens to produce a distorted picture.
+Option C. the bending of light through lens intersect at the same point (achromatic lens).
+Correct Answer is. incident rays further from the axis intersect slightly closer to the lens to produce a distorted picture.
+Explanation. NIL.
+
+
+
+
+Question Number. 55. In a fibre optic flying control system.
+Option A. the sensor and transmitter require electrical power.
+Option B. the sensor inputs to the transmitter which needs electrical power.
+Option C. the sensor needs electrical power.
+Correct Answer is. the sensor and transmitter require electrical power.
+Explanation. The sensor is a photodiode or a PIN diode (needs power) and the transmitter is an LED or laser (needs power). Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 56. In fibreoptics, the type of cable is chosen by.
+Option A. the strength of signal needed.
+Option B. matching the diameter of the cable with the wavelength.
+Option C. distance required to travel.
+Correct Answer is. distance required to travel.
+Explanation. Type of cable (not the diameter) - single mode, multimode or graded index etc. is chosen for its attenuation and hence length. Introduction to Fiber Optics by John.
+
+
+
+
+Question Number. 57. When refraction takes place.
+Option A. the frequency remains constant.
+Option B. the speed of the wave remains constant.
+Option C. the wavelength remains constant.
+Correct Answer is. the frequency remains constant.
+Explanation. Frequency remains constant.
+
+
+
+
+Question Number. 58. When light meets a Glass / Air boundary at an angle of incidence less than the critical angle.
+Option A. Total Internal Reflection takes place.
+Option B. no light is reflected.
+Option C. both reflection and refraction takes place.
+Correct Answer is. both reflection and refraction takes place.
+Explanation. Even at angles less than the critical, a small portion of the light in reflected Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 59. An object placed more than twice the focal length beyond a converging lens will form an image that is.
+Option A. inverted, larger and virtual.
+Option B. inverted, smaller and real.
+Option C. erect, smaller and real.
+Correct Answer is. inverted, smaller and real.
+Explanation. NIL.
+
+
+
+
+Question Number. 60. A parabolic mirror may be used to prevent.
+Option A. lateral inversion.
+Option B. spherical aberration.
+Option C. formation of a penumbra.
+Correct Answer is. spherical aberration.
+Explanation. NIL.
+
+
+
+
+Question Number. 61. The refractive index for air is approximately.
+Option A. 1.
+Option B. 10.
+Option C. 0.
+Correct Answer is. 1.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 62. In optical fibres the total internal reflection of light only occurs at angles.
+Option A. less than the critical angle.
+Option B. equal to the critical angle.
+Option C. greater than the critical angle.
+Correct Answer is. greater than the critical angle.
+Explanation. Remember that the critical angle is measured from the normal (or perpendicular) to the surface. Introduction to Fiber Optics by John Crisp page 15.
+
+
+
+
+Question Number. 63. In a concave mirror, if an object is placed between the focal point and the pole, the image will be.
+Option A. real, erect and diminished.
+Option B. virtual and on the opposite side.
+Option C. real, inverted and larger.
+Correct Answer is. virtual and on the opposite side.
+Explanation. NIL.
+
+
+
+
+Question Number. 64. The purpose of a patch cord used with an OTDR is.
+Option A. to compensate for any contraction of the Fiber optic cable during test.
+Option B. to overcome the dead zone problem caused by reflection at OTDR launch connector.
+Option C. to attenuate OTDR output power which could cause damage to the cable under test.
+Correct Answer is. to overcome the dead zone problem caused by reflection at OTDR launch connector.
+Explanation. Introduction to Fiber Optics John Crisp Page 156.
+
+
+
+
+Question Number. 65. The power of a lens is measured in.
+Option A. Lumens per Watt.
+Option B. Watts.
+Option C. Diopters.
+Correct Answer is. Diopters.
+Explanation. NIL.
+
+
+
+
+Question Number. 66. For a concave lens, the image is.
+Option A. real.
+Option B. virtual.
+Option C. a chromatic orb.
+Correct Answer is. virtual.
+Explanation. NIL.
+
+
+
+
+Question Number. 67. Lasers use which source of light?.
+Option A. Scattered.
+Option B. Refraction.
+Option C. Coherent.
+Correct Answer is. Coherent.
+Explanation. Introduction to Fiber Optics by John Crisp.
+
+
+
+
+Question Number. 68. Illumination of one lumen per metre squared is one.
+Option A. luxor.
+Option B. lux.
+Option C. candle.
+Correct Answer is. lux.
+Explanation. NIL.
+
+
+
+
+Question Number. 69. The amount of light emitted by a lamp can be measured in.
+Option A. candle's.
+Option B. luxors.
+Option C. lumens.
+Correct Answer is. lumens.
+Explanation. NIL.
+
+
+
+
+Question Number. 70. The light gathering power of a lens is indicated by its.
+Option A. material.
+Option B. thickness of the lens.
+Option C. focal ratio.
+Correct Answer is. focal ratio.
+Explanation. NIL.
+
+
+
+
+Question Number. 71. In order for a converging lens to form a real image, the object distance must be more than.
+Option A. focal length.
+Option B. 5 times the thickness of the lens.
+Option C. 1 inch.
+Correct Answer is. focal length.
+Explanation. NIL.
+
+
+
+
+Question Number. 72. A ______ lens is thicker in the middle than at the edges. It is.
+Option A. converging.
+Option B. concave.
+Option C. upsharp.
+Correct Answer is. converging.
+Explanation. NIL. http://www.phys.hawaii.edu/~teb/optics/java/clens/
+
+
+
+
+Question Number. 73. When is the only time a concave mirror forms a virtual image?.
+Option A. When the object is at the focal point.
+Option B. When the object is inside the focal point.
+Option C. When the object is placed at the centre of curvature.
+Correct Answer is. When the object is inside the focal point.
+Explanation. NIL. http://www.glenbrook.k12.il.us/gbssci/phys/class/refln/u13l3e.html
+
+
+
+
+Question Number. 74. A convex mirror forms a virtual image when.
+Option A. the object is at the centre of curvature.
+Option B. the object is inside the focus.
+Option C. always.
+Correct Answer is. always.
+Explanation. NIL.
+
+
+
+
+Question Number. 75. A Concave mirror is used in.
+Option A. a rear view mirror.
+Option B. a periscope.
+Option C. headlights.
+Correct Answer is. headlights.
+Explanation. NIL.
+
+
+5. Wave Motion and Sound.
+
+
+
+
+Question Number. 1. When the movement of an object rotating around a radius at a constant speed is projected onto a plane, the projected image follows what path?.
+Option A. Sinusoidal.
+Option B. Lateral.
+Option C. Longitudinal.
+Correct Answer is. Sinusoidal.
+Explanation. NIL.
+
+
+
+
+Question Number. 2. The speed of sound in air at 0 °C is approximately.
+Option A. 331 m/s.
+Option B. 3 * 108 m/s.
+Option C. 181 m/s.
+Correct Answer is. 331 m/s.
+Explanation. NIL.
+
+
+
+
+Question Number. 3. If a wave traveling to a point meets a wave traveling from that point, of equal frequency.
+Option A. the two waves cancel each other out.
+Option B. they will have no effect on each other.
+Option C. a standing wave is formed.
+Correct Answer is. a standing wave is formed.
+Explanation. NIL.
+
+
+
+
+Question Number. 4. Quality of sound depends upon.
+Option A. pure sound waves being produced by the source.
+Option B. frequency and harmonics of the waves being produced.
+Option C. quality of the receiver.
+Correct Answer is. frequency and harmonics of the waves being produced.
+Explanation. NIL.
+
+
+
+
+Question Number. 5. Particles vibrating in air.
+Option A. tend to give off heat.
+Option B. tend to give off light.
+Option C. produce waves.
+Correct Answer is. produce waves.
+Explanation. Particles vibrating in air produce sound.
+
+
+
+
+Question Number. 6. The fundamental frequency is the.
+Option A. 3rd harmonic.
+Option B. 1st harmonic.
+Option C. 2nd harmonic.
+Correct Answer is. 1st harmonic.
+Explanation. NIL.
+
+
+
+
+Question Number. 7. The first overtone of a sound wave is the.
+Option A. 1st harmonic.
+Option B. fundamental frequency.
+Option C. 2nd harmonic.
+Correct Answer is. 2nd harmonic.
+Explanation. NIL.
+
+
+
+
+Question Number. 8. Two pure tones of similar frequency are heard by a person. What will they hear?.
+Option A. One pure tone.
+Option B. A beat of the two tones.
+Option C. Two tones.
+Correct Answer is. A beat of the two tones.
+Explanation. At certain points, the troughs cancel the peaks. At other points the peaks 'add to' other peaks. The net effect is a low frequency oscillation in amplitude.".
+
+
+
+
+Question Number. 9. Two sound waves of the same frequency and amplitude are moving half a wavelength out of phase with each other. What will be heard?.
+Option A. Nothing.
+Option B. Twice the volume of one of the sound waves.
+Option C. Half the volume of one of the sound waves.
+Correct Answer is. Nothing.
+Explanation. The peaks will cancel the troughs.
+
+
+
+
+Question Number. 10. A fire engine is approaching you with its siren on. As it passes you its pitch.
+Option A. stay the same.
+Option B. increases.
+Option C. decreases.
+Correct Answer is. decreases.
+Explanation. NIL.
+
+
+
+
+Question Number. 11. Quality of sound is dependant on.
+Option A. number and pitch of harmonics.
+Option B. medium it is traveling through.
+Option C. frequency of the supply.
+Correct Answer is. number and pitch of harmonics.
+Explanation. Quality of sound is dependant upon the number of harmonics and the pitch.
+
+
+
+
+Question Number. 12. What frequency is a tone which is 4 times the fundamental frequency?.
+Option A. 2nd overtone.
+Option B. 3rd overtone.
+Option C. 3rd harmonic.
+Correct Answer is. 3rd overtone.
+Explanation. The 4th harmonic is also called the 3rd overtone.
+
+
+
+
+Question Number. 13. Intensity of sound waves.
+Option A. is not affected by distance.
+Option B. varies inversely as the square of distance from source.
+Option C. vary directly as per distance from source.
+Correct Answer is. varies inversely as the square of distance from source.
+Explanation. Sound diminishes with the square of the distance from the source (i.e double the distance = 1/4 the dB, triple the distance = 1/9 the dB etc.) - Technically called a log-linear scale.
+
+
+
+
+Question Number. 14. In a standing wave the point where continuous vibration of maximum amplitude occurs is called the.
+Option A. harmonic.
+Option B. anti-node.
+Option C. node.
+Correct Answer is. anti-node.
+Explanation. The peaks are the anti-nodes. See External website.
+
+
+
+
+Question Number. 15. The name given to sounds below that which the human ear can detect, i.e. below 20Hz is.
+Option A. ultra sound.
+Option B. infra sound.
+Option C. sonic pitch.
+Correct Answer is. infra sound.
+Explanation. See how silent thunder can shatter windows at External website.
+
+
+
+
+Question Number. 16. The speed of sound in dry air is 331 m/s. In a solid the speed would.
+Option A. increase.
+Option B. decrease.
+Option C. stay the same.
+Correct Answer is. increase.
+Explanation. Speed of sound is greater in a solid than in air.
+
+
+
+
+Question Number. 17. If a tuning fork is struck and held close to the ear and slowly rotated about the vertical axis, in one rotation how many times is there no sound?.
+Option A. 2.
+Option B. Sound is audible for the whole revolution.
+Option C. 4.
+Correct Answer is. 2.
+Explanation. Two sound waves interfere creating a relatively 'dead' zone for approximately 2 quarters of the rotation.
+
+
+
+
+Question Number. 18. What is the phenomenon that occurs when a siren that approaches you, at the point of passing, the pitch decreases?.
+Option A. Resonance.
+Option B. Doppler effect.
+Option C. Echo.
+Correct Answer is. Doppler effect.
+Explanation. Doppler effect.
+
+
+
+
+Question Number. 19. For hearing protection, noise cancelling headphones.
+Option A. cannot reduce the noise from outside completely.
+Option B. operate by destructive interference of sound waves.
+Option C. operate by constructive interference of sound waves.
+Correct Answer is. operate by destructive interference of sound waves.
+Explanation. NIL.
+
+
+
+
+Question Number. 20. Tuning forks are used to vibrate musical instruments because.
+Option A. they produce both of the other effects described.
+Option B. they produce a beat when played together with the instrument.
+Option C. they produce a pure note.
+Correct Answer is. they produce a pure note.
+Explanation. A tuning fork produces a pure note, which can be used to tune a guitar (for example) by listening for the beat produced when played alongside an out-of-tune string.
+
+
+
+
+Question Number. 21. When an open pipe is played and a note is heard.
+Option A. the lowest frequency of the note is called second harmonic.
+Option B. resonance occurs with standing waves set up inside the pipe.
+Option C. there is a 180º phase change at the open end.
+Correct Answer is. resonance occurs with standing waves set up inside the pipe.
+Explanation. NIL.
+
+
+
+
+Question Number. 22. Two sound waves are the same but slightly out of phase. This means that.
+Option A. the beat frequency is the same.
+Option B. there will be no beat frequency.
+Option C. the beat frequency will be slightly different.
+Correct Answer is. the beat frequency is the same.
+Explanation. The beat frequency is the same frequency as either of the two frequencies.
+
+
+
+
+Question Number. 23. In a vibrating string, the point at which there is no displacement is called a.
+Option A. antinode.
+Option B. node.
+Option C. fundamental mode.
+Correct Answer is. node.
+Explanation. NIL.
+
+
+
+
+Question Number. 24. The amplitude of a Transverse Wave is the distance from.
+Option A. the top of a peak to the bottom of a trough.
+Option B. half the distance from peak to trough.
+Option C. one peak to the next.
+Correct Answer is. half the distance from peak to trough.
+Explanation. NIL.
+
+
+
+
+Question Number. 25. Increasing the Amplitude of a sound wave increases its.
+Option A. pitch.
+Option B. moment.
+Option C. loudness.
+Correct Answer is. loudness.
+Explanation. NIL.
+
+
+
+
+Question Number. 26. A wave in which the vibrations are perpendicular, or at right angles to the direction of wave travel is a.
+Option A. Dispersion Wave.
+Option B. Longitudinal Wave.
+Option C. Transverse Wave.
+Correct Answer is. Transverse Wave.
+Explanation. NIL.
+
+
+
+
+Question Number. 27. When a string vibrates, the point at which maximum displacement occurs is called the.
+Option A. node.
+Option B. antinode.
+Option C. primary node.
+Correct Answer is. antinode.
+Explanation. NIL.
+
+
+
+
+Question Number. 28. Increasing the frequency of a sound wave increases its.
+Option A. pitch.
+Option B. loudness.
+Option C. moment.
+Correct Answer is. pitch.
+Explanation. NIL.
+
+
+
+
+Question Number. 29. A wave in which the vibrations are parallel to, or along, the direction of travel is a.
+Option A. Transverse Wave.
+Option B. Upright Wave.
+Option C. Longitudinal Wave.
+Correct Answer is. Longitudinal Wave.
+Explanation. NIL.
+
+
+
+
+Question Number. 30. If a string is vibrating at the 3rd harmonic, it will be oscillating at.
+Option A. Fundamental Frequency.
+Option B. 4 times its fundamental frequency.
+Option C. 3 times its fundamental frequency.
+Correct Answer is. 3 times its fundamental frequency.
+Explanation. 1st harmonic = 1 * fundamental frequency. 2nd harmonic = 2 * fundamental frequency. 3rd harmonic = 3 fundamental frequency.
+
+
+
+
+Question Number. 31. The varying pitch of the sound of a train passing by is caused by a phenomenon known as.
+Option A. Doppler effect.
+Option B. double frequency.
+Option C. resonance.
+Correct Answer is. Doppler effect.
+Explanation. NIL.
+
+
+
+
+Question Number. 32. Wavelength is.
+Option A. distance from trough to crest.
+Option B. distance between crests.
+Option C. distance between top and bottom.
+Correct Answer is. distance between crests.
+Explanation. NIL.
+
+
+
+
+Question Number. 33. The speed of sound at standard atmospheric temperature and pressure is.
+Option A. 34 Km/s.
+Option B. 340 m/s.
+Option C. 340 Km/s.
+Correct Answer is. 340 m/s.
+Explanation. NIL.
+
+
+
+
+Question Number. 34. In which medium does sound travel the fastest?.
+Option A. Steel.
+Option B. Air.
+Option C. Water.
+Correct Answer is. Steel.
+Explanation. Fastest to slowest - Solid, liquid, gas.
+
+
+
+
+Question Number. 35. Which has the most effect on the speed of sound in air?.
+Option A. Temperature.
+Option B. Wavelength.
+Option C. Frequency.
+Correct Answer is. Temperature.
+Explanation. NIL.
+
+
+
+
+Question Number. 36. The fundamental frequency of a control cable is 10 Hz, the frequency of the 2nd Harmonic is.
+Option A. 20 Hz.
+Option B. 20 KHz.
+Option C. 10 Hz.
+Correct Answer is. 20 Hz.
+Explanation. 2nd harmonic = 2* fundamental frequency.
+
+
+
+
+Question Number. 37. Which of the following is an example of a Longitudinal Wave?.
+Option A. Sound Wave.
+Option B. Radio Wave.
+Option C. Light Wave.
+Correct Answer is. Sound Wave.
+Explanation. NIL.
+
+
+
+
+Question Number. 38. What is the wavelength of a note of frequency 1kHz when its velocity is 340m/s?.
+Option A. 3.4m.
+Option B. 0.34m.
+Option C. 0.34km.
+Correct Answer is. 0.34m.
+Explanation. V = f λ λ=V/f =340/1000 (answer in SI units of metres).
+
+
+6.
+
+
+
+
+Question Number. 1. A body drops from 10m, it will hit the ground in.
+Option A. √2 seconds.
+Option B. 2 seconds.
+Option C. 1 Second.
+Correct Answer is. √2 seconds.
+Explanation. s = ut + ½ at2 s = 1/2at2 since u = 0 10 = ½(10)t2 since a = 10 (approx.) t = √(10/5) = √2.
+
+
+
+
+Question Number. 2. What height of water is equivalent to 1 atmosphere?.
+Option A. 29ft.
+Option B. 101ft.
+Option C. 33ft.
+Correct Answer is. 33ft.
+Explanation. Approximately 10 m (33 ft) depth of water = 1 atmosphere.
+
+
+
+
+Question Number. 3. 10 BTU is equivalent to.
+Option A. 63,560 Joules.
+Option B. 10,550 Joules.
+Option C. 570 Joules.
+Correct Answer is. 10,550 Joules.
+Explanation. NIL.
+
+
+
+
+Question Number. 4. What does 'temperature of a body' mean?.
+Option A. Its hotness.
+Option B. How it radiates heat.
+Option C. Its ability to retain heat.
+Correct Answer is. Its hotness.
+Explanation. NIL. http://www.answers.com/topic/temperature

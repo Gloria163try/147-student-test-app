@@ -1,0 +1,2054 @@
+09.1. General.
+
+Question Number.       1.         Accidents and engineering faults are.           
+Option A.        insignificant and decreasing.
+Option B.        significant and increasing.    
+Option C.        insignificant and increasing. 
+Correct Answer is.      significant and increasing.    
+Explanation.    CAP 715 Ch.1 Para.2.5 CAP 716 App.G pg.2 Para 1.3.1.
+
+
+Question Number.       2.         Murphy's law is perpetuated mainly by.                   
+Option A.        violations.      
+Option B.        poor aircraft design.  
+Option C.        complacency.
+Correct Answer is.      complacency.
+Explanation.    CAP 715 Ch.1 Para.3.1.
+
+
+Question Number.       3.         Murphy's law can be regarded as the notion.           
+Option A.        If something can go wrong it will'.   
+Option B.        It can never happen to me'.   
+Option C.        If something goes wrong I am certain to get the blame'.      
+Correct Answer is.      If something can go wrong it will'.   
+Explanation.    CAP 715 Ch.1 Para.3.1.
+
+
+Question Number.       4.         A company's safety policy should be defined in.                 
+Option A.        in CAP 716.  
+Option B.        the Maintenance Schedule.   
+Option C.        the Maintenance Organization Exposition.   
+Correct Answer is.      the Maintenance Organization Exposition.   
+Explanation.    CAP 715 Ch.2 Para.2.1.
+
+
+Question Number.       5.         Which of the following is least associated with the study of human factors?.                    
+Option A.        Ergonomics.  
+Option B.        Health and Safety.    
+Option C.        Human error. 
+Correct Answer is.      Health and Safety.    
+Explanation.    CAP 715 Ch.9 (1st Para.).
+
+
+Question Number.       6.         The incident where a 737 lost oil from both engines is a direct result of.                
+Option A.        poor design.  
+Option B.        human error.  
+Option C.        engine vibration.       
+Correct Answer is.      human error.  
+Explanation.    CAP 716 Ch.4 Para.5.4.2 and App.F Para.1.7.
+
+
+Question Number.       7.         If a 737 had both engines serviced and lost oil from both engines in flight. This.               
+Option A.        can be expected to happen statistically due to the number of aircraft in service.    
+Option B.        would be a direct result of human error.       
+Option C.        can be considered an acceptable probability.
+Correct Answer is.      would be a direct result of human error.       
+Explanation.    CAP 716 App.F Para 1.7.
+
+
+Question Number.       8.         What do you do when someone is hypothermic?.                
+Option A.        Warm them up.         
+Option B.        Feed them sweet things because of their diabetes.   
+Option C.        Give them a drink because of dehydration.  
+Correct Answer is.      Warm them up.         
+Explanation.    Hypothermia is dangerously low body temperature.
+
+
+Question Number.       9.         The percentage of accidents attributable to aircraft maintenance and inspection causes is.                   
+Option A.        now less significant due to the introduction of more sophisticated aircraft.
+Option B.        significant and rising.
+Option C.        now less significant due to more advanced maintenance practices. 
+Correct Answer is.      significant and rising.
+Explanation.    CAP 718 Ch.1 Para.1 and 4. CAP 716 App.G Para.1.3.1.
+
+
+Question Number.       10.       What happened to contribute towards the incident in 1995 where a Boeing 737 lost oil pressure and had to divert?.              
+Option A.        Both warning indications were faulty, due to crossed connections.
+Option B.        The HP rotor drive covers of both engines had not been refitted after a boroscope inspection.     
+Option C.        The boroscope inspection had been inadequate.       
+Correct Answer is.      The HP rotor drive covers of both engines had not been refitted after a boroscope inspection.          
+Explanation.    CAP 715 Ch.6 App.F Para.1.7 or CAP715. Ch.1 Para. 2.6.1.
+
+
+Question Number.       11.       What is the most common cause of in-flight engine shutdown?.                 
+Option A.        Incomplete installation.         
+Option B.        Improper fault isolation, inspection or test.  
+Option C.        Foreign object damage.         
+Correct Answer is.      Incomplete installation.         
+Explanation.    In a Boeing study of 276 inflight shutdowns, 94% of were due to incomplete, improper instalation, damage on instalation, equipment not installed - FOD was a contributing factor.
+
+
+Question Number.       12.       Most engineering related incidents are due to.                     
+Option A.        installing dirty connectors.    
+Option B.        installing components incorrectly.    
+Option C.        installing worn or old components.   
+Correct Answer is.      installing components incorrectly.    
+Explanation.    CAP 715 Ch.1 Para.2.
+
+
+Question Number.       13.       What causes the most aircraft accidents?.                
+Option A.        Technical faults.        
+Option B.        Communication.        
+Option C.        Misunderstanding between ATC and pilot on approach.     
+Correct Answer is.      Communication.        
+Explanation.    Deduced from CAP 715 Ch.1 Para.2.2 since 'inadequate cross check' is a communication problem.
+
+09.2. Human Performance and Limitations.
+
+
+Question Number.       1.         70 - 80% of the total focusing ability of the eye is carried out by the.                    
+Option A.        iris.    
+Option B.        cornea.
+Option C.        lens.   
+Correct Answer is.      cornea.
+Explanation.    CAP 715 Ch.2 Para.2.2.       
+
+
+Question Number.       2.         At what distance should a person without hearing difficulties be able to hear an average conversational voice in a quiet room.                      
+Option A.        2 metres (6 feet).       
+Option B.        3 metres (9 feet.        
+Option C.        1 metre (3 feet).        
+Correct Answer is.      2 metres (6 feet).       
+Explanation.    AWN 47 Para.3.5 and CAP 715 Ch.2 Para.3.10.1.  
+
+
+Question Number.       3.         A perforated ear drum could occur if.                      
+Option A.        you were subjected to intermittent noise above 25 kHz.      
+Option B.        you blew your nose excessively.       
+Option C.        you were subjected to continuous noise below 8 kHz.         
+Correct Answer is.      you were subjected to continuous noise below 8 kHz.         
+Explanation.    Normal audible range is 20 - 20,000 Hz (CAP 715 Ch.5 Para.1.1). 8 kHz is high frequency. Anything below that can cause damage if sound level is too high.      
+
+
+Question Number.       4.         How long is the short term memory good for remembering 7 items?.                     
+Option A.        30 to 60 seconds.      
+Option B.        Up to 30 seconds.     
+Option C.        Above 60 seconds.    
+Correct Answer is.      Up to 30 seconds.     
+Explanation.    CAP 715 Ch.2 Para.4.5.5.    
+
+
+Question Number.       5.         What is white finger?.           
+Option A.        A disorder of the finger which may occur through continuous use of pneumatic tools because of reduced blood flow. 
+Option B.        A reaction when the white blood cells die and contaminate the fingers.     
+Option C.        A skin disorder caused by extensive contact with oils and solvents.
+Correct Answer is.      A disorder of the finger which may occur through continuous use of pneumatic tools because of reduced blood flow.         
+Explanation.    CAP 715 Ch.5 Para.5.2.       
+
+
+Question Number.       6.         When someone is working in an enclosed space (such a fuel tank), another person should be outside the space in constant communication to.             
+Option A.        provide instructions to the tradesman.          
+Option B.        ensure compliance with the maintenance manual.    
+Option C.        for safety reasons.     
+Correct Answer is.      for safety reasons.     
+Explanation.    CAP715 Ch.5 Para. 6 This is the normal procedure for the safety of the tradesman.          
+
+
+Question Number.       7.         The scientific study of measurements of the human body is known as.                  
+Option A.        ergonomics.   
+Option B.        physiology.    
+Option C.        anthropometrics.       
+Correct Answer is.      anthropometrics.       
+Explanation.    CAP 715 Ch.1 Para.1.4.4 From the Greek 'Anthropos' meaning 'a man' and 'Metron' meaning 'measurement'.
+
+
+Question Number.       8.         How long can the aural reflex protect the ear from loud noise?.                  
+Option A.        5 seconds.     
+Option B.        15 seconds.   
+Option C.        15 minutes.    
+Correct Answer is.      15 minutes.    
+Explanation.    CAP 715 Ch.2 Para.3.3.       
+
+
+Question Number.       9.         What part of the eye controls the amount of light that is allowed to enter the eye?.           
+Option A.        The pupil.      
+Option B.        The iris.         
+Option C.        The cornea.    
+Correct Answer is.      The iris.         
+Explanation.    CAP 715 Ch.2 Para.2.3.       
+
+
+Question Number.       10.       Learning of a routine by repeated practice is known as.                  
+Option A.        cognitive learning.     
+Option B.        motor programming. 
+Option C.        episodic memory.      
+Correct Answer is.      motor programming. 
+Explanation.    CAP 715 Ch.2 Para.4.6.       
+
+
+Question Number.       11.       The ear is used to detect.                  
+Option A.        speed.
+Option B.        neither acceleration or speed.
+Option C.        acceleration.  
+Correct Answer is.      acceleration.  
+Explanation.    CAP 715 Ch.2 Para.3.1.1.    
+
+
+Question Number.       12.       Light enters the eye through the.                  
+Option A.        cornea.
+Option B.        visual cortex. 
+Option C.        retina.
+Correct Answer is.      cornea.
+Explanation.    CAP 715 Ch.2 Para.2.1.       
+
+
+Question Number.       13.       To focus on a near object, the lens of the eye must.             
+Option A.        be widened.  
+Option B.        be flattened.  
+Option C.        be thickened. 
+Correct Answer is.      be thickened. 
+Explanation.    CAP 715 Ch.2 Para.2.4.       
+
+
+Question Number.       14.       Which type of memory is most susceptible to interference from external influences?.                      
+Option A.        Long term.    
+Option B.        Ultra short term.        
+Option C.        Short term.    
+Correct Answer is.      Short term.    
+Explanation.    CAP 715 Ch.2 Para.4.8.8.    
+
+
+Question Number.       15.       Peripheral vision is detected by the.             
+Option A.        cones.
+Option B.        fovea.
+Option C.        rods.  
+Correct Answer is.      rods.  
+Explanation.    CAP 715 Ch.2 Para.2.5.1.    
+
+
+Question Number.       16.       Extreme discomfort experienced by a maintenance engineer due to working in a confined space is known as.             
+Option A.        claustrophobia.          
+Option B.        acrophobia.    
+Option C.        agoraphobia.  
+Correct Answer is.      claustrophobia.          
+Explanation.    CAP 715 Ch.2 Para.5.1.1.    
+
+
+Question Number.       17.       What part of the eye is colour sensitive?.                 
+Option A.        The rods.       
+Option B.        The cones.     
+Option C.        The iris.         
+Correct Answer is.      The cones.     
+Explanation.    CAP 715 Ch.2 Para.2.5.1.    
+
+
+Question Number.       18.       What type of lens is used to overcome short sightedness?.              
+Option A.        Concave.       
+Option B.        Bi-focal.        
+Option C.        Convex.         
+Correct Answer is.      Concave.       
+Explanation.    CAP 715 Ch.2 Para.2.7.2.    
+
+
+Question Number.       19.       The type of memory which is most easily influenced by a person's expectations of what should have happened is the.               
+Option A.        long term memory.    
+Option B.        semantic memory.     
+Option C.        episodic memory.      
+Correct Answer is.      episodic memory.      
+Explanation.    CAP 715 Ch.2 Para.4.5.8.    
+
+
+Question Number.       20.       The inability for the eyes to accommodate sufficiently is known as.           
+Option A.        Presbyopia.    
+Option B.        Hypermetropia.         
+Option C.        myopia.         
+Correct Answer is.      Presbyopia.    
+Explanation.    CAP 715 Ch.2 Para.2.7.4.    
+
+
+Question Number.       21.       An aircraft maintenance engineer who wears glasses or contact lenses should.                   
+Option A.        not require their duties to be restricted providing they wear their glasses/contact lenses at all times they carry out their duties.    
+Option B.        have their duties restricted accordingly.       
+Option C.        not require their duties to be restricted providing they have frequent checks to ensure the adequacy of their glasses/contact lenses.   
+Correct Answer is.      not require their duties to be restricted providing they have frequent checks to ensure the adequacy of their glasses/contact lenses.      
+Explanation.    CAP 715 Ch.2 Para.2.12.2 and Ch.6 Para.3.3.         
+
+
+Question Number.       22.       Ultra short term memory has a duration of about.                
+Option A.        10 to 20 seconds.      
+Option B.        80 - 100 milliseconds.
+Option C.        2 seconds.     
+Correct Answer is.      2 seconds.     
+Explanation.    CAP 715 Ch.2 Para.4.5.4.    
+
+
+Question Number.       23.       What type of lens is used to correct long sightedness?.                   
+Option A.        Concave.       
+Option B.        Convex.         
+Option C.        Bi-focal.        
+Correct Answer is.      Convex.         
+Explanation.    CAP 715 Ch.2 Para.2.7.1.    
+
+
+Question Number.       24.       Visual Acuity is the ability.              
+Option A.        to differentiate between different colours.   
+Option B.        to detect objects in the peripheral vision.     
+Option C.        of the eye to discriminate sharp detail at varying distances.
+Correct Answer is.      of the eye to discriminate sharp detail at varying distances.
+Explanation.    CAP 715 Ch.2 Para.2.4.       
+
+
+Question Number.       25.       The 'working memory' is.                  
+Option A.        long term memory.    
+Option B.        short term memory.   
+Option C.        ultra short term memory.       
+Correct Answer is.      short term memory.   
+Explanation.    CAP 715 Ch.2 Para.4.5.3.    
+
+
+Question Number.       26.       Colour defective vision affects.                    
+Option A.        almost 1 in 10 of men.          
+Option B.        more women than men.         
+Option C.        almost 1 in 10 of women.     
+Correct Answer is.      almost 1 in 10 of men.          
+Explanation.    CAP 715 Ch.2 Para.2.11.2.  
+
+
+Question Number.       27.       At lower light levels, the visual sensing is performed mainly by the.           
+Option A.        fovea.
+Option B.        cones.
+Option C.        rods.  
+Correct Answer is.      rods.  
+Explanation.    CAP 715 Ch.2 Para.2.5.1.    
+
+
+Question Number.       28.       If an image formed on the retina of the eye is inverted relative to the viewers normal perception of the image, the viewer will.                  
+Option A.        become disoriented and dizzy.         
+Option B.        consciously mentally revert the image so as to make sense of his/her surroundings.
+Option C.        behave and feel normal.        
+Correct Answer is.      behave and feel normal.        
+Explanation.    The lens of the eye inverts the image, which is subconsciously reverted by the brain.        
+
+
+Question Number.       29.       People with colour defective vision usually have difficulty differentiating between.                      
+Option A.        red and green.
+Option B.        blue and yellow.        
+Option C.        blue and green.          
+Correct Answer is.      red and green.
+Explanation.    CAP 715 Ch.2 Para.2.11.2.  
+
+
+Question Number.       30.       The 'cocktail party effect' is descriptive of.              
+Option A.        selective attention.    
+Option B.        divided attention.     
+Option C.        focused attention.     
+Correct Answer is.      selective attention.    
+Explanation.    CAP 715 Ch.2 Para.4.3.3.    
+
+
+Question Number.       31.       Hypermetropia is the medical name for.                   
+Option A.        short sightedness.      
+Option B.        long sightedness.       
+Option C.        deafness.       
+Correct Answer is.      long sightedness.       
+Explanation.    CAP 715 Ch.2 Para.2.7.1.    
+
+
+Question Number.       32.       What range of sound is usually impaired first with the onset of presbycusis?.                    
+Option A.        High pitch sound.     
+Option B.        Low pitch sound.     
+Option C.        Mid range sound.      
+Correct Answer is.      High pitch sound.     
+Explanation.    CAP 715 Ch.2 Para.3.9.       
+
+
+Question Number.       33.       The amount of light which is allowed to enter the eye can vary by a factor of.                  
+Option A.        500:1.
+Option B.        5:1.    
+Option C.        1:5.    
+Correct Answer is.      5:1.    
+Explanation.    CAP 715 Ch.2 Para.2.3.       
+
+
+Question Number.       34.       Presbyopia often effects the eyes of people after the age of.           
+Option A.        55.     
+Option B.        40.     
+Option C.        70.     
+Correct Answer is.      40.     
+Explanation.    CAP 715 Ch.2 Para.2.7.4.    
+
+
+Question Number.       35.       From what age does hearing ability normally begin to decline?.                  
+Option A.        40.     
+Option B.        50.     
+Option C.        30.     
+Correct Answer is.      30.     
+Explanation.    CAP 715 Ch.2 Para.3.9.       
+
+
+Question Number.       36.       A person with 20/40 vision has.                    
+Option A.        worse eyesight as a person with 20/20 vision.          
+Option B.        better eyesight than a person with 20/20 vision.       
+Option C.        the same eyesight as a person with 20/20 vision.     
+Correct Answer is.      worse eyesight as a person with 20/20 vision.          
+Explanation.    CAP 715 Ch.2 Para.2.6.3.    
+
+
+Question Number.       37.       Long term memory capacity is usually.                    
+Option A.        unlimited.      
+Option B.        4 - 8 years.     
+Option C.        12 months.    
+Correct Answer is.      unlimited.      
+Explanation.    CAP 715 Ch.2 Para.4.5.7.    
+
+
+Question Number.       38.       The inability for the eyes to accommodate sufficiently is known as.           
+Option A.        myopia.         
+Option B.        hypermetropia.          
+Option C.        presbyopia.    
+Correct Answer is.      presbyopia.    
+Explanation.    CAP 715 Ch.2 Para.2.7.4.    
+
+
+Question Number.       39.       Ultra short term memory has a duration of about.                
+Option A.        10 to 20 seconds.      
+Option B.        2 seconds.     
+Option C.        80 - 100 milliseconds.
+Correct Answer is.      2 seconds.     
+Explanation.    CAP 715 Ch.2 Para.4.5.4.    
+
+
+Question Number.       40.       The memory can be aided by.           
+Option A.        a checklist.    
+Option B.        memory checking.     
+Option C.        mind logging.
+Correct Answer is.      a checklist.    
+Explanation.    CAP 715 Ch.6 Para.4.5 ('appropriate quidance material').   
+
+
+Question Number.       41.       In AWN 47 what is the recommended hearing test?.                      
+Option A.        The ability to hear an average conversation voice at a distance of 10 feet.  
+Option B.        The ability to hear a certain noise at 8 feet.  
+Option C.        The ability to hear an average conversation voice at a distance of 6 feet.    
+Correct Answer is.      The ability to hear an average conversation voice at a distance of 6 feet.    
+Explanation.    AWN 47 Par.3.5.      
+
+
+Question Number.       42.       Iconic memory.                     
+Option A.        stores sounds and lasts up to 2 seconds.       
+Option B.        stores visual information and lasts up to 1/2 second.
+Option C.        stores visual information and lasts up to 2 seconds. 
+Correct Answer is.      stores visual information and lasts up to 1/2 second.
+Explanation.    CAP 715 Ch.2 Para.4.2.       
+
+
+Question Number.       43.       The first stage in information processing is.             
+Option A.        decision.        
+Option B.        memorizing.  
+Option C.        perception.    
+Correct Answer is.      perception.    
+Explanation.    CAP 715 Ch.2 Para.4.3.8.    
+
+
+Question Number.       44.       Information, if not rehearsed is lost in.                     
+Option A.        10 - 20 seconds.        
+Option B.        1 minute.       
+Option C.        30 - 40 seconds.        
+Correct Answer is.      10 - 20 seconds.        
+Explanation.    eCAP 715 Ch.2 Para.4.5.5.   
+
+
+Question Number.       45.       In AWN 47, what is the standard hearing test?.                  
+Option A.        The ability to hear a conversation in a quiet room at 2 metres.         
+Option B.        The ability to hear a conversation in a quiet room at 10 metres.       
+Option C.        The ability to hear a conversation in a noisy room at 2 metres.        
+Correct Answer is.      The ability to hear a conversation in a quiet room at 2 metres.         
+Explanation.    AWN 47 Para.35.     
+
+
+Question Number.       46.       Information in the short term memory not rehearsed will be lost in.            
+Option A.        10 - 20 seconds.        
+Option B.        1 - 3 months. 
+Option C.        2 - 3 weeks.   
+Correct Answer is.      10 - 20 seconds.        
+Explanation.    CAP 715 Ch.2 Para.4.5.5.    
+
+
+Question Number.       47.       What is the CAA standard for vision?.                    
+Option A.        Acceptable uncorrected vision.         
+Option B.        Acceptable corrected vision. 
+Option C.        18/20 vision.  
+Correct Answer is.      Acceptable corrected vision. 
+Explanation.    AWN 47 Para.3.4.    
+
+
+Question Number.       48.       In the human eye most of the refraction required to bring an image into focus on the retina is accomplished by the. iris.    
+Option A.        lens.   
+Option B.        cornea.
+Option C.                  
+Correct Answer is.      cornea.
+Explanation.    CAP 715 Ch.2 Para.2.2.       
+
+
+Question Number.       49.       The average capacity of the working memory is about.                   
+Option A.        7 chunks of information.       
+Option B.        4 chunks of information.       
+Option C.        12 chunks of information.     
+Correct Answer is.      7 chunks of information.       
+Explanation.    CAP 715 Ch.2 Para.4.5.5 Short term memory (aka working memory) is also known as the 7 +/-2 memory.        
+
+
+Question Number.       50.       The retina is situated.            
+Option A.        behind the cornea with the lens.       
+Option B.        in front of the cornea.
+Option C.        at the back of the eye with the optic nerve.  
+Correct Answer is.      at the back of the eye with the optic nerve.  
+Explanation.    CAP 715 Ch.2 Para.2.1.       
+
+
+Question Number.       51.       Motor programme refers to.              
+Option A.        motivational computer software.      
+Option B.        a task that has been carried out so many times that it becomes automatic.  
+Option C.        a task that becomes programmed into short term memory.  
+Correct Answer is.      a task that has been carried out so many times that it becomes automatic.  
+Explanation.    CAP 715 Ch.2 Para.4.6.       
+
+
+Question Number.       52.       Memory which can be influenced by a persons expectations of what should have happened is.              
+Option A.        echoic.
+Option B.        semantic.       
+Option C.        episodic.        
+Correct Answer is.      episodic.        
+Explanation.    CAP 715 Ch.2 Para.4.5.8.    
+
+
+Question Number.       53.       Information in the long term memory.                      
+Option A.        is easily transferred to the short term memory.         
+Option B.        is easily lost.  
+Option C.        is only available under hypnosis.      
+Correct Answer is.      is easily lost.  
+Explanation.    CAP 715 Ch.2 Para.4.5.7 - 8.
+
+
+Question Number.       54.       How many things can be stored in the short term memory?.           
+Option A.        0 - 5.  
+Option B.        9 - 15.
+Option C.        No limit.        
+Correct Answer is.      9 - 15.
+Explanation.    CAP 715 Ch.2 Para.4.5.5 7+/-2 makes 5 or 9, but b is considered correct due to memory enhancement techniques (grouping).          
+
+
+Question Number.       55.       In the eye, the cones are used mainly in.                  
+Option A.        bright light to give fine detail.          
+Option B.        bright light levels and they give poor colour vision. 
+Option C.        low light levels and they give poor colour vision.    
+Correct Answer is.      bright light to give fine detail.          
+Explanation.    CAP 715 Ch.2 Para.2.5.1.    
+
+
+Question Number.       56.       A person suffering from presbyopia would normally.                      
+Option A.        wear spectacles when reading or carrying out close detail work.     
+Option B.        have defective colour vision and not be allowed to carry out maintenance work on cable looms.  
+Option C.        be short sighted and need to wear spectacles to see objects more than 30 cm away.          
+Correct Answer is.      wear spectacles when reading or carrying out close detail work.     
+Explanation.    CAP 715 Ch.2 Para.2.7.4.    
+
+
+Question Number.       57.       Noise signals are carried to the brain by the.            
+Option A.        sensory nerve.
+Option B.        auditory nerve.          
+Option C.        Eustachian nerve.      
+Correct Answer is.      auditory nerve.          
+Explanation.    CAP 715 Ch.2 Para.3.4.       
+
+
+Question Number.       58.       Poking sharp objects into the ear should be avoided as it is likely to result in.                    
+Option A.        tinnitus ringing.         
+Option B.        conductive hearing loss.        
+Option C.        tympanic membrane perforation.      
+Correct Answer is.      tympanic membrane perforation.      
+Explanation.    Tympanic membrane is the technical name for the ear drum.
+
+
+Question Number.       59.       Attention Getters are designed to.               
+Option A.        to gain the operators attention whilst allowing them to  continue with the task in hand.    
+Option B.        to make the operator focus his/her attention fully on the task in hand.        
+Option C.        to get the operators full attention.    
+Correct Answer is.      to get the operators full attention.    
+Explanation.    Attention Getters are used in advertisements and posters etc to grab the operators full attention. 
+
+
+Question Number.       60.       At what maximum frequency does the human ear hear?.                 
+Option A.        16 kHz.         
+Option B.        8 kHz.
+Option C.        20 kHz.         
+Correct Answer is.      20 kHz.         
+Explanation.    CAP 715 Ch.2 Para.3.5.1.    
+
+
+Question Number.       61.       Motor programmes.               
+Option A.        are behaviour subroutines.    
+Option B.        require conscious thought to engage.
+Option C.        are stored as working rules in long term memory.    
+Correct Answer is.      are stored as working rules in long term memory.    
+Explanation.    CAP 715 Ch.4 para 4.6.        
+
+
+Question Number.       62.       The pupil of the eye grows smaller.              
+Option A.        in condition of reduced light.
+Option B.        to focus the fovea.    
+Option C.        in condition of increased light.         
+Correct Answer is.      in condition of increased light.         
+Explanation.    CAP 715 Ch.2 para 2.3.        
+
+
+Question Number.       63.       Conductive deafness can be caused by damage to the.                   
+Option A.        cochlea.         
+Option B.        otoliths.         
+Option C.        semi circular canals.  
+Correct Answer is.      cochlea.         
+Explanation.    Nil.      http://www.encyclopedia.com/html/section/deafness_ConductiveDeafness.asp
+
+
+Question Number.       64.       Detail is best sensed by the ______ and movement best sensed by the ______.                 
+Option A.        the periphery and the periphery.       
+Option B.        the periphery and fovea.       
+Option C.        the fovea and periphery.       
+Correct Answer is.      the fovea and periphery.       
+Explanation.    CAP 715 Ch.2 para 2.5.        
+
+
+Question Number.       65.       If a person is colour blind, which colours would be most difficult to see?.             
+Option A.        Red and green.          
+Option B.        Blue and red.
+Option C.        Yellow and red.        
+Correct Answer is.      Red and green.          
+Explanation.    CAP 715 Ch.2 para 2.11.2.   
+
+
+Question Number.       66.       Myopia is _______ and a ______ lens is needed to correct it.                     
+Option A.        long sightedness and concave.          
+Option B.        short sightedness and convex.          
+Option C.        short sightedness and concave.         
+Correct Answer is.      short sightedness and concave.         
+Explanation.    CAP 715 Ch.2 para 2.7.2.     
+
+
+Question Number.       67.       The Otoliths detect.              
+Option A.        angular acceleration. 
+Option B.        linear acceleration.    
+Option C.        both angular and linear acceleration.
+Correct Answer is.      linear acceleration.    
+Explanation.    Nil.      http://www.tchain.com/otoneurology/disorders/bppv/otoliths.html#orientation
+
+
+Question Number.       68.       The nose.                   
+Option A.        filters the air into the lungs.  
+Option B.        filters, warms and moistens the air into the lungs.    
+Option C.        filters the air into the lungs.  
+Correct Answer is.      filters, warms and moistens the air into the lungs.    
+Explanation.    Nil.      http://www.sirinet.net/~jgjohnso/respiratory.html
+
+
+Question Number.       69.       The most common cause of myopia is.                     
+Option A.        weak accommodation.          
+Option B.        a shortened eyeball.  
+Option C.        an elongated eyeball.
+Correct Answer is.      an elongated eyeball.
+Explanation.    CAP 715 Ch.2 para 2.7.2.     
+
+09.3. Social Psychology.
+
+
+Question Number.       1.         What is peer group pressure?.           
+Option A.        The influence the House of Lords have over the House of Commons.        
+Option B.        Our behaviour influenced by our friends and colleagues.    
+Option C.        The influence an individual has over a group of people.      
+Correct Answer is.      Our behaviour influenced by our friends and colleagues.    
+Explanation.    CAP 715 Ch.3 Para.4.1.
+
+
+Question Number.       2.         A regular behaviour of an individual is known as.               
+Option A.        the norm.       
+Option B.        habit. 
+Option C.        culture.          
+Correct Answer is.      habit. 
+Explanation.    CAP 715 Ch.8 Par.2.5.2.
+
+
+Question Number.       3.         In a discussion, the person who is most likely to be agreed with is.            
+Option A.        the person who repeats the point most times.
+Option B.        the most argumentative person.        
+Option C.        the person with the highest status.    
+Correct Answer is.      the person with the highest status.    
+Explanation.    No reference found in CAP 715 or 716, but this is one of the problems found with pilots 'steep cockpit status gradient'.
+
+
+Question Number.       4.         An engineer who has developed his own way of performing a task.           
+Option A.        is in regular violation.
+Option B.        is improving maintenance efficiency.
+Option C.        should be commended for his resourcefulness.        
+Correct Answer is.      is in regular violation.
+Explanation.    CAP 715 Ch.8 Para.1.4.5.
+
+
+Question Number.       5.         The aim of human factors programs within an organizations is.                   
+Option A.        to safeguard the health and safety of maintenance personnel by reducing accidents in the workplace.          
+Option B.        to optimize the relationship between maintenance  personnel and systems with a view to improving safety,  efficiency and well-being.    
+Option C.        to reduce costs by increasing efficiency, safety and quality and decreasing waste through human error.  
+Correct Answer is.      and systems with a view to improving safety, efficiency and well-being.   
+Explanation.    CAP 716 App.S Para.2.2 and CAp 715 Ch.1 Para.1.4.3.
+
+
+Question Number.       6.         An aircraft engineer who has 'responsibility'.           
+Option A.        must be licensed on the particular type of aircraft.   
+Option B.        are liable to be called to account as being in charge or control of, or answerable for something.    
+Option C.        is in a management position within their company hierarchy.          
+Correct Answer is.      are liable to be called to account as being in charge or control of, or answerable for something.          
+Explanation.    CAP 715 Ch.3 Para.2.1.
+
+
+Question Number.       7.         The impact of human factors and human error is most important to.           
+Option A.        technicians and engineers.    
+Option B.        planners and managers.         
+Option C.        It is equally important to technicians, engineers, planners and managers.    
+Correct Answer is.      It is equally important to technicians, engineers, planners and managers.    
+Explanation.    CAP 716 App.S Para.3.1.
+
+
+Question Number.       8.         Where are the responsibilities of Licensed Aircraft Engineers laid down?.             
+Option A.        AWN 3.        
+Option B.        The Air Navigation Order.    
+Option C.        CAP 715.      
+Correct Answer is.      AWN 3.        
+Explanation.    AWN 3.
+
+
+Question Number.       9.         Diffusion of responsibility may occur.                     
+Option A.        to an individual working as a member of a team.     
+Option B.        with certain people whether they are working in a team or alone.   
+Option C.        to an individual working alone.        
+Correct Answer is.      to an individual working as a member of a team.     
+Explanation.    CAP 715 Ch.3 Para.2.5.2.
+
+
+Question Number.       10.       Risky shift' is.           
+Option A.        the probability of being assigned to a work task which involves some element of risk or physical danger.          
+Option B.        the name given to an inadequate shift handover.     
+Option C.        the tendency for a group of workers to arrive at a course of action which is riskier than that which any individual member might pursue.     
+Correct Answer is.      the tendency for a group of workers to arrive at a course of action which is riskier than that which any individual member might pursue.
+Explanation.    CAP 715 Ch.3 Para.2.5.5.
+
+
+Question Number.       11.       To ensure that a technician remains reasonably current on the aircraft types to which they hold authorizations, they are required that.                  
+Option A.        they have appropriate continuation/refresher training only. 
+Option B.        they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period only.  
+Option C.        they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period and they have appropriate continuation/refresher training.  
+Correct Answer is.      they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period and they have appropriate continuation/refresher training.   
+Explanation.    EASA Part-145, 66 and AWN 3 and CAP 716 Ch.4 Para.4.3 ".
+
+
+Question Number.       12.       The difference between what a person 'can' do and what he 'will' do is largely determined by his.                
+Option A.        motivation.    
+Option B.        education and training.         
+Option C.        physical and mental health.   
+Correct Answer is.      motivation.    
+Explanation.    CAP 715 Ch.3 Para.3.1.
+
+
+Question Number.       13.       Whose responsibility is it that an engineer remains current on new technology and procedures?.              
+Option A.        The organization's.    
+Option B.        The CAA's.   
+Option C.        The engineer's.          
+Correct Answer is.      The engineer's.          
+Explanation.    CAP 715 Ch.7 Para.3.4.
+
+
+Question Number.       14.       According to Maslow, safety needs (protection from potentially dangerous objects or situations).                 
+Option A.        is the last need of human after all other needs have been satisfied. 
+Option B.        is second only to physiological needs (food drink, oxygen etc.).     
+Option C.        is the most primal need of humans.  
+Correct Answer is.      is second only to physiological needs (food drink, oxygen etc.).     
+Explanation.    CAP 715 Ch.3 Para.3.4.
+
+
+Question Number.       15.       The symptoms of de-motivation are very similar to the symptoms of.                     
+Option A.        stress.
+Option B.        tiredness.       
+Option C.        mental illness.
+Correct Answer is.      stress.
+Explanation.    CAP 715 Ch.3 Para.3.5.3.
+
+
+Question Number.       16.       The desire of an individual to 'conform' to a group by allowing one's opinions, attitudes and actions to be affected by prevailing conditions is known as.             
+Option A.        peer pressure.
+Option B.        esteem needs.
+Option C.        culture issues.
+Correct Answer is.      peer pressure.
+Explanation.    CAP 715 Ch.3 Para.4.3.
+
+
+Question Number.       17.       Confirmation bias' is.            
+Option A.        error in work carried out by a supervisor who has also inspected and signed for his own work.    
+Option B.        an inspection of work carried out by an independent inspector or supervisor.        
+Option C.        the subconscious attention to evidence which confirms an engineer's beliefs, and inattention to evidence which contradicts his beliefs.        
+Correct Answer is.      engineer's beliefs, and inattention to evidence which contradicts his beliefs.          
+Explanation.    CAP 715 Ch.8 Para.1.5.7.                
+
+
+Question Number.       18.       A person with low self-esteem is.                 
+Option A.        more likely to conform to peer pressure.       
+Option B.        less likely to conform to peer pressure.         
+Option C.        Conformity to peer pressure is not affected by level of self-esteem.
+Correct Answer is.      more likely to conform to peer pressure.       
+Explanation.    CAP 715 Ch.3 Para.4.4.4.                
+
+
+Question Number.       19.       Motivation is.            
+Option A.        a reward or punishment designed to reduce errors.  
+Option B.        a reward or punishment designed to increase work rate.      
+Option C.        the thing that drives someone to do something.       
+Correct Answer is.      the thing that drives someone to do something.       
+Explanation.    CAP 715 Ch.3 Para.3.                      
+
+
+Question Number.       20.       Peer pressure is                      
+Option A.        the perceived pressure to carry out a task in the same way your colleagues would.
+Option B.        the perceived pressure to conform to what you believe your colleagues expect of you.      
+Option C.        Nothing         
+Correct Answer is.      the perceived pressure to conform to what you believe your colleagues expect of you.      
+Explanation.    CAP 715 Ch.3 Para.4.1.                     Question missing
+
+
+Question Number.       21.       The eyesight of an engineer is the responsibility of.             
+Option A.        the Quality Manager.
+Option B.        the optician.  
+Option C.        the engineer.  
+Correct Answer is.      the engineer.  
+Explanation.    CAP 715 Ch.2 Para.2.12.4.              
+
+
+Question Number.       22.       A good team is one where every member has.                     
+Option A.        an opinion.    
+Option B.        an input.        
+Option C.        a job. 
+Correct Answer is.      an input.        
+Explanation.    CAP 715 Ch.3 Para.6.1.1.                
+
+
+Question Number.       23.       AWN 47 states that the engineer.                 
+Option A.        is responsible for health and safety.  
+Option B.        is responsible for the work he has signed for.
+Option C.        does not report for work if unfit.      
+Correct Answer is.      does not report for work if unfit.      
+Explanation.    AWN 47.                  
+
+
+Question Number.       24.       An effective group work is when.                
+Option A.        everyone contributes in some way.   
+Option B.        everyone discusses ideas and opinions.        
+Option C.        everyone has a job to do.      
+Correct Answer is.      everyone contributes in some way.   
+Explanation.    CAP 715 Ch.3 Para 6.1.1.                
+
+
+Question Number.       25.       Which of the following defines a peer pressure situation?.              
+Option A.        Your supervising manager pressuring you to complete  the current task on time.    
+Option B.        Your girlfriend telling you to go out with her.         
+Option C.        Your colleagues pressuring you to work faster so they  can go home.         
+Correct Answer is.      Your colleagues pressuring you to work faster so they can go home.          
+Explanation.    CAP 715 Ch.3 Para.4.                      
+
+
+Question Number.       26.       Successful working teams have the following attributes:-.              
+Option A.        Members participate in team activities but retain their own individual requirements.         
+Option B.        All the members participate in team activities and  discussions.      
+Option C.        All the team members work in isolation and therefore provide highly individual solutions to the same problems.       
+Correct Answer is.      Members participate in team activities but retain their own individual requirements.         
+Explanation.    Closest reference found to this is CAP 715 Ch.3 Para.6.                 
+
+
+Question Number.       27.       Good aircraft maintenance supervisory judgment is usually based upon.                
+Option A.        knowledge and experience and reference to approved data.
+Option B.        the evidence available and forceful management ability.     
+Option C.        knowledge and experience and reference to course notes.   
+Correct Answer is.      knowledge and experience and reference to approved data.
+Explanation.    Closest reference found to this is CAP 715 Ch.6 Para.4.5.              
+
+
+Question Number.       28.       Organizational culture (whether good or bad) is best described as.             
+Option A.        the way we do things around here'.  
+Option B.        written procedures.   
+Option C.        team resource management.  
+Correct Answer is.      the way we do things around here'.  
+Explanation.    CAP 715 Ch.3 Para.1.2.                   
+
+
+Question Number.       29.       In an organization which practices human factors there is.              
+Option A.        punishment for all violations.
+Option B.        no blame unless there is a deliberate violation.         
+Option C.        a no blame culture.    
+Correct Answer is.      no blame unless there is a deliberate violation.         
+Explanation.    CAP 716 App.E.                   
+
+
+Question Number.       30.       A person can be said to be motivated if.                  
+Option A.        they cut corners to get the job done quickly.
+Option B.        they are on a productivity bonus.     
+Option C.        they are taking action to achieve something.
+Correct Answer is.      they are taking action to achieve something.
+Explanation.    CAP 715 Ch.3 Para.3.                      
+
+
+Question Number.       31.       Group polarisation can result in.                   
+Option A.        a group making a more cautious or extreme decision.          
+Option B.        a group making a better decision than the individual.          
+Option C.        members of the group not talking to one another.    
+Correct Answer is.      a group making a more cautious or extreme decision.          
+Explanation.    CAP 715 Ch.3 Para.2.5.5.                
+
+
+Question Number.       32.       Who is most likely to deviate from standard procedure?.                
+Option A.        Young, inexperienced man.  
+Option B.        Over confident, young man. 
+Option C.        Old tired man.
+Correct Answer is.      Over confident, young man. 
+Explanation.    CAP 716 App.R Para.1.2.                
+
+
+Question Number.       33.       The ideal behaviour of a professional aircraft engineer is.                
+Option A.        goal directed rather than person directed.    
+Option B.        both person and goal directed.         
+Option C.        neither person or goal directed.        
+Correct Answer is.      both person and goal directed.         
+Explanation.    NIL.
+
+09.4. Factors Affecting Performance.
+
+
+Question Number.       1.         Information on drugs and alcohol can be found in.             
+Option A.        BCARs.        
+Option B.        AWN 47.      
+Option C.        AWN 3.        
+Correct Answer is.      AWN 47.      
+Explanation.    AWN 47.
+
+
+Question Number.       2.         If you have been prescribed new medicine by your doctor you should.                  
+Option A.        continue with your normal shift pattern.      
+Option B.        take 3 days off work to try out the new medication.
+Option C.        give the new medication a 24 hour trial.       
+Correct Answer is.      give the new medication a 24 hour trial.       
+Explanation.    AWN 47 Para.3.7 and CAP 715 Ch.4 Para.6.4.3.
+
+
+Question Number.       3.         After a general anaesthetic you should.                    
+Option A.        return to work as soon as possible.   
+Option B.        not return to work for at least 24 to 48 hours (depending on the individual).         
+Option C.        take at least 7 days off work.
+Correct Answer is.      not return to work for at least 24 to 48 hours (depending on the individual).         
+Explanation.    AWN 47 Para.3.9.
+
+
+Question Number.       4.         Your doctor has prescribed you tranquillizers as you are suffering from depression. You should.              
+Option A.        not tell your employer and carry on work as normal.
+Option B.        tell your employer and carry on work as normal.      
+Option C.        not work at all when taking the tranquillizers.          
+Correct Answer is.      not work at all when taking the tranquillizers.          
+Explanation.    AWN 47 App.1 Para.1 (ii).
+
+
+Question Number.       5.         The use of 'pep' pills by an aircraft engineer.            
+Option A.        is recommended only when working late or on night shift. 
+Option B.        as they stimulate the senses and make you less prone to accidents. 
+Option C.        can only be used if prescribed by your doctor should never be done (except for coffee).  
+Correct Answer is.      should never be done (except for coffee).    
+Explanation.    AWN 47 App.1 Para.1 (v) and CAP 715 Ch.4 Para.6.4.3.
+
+
+Question Number.       6.         You are taking SUDAFED to relief nasal congestion.You should.             
+Option A.        stay away from work until you no longer require the SUDAFED.  
+Option B.        continue to take them at work because SUDAFED has no side effects.     
+Option C.        avoid making engineering decisions or performing  licensed duties.
+Correct Answer is.      avoid making engineering decisions or performing licensed duties.
+Explanation.    AWN 47 App.1 Para.1 (ix) and CAP 715 Ch.4 Para.6.4.3.
+
+
+Question Number.       7.         What is slow wave sleep?.                
+Option A.        Paradoxical sleep.     
+Option B.        Stage 2- 4 sleep.        
+Option C.        REM.
+Correct Answer is.      Stage 2- 4 sleep.        
+Explanation.    CAP 715 Ch.4 Para.5.1.3.
+
+
+Question Number.       8.         Phase 3/4 sleep.                     
+Option A.        can be induced by alcohol.   
+Option B.        occurs only once per sleep cycle.      
+Option C.        is most beneficial for the body's restoration.
+Correct Answer is.      is most beneficial for the body's restoration.
+Explanation.    CAP 715 Ch.4 Para.5.1.3.
+
+
+Question Number.       9.         Human error can be caused by.                     
+Option A.        high body temperature.         
+Option B.        normal body temperature.     
+Option C.        low body temperature.          
+Correct Answer is.      low body temperature.          
+Explanation.    Both high and low body temperature can cause error. The answer here is taken from CAP 716 App.K Para.4.2.
+
+
+Question Number.       10.       What meal is most recommended after a long shift?.           
+Option A.        High carbohydrates.  
+Option B.        Low carbohydrates.  
+Option C.        High protein. 
+Correct Answer is.      High carbohydrates.  
+Explanation.    Carbohydrates replace blood sugar levels most quickly.
+
+
+Question Number.       11.       Long shift work will.            
+Option A.        initially decrease your diagnostic and maintenance ability but eventually increase your diagnostic and maintenance ability as you get used to it.     
+Option B.        always decrease your diagnostic and maintenance ability.   
+Option C.        always increase your diagnostic and maintenance ability.    
+Correct Answer is.      always decrease your diagnostic and maintenance ability.   
+Explanation.    CAP 716 Ch.4 Para.3.
+
+
+Question Number.       12.       The circadian cycle body temperature.                     
+Option A.        does not vary.          
+Option B.        varies by 1.5°C.         
+Option C.        varies by 1.5°F.         
+Correct Answer is.      varies by 1.5°F.         
+Explanation.    Body temperature varies from 98.5 deg.F (daytime) and drops to about 97 deg.F (at about 3-4am).
+
+
+Question Number.       13.       Acute stress is.                      
+Option A.        intense stress of long duration.         
+Option B.        typically intense but of short duration.         
+Option C.        a frequently reoccurring stress or of long duration.  
+Correct Answer is.      typically intense but of short duration.         
+Explanation.    CAP 715 Ch.4 Para.2.3.1.
+
+
+Question Number.       14.       Chronic stress is.                   
+Option A.        a frequently reoccurring stress or of long duration.  
+Option B.        typically intense but of short duration.         
+Option C.        intense stress of long duration.         
+Correct Answer is.      a frequently reoccurring stress or of long duration.  
+Explanation.    CAP 715 Ch.4 Para.2.3.1.
+
+
+Question Number.       15.       Smoking cannabis.                
+Option A.        subtly impairs performance for up to 24 hours.        
+Option B.        has only a short term affect upon performance.       
+Option C.        has a noticeable affect on a persons behaviour and performance for up to 24 hours.          
+Correct Answer is.      subtly impairs performance for up to 24 hours.        
+Explanation.    CAP 715 Ch.4 Para.6.5.2.
+
+
+Question Number.       16.       Performance is.                     
+Option A.        inversely proportional to the individuals state of arousal.    
+Option B.        directly proportional to the individuals state of arousal.      
+Option C.        greatest only at one optimum level of arousal but diminishes as arousal decreases or increases.     
+Correct Answer is.      inversely proportional to the individuals state of arousal.    
+Explanation.    CAP 715 Ch.4 Para.4.3.1.
+
+
+Question Number.       17.       Missing a break in an effort to get a job done within a certain time frame.             
+Option A.        can be done by those actually doing the job providing the supervisors take regular breaks.
+Option B.        can be counterproductive, as fatigue diminishes motor skills, perception, awareness and standards.          
+Option C.        can be done providing adequate rest period is available at the end of the shift.      
+Correct Answer is.      can be counterproductive, as fatigue diminishes motor skills, perception, awareness and standards.      
+Explanation.    CAP 715 Ch.6  Para.1.2.5.               
+
+
+Question Number.       18.       Tiredness causes visual acuity to.                 
+Option A.        decrease.       
+Option B.        Visual acuity is not affected by tiredness.    
+Option C.        increase.        
+Correct Answer is.      decrease.       
+Explanation.    CAP 715 Ch.2 Para.2.4.                   
+
+
+Question Number.       19.       Narrowing of attention occurs at.                 
+Option A.        low levels of arousal.
+Option B.        both high and low levels of arousal. 
+Option C.        high levels of arousal.
+Correct Answer is.      high levels of arousal.
+Explanation.    CAP 715 Ch.4 Para.4.3.2.                
+
+
+Question Number.       20.       The blood/alcohol limit is.                 
+Option A.        20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and 80 milligrams of alcohol per 100 millilitres of blood for maintenance engineers.    
+Option B.        40 milligrams of alcohol per 100 millilitres of blood.
+Option C.        20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and maintenance engineers.         
+Correct Answer is.      20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and 80 milligrams of alcohol per 100 millilitres of blood for maintenance engineers.    
+Explanation.    AWN CAP455  Notice 45 Para.6.                
+
+
+Question Number.       21.       Paradoxical sleep is also known as.              
+Option A.        Stage 3 sleep.
+Option B.        Stage 4 sleep.
+Option C.        REM sleep.   
+Correct Answer is.      REM sleep.   
+Explanation.    CAP 715 Ch.4 Para.5.1.2.                
+
+
+Question Number.       22.       When taking medicine for the first time.                  
+Option A.        take the first dose at least 24 hours before any duty to ensure that it does not have any adverse effects.          
+Option B.        absent yourself from work for the duration of use of the medicine.
+Option C.        consult a doctor if you need to carry out any duties.
+Correct Answer is.      take the first dose at least 24 hours before any duty to ensure that it does not have any adverse effects.         
+Explanation.    AWN 47 Para.3.7 (b).           
+
+
+Question Number.       23.       For a man to maintain his fitness and health the conducive maximum recommended alcohol intake is.                   
+Option A.        3 - 4 units per week.  
+Option B.        28 units per week.     
+Option C.        28 units per day.       
+Correct Answer is.      28 units per week.     
+Explanation.    CAP 715 Ch.4 Para.1.6.1.                
+
+
+Question Number.       24.       Human Circadian rhythms cycle on a.                      
+Option A.        25 hour timescale.     
+Option B.        8 hour timescale.       
+Option C.        24 hour time scale.    
+Correct Answer is.      25 hour timescale.     
+Explanation.    CAP 715 Ch.4 Para.5.2.1.                
+
+
+Question Number.       25.       Removal of alcohol from the blood stream.             
+Option A.        can be speeded up by sleeping.         
+Option B.        cannot be speeded up.          
+Option C.        can be speeded up by drinking strong coffee.          
+Correct Answer is.      cannot be speeded up.          
+Explanation.    CAP 715 Ch.4 Para.6.3.2.                
+
+
+Question Number.       26.       For a person with normal Circadian rhythms, the body temperature will be lowest.           
+Option A.        between 4 and 6 o'clock in the morning.      
+Option B.        upon waking.
+Option C.        at midday.     
+Correct Answer is.      between 4 and 6 o'clock in the morning.      
+Explanation.    CAP 715 Ch.4 Para.5.2.3.                
+
+
+Question Number.       27.       If a maintenance engineer has a cold or flu he should.                     
+Option A.        only absent himself from duty if his work contract includes sickness pay.  
+Option B.        only absent himself from duty if there are no staff  shortages at his workplace or within his work team. 
+Option C.        absent himself from duty until fully recovered, regardless of other factors.
+Correct Answer is.      absent himself from duty until fully recovered, regardless of other factors.
+Explanation.    CAP 715 Ch.4 Para.1.5.5.                
+
+
+Question Number.       28.       Consumption of alcohol.                   
+Option A.        increases mental and physical reaction times.
+Option B.        has no affect upon mental and physical reaction times.       
+Option C.        decreases mental and physical reaction times.          
+Correct Answer is.      increases mental and physical reaction times.
+Explanation.    CAP 715 Ch.4 Para.6.3.1 Please think about the wording very carefully.               
+
+
+Question Number.       29.       Alertness and performance is reduced when the body temperature is.                    
+Option A.        above normal.
+Option B.        below normal.
+Option C.        either above or below normal.
+Correct Answer is.      below normal.
+Explanation.    CAP 715 Ch.4 Para.5.2.3.                
+
+
+Question Number.       30.       A good rule of thumb for an adequate amount of sleep is.              
+Option A.        one hour of high quality sleep is good for two hours of activity.     
+Option B.        two hours of high quality sleep is good for one hour of activity.     
+Option C.        one hour of high quality sleep is good for one hour of activity.       
+Correct Answer is.      one hour of high quality sleep is good for two hours of activity.     
+Explanation.    CAP 715 Ch.4 Para.5.5.1.                
+
+
+Question Number.       31.       Finding that familiar tasks (such as programming the video recorder) seems more complicated than usual, could be an early indication of.                  
+Option A.        acute stress.   
+Option B.        chronic fatigue.         
+Option C.        a cold or flu.  
+Correct Answer is.      chronic fatigue.         
+Explanation.    CAP 715 Ch.4 Para.5.5.4.                
+
+
+Question Number.       32.       The only permitted stimulant is.                   
+Option A.        bromine.        
+Option B.        caffeine.        
+Option C.        amphetamine.
+Correct Answer is.      caffeine.        
+Explanation.    CAP 715 Ch.4 Para.6.4.3 and AWN 47 App. Para.(v).                   
+
+
+Question Number.       33.       Large amounts of caffeine can.                    
+Option A.        cause anxiety, headaches and stress.
+Option B.        reduce anxiety and stress.     
+Option C.        improve alertness and increase awareness.   
+Correct Answer is.      cause anxiety, headaches and stress.
+Explanation.    CAP 715 Ch.4 Para.6.4.3.                
+
+
+Question Number.       34.       The symptoms of stress are.              
+Option A.        violence, sickness, absence from work, drug and alcohol abuse.     
+Option B.        indications of improved work performance. 
+Option C.        irritability, forgetfulness, sickness, absence from work, drug and alcohol abuse.    
+Correct Answer is.      irritability, forgetfulness, sickness, absence from work, drug and alcohol abuse.    
+Explanation.    AWN 47 and CAP 715 Ch.4 Para.2.3.4.                  
+
+
+Question Number.       35.       Sleeping tablets can.             
+Option A.        slow reaction and dull the senses.     
+Option B.        increase alertness after waking the following morning.        
+Option C.        help REM sleep and realign circadian rhythms.       
+Correct Answer is.      slow reaction and dull the senses.     
+Explanation.    CAP 715 Ch.4 Para.6.4.3.                
+
+
+Question Number.       36.       Information for certifying staff when medically unfit is found in.              
+Option A.        AWN 3.        
+Option B.        AWN 47.      
+Option C.        ANO.
+Correct Answer is.      AWN 47.      
+Explanation.    AWN 47.                  
+
+
+Question Number.       37.       What effect would the consumption of 3 - 5 units ofalcohol?.                    
+Option A.        Loss of quality of sleep.        
+Option B.        Low REM sleep.       
+Option C.        A drop in body temperature.
+Correct Answer is.      Loss of quality of sleep.        
+Explanation.    Alcohol produces a loss of quality sleep.                  
+
+
+Question Number.       38.       Long shift work.                   
+Option A.        decreases the ability to recognize defects.    
+Option B.        increases the ability to recognize defects.     
+Option C.        has no effect on the ability to recognize defects.     
+Correct Answer is.      decreases the ability to recognize defects.    
+Explanation.    CAP 716 App.1 Para 1.5.                 
+
+
+Question Number.       39.       Circadian Rhythms control.              
+Option A.        body temperature.     
+Option B.        urine output.  
+Option C.        sleeping patterns.      
+Correct Answer is.      body temperature.     
+Explanation.    CAP 715 Ch.4 Para.5.2.1.                
+
+
+
+Question Number.       41.       A stimulant allowed to be taken without a doctor's prescription is.             
+Option A.        bromine.        
+Option B.        caffeine.        
+Option C.        antihistamine.
+Correct Answer is.      caffeine.        
+Explanation.    NIL.              
+
+
+Question Number.       42.       The conditions laid down in AWN 47 are applicable to aircraft engineers.             
+Option A.        who sign for work completed.          
+Option B.        when under the influence of drink or drugs.
+Option C.        for their safety at work.        
+Correct Answer is.      when under the influence of drink or drugs.
+Explanation.    AWN 47 Paras 2.1 and 2.2.              
+
+
+Question Number.       43.       Consumption of 3 - 4 units of alcohol before sleep can.                  
+Option A.        increase REM sleep.  
+Option B.        decrease the quality of sleep.
+Option C.        lower the body temperature. 
+Correct Answer is.      decrease the quality of sleep.
+Explanation.    Alcohol has no beneficial qualities (as far as work and sleep is concerned anyway).                      
+
+
+Question Number.       44.       The cycles of body temperature, sleep requirement and alertness are called.           
+Option A.        earth cycles.  
+Option B.        circadian rhythms.     
+Option C.        ecto - meridian cycles.          
+Correct Answer is.      circadian rhythms.     
+Explanation.    CAP 715 Ch.4 Para.5.2.                   
+
+
+Question Number.       45.       The intake of caffeine in moderate quantities can result in.             
+Option A.        anxiety, headaches and negative mood states.         
+Option B.        lack of sleep and subsequent disruption to the circadian rhythms.  
+Option C.        a temporary increase in the ability to sustain vigilance and increased alertness.      
+Correct Answer is.      a temporary increase in the ability to sustain vigilance and increased alertness.      
+Explanation.    CAP 715 Ch.4 Para.6.4.3 ('Pep' pills).                      
+
+
+Question Number.       46.       Working excessively long shifts during unsociable hours can lead to.                     
+Option A.        decreased ability to detect defects during aircraft maintenance.     
+Option B.        an increased immunity to stress.       
+Option C.        increased ability to detect defects during aircraft maintenance.      
+Correct Answer is.      decreased ability to detect defects during aircraft maintenance.     
+Explanation.    CAP 715 Ch.4 Para.5.5.4.                
+
+
+Question Number.       47.       In theory, human error is most likely to occur.                     
+Option A.        when the body temperature is at its lowest. 
+Option B.        during very hot weather.       
+Option C.        when the body temperature is stable.
+Correct Answer is.      when the body temperature is at its lowest. 
+Explanation.    CAP 715 Ch.4 Para.5.2.3.                
+
+
+Question Number.       48.       An individual suffering from stress when confronted with a task within his capability is likely to think the task is.              
+Option A.        too demanding.         
+Option B.        not demanding enough.        
+Option C.        someone else's responsibility.
+Correct Answer is.      someone else's responsibility.
+Explanation.    CAP 715 Ch.4 Para.2.6 One defence strategy of a person under stress is to avoid additional stressors, by (for example) shifting responsibility.                   
+
+
+Question Number.       49.       AWN 47 does not mention.              
+Option A.        pep's. 
+Option B.        sudafed.        
+Option C.        melatonin.     
+Correct Answer is.      melatonin.     
+Explanation.    Melatonin is mentioned in CAP 715, Ch.4 Para.6.4.4 (even though the section is a transcript from  AWN47).                  
+
+
+Question Number.       50.       3 - 4 units of alcohol taken before sleep reduces.                 
+Option A.        both.  
+Option B.        quantity of sleep.      
+Option C.        quality of sleep.         
+Correct Answer is.      both.  
+Explanation.    NIL.              
+
+
+Question Number.       51.       Which is important in sleep?.            
+Option A.        Quantity.       
+Option B.        Quality.         
+Option C.        Both. 
+Correct Answer is.      Both. 
+Explanation.    NIL.              
+
+
+Question Number.       52.       Stressors in the environment of noise and heat will cause.               
+Option A.        no loss of attention.  
+Option B.        a total loss of attention.        
+Option C.        a loss of attention and a distraction. 
+Correct Answer is.      a loss of attention and a distraction. 
+Explanation.    CAP 715 Ch.5.                     
+
+
+Question Number.       53.       When going from day shift to night shift, efficiency.                      
+Option A.        stays the same.          
+Option B.        will drop off after the first four weeks.        
+Option C.        will drop off in the first four weeks.
+Correct Answer is.      will drop off in the first four weeks.
+Explanation.    CAP 716 App.I.                    
+
+
+Question Number.       54.       When working on aircraft, the consumption of alcohol.                  
+Option A.        is permissible providing the drink driving limit is not exceeded.    
+Option B.        you cannot work on aircraft even 8 hours after consuming large quantities of alcohol.      
+Option C.        a certain amount is permissible.        
+Correct Answer is.      you cannot work on aircraft even 8 hours after consuming large quantities of alcohol.      
+Explanation.    CAP 715 Ch.4 Para.6.2 (1/2 drink-drive limit) and Para.6.3.3.                    
+
+
+Question Number.       55.       Drinking 3 - 4 units of alcohol before sleeping results in.                
+Option A.        loss of non-REM sleep.         
+Option B.        loss of quality sleep.  
+Option C.        a drop in body temperature.  
+Correct Answer is.      loss of quality sleep.  
+Explanation.    NIL.              
+
+
+Question Number.       56.       What effect does alcohol have on sleep?.                 
+Option A.        Both. 
+Option B.        Decreases quantity of sleep. 
+Option C.        Decreases quality of sleep.    
+Correct Answer is.      Both. 
+Explanation.    NIL.              
+
+
+Question Number.       57.       Narrowing of attention occurs in states of.              
+Option A.        optimum arousal.       
+Option B.        low arousal.   
+Option C.        high arousal.  
+Correct Answer is.      high arousal.  
+Explanation.    CAP 715 Ch.4 Para.4.3.2.                
+
+
+Question Number.       58.       Hypoxia can.             
+Option A.        cause a person to slip into a coma if they are not quickly warmed up again.
+Option B.        impair the sensitivity of the rods and hence have a detrimental effect on eyesight.
+Option C.        improve the night vision of the cones of the eyes.   
+Correct Answer is.      impair the sensitivity of the rods and hence have a detrimental effect on eyesight.
+Explanation.    CAP 715 Ch.2 Para.2.8.                   
+
+
+Question Number.       59.       You are taking prescribed drugs.                  
+Option A.        Carry on working, as long as you know the primary and secondary side effects.   
+Option B.        Do not work. 
+Option C.        Work and don't care about other things.      
+Correct Answer is.      Carry on working, as long as you know the primary and secondary side effects.   
+Explanation.    CAP 715 Ch.4 Para.6.4.                   
+
+
+Question Number.       60.       Which of the following is an acceptable substance, with regard to aircraft maintenance?.           
+Option A.        Penicillin.      
+Option B.        Caffeine.       
+Option C.        Beta Blockers.
+Correct Answer is.      Caffeine.       
+Explanation.    CAP 715 Ch.4 Para.6.4.3 'Pep' pills and AWN 47.              
+
+
+Question Number.       61.       Circadian Rhythms have a cycle of.             
+Option A.        25 Hours.      
+Option B.        24 Hours.      
+Option C.        23 Hours.      
+Correct Answer is.      25 Hours.      
+Explanation.    CAP 715 Ch.4 Para.5.2.1.                
+
+
+
+Question Number.       63.       After drinking alcohol, absorption is dependant on.            
+Option A.        weight.          
+Option B.        age.    
+Option C.        time.  
+Correct Answer is.      time.  
+Explanation.    CAP 716 App.R Para.1.1.                
+
+
+Question Number.       64.       An engineer has a body mass index of 28. Thiswould normally be classed as.                    
+Option A.        a healthy weight with no real risk of developing healthproblems.   
+Option B.        underweight with no real risk of developing health  problems.        
+Option C.        overweight and at a risk of developing health problems.     
+Correct Answer is.      a healthy weight with no real risk of developing healthproblems.   
+Explanation.    Good BMI is 17 - 22 (men). 28 is considerably overweight. See.            http://nhlbisupport.com/bmi/bmicalc.htm     
+
+
+
+Question Number.       66.       If an average adult has consumed the equivalent of four units of alcohol, how long will it take for this level to drop to two units.                      
+Option A.        four hours.    
+Option B.        eight hours.   
+Option C.        two hours.     
+Correct Answer is.      two hours.     
+Explanation.    IAS Fact Sheet Pg.4.            
+
+
+Question Number.       67.       How many stages of sleep are there?.           
+Option A.        5.       
+Option B.        3.       
+Option C.        4.       
+Correct Answer is.      5.       
+Explanation.    CAP 715 chapter 4 page 11.             
+
+
+Question Number.       68.       REM sleep can also be referred to as.           
+Option A.        paranormal sleep.      
+Option B.        slow wave sleep.       
+Option C.        paradoxical sleep.      
+Correct Answer is.      paradoxical sleep.      
+Explanation.    CAP 715 chapter 4 page 11.             
+
+
+Question Number.       69.       The presence of something damaging to ones health would be an example of a.                
+Option A.        psychological stressor.          
+Option B.        reactive stressor.        
+Option C.        physical stressor.       
+Correct Answer is.      physical stressor.       
+Explanation.    CAP 715 chapter 4 page 4.               
+
+
+Question Number.       70.       Aircraft engineers can take common sense steps to maintain their fitness and health. These are known as.              
+Option A.        self-improvement measures.  
+Option B.        positive self-improvement.    
+Option C.        positive measures.     
+Correct Answer is.      positive measures.     
+Explanation.    CAP 715 chapter 4 page 3 1.6 Positive Measures.               
+
+
+Question Number.       71.       The amount of stress experienced with a particular task is dependent on.               
+Option A.        the perceived demand and actual ability.     
+Option B.        the perceived demand and perceived ability.
+Option C.        the actual demand and actual ability.
+Correct Answer is.      the perceived demand and perceived ability.
+Explanation.    CAP 715 Ch.4 para 2.3.                    
+
+
+
+Question Number.       73.       Long shift work will.            
+Option A.        increase your diagnostic and maintenance ability.    
+Option B.        initially decrease your diagnostic and maintenance ability but then you will get used to it.
+Option C.        decrease your diagnostic and maintenance ability.   
+Correct Answer is.      decrease your diagnostic and maintenance ability.   
+Explanation.                          
+
+
+Question Number.       74.       Phase 3 and 4 sleep is.                      
+Option A.        occurs only once per sleep cycle.      
+Option B.        most beneficial for the bodies recovery.       
+Option C.        induced by alcohol.   
+Correct Answer is.      most beneficial for the bodies recovery.       
+Explanation.    CAP 715 Ch 4 para 5.1.3.                 
+
+
+Question Number.       75.       Clinical insomnia can be caused by.             
+Option A.        caffeine.        
+Option B.        jet lag.
+Option C.        a change of environment.      
+Correct Answer is.      caffeine.        
+Explanation.                          
+
+
+Question Number.       76.       The normal recovery for Circadian dysrhythmia is.              
+Option A.        at a rate 2.5 hours a day.       
+Option B.        at a rate 1.5 hours a day.       
+Option C.        at a rate 2 hours a day.          
+Correct Answer is.      at a rate 1.5 hours a day.       
+Explanation.                http://en.wikipedia.org/wiki/Jet_Lag 1 day per time zone is quoted here    
+
+
+Question Number.       77.       When comparing noise levels on Human Performance.                    
+Option A.        noise has no effect on the number of errors or the speed of performance of an individual.
+Option B.        an individual can find noise levels annoying but still perform well indefinitely.     
+Option C.        noise is directly proportional to the number of errors and the speed of performance of an individual.          
+Correct Answer is.      noise is directly proportional to the number of errors and the speed of performance of an individual.     
+Explanation.    CAP 715 Ch.2 para 3.6.                    
+
+09.5. Physical Environment.
+
+
+Question Number.       1.         Environmental stresses are.               
+Option A.        caused by noise, fumes, heat and vibration. 
+Option B.        tolerated by everyone equally.          
+Option C.        not normally cumulative.      
+Correct Answer is.      caused by noise, fumes, heat and vibration. 
+Explanation.    CAP 715 Ch. 5 & Ch.4 Para.2.3.2.
+
+
+Question Number.       2.         Employers must provide their employees with personal ear protectors if the noise level reaches.                     
+Option A.        70 dB.
+Option B.        85 dB.
+Option C.        60 dB.
+Correct Answer is.      85 dB.
+Explanation.    CAP 715 Ch.2 Para.3.7.2.
+
+
+Question Number.       3.         The maximum allowable noise dose is.                     
+Option A.        85 dB.
+Option B.        any combination of noise and time which exceeds 90 dB TWA.    
+Option C.        90 dB for 24 hours.   
+Correct Answer is.      any combination of noise and time which exceeds 90 dB TWA.    
+Explanation.    CAP 715 Ch.2 Para.3.7.3.
+
+
+Question Number.       4.         Environmental capture' is a type of error possible when an engineer does the same job repeatedly.                
+Option A.        but on different types of aircraft.     
+Option B.        on the same type of aircraft. 
+Option C.        in a short timescale.   
+Correct Answer is.      on the same type of aircraft. 
+Explanation.    CAP 715 Ch.8 Para.1.5.4.
+
+
+Question Number.       5.         In the UK, an air-side ramp vehicle driver is most likely to go deaf in.                   
+Option A.        the left ear.    
+Option B.        both ears.       
+Option C.        the right ear.  
+Correct Answer is.      the right ear.  
+Explanation.    Because he usually has the window open.
+
+
+Question Number.       6.         Up to what proximity to an aircraft with engines running is the use of ear protection recommended for maintenance personnel?.              
+Option A.        200 - 300 metres.      
+Option B.        20 - 30 metres.          
+Option C.        2 - 3 metres.  
+Correct Answer is.      200 - 300 metres.      
+Explanation.    CAP 715 Ch.2 Para.3.8.2.
+
+
+Question Number.       7.         Studies have shown that working outside in a temperature of 55°F will have what effect on hand dexterity?.                
+Option A.        Around 50%.
+Option B.        Very slight.   
+Option C.        None.
+Correct Answer is.      Around 50%.
+Explanation.    Daanen H. Deterioration of manual performance in cold and windy climates. AGARD Conference Proceedings 540 The support of air operations under extreme hot and cold weather conditions 1993 May. Nato; 1993. p. 1-10.
+
+
+Question Number.       8.         When working with bright lights consideration should be given to.            
+Option A.        blurred image.
+Option B.        shadows.       
+Option C.        glare. 
+Correct Answer is.      glare. 
+Explanation.    CAP 715 Ch.5 Para.3.4.
+
+
+Question Number.       9.         Which of the following is true?.                   
+Option A.        Noise affects the standard of work proportionately with the level of the noise.     
+Option B.        Noise does not affect a person's standard of work. 
+Option C.        Noise does affect the standard of work with certain people.
+Correct Answer is.      Noise does affect the standard of work with certain people.
+Explanation.    CAP 715 Ch.2 Para.3.6.2 and CAP 716 App.K Para.5.2.
+
+
+Question Number.       10.       The effect on an engineer of environmental noise is.           
+Option A.        it improves concentration and quality of work.        
+Option B.        it decreases concentration and quality of work.       
+Option C.        it has no affect on concentration of quality of work.
+Correct Answer is.      it decreases concentration and quality of work.       
+Explanation.    CAP 716 App.K Para.5.
+
+
+Question Number.       11.       Excess noise in a working environment can.            
+Option A.        raise resistance to other stresses.       
+Option B.        not affect performance.        
+Option C.        lower resistance to other stresses.     
+Correct Answer is.      lower resistance to other stresses.     
+Explanation.    CAP 716 App.K Para 5.5.
+
+
+Question Number.       12.       If the temperature is - 15°C and you are working on the line, you should.              
+Option A.        rotate engineers regularly and have a supervisor keep an eye on them.        
+Option B.        carry on regardless of the weather to keep the aircraft flying.         
+Option C.        stop all maintenance until the weather improves.     
+Correct Answer is.      stop all maintenance until the weather improves.     
+Explanation.    JAR 145 AMC 145.25(c) and CP 715 Ch.5 Para.4.4.
+
+
+Question Number.       13.       Studies have shown that working outside in a temperature of 55°F will have what effect on hand dexterity?.                
+Option A.        None.
+Option B.        Around 50% reduction.        
+Option C.        Very slight reduction.
+Correct Answer is.      Around 50% reduction.        
+Explanation.    So studies have shown - but you won't find it in either CAP 715 or 716.
+
+
+Question Number.       14.       Cold stress can be influenced by.                 
+Option A.        insufficient vitamins in the diet.       
+Option B.        a drop in body temperature.  
+Option C.        the wind chill factor. 
+Correct Answer is.      the wind chill factor. 
+Explanation.    Contributory factors of cold stress are temperature, wind speed and wetness.
+
+
+Question Number.       15.       Environmental stresses in an extreme high temperature and noisy environment causes.                      
+Option A.        attention to be disturbed and distributed.    
+Option B.        no loss of attention or distraction.    
+Option C.        total loss of attention.
+Correct Answer is.      attention to be disturbed and distributed.    
+Explanation.    CAP 715 Ch.5.
+
+
+Question Number.       16.       Which of the following environments is best suited to aircraft maintenance?.                    
+Option A.        Working outside, at night, in the rain.          
+Option B.        Working outside, in the direct midday sun. 
+Option C.        Working inside in a well lit, comfortable hangar.     
+Correct Answer is.      Working inside in a well lit, comfortable hangar.     
+Explanation.    NIL.
+
+
+Question Number.       17.       Intense or loud noise may lead to.                
+Option A.        deafness.       
+Option B.        fatigue.          
+Option C.        no effects.     
+Correct Answer is.      fatigue.          
+Explanation.    CAP 715 Ch.2 Para.3.6.1.
+
+
+Question Number.       18.       Facility lighting in a hangar should be.                     
+Option A.        no brighter than 10 lux.         
+Option B.        provided by fixed light units giving light to shadow ratio of 3:1.   
+Option C.        portable so that individual tasks may be well lit.      
+Correct Answer is.      provided by fixed light units giving light to shadow ratio of 3:1.   
+Explanation.    CAP 716 Appendix L Para.2.2.3 (although no reference can be found for the 3 to 1 bit).
+
+
+Question Number.       19.       When tasks are being designed, the maximum mass an engineer should lift is.                   
+Option A.        32 kg.
+Option B.        23 kg.
+Option C.        50 kg.
+Correct Answer is.      23 kg.
+Explanation.    23 kg or 50 lbs.
+
+
+Question Number.       20.       Sensing and perception errors are most likely to result from.           
+Option A.        distraction of other engineers.          
+Option B.        poor lighting or noise.
+Option C.        lack of adequate training.     
+Correct Answer is.      poor lighting or noise.
+Explanation.    Sensing and perception are 2 stages in the Information Processing Model (CAP 715 Ch.2 Para.4.1) and affected by lighting and noise.
+
+
+Question Number.       21.       Task lighting in a hangar is mainly.               
+Option A.        provided by fixed lighting.   
+Option B.        provided by fluorescent tubes.         
+Option C.        portable so that individual tasks may be well lit.      
+Correct Answer is.      portable so that individual tasks may be well lit.      
+Explanation.    CAP 715 Ch.5 Para.3.2 and 3.3.
+
+09.6. Tasks.
+
+
+Question Number.       1.         When inspecting an airframe structure for small cracks, to avoid a crack being missed you should.               
+Option A.        hold the vision stationary for several seconds on each area to allow the eye to focus correctly.     
+Option B.        not use a mirror as mirrors absorb and refract light and may obscure a crack.         
+Option C.        constantly move the eye across and around the area of interest to avoid the crack falling into the eye's natural blind spot.     
+Correct Answer is.      interest to avoid the crack falling into the eye's natural blind spot. 
+Explanation.    CAP 715 Ch.2 Para.2.5.2.
+
+
+Question Number.       2.         When a person moves from a poorly lit area to a well lit area, what is the minimum time they should allow for the eyes to adapt?.                     
+Option A.        7 minutes.      
+Option B.        7 seconds.     
+Option C.        30 seconds.   
+Correct Answer is.      7 minutes.      
+Explanation.    CAP 715 Ch.2 Para.2.9.1.
+
+
+Question Number.       3.         Itemized checklists should be dealt with.                 
+Option A.        in any order, provided all steps are completed.        
+Option B.        item by item, in order, to cover every step diligently.          
+Option C.        as memorized.
+Correct Answer is.      item by item, in order, to cover every step diligently.          
+Explanation.    Closest reference found to this is CAP 715 Ch.6 Para.4.5.
+
+
+Question Number.       4.         The main disadvantage of carrying out critical inspections under very bright artificial light is.                      
+Option A.        glare. 
+Option B.        shadows.       
+Option C.        filtered light. 
+Correct Answer is.      glare. 
+Explanation.    CAP 715 Ch.5 Para.3.4.
+
+
+Question Number.       5.         When carrying out a visual inspection, an engineer is likely to make a parallax error when.            
+Option A.        inspecting a component using a 5x or 10x magnifying glass.
+Option B.        using precision measuring instruments such as a vernier gauge or AVO meter.       
+Option C.        Nothing.        
+Correct Answer is.      using precision measuring instruments such as a vernier gauge or AVO meter.       
+Explanation.    Parallax = 'The apparent displacement of an object as seen. from two different points that are not on a line with the object'
+
+09.7. Communication.
+
+
+Question Number.       1.         What constitutes a good work handover?.               
+Option A.        A written and verbal account of the work done.      
+Option B.        A written documentation of the work done.
+Option C.        A verbal account of the work done. 
+Correct Answer is.      A written and verbal account of the work done.      
+Explanation.    CAP 716 Ch.9 Para.1.4.       
+
+
+Question Number.       2.         A good shift handover should include details of.                
+Option A.        tasks that have been completed; persons who carried out the tasks; tasks to be carried out and general company and technical information. 
+Option B.        tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and tools required to carry out the tasks.       
+Option C.        tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and general company and technical information.      
+Correct Answer is.      tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and general company and technical information.     
+Explanation.    CAP 715 Ch.7 Para.1.5.1 and CAP 716 App.M Para.3.7.3.
+
+
+
+Question Number.       4.         A good practice for a shift handover is for shifts to be specifically rostered so there is an overlap of.            
+Option A.        2 - 3 hours.    
+Option B.        5 - 10 minutes.          
+Option C.        20 - 30 minutes.        
+Correct Answer is.      20 - 30 minutes.        
+Explanation.    CAP 716 Ch.9 Para.1.3.       
+
+
+Question Number.       5.         Asynchronous' communication includes.                  
+Option A.        immediate voice communication by radio link.        
+Option B.        technical manuals, memos, Advisory Circulars and Airworthiness Directives.        
+Option C.        face-to-face communications.
+Correct Answer is.      technical manuals, memos, Advisory Circulars and Airworthiness Directives.        
+Explanation.    Nil     
+
+
+
+Question Number.       7.         The most effective form of communication is.                     
+Option A.        verbal communication.          
+Option B.        written communication.        
+Option C.        explicit communication.        
+Correct Answer is.      explicit communication.        
+Explanation.    Nil.    
+
+
+
+Question Number.       10.       What is the most important means of communication in aircraft maintenance engineering?.             
+Option A.        Written.         
+Option B.        Implicit.         
+Option C.        Verbal.          
+Correct Answer is.      Written.         
+Explanation.    CAP 716 App T Para 1.          Interrogation and confirmation can be used in verbal communication to ensure that the receiver has understood. 'Implicit communication' is implied (non-verbal) communication and is open to                                           interpretation and errors..
+
+
+
+
+
+Question Number.       13.       If you are given a task that you are unsure of you should.               
+Option A.        consult the appropriate approved data.         
+Option B.        ask someone who has done it before.
+Option C.        consult type course notes.     
+Correct Answer is.      consult the appropriate approved data.         
+Explanation.    Nil.    
+
+
+
+
+
+Question Number.       16.       The alerting system for an important system failure should be.                   
+Option A.        an aural warning.       
+Option B.        a flashing visual signal, preferably red.         
+Option C.        a dolls-eye indicator. 
+Correct Answer is.      an aural warning        
+Explanation.    Nil.
+
+09.8. Human Error.
+
+
+Question Number.       1.         The SHEL model of human factors takes into account.                   
+Option A.        Software, hardware, environment and liveware.      
+Option B.        Software, hardware, efficiency and liveware.          
+Option C.        Software, hardware, environment and location.       
+Correct Answer is.      Software, hardware, environment and liveware.      
+Explanation.    CAP 715 Ch.1 Para.1.5.1.
+
+
+Question Number.       2.         What part of the SHEL model would the writing and interpretation of maintenance manuals fit into?.                  
+Option A.        Hardware.     
+Option B.        Software.      
+Option C.        Environment.
+Correct Answer is.      Software.      
+Explanation.    CAP 715 Ch.1 Para.1.5.2.
+
+
+Question Number.       3.         The 'error chain' theory refers to.                  
+Option A.        a chain of errors within an organizations can be investigated, and similar errors prevented by determining a common link between them.  
+Option B.        a company is only as good as its weakest employee or employees, and removal of that/those employee from the chain should prevent errors.
+Option C.        errors are caused by a chain of linked events, and the breaking of one link in the chain will prevent the error.        
+Correct Answer is.      errors are caused by a chain of linked events, and the breaking of one link in the chain will prevent the error.       
+Explanation.    CAP 715 Ch.1 Para.2.7.2.
+
+
+Question Number.       4.         What part of the SHEL model would the aircraft design fit into?.             
+Option A.        Liveware.      
+Option B.        Hardware.     
+Option C.        Environment.
+Correct Answer is.      Hardware.     
+Explanation.    CAP 715 Ch.1 Para.1.5.2.
+
+
+Question Number.       5.         Which part of the SHEL model is most difficult to protect from errors by 'designing out' or to 'work around'?.                  
+Option A.        Liveware.      
+Option B.        Software.      
+Option C.        Environment.
+Correct Answer is.      Liveware.      
+Explanation.    CAP 715 Ch.1 Para.1.5.4.
+
+
+Question Number.       6.         A violation in an aircraft maintenance procedure.                
+Option A.        is usually carried out with the best intentions from a genuine desire to 'get the job done'. 
+Option B.        is always considered an act of vandalism or sabotage.         
+Option C.        is always carried out to satisfy some personal need, often unrelated to the actual task.      
+Correct Answer is.      is usually carried out with the best intentions from a genuine desire to 'get the job done'. 
+Explanation.    CAP 715 Ch.8  Para.1.4.5.
+
+
+Question Number.       7.         Which type of human error is easiest to correct?.                 
+Option A.        Constant error.          
+Option B.        Reversible error.        
+Option C.        Variable error.
+Correct Answer is.      Constant error.          
+Explanation.    CAP 715 Ch.8 Para.1.2.1.
+
+
+Question Number.       8.         In the 'slips, lapses and mistakes' definition of errors, forgetting to replace an engine cowling would be considered a.                   
+Option A.        mistake.         
+Option B.        lapse. 
+Option C.        slip.    
+Correct Answer is.      lapse. 
+Explanation.    CAP 715 Ch.8 Para.1.4.3.
+
+
+Question Number.       9.         In the 'slips, lapses and mistakes' definition of errors, a mistake would typically occur at the.            
+Option A.        storage (memory) stage.        
+Option B.        execution stage.        
+Option C.        planning stage.          
+Correct Answer is.      planning stage.          
+Explanation.    CAP 715 Ch.8 Para.1.4.4.
+
+
+Question Number.       10.       On a task that is complex, an engineer uses his own procedures due to pressure. This is legally termed.                      
+Option A.        modification. 
+Option B.        initiative.       
+Option C.        violation.       
+Correct Answer is.      violation.       
+Explanation.    CAP 715 Ch.8 Para.2.4 and Para.1.4.5.
+
+
+Question Number.       11.       Visual inspection by an 'experienced' maintenance engineer is.                   
+Option A.        knowledge and rule base behaviour. 
+Option B.        skill and knowledge based behaviour.          
+Option C.        skill and rule based behaviour.          
+Correct Answer is.      knowledge and rule base behaviour. 
+Explanation.    CAP 715 Ch.8 Para.1.5.1 and Ch.6 Para.3.4.
+
+
+Question Number.       12.       Troubleshooting is.                
+Option A.        rule based.     
+Option B.        skill based.    
+Option C.        knowledge based.     
+Correct Answer is.      rule based.     
+Explanation.    CAP 715 Ch.8 Para.1.5.
+
+
+Question Number.       13.       A violation is.            
+Option A.        an unintentional error.
+Option B.        a deliberate departure from the rules.
+Option C.        an intentional act of sabotage.          
+Correct Answer is.      a deliberate departure from the rules.
+Explanation.    CAP 715 Ch.8 Para.1.4.5.
+
+
+Question Number.       14.       A mistake is.             
+Option A.        a deliberate departure from the rules.
+Option B.        an intentional act of sabotage.          
+Option C.        an unintentional error.
+Correct Answer is.      an unintentional error.
+Explanation.    CAP 715 Ch.8 Para.1.4.3.
+
+
+Question Number.       15.       Whilst working on an aircraft a spanner placed on the wing surface is kicked off and subsequently falls into an open engine cowl, breaking off a sensor connector. This is an example of.                    
+Option A.        a skill based error.     
+Option B.        Murphy's law.
+Option C.        a punishable occurrence.       
+Correct Answer is.      Murphy's law.
+Explanation.    A Skill based error are errors associated with 'intrinsic variability of force, space or time coordination' (Human Error, James Reason pg.43).
+
+
+Question Number.       16.       An experienced engineer fits the wrong seal during a routine component change. This is.                   
+Option A.        skill based.    
+Option B.        rule based.     
+Option C.        knowledge based.     
+Correct Answer is.      rule based.     
+Explanation.    Using the IPC is a rule based behaviour.
+
+
+Question Number.       17.       An engineer is working on a wing and kicks a spanner off into an engine cowl and breaks a sensor. This is.                     
+Option A.        knowledge based error.         
+Option B.        skill based error.        
+Option C.        rule based error.        
+Correct Answer is.      skill based error.        
+Explanation.    A skill based error (slip) is an error in force, space or time coordination (Reason, Human Error pg 43).
+
+
+Question Number.       18.       The difference between a mistake and a violation is.           
+Option A.        a mistake is less serious than a violation.      
+Option B.        a violation is not deliberate.  
+Option C.        a mistake is unintentional and a violation is deliberate.        
+Correct Answer is.      a mistake is unintentional and a violation is deliberate.        
+Explanation.    CAP 715 Ch.8 Para.1.4.
+                                                                                                                                                                      
+
+
+Question Number.       20.       An experienced engineer is fitting a valve. A required seal is not fitted. What type of error is this?.              
+Option A.        Knowledge based.    
+Option B.        Rule based.   
+Option C.        Skill based.    
+Correct Answer is.      Rule based.   
+Explanation.    This is a rule based error. In Rule Base errors are typically associated with misclassification of situations leading to the application of the wrong rule or with the incorrect recall of procedures. (Reason, Human Error pg 43).
+
+
+Question Number.       21.       The hub of the SHEL model of human factors is.                
+Option A.        liveware.        
+Option B.        hardware.      
+Option C.        enviroment.   
+Correct Answer is.      liveware.        
+Explanation.    CAP 715 Ch.1 Para. 1.5.
+
+
+Question Number.       22.       A type 1 visual inspection error occurs when.                      
+Option A.        a faulty item is missed.         
+Option B.        a good item is incorrectly identified as faulty.         
+Option C.        a duplicate inspection is not carried out.      
+Correct Answer is.      a good item is incorrectly identified as faulty.         
+Explanation.    CAP 715 Ch.8 Para.2.6.
+
+
+Question Number.       23.       What is the difference between error and violation?.           
+Option A.        Violation is deliberate, error is not.   
+Option B.        Error is deliberate, violation is not.   
+Option C.        No difference.
+Correct Answer is.      Violation is deliberate, error is not.   
+Explanation.    CAP 715 Ch.8 Para.1.4.5.
+
+
+Question Number.       24.       What is a latent failure?.                   
+Option A.        A mistake that has already been made, but has not yet caused an accident.
+Option B.        Receiving bad instruction from a manager who is out of touch with maintenance. 
+Option C.        A failure which could not have been predicted.       
+Correct Answer is.      A mistake that has already been made, but has not yet caused an accident.
+Explanation.    CAP 715 Ch.8 Para.1.6.2.
+
+
+Question Number.       25.       What happens when you break the 'chain of error'?.            
+Option A.        Accident happens.    
+Option B.        Pilot submits report within 72 hours.
+Option C.        Accident does not happen.   
+Correct Answer is.      Accident does not happen.   
+Explanation.    CAP 715 Ch.1 Para.2.7.2.
+
+
+Question Number.       26.       If an engineer forgets to fit a seal to an engine drain plug, he or she has.                
+Option A.        made an error of commission.
+Option B.        committed a violation.          
+Option C.        made an error of omission.    
+Correct Answer is.      made an error of omission.    
+Explanation.    CAP 715 Ch.8 Para.1.4.3.
+
+
+Question Number.       27.       An engineer is performing a task in less than ideal conditions in order to meet an operational deadline is.                     
+Option A.        committed a routine error.    
+Option B.        committing a situational violation.    
+Option C.        making a rule based slip.       
+Correct Answer is.      committing a situational violation.    
+Explanation.    CAP 715 Ch.8 Para.2.4.3.
+
+
+Question Number.       28.       An engineer who has developed his or her own method of performing a complex task.                      
+Option A.        should be commended for his/her resourcefulness.  
+Option B.        is performing a rule based behaviour.
+Option C.        is violating on a regular basis.
+Correct Answer is.      is violating on a regular basis.
+Explanation.    CAP 715 Ch.8 Para.2.4.2.
+
+
+Question Number.       29.       Error tolerance in maintenance progress refers to.                
+Option A.        performance of tasks specifically designed to identify errors during a maintenance task.  
+Option B.        ability of a system to remain functional after a maintenance error.  
+Option C.        process of eliminating the contributing factors to error.       
+Correct Answer is.      process of eliminating the contributing factors to error. OR ability of a system to remain functional after a maintenance error.
+Explanation.  
+
+09.9. Hazards in the Workplace.
+
+
+Question Number.       1.         Engineers often work on raised platforms, ladders etc. What dangers can this contribute to?.           
+Option A.        Staging may be made of wood.        
+Option B.        Ladder may slip and man falls.         
+Option C.        Two workers may be carrying out maintenance on the same lift.     
+Correct Answer is.      Ladder may slip and man falls.         
+Explanation.    CAP 716 Ch.5 Para.5.1.
+
+
+Question Number.       2.         Risk assessment and management is.            
+Option A.        reduction of risks to a tolerable standard and monitoring the situation.      
+Option B.        the investigation of risks and totally removing them and the monitoring of new work practices.   
+Option C.        choosing a cheaper supplier or manufacturer for parts.        
+Correct Answer is.      reduction of risks to a tolerable standard and monitoring the situation.      
+Explanation.    NIL.
+
+
+Question Number.       3.         When carrying out a risk assessment.           
+Option A.        a hard hat should be worn.   
+Option B.        it is necessary to identify where equipment/procedures might fail.  
+Option C.        Nothing.        
+Correct Answer is.      it is necessary to identify where equipment/procedures might fail.  
+Explanation.    NIL.
