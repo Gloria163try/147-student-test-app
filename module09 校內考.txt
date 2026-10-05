@@ -1,0 +1,715 @@
+M9. Human Factors.
+
+Question Number.       1.         The area in the brain that processes information from the eyes is known as the visual:
+Option A.        centre
+Option B.        nerve
+Option C.        cortex
+Correct Answer is.      cortex
+Explanation.    NIL.
+
+Question Number.       2.         Long sighted people have an eyeball that is:
+Option A.        shorter than normal
+Option B.        longer than normal
+Option C.        oval
+Correct Answer is.      shorter than normal
+Explanation.    NIL.
+
+Question Number.       3.         Peripheral vision occurs through the action of the:
+Option A.        cones
+Option B.        rods
+Option C.        cornea
+Correct Answer is.      rods
+Explanation.    NIL.
+
+Question Number.       4.         When the intensity of light increases, the pupil of the eye will:
+Option A.        grow smaller
+Option B.        grow larger
+Option C.        not be affected
+Correct Answer is.      grow smaller
+Explanation.    NIL.
+
+Question Number.       5.         The region of the retina that produces the highest visual acuity is the:
+Option A.        periphery
+Option B.        fovea
+Option C.        choroid
+Correct Answer is.      fovea
+Explanation.    NIL.
+
+Question Number.       6.         When damage occurs to the eardrum or the ossicles, the type of deafness that may occur is known as:
+Option A.        presbycusis
+Option B.        noise induced hearing loss
+Option C.        conductive deafness
+Correct Answer is.      conductive deafness
+Explanation.    NIL.
+
+Question Number.       7.         The otoliths in the inner ear detect:
+Option A.        angular movement
+Option B.        linear acceleration
+Option C.        high tone sound
+Correct Answer is.      linear acceleration
+Explanation.    NIL.
+
+Question Number.       8.         The second action level that requires the use of warning signs occurs at:
+Option A.        90db
+Option B.        85db
+Option C.        140db
+Correct Answer is.      90db
+Explanation.    NIL.
+
+Question Number.       9.         The Time Weighted Average Sound Level (TWA) above which permanent deafness can occur is:
+Option A.        80db
+Option B.        90db
+Option C.        150db
+Correct Answer is.      90db
+Explanation.    NIL.
+
+Question Number.       10.        Balance is maintained by the action of the:
+Option A.        ossicles and the cochlea
+Option B.        tympanic and basilar membranes
+Option C.        otoliths and the semi-circular canals
+Correct Answer is.      otoliths and the semi-circular canals
+Explanation.    NIL.
+
+Question Number.       11.        Motor Programmes are stored in the:
+Option A.        long-term memory as behavioural sub-routines
+Option B.        short-term memory as reflex actions
+Option C.        sensory stores as automatic actions
+Correct Answer is.      long-term memory as behavioural sub-routines
+Explanation.    NIL.
+
+Question Number.       12.        The capacity of the short-term memory may be increased by:
+Option A.        rehearsing information
+Option B.        breaking information into 'chunks'
+Option C.        transferring information into long-term memory
+Correct Answer is.      breaking information into 'chunks'
+Explanation.    NIL.
+
+Question Number.       13.        The maximum number of unrelated items of information that can be stored in the working memory at any one time is normally limited to between:
+Option A.        4 and 5
+Option B.        5 and 9
+Option C.        9 and 11
+Correct Answer is.      5 and 9
+Explanation.    NIL.
+
+Question Number.       14.        Information can be held in the working memory for:
+Option A.        5 to 10 minutes
+Option B.        1 to 2 seconds
+Option C.        10 to 20 seconds
+Correct Answer is.      10 to 20 seconds
+Explanation.    NIL.
+
+Question Number.       15.        Amnesia tends to affect the:
+Option A.        episodic memory
+Option B.        echoic memory
+Option C.        semantic memory
+Correct Answer is.      episodic memory
+Explanation.    NIL.
+
+Question Number.       16.        Overhearing your name mentioned whilst engaged in a separate conversation is known as:
+Option A.        focused attention
+Option B.        divided attention
+Option C.        cocktail party effect
+Correct Answer is.      cocktail party effect
+Explanation.    NIL.
+
+Question Number.       17.        The most accurate and enduring part of the long-term memory is the:
+Option A.        semantic memory
+Option B.        episodic memory
+Option C.        iconic memory
+Correct Answer is.      semantic memory
+Explanation.    NIL.
+
+Question Number.       18.        We need an attention gaining mechanism because the:
+Option A.        episodic memory is unreliable
+Option B.        capacity of the sensory stores is limited
+Option C.        capacity of the working memory store is limited
+Correct Answer is.      capacity of the working memory store is limited
+Explanation.    NIL.
+
+Question Number.       19.        Claustrophobia is associated with:
+Option A.        confined spaces
+Option B.        heights
+Option C.        body measurements
+Correct Answer is.      confined spaces
+Explanation.    NIL.
+
+Question Number.       20.        The distance that a person with normal hearing should be able to hear an average conversational voice in a quiet room is:
+Option A.        three metres or nine feet
+Option B.        two metres or six feet
+Option C.        four metres or twelve feet
+Correct Answer is.      two metres or six feet
+Explanation.    NIL.
+
+Question Number.       21.        The term 'risky shift' is:
+Option A.        the early morning shift
+Option B.        a shift that has experienced disrupted sleep patterns
+Option C.        the tendency of a group to make a more risky decision than an individual
+Correct Answer is.      the tendency of a group to make a more risky decision than an individual
+Explanation.    NIL.
+
+Question Number.       22.        The behaviour of an individual working as an aircraft engineer is ideally:
+Option A.        goal and person directed
+Option B.        goal directed only
+Option C.        person directed only
+Correct Answer is.      goal and person directed
+Explanation.    NIL.
+
+Question Number.       23.        When a democratic leader has to reach a non-urgent decision he/she would:
+Option A.        make the decision and then tell the group
+Option B.        invite suggestions from the group and then make the decision
+Option C.        leave the group to make the decision
+Correct Answer is.      invite suggestions from the group and then make the decision
+Explanation.    NIL.
+
+Question Number.       24.        Personality is:
+Option A.        resistant to change
+Option B.        easily modified by experience
+Option C.        easily changed by discipline
+Correct Answer is.      resistant to change
+Explanation.    NIL.
+
+Question Number.       25.        A person is more likely to comply with a decision made by someone with:
+Option A.        more experience
+Option B.        higher status
+Option C.        a stronger personality
+Correct Answer is.      higher status
+Explanation.    NIL.
+
+Question Number.       26.        A decision made by a group, compared to that made by an individual tends to be:
+Option A.        worse and over-cautious
+Option B.        better but less extreme
+Option C.        better but more extreme
+Correct Answer is.      better but more extreme
+Explanation.    NIL.
+
+Question Number.       27.        The Hawthorne Effect is linked to:
+Option A.        perceived recognition
+Option B.        poor working conditions
+Option C.        regular working hours
+Correct Answer is.      perceived recognition
+Explanation.    NIL.
+
+Question Number.       28.        If you are a good leader you will ideally make people:
+Option A.        do what they do not want to do
+Option B.        want to do what you want them to do
+Option C.        want to do what they want to do
+Correct Answer is.      want to do what you want them to do
+Explanation.    NIL.
+
+Question Number.       29.        When an individual feels driven to conform to colleague's views it is normally as result of:
+Option A.        groupthink
+Option B.        group culture
+Option C.        peer pressure
+Correct Answer is.      peer pressure
+Explanation.    NIL.
+
+Question Number.       30.        Diffusion of responsibility occurs when:
+Option A.        each team member assumes someone else is going to do the work
+Option B.        there is no appointed leader
+Option C.        two groups are engaged on one task
+Correct Answer is.      each team member assumes someone else is going to do the work
+Explanation.    NIL.
+
+Question Number.       31.        The desire of a group to reach collective agreement at the expense of rational decision making is called:
+Option A.        The Hawthorne Effect
+Option B.        Groupthink
+Option C.        Peer pressure
+Correct Answer is.      Groupthink
+Explanation.    NIL.
+
+Question Number.       32.        An individual who relies on his/her lack of effort going unnoticed within the collective effort of a group is engaging in:
+Option A.        peer pressure
+Option B.        group polarisation
+Option C.        social loafing
+Correct Answer is.      social loafing
+Explanation.    NIL.
+
+Question Number.       33.        A manager who permits staff to make their own decisions within prescribed limits is exercising:
+Option A.        permissive leadership
+Option B.        democratic leadership
+Option C.        autocratic leadership
+Correct Answer is.      permissive leadership
+Explanation.    NIL.
+
+Question Number.       34.        In the hierarchy of human needs the initial needs are:
+Option A.        self-esteem
+Option B.        physical
+Option C.        social
+Correct Answer is.      physical
+Explanation.    NIL.
+
+Question Number.       35.        When a certifying engineer signs a Certificate of Release to Service for work done by non-certifying staff, the responsibility for the actual work done:
+Option A.        remains with those who carried it out
+Option B.        passes to the supervisor of the work
+Option C.        passes to the person making the certifying signature
+Correct Answer is.      passes to the person making the certifying signature
+Explanation.    NIL.
+
+Question Number.       36.        The correct sequence for managing a task is:
+Option A.        organise, motivate, plan and control
+Option B.        plan, organise, motivate and control
+Option C.        plan, control, organise and motivate
+Correct Answer is.      plan, organise, motivate and control
+Explanation.    NIL.
+
+Question Number.       37.        The culture of an organisation is the:
+Option A.        way they do things
+Option B.        type of work they do
+Option C.        management structure
+Correct Answer is.      way they do things
+Explanation.    NIL.
+
+Question Number.       38.        Group polarisation results in:
+Option A.        more extreme decisions
+Option B.        less extreme decisions
+Option C.        no decisions
+Correct Answer is.      more extreme decisions
+Explanation.    NIL.
+
+Question Number.       39.        An organisation acquires a safety culture when:
+Option A.        it is introduced as company policy
+Option B.        it develops amongst the staff
+Option C.        it is included in the Mission Statement
+Correct Answer is.      it develops amongst the staff
+Explanation.    NIL.
+
+Question Number.       40.        Motivation is:
+Option A.        making an individual to do something
+Option B.        how quickly an individual does something
+Option C.        the individual's will to do something
+Correct Answer is.      the individual's will to do something
+Explanation.    NIL.
+
+Question Number.       41.        Circadian rhythms have a time cycle of approximately:
+Option A.        7 days
+Option B.        23 hours
+Option C.        25 hours
+Correct Answer is.      25 hours
+Explanation.    NIL.
+
+Question Number.       42.        The cycle of REM sleep occurs every:
+Option A.        60 minutes
+Option B.        90 minutes
+Option C.        30 minutes
+Correct Answer is.      90 minutes
+Explanation.    NIL.
+
+Question Number.       43.        A person is classified as being obese if their body mass index is over:
+Option A.        30
+Option B.        25
+Option C.        20
+Correct Answer is.      30
+Explanation.    NIL.
+
+Question Number.       44.        When a person is short of oxygen and compensates by increasing their rate and depth of breathing, the process is called:
+Option A.        anoxia
+Option B.        hypoxia
+Option C.        hyperventilation
+Correct Answer is.      hyperventilation
+Explanation.    NIL.
+
+Question Number.       45.        When taking a new prescribed medication for the first time you should:
+Option A.        give it a 24 hour trial before reporting for duty
+Option B.        not report for duty until you have completed the course
+Option C.        carry on as normal
+Correct Answer is.      give it a 24 hour trial before reporting for duty
+Explanation.    NIL.
+
+Question Number.       46.        One unit of alcohol is roughly equivalent to:
+Option A.        one pint of beer or 250ml glass of wine or a double measure of spirit
+Option B.        half a pint of beer or a 125ml glass of wine or a single measure of spirit
+Option C.        one pint of beer or a half standard glass of wine or spirit
+Correct Answer is.      half a pint of beer or a 125ml glass of wine or a single measure of spirit
+Explanation.    NIL.
+
+Question Number.       47.        The effect of 'Jet Lag' is more pronounced when you fly:
+Option A.        South to North
+Option B.        East to West
+Option C.        West to East
+Correct Answer is.      West to East
+Explanation.    NIL.
+
+Question Number.       48.        Oxygen is used in the human body to:
+Option A.        cleanse the blood of impurities
+Option B.        oxidise food and produce energy
+Option C.        produce carbon dioxide to regulate breathing
+Correct Answer is.      oxidise food and produce energy
+Explanation.    NIL.
+
+Question Number.       49.        The minimum recommended amount of exercise a person should engage in to reduce the risk of heart disease is:
+Option A.        three twenty minute sessions a week that double the heart rate
+Option B.        one thirty minute session a day at double the heart rate
+Option C.        ten miles walking a week at triple the heart rate
+Correct Answer is.      three twenty minute sessions a week that double the heart rate
+Explanation.    NIL.
+
+Question Number.       50.        A person who drinks alcohol to alleviate the symptoms of stress is engaging in:
+Option A.        coping strategy
+Option B.        defence strategy
+Option C.        diversion strategy
+Correct Answer is.      defence strategy
+Explanation.    NIL.
+
+Question Number.       51.        REM sleep is used to:
+Option A.        restore body tissue
+Option B.        raise body temperature
+Option C.        strengthen and organise the memory
+Correct Answer is.      strengthen and organise the memory
+Explanation.    NIL.
+
+Question Number.       52.        In the normal Circadian rhythm, the period of lowest performance occurs around:
+Option A.        5am
+Option B.        3pm
+Option C.        midnight
+Correct Answer is.      5am
+Explanation.    NIL.
+
+Question Number.       53.        The recommended cycle for a rolling shift pattern would be:
+Option A.        night shift to late shift to early shift
+Option B.        early shift to late shift to night shift
+Option C.        late shift to early shift to night shift
+Correct Answer is.      early shift to late shift to night shift
+Explanation.    NIL.
+
+Question Number.       54.        In the sleep credit system one hour of good quality sleep is worth:
+Option A.        one hour of activity
+Option B.        four hours of activity
+Option C.        two hours of activity
+Correct Answer is.      two hours of activity
+Explanation.    NIL.
+
+Question Number.       55.        The majority of stage 2 to 4 sleep occurs:
+Option A.        in the later part of the sleep period
+Option B.        in the early part of the sleep period
+Option C.        throughout the sleep period
+Correct Answer is.      in the early part of the sleep period
+Explanation.    NIL.
+
+Question Number.       56.        If a person is awakened halfway through the sleep period they will be deprived mainly of:
+Option A.        REM and stage 2 sleep
+Option B.        non-REM sleep
+Option C.        stage 2 to 4 and non-REM sleep
+Correct Answer is.      REM and stage 2 sleep
+Explanation.    NIL.
+
+Question Number.       57.        Oxygen is passed into the bloodstream in the:
+Option A.        trachea in the throat
+Option B.        aorta in the heart
+Option C.        alveoli in the lungs
+Correct Answer is.      alveoli in the lungs
+Explanation.    NIL.
+
+Question Number.       58.        Good stress management involves:
+Option A.        developing a defence strategy
+Option B.        identifying the stressor and coping
+Option C.        avoiding stress
+Correct Answer is.      identifying the stressor and coping
+Explanation.    NIL.
+
+Question Number.       59.        The use of 'pep' pills by an aircraft engineer when working is:
+Option A.        recommended during night shifts to reduce risk of error
+Option B.        permitted only when prescribed by a doctor
+Option C.        not permitted
+Correct Answer is.      not permitted
+Explanation.    NIL.
+
+Question Number.       60.        After a long night shift, the recommended meal would be:
+Option A.        high in proteins
+Option B.        low in carbohydrates
+Option C.        high in carbohydrates
+Correct Answer is.      high in carbohydrates
+Explanation.    NIL.
+
+Question Number.       61.        An excessive noise level would increase a person's performance:
+Option A.        during high arousal periods
+Option B.        during low arousal periods
+Option C.        never
+Correct Answer is.      never
+Explanation.    NIL.
+
+Question Number.       62.        A general guide to assist in judging when ear defenders are required when working in a hangar environment is when:
+Option A.        you are not able to hear clearly a conversational voice at 6 feet or 2m
+Option B.        the noise level causes temporary deafness
+Option C.        when you cannot hear clearly a shouted voice at 6 feet or 2m
+Correct Answer is.      you are not able to hear clearly a conversational voice at 6 feet or 2m
+Explanation.    NIL.
+
+Question Number.       63.        White finger syndrome is:
+Option A.        a disorder of the finger caused by continuous use of vibratory tools
+Option B.        an accumulation of white blood cells in the fingers
+Option C.        an allergic reaction to the pigments in white paint
+Correct Answer is.      a disorder of the finger caused by continuous use of vibratory tools
+Explanation.    NIL.
+
+Question Number.       64.        The high frequency ultra-sounds that are emitted by jet engines are:
+Option A.        not injurious to the hearing
+Option B.        always injurious to the hearing
+Option C.        only injurious if they are heard
+Correct Answer is.      always injurious to the hearing
+Explanation.    NIL.
+
+Question Number.       65.        A COSHH assessment defines the hazards, limits and protection requirements for:
+Option A.        the general use of substances found in the work place
+Option B.        local exhaust ventilation systems
+Option C.        the use of a hazardous substance in a work process in a given work location
+Correct Answer is.      the use of a hazardous substance in a work process in a given work location
+Explanation.    NIL.
+
+Question Number.       66.        Poor lighting conditions will:
+Option A.        not affect colour vision but will reduce the ability to detect fine detail
+Option B.        affect colour vision and the ability to detect fine detail
+Option C.        affect colour vision but will not affect the ability to detect fine detail
+Correct Answer is.      affect colour vision and the ability to detect fine detail
+Explanation.    NIL.
+
+Question Number.       67.        Hypothermia is a condition that is associated with:
+Option A.        low body temperature
+Option B.        high body temperature
+Option C.        heat stroke
+Correct Answer is.      low body temperature
+Explanation.    NIL.
+
+Question Number.       68.        The low frequency range of vibration that is most injurious to the hands is:
+Option A.        20 Hz to 20 kHz
+Option B.        50 Hz to 150 Hz
+Option C.        0.5 kHz to 150 kHz
+Correct Answer is.      50 Hz to 150 Hz
+Explanation.    NIL.
+
+Question Number.       69.        The components of a working environment are:
+Option A.        the physical environment, the social environment and the tasks
+Option B.        noise, illumination, fumes and vibration
+Option C.        the hangar and office accommodation
+Correct Answer is.      the physical environment, the social environment and the tasks
+Explanation.    NIL.
+
+Question Number.       70.        If the working environment on line maintenance reaches an unacceptable level:
+Option A.        more time should be allotted to tasks
+Option B.        more personnel should be assigned to tasks
+Option C.        work should be suspended until satisfactory conditions are re-established
+Correct Answer is.      work should be suspended until satisfactory conditions are re-established
+Explanation.    NIL.
+
+Question Number.       71.        If an engineer suspects the presence of fumes in the work area, he/she should:
+Option A.        don a suitable respirator before continuing with work
+Option B.        warn colleagues and the supervisor and evacuate the area
+Option C.        not use equipment that could create sparks
+Correct Answer is.      warn colleagues and the supervisor and evacuate the area
+Explanation.    NIL.
+
+Question Number.       72.        When someone is working in an enclosed space they:
+Option A.        should comply with the maintenance manual
+Option B.        should be instructed on the possible hazards
+Option C.        require extra supervision and communication
+Correct Answer is.      require extra supervision and communication
+Explanation.    NIL.
+
+Question Number.       73.        The major risk encountered when carrying out repetitive work is that personnel can become:
+Option A.        complacent
+Option B.        too specialised
+Option C.        bored
+Correct Answer is.      complacent
+Explanation.    NIL.
+
+Question Number.       74.        Ergonomics is a study of:
+Option A.        the muscoskeletal system
+Option B.        people in relation to their working environment
+Option C.        timescales in relation to work processes
+Correct Answer is.      people in relation to their working environment
+Explanation.    NIL.
+
+Question Number.       75.        Visual inspection of a structure should be ideally carried out:
+Option A.        in one uninterrupted period to avoid breaking concentration
+Option B.        in reduced lighting to avoid straining the eyes
+Option C.        in short discrete periods with frequent breaks
+Correct Answer is.      in short discrete periods with frequent breaks
+Explanation.    NIL.
+
+Question Number.       76.        Errors made during visual inspection are likely to be due to:
+Option A.        vision being the least sensitive stimuli
+Option B.        lack of concentration
+Option C.        eyestrain
+Correct Answer is.      lack of concentration
+Explanation.    NIL.
+
+Question Number.       77.        The best visual scan pattern is to:
+Option A.        make random eye movements
+Option B.        keep the head still when moving the eyes
+Option C.        make frequent eye movements
+Correct Answer is.      make frequent eye movements
+Explanation.    NIL.
+
+Question Number.       78.        A complex system in terms of one person's conception of it is said to be:
+Option A.        opaque
+Option B.        transparent
+Option C.        easily understood
+Correct Answer is.      opaque
+Explanation.    NIL.
+
+Question Number.       79.        What constitutes a good handover?
+Option A.        Verbal
+Option B.        Written
+Option C.        Written plus verbal
+Correct Answer is.      Written plus verbal
+Explanation.    NIL.
+
+Question Number.       80.        Good communication skills should be possessed by the:
+Option A.        sender and the recipient
+Option B.        sender only
+Option C.        recipient only
+Correct Answer is.      sender and the recipient
+Explanation.    NIL.
+
+Question Number.       81.        Information on an urgent safety-related maintenance action can be disseminated by:
+Option A.        locally authorised hand-written amendment to the maintenance manual
+Option B.        alert bulletin from a manufacturer
+Option C.        formal revision procedure to the maintenance manual only
+Correct Answer is.      alert bulletin from a manufacturer
+Explanation.    NIL.
+
+Question Number.       82.        Records of completed work should be completed:
+Option A.        at shift handovers
+Option B.        at the end of a maintenance task
+Option C.        progressively as the work is carried out
+Correct Answer is.      progressively as the work is carried out
+Explanation.    NIL.
+
+Question Number.       83.        Backup discs or tapes of maintenance records kept on computers should be held:
+Option A.        at the computer terminal
+Option B.        in a separate location
+Option C.        by the supervisor
+Correct Answer is.      in a separate location
+Explanation.    NIL.
+
+Question Number.       84.        The effective dissemination of information is an essential part of the:
+Option A.        safety culture
+Option B.        team culture
+Option C.        Integrated Maintenance Information System
+Correct Answer is.      safety culture
+Explanation.    NIL.
+
+Question Number.       85.        An alerting system for a vital aircraft system failure should ideally be:
+Option A.        a warning light
+Option B.        a dolls eye
+Option C.        an audio warning
+Correct Answer is.      an audio warning
+Explanation.    NIL.
+
+Question Number.       86.        The behaviour pattern of an individual carrying out a standard maintenance procedure would be:
+Option A.        rule-based
+Option B.        skill-based
+Option C.        motor-based
+Correct Answer is.      rule-based
+Explanation.    NIL.
+
+Question Number.       87.        A motor programme is:
+Option A.        rule-based behaviour that requires no conscious thought
+Option B.        a learned behaviour that does not require conscious thought
+Option C.        skill-based behaviour that requires conscious thought
+Correct Answer is.      a learned behaviour that does not require conscious thought
+Explanation.    NIL.
+
+Question Number.       88.        When carrying out a cockpit drill in response to an engine fire warning you are using:
+Option A.        rule-based behaviour
+Option B.        skill-based behaviour
+Option C.        knowledge-based behaviour
+Correct Answer is.      rule-based behaviour
+Explanation.    NIL.
+
+Question Number.       89.        The biggest risk of error associated with using checklists is that:
+Option A.        they can be misread
+Option B.        they can invoke automatic responses
+Option C.        the user may be distracted
+Correct Answer is.      they can invoke automatic responses
+Explanation.    NIL.
+
+Question Number.       90.        Skill-based behaviour is associated with:
+Option A.        experience
+Option B.        rules
+Option C.        motor programmes
+Correct Answer is.      motor programmes
+Explanation.    NIL.
+
+Question Number.       91.        An individual who has developed his/her own unauthorised way of regularly performing a task is:
+Option A.        in routine violation
+Option B.        using initiative
+Option C.        unintentionally in error
+Correct Answer is.      in routine violation
+Explanation.    NIL.
+
+Question Number.       92.        A wrongly set torque wrench would most likely produce a:
+Option A.        variable error
+Option B.        constant error
+Option C.        Type 1 error
+Correct Answer is.      constant error
+Explanation.    NIL.
+
+Question Number.       93.        An inspector who fails to detect a fault and passes an item as serviceable when it is not has made a:
+Option A.        latent error
+Option B.        active error
+Option C.        Type 11 error
+Correct Answer is.      Type 11 error
+Explanation.    NIL.
+
+Question Number.       94.        A Maintenance Error Management System(MEMS) is used to:
+Option A.        investigate reports on all incidents and accidents
+Option B.        process Mandatory Occurrence Reports (MORs) only
+Option C.        investigate Confidential Human Incident Reports (CHIRP) only
+Correct Answer is.      investigate reports on all incidents and accidents
+Explanation.    NIL.
+
+Question Number.       95.        When a mechanic inadvertently carries out a procedure that is no longer current he/she has made an error connected to:
+Option A.        optimised violation
+Option B.        environmental capture
+Option C.        reversionary behaviour
+Correct Answer is.      reversionary behaviour
+Explanation.    NIL.
+
+Question Number.       96.        Violations are errors that are:
+Option A.        always unintentional
+Option B.        always intentional
+Option C.        intentional or unintentional
+Correct Answer is.      always intentional
+Explanation.    NIL.
+
+Question Number.       97.        The duty of care for the health and safety of people at work rests with:
+Option A.        employers only
+Option B.        the Health and Safety Executive
+Option C.        employers and employees
+Correct Answer is.      employers and employees
+Explanation.    NIL.
+
+Question Number.       98.        The three basic steps in dealing with an emergency are:
+Option A.        assess, make safe and then summon assistance
+Option B.        make safe, summon assistance and then assess
+Option C.        summon assistance, assess and then make safe
+Correct Answer is.      assess, make safe and then summon assistance
+Explanation.    NIL.
+
+Question Number.       99.        When dealing with an emergency, the first priority is to protect:
+Option A.        buildings and equipment
+Option B.        yourself and others
+Option C.        others only
+Correct Answer is.      yourself and others
+Explanation.    NIL.
+
+Question Number.       100.       When evacuating casualties you would first move:
+Option A.        walking wounded
+Option B.        fatalities
+Option C.        the most seriously wounded if incapacitated
+Correct Answer is.      walking wounded
+Explanation.    NIL.
+
+Question Number.       101.       When faced with casualties that have been overcome with gas, you should:
+Option A.        treat the casualties, ventilate the area and then turn off the gas supply
+Option B.        turn off the gas supply, ventilate the area and then treat the casualties
+Option C.        ventilate the area, treat the casualties and then turn off the gas supply
+Correct Answer is.      turn off the gas supply, ventilate the area and then treat the casualties
+Explanation.    NIL.
+
+Question Number.       102.       Hazards found in the workplace are the result of unsafe:
+Option A.        human conditions only
+Option B.        environmental conditions only
+Option C.        human and environmental conditions
+Correct Answer is.      human and environmental conditions
+Explanation.    NIL.
